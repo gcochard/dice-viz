@@ -38,9 +38,9 @@ var tip = d3.tip()
     .attr('class', 'd3-tip')
     .offset([-10, 0])
     .html(function(d) {
-        return '<span class="label">Player:</span> '+d.name+'<br />'+
-               '<span class="label">Percent of '+d.die+'\’s Rolled:</span> '+d.d_perc+'%<br />'+
-               '<span class="label">Percent of '+d.name+'\'s Rolls:</span> '+d.all_perc+'%<br />'
+        return '<span class="label">Player:</span> ' + d.name + '<br />' +
+            '<span class="label">Percent of ' + d.die + '\’s Rolled:</span> ' + d.d_perc + '%<br />' +
+            '<span class="label">Percent of ' + d.name + '\'s Rolls:</span> ' + d.all_perc + '%<br />'
     });
 
 svg.call(tip);
@@ -115,14 +115,14 @@ function calcDiceRolls(player) {
         })
         d.bars = cur_players.map(function(name) {
             return {
-                die:i+1,
+                die: i + 1,
                 name: name,
                 y0: y0,
                 y1: y0 += d[name],
                 d_perc: ((d[name] / d.total) * 100).toFixed(2),
                 all_perc: ((d[name] / d3.sum(dice_cnt.map(function(d) {
-                        return d[name];
-                    }))) * 100).toFixed(2)
+                    return d[name];
+                }))) * 100).toFixed(2)
             };
         });
     });
@@ -132,9 +132,9 @@ function calcDiceRolls(player) {
 
 function updateDiceData() {
     var player
-    if (this.nodeName == 'text')
+    if (this.nodeName == 'text') {
         player = this.textContent
-    else {
+    } else {
         player = ""
     }
     dice_cnts = calcDiceRolls(player);
