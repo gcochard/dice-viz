@@ -34,6 +34,17 @@ var svg = d3.select('#freqGraph')
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+var tip = d3.tip()
+    .attr('class', 'd3-tip')
+    .offset([-10, 0])
+    .html(function(d) {
+        return '<span class="label">Player:</span> '+d.name+'<br />'+
+               '<span class="label">All '+d.die+'\'s:</span> '+d.d_perc+'%<br />'+
+               '<span class="label">All '+d.name+'\'s Rolls:</span> '+d.all_perc+'%<br />'
+    });
+
+svg.call(tip);
+
 svg.append("g")
     .attr("class", "x axis")
     .attr("transform", "translate(0," + height + ")")
@@ -97,6 +108,24 @@ function calcDiceRolls(player) {
     } else
         countGame(data[game_id]);
 
+    dice_cnt.forEach(function(d, i) {
+        var y0 = 0;
+        d.total = d3.sum(d3.entries(d), function(d) {
+            return d.value;
+        })
+        d.bars = cur_players.map(function(name) {
+            return {
+                die:i+1,
+                name: name,
+                y0: y0,
+                y1: y0 += d[name],
+                d_perc: ((d[name] / d.total) * 100).toFixed(2),
+                all_perc: ((d[name] / d3.sum(dice_cnt.map(function(d) {
+                        return d[name];
+                    }))) * 100).toFixed(2)
+            };
+        });
+    });
     return dice_cnt;
 
 }
@@ -109,17 +138,6 @@ function updateDiceData() {
         player = ""
     }
     dice_cnts = calcDiceRolls(player);
-    dice_cnts.forEach(function(d) {
-        var y0 = 0;
-        d.bars = cur_players.map(function(name) {
-            return {
-                name: name,
-                y0: y0,
-                y1: y0 += d[name]
-            };
-        });
-        d.total = d.bars[d.bars.length - 1].y1;
-    })
 
     y.domain([0, d3.max(dice_cnts, function(d) {
         return d.total;
@@ -155,6 +173,8 @@ function updateDiceData() {
         .attr('width', x.rangeBand())
         .attr('y', y(0))
         .attr('height', height - y(0))
+        .on('mouseover', tip.show)
+        .on('mouseout', tip.hide)
         .transition()
         .duration(500)
         .attr('y', function(d) {
@@ -220,17 +240,6 @@ function vizDiceData(error, data) {
         })
 
     dice_cnts = calcDiceRolls("");
-    dice_cnts.forEach(function(d) {
-        var y0 = 0;
-        d.bars = cur_players.map(function(name) {
-            return {
-                name: name,
-                y0: y0,
-                y1: y0 += d[name]
-            };
-        });
-        d.total = d.bars[d.bars.length - 1].y1;
-    })
 
     y.domain([0, d3.max(dice_cnts, function(d) {
         return d.total;
