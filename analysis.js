@@ -29,7 +29,7 @@ var yAxis = d3.svg.axis()
     .orient("left")
     .tickFormat(d3.format(".2s"))
 var svg = d3.select('#freqGraph')
-    .attr("width", 120+width + margin.left + margin.right)
+    .attr("width", 120 + width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
@@ -49,9 +49,9 @@ function calcDiceRolls(player) {
     } else {
         types = [type]
     }
-    if(window.location.search){
+    if (window.location.search) {
         var parts = window.location.search.split('=');
-        if(parts.length == 2){
+        if (parts.length == 2) {
             // handle the form ?game=234234
             $('#game').val(parts[1]);
         } else {
@@ -103,7 +103,7 @@ function calcDiceRolls(player) {
 
 function updateDiceData() {
     var player
-    if(this.nodeName == 'text')
+    if (this.nodeName == 'text')
         player = this.textContent
     else {
         player = ""
@@ -170,19 +170,23 @@ function updateDiceData() {
     svg.selectAll(".legend").remove();
 
     legend = svg.selectAll(".legend")
-        .data(d3.entries(users).filter(function (u) { return cur_players.indexOf(u.key) != -1; }))
+        .data(d3.entries(users).filter(function(u) {
+            return cur_players.indexOf(u.key) != -1;
+        }))
 
     legend.enter().append('g')
         .attr('class', 'legend')
-        .attr('transform', function (d, i) {
-            return 'translate(115,'+i*20+')';
+        .attr('transform', function(d, i) {
+            return 'translate(115,' + i * 20 + ')';
         })
 
     legend.append("rect")
         .attr("x", width - 18)
         .attr("width", 18)
         .attr("height", 18)
-        .style("fill", function(d) { return d.value; });
+        .style("fill", function(d) {
+            return d.value;
+        })
 
     legend.append("text")
         .attr("x", width - 24)
@@ -198,8 +202,8 @@ function updateDiceData() {
 function vizDiceData(error, data) {
     window.sessionStorage.setItem('diceData', JSON.stringify(data))
 
-    $('#game').change(function(){
-        window.history.pushState({},null,window.location.origin + window.location.pathname + '?'+$(this).val());
+    $('#game').change(function() {
+        window.history.pushState({}, null, window.location.origin + window.location.pathname + '?' + $(this).val());
     });
     d3.select('#game')
         .on('change', updateDiceData)
@@ -259,20 +263,26 @@ function vizDiceData(error, data) {
         .style('fill', function(d) {
             return users[d.name];
         })
+        .on('mouseover', tip.show)
+        .on('mouseout', tip.hide)
 
     var legend = svg.selectAll(".legend")
-        .data(d3.entries(users).filter(function (u) { return cur_players.indexOf(u.key) != -1; }))
+        .data(d3.entries(users).filter(function(u) {
+            return cur_players.indexOf(u.key) != -1;
+        }))
         .enter().append('g')
         .attr('class', 'legend')
-        .attr('transform', function (d, i) {
-            return 'translate(115,'+i*20+')';
+        .attr('transform', function(d, i) {
+            return 'translate(115,' + i * 20 + ')';
         })
 
     legend.append("rect")
         .attr("x", width - 18)
         .attr("width", 18)
         .attr("height", 18)
-        .style("fill", function(d) { return d.value; });
+        .style("fill", function(d) {
+            return d.value;
+        });
 
     legend.append("text")
         .attr("x", width - 24)
