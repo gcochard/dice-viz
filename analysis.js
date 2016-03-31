@@ -39,8 +39,8 @@ var tip = d3.tip()
     .offset([-10, 0])
     .html(function(d) {
         return '<span class="label">Player:</span> '+d.name+'<br />'+
-               '<span class="label">All '+d.die+'\'s:</span> '+d.d_perc+'%<br />'+
-               '<span class="label">All '+d.name+'\'s Rolls:</span> '+d.all_perc+'%<br />'
+               '<span class="label">Percent of '+d.die+'\’s Rolled:</span> '+d.d_perc+'%<br />'+
+               '<span class="label">Percent of '+d.name+'\'s Rolls:</span> '+d.all_perc+'%<br />'
     });
 
 svg.call(tip);
