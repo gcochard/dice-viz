@@ -36,7 +36,7 @@ var svg = d3.select('#freqGraph')
 
 var tip = d3.tip()
     .attr('class', 'd3-tip')
-    .offset([-10, 0])
+    .offset([10, 100])
     .html(function(d) {
         return '<span class="label">Player:</span> ' + d.name + '<br />' +
             '<span class="label">Number of ' + d.die + '\’s Rolled:</span> ' + (d.y1 - d.y0) + '<br />' +
