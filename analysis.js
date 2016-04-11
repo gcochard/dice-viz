@@ -39,6 +39,7 @@ var tip = d3.tip()
     .offset([-10, 0])
     .html(function(d) {
         return '<span class="label">Player:</span> ' + d.name + '<br />' +
+            '<span class="label">Number of ' + d.die + '\’s Rolled:</span> ' + (d.y1 - d.y0) + '<br />' +
             '<span class="label">Percent of ' + d.die + '\’s Rolled:</span> ' + d.d_perc + '%<br />' +
             '<span class="label">Percent of ' + d.name + '\'s Rolls:</span> ' + d.all_perc + '%<br />'
     });
