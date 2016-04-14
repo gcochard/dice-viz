@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>D12 Game Replay</title>
+    <link rel="stylesheet" type="text/css" href="css/d12styles.css">
+    <style>
+        h2 {
+            margin-bottom: 5px;
+            margin-bottom: 10px;
+        }
+        .gameLog {
+            position: relative;
+            display: inline-block;
+        }
+        ul {
+            list-style-type: none;
+            font-size: 14px;
+            font: Arial;
+        }
+        li {
+            word-wrap: break-word;
+            border: 1px solid black;
+            border-radius: 5px;
+            padding: 3px;
+            padding-left: 7px;
+            margin: 3px;
+            cursor: pointer;
+        }
+        ul.l0 {
+            padding-left: 10px;
+        }
+        ul.l1, ul.l2 {
+            padding-left: 20px;
+        }
+        li.l1, li.l2 {
+            font-weight: bold;
+        }
+        li.cturn {
+            background-color: #ffffb3;
+        }
+        #static {
+            float: right;
+            position: fixed;
+            top: 0px;
+        }
+        .sptxtlbl {
+            font-weight: bold;
+        }
+    </style>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.2.min.js" integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript" src="js/viz-utils.js"></script>
+</head>
+
+<body>
+    <h2>D12 Game Summary Analysis</h2>
+    <script type="text/javascript" src="js/replay.js"></script>
+    <div id="static">
+        <select id="game"></select>
+        <button id="stop-upd" type="button" onclick="stopUpdateGameBoard()" disabled="true">Stop</button>
+        <button id="start-upd" type="button" onclick="continueUpdateGameBoard()" disabled="true">Play</button>
+        <form id="speed" style="display: inline;">
+            <span class="sptxtlbl">Replay Speed:</span>
+            <input type="radio" name="speed" value="1000" onchange="changeSpeed(this)"><span class="spopt">Slow</span>
+            <input type="radio" name="speed" value="500" onchange="changeSpeed(this)" checked><span class="spopt">Medium</span>
+            <input type="radio" name="speed" value="250" onchange="changeSpeed(this)"><span class="spopt">Fast</span>
+        </form>
+    </div>
+</body>
+
+</html>
