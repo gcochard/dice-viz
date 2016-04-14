@@ -1,0 +1,34 @@
+.bar {
+    fill: steelblue;
+}
+
+.axis {
+    font: 13px sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+form {
+    display: inline
+}
+
+.r-input {
+    padding: 3px;
+}
+
+.d3-tip {
+    line-height: 1;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+}
+
+.label {
+    font-weight: bold;
+}

@@ -1,12 +1,3 @@
-var users = {
-    gcochard: '#00A708',
-    kwren: '#FF6CF2',
-    ryanbmilbourne: '#E9F109',
-    jobratt: '#D90909',
-    mmacfreier: '#0E12B8',
-    tanleach1001: '#06DBEE',
-    johnsgill3: '#131313'
-};
 var margin = {
         top: 20,
         right: 20,
@@ -223,22 +214,7 @@ function updateDiceData() {
 function vizDiceData(error, data) {
     window.sessionStorage.setItem('diceData', JSON.stringify(data))
 
-    $('#game').change(function() {
-        window.history.pushState({}, null, window.location.origin + window.location.pathname + '?' + $(this).val());
-    });
-    d3.select('#game')
-        .on('change', updateDiceData)
-        .selectAll('option')
-        .data(['All'].concat(d3.keys(data).filter(function(d) {
-            return d != "undefined";
-        }).sort()))
-        .enter().append('option')
-        .attr('value', function(d) {
-            return d
-        })
-        .text(function(d) {
-            return d
-        })
+    setGameIds(data, updateDiceData)
 
     dice_cnts = calcDiceRolls("");
 

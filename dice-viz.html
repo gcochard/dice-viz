@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>D12 Dice Data</title>
+    <link rel="stylesheet" type="text/css" href="css/dice.css">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.2.min.js" integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.6.7/d3-tip.js"></script>
+    <script type="text/javascript" src="js/viz-utils.js"></script>
+</head>
+
+<body>
+    <h2>D12 Dice Roll Analysis</h2>
+    <div id="selectors">
+        <select id="game"></select>
+        <form id="dtype">
+            <input name="rtype" type="radio" value="all" onclick="updateDiceData()" checked><span class="r-input">Both</span>
+            <input name="rtype" type="radio" value="attack" onclick="updateDiceData()"><span class="r-input">Attack</span>
+            <input name="rtype" type="radio" value="defend" onclick="updateDiceData()"><span class="r-input">Defend</span>
+        </form>
+    </div>
+    <svg id="freqGraph"></svg>
+    <script type="text/javascript" src="js/dice.js"></script>
+</body>
+
+</html>
