@@ -95,8 +95,16 @@ function assignGameMaps(mdata, gdata) {
     }
 }
 
+function getTeamColor(name) {
+    if(name in users_tc) {
+        return users_tc[name];
+    } else {
+        return 'tc-0';
+    }
+}
+
 function drawGameBoard(mdata) {
-    if(window.innerWidth < 1500) {
+    if(window.innerWidth < 1600) {
         territorySize = 'small';
         mdata.value.url = mdata.value.url.replace('large', 'small')
     }
@@ -110,7 +118,7 @@ function drawGameBoard(mdata) {
         .data(d3.entries(mdata.value.territories))
         .enter()
         .append('div')
-        .attr('class', function (d) { return 'territory-'+territorySize+' '+users_tc[d.value.owner]; })
+        .attr('class', function (d) { return 'territory-'+territorySize+' '+getTeamColor(d.value.owner); })
         .style('left', function (d) { return ((territorySize == 'large' ? 1 : 0.75) * d.value.x)+'px'; })
         .style('top', function (d) { return ((territorySize == 'large' ? 1 : 0.75) * d.value.y)+'px'; })
         .append('a')
@@ -257,13 +265,13 @@ function updateGame() {
         .data(d3.entries(cturn.map), function (d) { return d.key + "" + d.value.owner + "" + d.value.ntroops; })
 
     // Update current elements
-    divs.attr('class', function (d) { return 'territory-'+territorySize+' '+users_tc[d.value.owner]; })
+    divs.attr('class', function (d) { return 'territory-'+territorySize+' '+getTeamColor(d.value.owner); })
     divs.selectAll('a').text(function(d) { return d.value.ntroops; })
 
     // Create New Elements
     divs.enter()
         .append('div')
-        .attr('class', function (d) { return 'territory-'+territorySize+' '+users_tc[d.value.owner]; })
+        .attr('class', function (d) { return 'territory-'+territorySize+' '+getTeamColor(d.value.owner); })
         .style('left', function (d) { return ((territorySize == 'large' ? 1 : 0.75) * d.value.x)+'px'; })
         .style('top', function (d) { return ((territorySize == 'large' ? 1 : 0.75) * d.value.y)+'px'; })
         .append('a')
@@ -291,6 +299,10 @@ function updateGame() {
 
 function drawGameData(gid, gdata, mdata) {
     turnOrder = calcTurnOrder(gdata);
+    // Move map to top of the window
+    d3.select('#static')
+        .style('top', '0px');
+
     var nplayers = turnOrder.length,
         nterritories = d3.entries(mdata.value.territories).length;
 
