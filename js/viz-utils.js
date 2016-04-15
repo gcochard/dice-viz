@@ -21,6 +21,7 @@ var users_tc = {
 
 var turnOrder;
 
+var getGD = false;
 function getGameData(cb) {
     if(typeof intID !== 'undefined') {
         clearInterval(intID);
@@ -37,26 +38,26 @@ function getGameData(cb) {
     }
     var gameId = $('#game').val();
 
-    if(gameId == "All") {
-        // TODO: Game in progress
-        return; // TODO
-    }
-    d3.json('https://hubot-gregcochard.rhcloud.com/hubot/d12log/'+gameId, function (error, gdata) {
-        d3.json('data/d12maps.json', function (error, mdata) {
-            mdata = d3.entries(mdata).filter(function (d) { return (d.value.gid.indexOf(gameId) > -1); });
-            cb(gameId, gdata, mdata[0]);
+    if(getGD && $.isNumeric(gameId)) {
+        d3.json('https://hubot-gregcochard.rhcloud.com/hubot/d12log/'+gameId, function (error, gdata) {
+            d3.json('data/d12maps.json', function (error, mdata) {
+                mdata = d3.entries(mdata).filter(function (d) { return (d.value.gid.indexOf(gameId) > -1); });
+                cb(gameId, gdata, mdata[0]);
+            });
         });
-    });
+    } else if ($.isNumeric(gameId) || gameId == 'All'){
+        cb(gameId);
+    }
 }
 
-function setGameIds(data, chg_cb) {
+function setGameIds(data, opt0, chg_cb) {
     $('#game').change(function() {
         window.history.pushState({}, null, window.location.origin + window.location.pathname + '?' + $(this).val());
     });
     d3.select('#game')
         .on('change', function () { getGameData(chg_cb); })
         .selectAll('option')
-        .data(['All'].concat(d3.keys(data).filter(function(d) {
+        .data([opt0].concat(d3.keys(data).filter(function(d) {
             return d != "undefined";
         }).sort()))
         .enter().append('option')

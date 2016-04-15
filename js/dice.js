@@ -214,7 +214,7 @@ function updateDiceData() {
 function vizDiceData(error, data) {
     window.sessionStorage.setItem('diceData', JSON.stringify(data))
 
-    setGameIds(data, updateDiceData)
+    setGameIds(data, 'All', updateDiceData)
 
     dice_cnts = calcDiceRolls("");
 

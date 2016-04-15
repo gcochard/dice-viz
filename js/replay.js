@@ -388,4 +388,8 @@ function drawGameData(gid, gdata, mdata) {
     intID = setInterval(updateGame, intTime);
 }
 
-d3.json('https://hubot-gregcochard.rhcloud.com/hubot/dice', function (d) { setGameIds(d, drawGameData); getGameData(drawGameData); });
+getGD = true;
+d3.json('https://hubot-gregcochard.rhcloud.com/hubot/dice', function (d) {
+    setGameIds(d, 'Select Game', drawGameData);
+    getGameData(drawGameData);
+});
