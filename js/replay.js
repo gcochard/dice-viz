@@ -1,28 +1,8 @@
 // Update Variables
 var curState, curRound, curPlayer,
-    intID, gameState, turnOrder,
+    intID, gameState,
     intTime = 500,
     territorySize='large';
-
-function calcTurnOrder(gdata) {
-    var pOrder = [];
-    // Determine the turn order
-    r1 = gdata.filter(function (d) {
-        if(turnStartPattern.test(d.message))
-            return true;
-
-        return false;
-    });
-
-    r1.sort(function (a, b) { return new Date(a.timestamp).getTime() - new Date(b.timestamp).getTime(); });
-
-    var i = 0;
-    while(r1[i].round == 1) {
-        pOrder.push(r1[i].player)
-        i++;
-    }
-    return pOrder;
-}
 
 function getTIDbyName(t, n) {
     for(var k in t) {
@@ -408,35 +388,4 @@ function drawGameData(gid, gdata, mdata) {
     intID = setInterval(updateGame, intTime);
 }
 
-function getGameData(data) {
-    clearInterval(intID);
-    if (window.location.search) {
-        var parts = window.location.search.split('=');
-        if (parts.length == 2) {
-            // handle the form ?game=234234
-            $('#game').val(parts[1]);
-        } else {
-            // handle the form ?234324
-            $('#game').val(parts.join().split('?')[1]);
-        }
-    }
-    var gameId = $('#game').val();
-
-    if(gameId == "All") {
-        // TODO: Game in progress
-        return; // TODO
-    }
-    d3.json('https://hubot-gregcochard.rhcloud.com/hubot/d12log/'+gameId, function (error, gdata) {
-        d3.json('data/d12maps.json', function (error, mdata) {
-            mdata = d3.entries(mdata).filter(function (d) { return (d.value.gid.indexOf(gameId) > -1); });
-            drawGameData(gameId, gdata, mdata[0]);
-        });
-    });
-}
-
-d3.json('https://hubot-gregcochard.rhcloud.com/hubot/dice', function (d) { setGameIds(d, getGameData); getGameData('All'); });
-
-/* TODO:
-    * Will auto collapse if after play
-    * Player colors in log?
-*/
+d3.json('https://hubot-gregcochard.rhcloud.com/hubot/dice', function (d) { setGameIds(d, drawGameData); getGameData(drawGameData); });
