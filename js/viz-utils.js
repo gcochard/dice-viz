@@ -58,7 +58,12 @@ function setGameIds(data, opt0, chg_cb) {
         .on('change', function () { getGameData(chg_cb); })
         .selectAll('option')
         .data([opt0].concat(d3.keys(data).filter(function(d) {
-            return d != "undefined" && d != '600989';
+            if(getGD) {
+                return d != "undefined" && Number(d) >= 608220 &&
+                        (Number(d) != 622574 || Number(d) != 622960);
+            } else {
+                return d != "undefined";
+            }
         }).sort()))
         .enter().append('option')
         .attr('value', function(d) {
