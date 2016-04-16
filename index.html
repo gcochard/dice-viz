@@ -3,61 +3,16 @@
 
 <head>
     <meta charset="utf-8">
-    <title>D12 Dice Data</title>
-    <style>
-        .bar {
-            fill: steelblue;
-        }
-
-        .axis {
-            font: 13px sans-serif;
-        }
-
-        .axis path,
-        .axis line {
-            fill: none;
-            stroke: #000;
-            shape-rendering: crispEdges;
-        }
-
-        form {
-            display: inline
-        }
-
-        .r-input {
-            padding: 3px;
-        }
-
-        .d3-tip {
-            line-height: 1;
-            padding: 12px;
-            background: rgba(0, 0, 0, 0.8);
-            color: #fff;
-            border-radius: 2px;
-        }
-
-        .label {
-            font-weight: bold;
-        }
-    </style>
-    <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.2.min.js" integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI=" crossorigin="anonymous"></script>
-    <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.6.7/d3-tip.js"></script>
+    <title>GBC: D12 Viz Tools</title>
 </head>
 
 <body>
-    <h2>D12 Dice Roll Analysis</h2>
-    <div id="selectors">
-        <select id="game"></select>
-        <form id="dtype">
-            <input name="rtype" type="radio" value="all" onclick="updateDiceData()" checked><span class="r-input">Both</span>
-            <input name="rtype" type="radio" value="attack" onclick="updateDiceData()"><span class="r-input">Attack</span>
-            <input name="rtype" type="radio" value="defend" onclick="updateDiceData()"><span class="r-input">Defend</span>
-        </form>
-        <!--input type="button" value="Clear" onclick="clearfilters()"/-->
-    </div>
-    <svg id="freqGraph"></svg>
-    <script type="text/javascript" src="analysis.js"></script>
+    <h2>GBC: D12 Viz Tools</h2>
+    <ul>
+    <li><a href="dice-viz.html">Dice Rolls</a></li>
+    <li><a href="summary-viz.html">Game Summary</a></li>
+    <li><a href="replay-viz.html">Game Replay</a></li>
+    </ul>
 </body>
 
 </html>

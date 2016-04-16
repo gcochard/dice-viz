@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>D12 Game Summary Data</title>
+    <link href="http://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet">
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+    <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript" src="js/viz-utils.js"></script>
+    <style>
+    body {
+        margin: 5px;
+    }
+    .axis text {
+        font: 10px sans-serif;
+    }
+    .axis path,
+    .axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+    }
+    .line {
+        fill: none;
+        stroke: steelblue;
+        stroke-width: 1.5px;
+    }
+    .r-line {
+        stroke: grey;
+        stroke-width: 2;
+    }
+    #attrGraph, #focusBar {
+        margin-top: 5px;
+        display: inline-block;
+        width: 49%;
+    }
+    text.ltitle {
+        cursor: pointer;
+    }
+
+    .ui-slider .ui-slider-handle {
+        width: 0.6em;
+    }
+
+    #slider {
+        width: 70%;
+        margin: 0 auto;
+        margin-top: 18px;
+    }
+    #slider a {
+        text-decoration: none;
+        outline: none;
+    }
+    #sval {
+        width: 50px;
+        text-align: center;
+        color: black;
+        text-decoration: none;
+        font: 14px sans-serif;
+    }
+    </style>
+</head>
+
+<body>
+    <h2>D12 Game Summary Analysis</h2>
+    <div id="selectors">
+        <select id="game"></select>
+        <!-- <div id="slider"></div>
+        <span id="sval"></span> -->
+    </div>
+    <div id="focusBar"></div>
+    <div id="attrGraph"></div>
+    <script type="text/javascript" src="js/summary.js"></script>
+</body>
+
+</html>
+<!--http://gamesbyemail.com/games/gambit/battleodds-->

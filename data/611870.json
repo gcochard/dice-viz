@@ -1,0 +1,5444 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-02-09T20:46:01.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "kwren joined the game.",
+    "timestamp": "2016-02-09T20:46:01.000Z",
+    "player": "kwren",
+    "round": 0
+  },
+  {
+    "message": "gcochard joined the game.",
+    "timestamp": "2016-02-09T20:47:59.000Z",
+    "player": "gcochard",
+    "round": 0
+  },
+  {
+    "message": "mmacfreier joined the game.",
+    "timestamp": "2016-02-09T20:51:09.000Z",
+    "player": "mmacfreier",
+    "round": 0
+  },
+  {
+    "message": "tanleach1001 joined the game.",
+    "timestamp": "2016-02-09T21:54:42.000Z",
+    "player": "tanleach1001",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne joined the game.",
+    "timestamp": "2016-02-09T22:30:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-02-09T22:30:21.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-09T22:32:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 10 territories.",
+    "timestamp": "2016-02-09T22:32:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Nkangala (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-09T22:32:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Amajuba (ryanbmilbourne) attacked Gert Sibande (mmacfreier) killing 1, losing 2.",
+    "timestamp": "2016-02-09T22:32:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Nkangala (ryanbmilbourne) attacked Gert Sibande (mmacfreier) killing 0, losing 2.",
+    "timestamp": "2016-02-09T22:32:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Nkangala (ryanbmilbourne) was fortified from Waterberg (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-02-09T22:32:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-09T22:32:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-09T22:33:07.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 10 territories.",
+    "timestamp": "2016-02-09T22:33:07.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Namakwa (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-02-09T22:33:17.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Namakwa (tanleach1001) attacked West Coast (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-09T22:33:22.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Namakwa (tanleach1001) occupied West Coast with 4 troops.",
+    "timestamp": "2016-02-09T22:33:31.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Cape Winelands (tanleach1001) was fortified from Pixley ka Seme (tanleach1001) with 2 troops.",
+    "timestamp": "2016-02-09T22:33:48.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-09T22:33:48.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-09T22:33:48.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-09T22:34:10.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 3 troops for 10 territories.",
+    "timestamp": "2016-02-09T22:34:10.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Capricorn (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-09T22:34:32.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Capricorn (gcochard) attacked Waterberg (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T22:34:34.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Capricorn (gcochard) occupied Waterberg with 5 troops.",
+    "timestamp": "2016-02-09T22:34:38.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Port Elisabeth (gcochard) was fortified from George (gcochard) with 2 troops.",
+    "timestamp": "2016-02-09T22:35:04.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-09T22:35:04.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-09T22:35:04.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-09T22:37:35.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received 3 troops for 10 territories.",
+    "timestamp": "2016-02-09T22:37:36.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Amathole (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-09T22:37:38.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Amathole (mmacfreier) attacked Chris Hani (gcochard) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-09T22:37:42.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Amathole (mmacfreier) occupied Chris Hani with 4 troops.",
+    "timestamp": "2016-02-09T22:37:46.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Chris Hani (mmacfreier) was fortified from Cacadu (mmacfreier) with 2 troops.",
+    "timestamp": "2016-02-09T22:37:55.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-09T22:37:55.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-09T22:37:55.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-09T22:39:32.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-02-09T22:39:32.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Thabo Mofutsanyana (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-02-09T22:39:45.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Thabo Mofutsanyana (kwren) attacked Gert Sibande (mmacfreier) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-02-09T22:39:51.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Thabo Mofutsanyana (kwren) occupied Gert Sibande with 1 troop.",
+    "timestamp": "2016-02-09T22:39:56.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Thabo Mofutsanyana (kwren) was fortified from Johannesburg (kwren) with 2 troops.",
+    "timestamp": "2016-02-09T22:40:25.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-09T22:40:25.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-09T22:40:25.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-02-09T22:40:25.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-09T22:43:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 8 territories.",
+    "timestamp": "2016-02-09T22:43:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Nkangala (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-09T22:44:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Nkangala (ryanbmilbourne) attacked Johannesburg (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T22:44:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Nkangala (ryanbmilbourne) occupied Johannesburg with 1 troop.",
+    "timestamp": "2016-02-09T22:44:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Nkangala (ryanbmilbourne) attacked Gert Sibande (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T22:44:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Nkangala (ryanbmilbourne) occupied Gert Sibande with 7 troops.",
+    "timestamp": "2016-02-09T22:44:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-09T22:44:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-09T22:44:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-09T22:45:01.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 11 territories.",
+    "timestamp": "2016-02-09T22:45:01.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Cape Winelands (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-02-09T22:45:15.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Cape Winelands (tanleach1001) attacked Overberg (kwren) killing 0, losing 6.",
+    "timestamp": "2016-02-09T22:45:22.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "West Coast (tanleach1001) attacked City of Cape Town (mmacfreier) killing 0, losing 2.",
+    "timestamp": "2016-02-09T22:45:32.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "uMzinyathi (tanleach1001) attacked Amajuba (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T22:45:40.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "uMzinyathi (tanleach1001) occupied Amajuba with 1 troop.",
+    "timestamp": "2016-02-09T22:45:43.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "uMgungundlovu (tanleach1001) was fortified from uThungulu (tanleach1001) with 2 troops.",
+    "timestamp": "2016-02-09T22:46:00.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-09T22:46:00.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-09T22:46:00.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-09T22:47:18.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 3 troops for 10 territories.",
+    "timestamp": "2016-02-09T22:47:18.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Buffalo City (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-09T22:47:43.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Buffalo City (gcochard) attacked Amathole (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-09T22:47:54.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Buffalo City (gcochard) occupied Amathole with 4 troops.",
+    "timestamp": "2016-02-09T22:47:56.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Amathole (gcochard) attacked Cacadu (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T22:48:00.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Amathole (gcochard) occupied Cacadu with 3 troops.",
+    "timestamp": "2016-02-09T22:48:03.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Port Elisabeth (gcochard) was fortified from Cacadu (gcochard) with 2 troops.",
+    "timestamp": "2016-02-09T22:48:22.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-09T22:48:24.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-09T22:48:24.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-09T22:51:14.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 3 troops for 8 territories.",
+    "timestamp": "2016-02-09T22:51:14.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Chris Hani (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-09T22:51:26.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Chris Hani (mmacfreier) attacked East London (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-09T22:51:32.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Chris Hani (mmacfreier) occupied East London with 1 troop.",
+    "timestamp": "2016-02-09T22:51:41.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Chris Hani (mmacfreier) attacked Joe Gqabi (kwren) killing 2, losing 4.",
+    "timestamp": "2016-02-09T22:51:56.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-09T22:52:06.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-09T22:52:06.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-09T22:52:32.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 3 troops for 9 territories.",
+    "timestamp": "2016-02-09T22:52:32.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Thabo Mofutsanyana (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-02-09T22:53:12.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Upington (kwren) attacked Pixley ka Seme (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-02-09T22:53:24.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Central Karoo (kwren) attacked Pixley ka Seme (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-09T22:53:29.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Eden (kwren) attacked Cape Winelands (tanleach1001) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-02-09T22:53:55.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Eden (kwren) occupied Cape Winelands with 2 troops.",
+    "timestamp": "2016-02-09T22:54:01.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Overberg (kwren) attacked City of Cape Town (mmacfreier) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-09T22:54:05.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Overberg (kwren) occupied City of Cape Town with 2 troops.",
+    "timestamp": "2016-02-09T22:54:07.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "City of Cape Town (kwren) attacked West Coast (tanleach1001) killing 1, losing 1.",
+    "timestamp": "2016-02-09T22:54:12.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Cape Winelands (kwren) attacked West Coast (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T22:54:16.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Thabo Mofutsanyana (kwren) was fortified from uThukela (kwren) with 2 troops.",
+    "timestamp": "2016-02-09T22:54:28.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-09T22:54:28.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-09T22:54:28.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-02-09T22:54:28.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-09T22:54:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 8 territories.",
+    "timestamp": "2016-02-09T22:54:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Mpumalanga.",
+    "timestamp": "2016-02-09T22:54:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Gauteng (ryanbmilbourne) was reinforced by ryanbmilbourne with 5 troops.",
+    "timestamp": "2016-02-09T22:57:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Fezile Dabi (ryanbmilbourne) attacked Lejweleputswa (Neutral) killing 1, losing 2.",
+    "timestamp": "2016-02-09T22:58:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "uMkhanyakude (ryanbmilbourne) attacked uThungulu (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T22:58:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "uMkhanyakude (ryanbmilbourne) occupied uThungulu with 2 troops.",
+    "timestamp": "2016-02-09T22:58:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Gauteng (ryanbmilbourne) was fortified from Gert Sibande (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-02-09T22:59:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-09T22:59:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-09T22:59:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-09T22:59:21.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 8 territories.",
+    "timestamp": "2016-02-09T22:59:21.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "uMgungundlovu (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-02-09T22:59:39.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Xhariep (tanleach1001) attacked Joe Gqabi (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-09T22:59:47.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "uMgungundlovu (tanleach1001) attacked iLembe (gcochard) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-02-09T23:00:18.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "uMgungundlovu (tanleach1001) occupied iLembe with 1 troop.",
+    "timestamp": "2016-02-09T23:00:39.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "iLembe (tanleach1001) was fortified from uMzinyathi (tanleach1001) with 1 troop.",
+    "timestamp": "2016-02-09T23:00:55.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-09T23:00:57.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-09T23:00:57.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-09T23:05:01.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 3 troops for 11 territories.",
+    "timestamp": "2016-02-09T23:05:02.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Port Elisabeth (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-09T23:05:36.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Port Elisabeth (gcochard) attacked Nelson Mandela Bay (ryanbmilbourne) conquering it, killing 3, losing 6.",
+    "timestamp": "2016-02-09T23:06:26.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Port Elisabeth (gcochard) occupied Nelson Mandela Bay with 1 troop.",
+    "timestamp": "2016-02-09T23:07:13.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Port Elisabeth (gcochard) attacked Central Karoo (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:07:26.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Port Elisabeth (gcochard) occupied Central Karoo with 2 troops.",
+    "timestamp": "2016-02-09T23:07:30.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Bloemfontein (gcochard) attacked Xhariep (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-02-09T23:07:44.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Central Karoo (gcochard) attacked Eden (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:07:54.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Waterberg (gcochard) was fortified from Bojanala Platinum (gcochard) with 2 troops.",
+    "timestamp": "2016-02-09T23:08:11.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-09T23:08:12.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-09T23:08:12.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-09T23:09:26.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 3 troops for 8 territories.",
+    "timestamp": "2016-02-09T23:09:26.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Chris Hani (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-09T23:09:30.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Chris Hani (mmacfreier) attacked Amathole (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:09:34.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Chris Hani (mmacfreier) occupied Amathole with 5 troops.",
+    "timestamp": "2016-02-09T23:09:36.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Amathole (mmacfreier) attacked Buffalo City (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:09:40.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Amathole (mmacfreier) occupied Buffalo City with 1 troop.",
+    "timestamp": "2016-02-09T23:09:43.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "OR Tambo (mmacfreier) attacked Joe Gqabi (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:09:47.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "OR Tambo (mmacfreier) occupied Joe Gqabi with 2 troops.",
+    "timestamp": "2016-02-09T23:09:51.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Chris Hani (mmacfreier) was fortified from Amathole (mmacfreier) with 1 troop.",
+    "timestamp": "2016-02-09T23:10:12.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-09T23:10:13.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-09T23:10:13.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-09T23:10:17.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-02-09T23:10:17.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 2 troops for holding Western Cape.",
+    "timestamp": "2016-02-09T23:10:17.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Pixley ka Seme (kwren) was reinforced by kwren with 5 troops.",
+    "timestamp": "2016-02-09T23:10:27.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Pixley ka Seme (kwren) attacked Central Karoo (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-09T23:10:35.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Pixley ka Seme (kwren) occupied Central Karoo with 1 troop.",
+    "timestamp": "2016-02-09T23:10:41.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Pixley ka Seme (kwren) attacked Namakwa (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-09T23:10:47.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Pixley ka Seme (kwren) occupied Namakwa with 1 troop.",
+    "timestamp": "2016-02-09T23:10:50.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Pixley ka Seme (kwren) attacked Joe Gqabi (mmacfreier) killing 1, losing 1.",
+    "timestamp": "2016-02-09T23:11:05.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Thabo Mofutsanyana (kwren) attacked Fezile Dabi (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-09T23:12:05.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Thabo Mofutsanyana (kwren) occupied Fezile Dabi with 1 troop.",
+    "timestamp": "2016-02-09T23:12:10.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Thabo Mofutsanyana (kwren) attacked Xhariep (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:12:15.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Thabo Mofutsanyana (kwren) occupied Xhariep with 7 troops.",
+    "timestamp": "2016-02-09T23:12:17.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Xhariep (kwren) attacked Joe Gqabi (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-09T23:12:22.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Xhariep (kwren) occupied Joe Gqabi with 1 troop.",
+    "timestamp": "2016-02-09T23:12:26.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Xhariep (kwren) attacked Bloemfontein (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:12:29.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Xhariep (kwren) occupied Bloemfontein with 1 troop.",
+    "timestamp": "2016-02-09T23:12:34.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Vhembe (kwren) attacked Capricorn (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:13:07.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Vhembe (kwren) occupied Capricorn with 1 troop.",
+    "timestamp": "2016-02-09T23:13:10.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-09T23:13:16.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-09T23:13:16.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-02-09T23:13:17.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-09T23:24:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 7 territories.",
+    "timestamp": "2016-02-09T23:24:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Mpumalanga.",
+    "timestamp": "2016-02-09T23:24:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Gert Sibande (ryanbmilbourne) was reinforced by ryanbmilbourne with 5 troops.",
+    "timestamp": "2016-02-09T23:24:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Gert Sibande (ryanbmilbourne) attacked Ehlanzeni (tanleach1001) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-09T23:24:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Gert Sibande (ryanbmilbourne) occupied Ehlanzeni with 1 troop.",
+    "timestamp": "2016-02-09T23:25:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Gert Sibande (ryanbmilbourne) attacked Amajuba (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-09T23:25:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Gert Sibande (ryanbmilbourne) occupied Amajuba with 1 troop.",
+    "timestamp": "2016-02-09T23:26:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-09T23:26:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-09T23:26:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-09T23:26:14.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 5 territories.",
+    "timestamp": "2016-02-09T23:26:14.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 2 troops on uMgungundlovu",
+    "timestamp": "2016-02-09T23:26:20.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 2 troops on John Taolo Gaetsewe",
+    "timestamp": "2016-02-09T23:26:20.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 4 troops for turning in cards uMgungundlovu, Sekhukhune, and John Taolo Gaetsewe.",
+    "timestamp": "2016-02-09T23:26:20.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "iLembe (tanleach1001) was reinforced by tanleach1001 with 7 troops.",
+    "timestamp": "2016-02-09T23:26:29.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "iLembe (tanleach1001) attacked uThungulu (ryanbmilbourne) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-02-09T23:26:33.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "iLembe (tanleach1001) occupied uThungulu with 8 troops.",
+    "timestamp": "2016-02-09T23:26:37.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "uThungulu (tanleach1001) attacked uMkhanyakude (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:26:41.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "uThungulu (tanleach1001) occupied uMkhanyakude with 7 troops.",
+    "timestamp": "2016-02-09T23:26:43.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "uMkhanyakude (tanleach1001) attacked Zululand (Neutral) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-09T23:26:47.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "uMkhanyakude (tanleach1001) occupied Zululand with 5 troops.",
+    "timestamp": "2016-02-09T23:26:49.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Zululand (tanleach1001) attacked Amajuba (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:26:52.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Zululand (tanleach1001) occupied Amajuba with 4 troops.",
+    "timestamp": "2016-02-09T23:26:57.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Amajuba (tanleach1001) attacked uThukela (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:27:03.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Amajuba (tanleach1001) occupied uThukela with 1 troop.",
+    "timestamp": "2016-02-09T23:27:06.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Amajuba (tanleach1001) was fortified from uMgungundlovu (tanleach1001) with 4 troops.",
+    "timestamp": "2016-02-09T23:27:31.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-09T23:27:31.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-09T23:27:31.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-09T23:41:07.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 3 troops for 9 territories.",
+    "timestamp": "2016-02-09T23:41:07.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Waterberg (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-09T23:41:22.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Waterberg (gcochard) attacked Capricorn (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:41:25.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Waterberg (gcochard) occupied Capricorn with 9 troops.",
+    "timestamp": "2016-02-09T23:41:26.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Capricorn (gcochard) attacked Mopani (mmacfreier) conquering it, killing 3, losing 6.",
+    "timestamp": "2016-02-09T23:41:34.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Capricorn (gcochard) occupied Mopani with 2 troops.",
+    "timestamp": "2016-02-09T23:41:37.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "ZF Mgcawu (gcochard) attacked Pixley ka Seme (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:41:47.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "ZF Mgcawu (gcochard) occupied Pixley ka Seme with 2 troops.",
+    "timestamp": "2016-02-09T23:41:49.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Pixley ka Seme (gcochard) attacked Central Karoo (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:41:54.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-09T23:42:17.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-09T23:42:17.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-09T23:42:51.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 3 troops for 9 territories.",
+    "timestamp": "2016-02-09T23:42:51.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Chris Hani (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-09T23:42:56.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Chris Hani (mmacfreier) attacked Joe Gqabi (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-09T23:43:00.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Chris Hani (mmacfreier) occupied Joe Gqabi with 1 troop.",
+    "timestamp": "2016-02-09T23:43:10.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-09T23:43:26.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-09T23:43:26.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-09T23:55:24.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 4 troops for 12 territories.",
+    "timestamp": "2016-02-09T23:55:24.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 2 troops for holding Western Cape.",
+    "timestamp": "2016-02-09T23:55:24.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Xhariep (kwren) was reinforced by kwren with 6 troops.",
+    "timestamp": "2016-02-09T23:55:35.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Xhariep (kwren) attacked Lejweleputswa (Neutral) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-02-09T23:55:39.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Xhariep (kwren) occupied Lejweleputswa with 1 troop.",
+    "timestamp": "2016-02-09T23:55:42.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Xhariep (kwren) attacked Joe Gqabi (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:55:48.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Xhariep (kwren) occupied Joe Gqabi with 5 troops.",
+    "timestamp": "2016-02-09T23:55:58.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Joe Gqabi (kwren) attacked Pixley ka Seme (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-09T23:56:01.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Joe Gqabi (kwren) occupied Pixley ka Seme with 1 troop.",
+    "timestamp": "2016-02-09T23:56:10.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Xhariep (kwren) was fortified from Joe Gqabi (kwren) with 3 troops.",
+    "timestamp": "2016-02-09T23:56:15.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-09T23:56:15.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-09T23:56:15.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-02-09T23:56:15.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-10T15:09:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 6 territories.",
+    "timestamp": "2016-02-10T15:09:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Mpumalanga.",
+    "timestamp": "2016-02-10T15:09:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 6 troops for turning in cards Buffalo City, Durban, and uMzinyathi.",
+    "timestamp": "2016-02-10T15:09:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Ehlanzeni (ryanbmilbourne) was reinforced by ryanbmilbourne with 11 troops.",
+    "timestamp": "2016-02-10T15:09:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Ehlanzeni (ryanbmilbourne) attacked Mopani (gcochard) conquering it, killing 2, losing 4.",
+    "timestamp": "2016-02-10T15:10:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Ehlanzeni (ryanbmilbourne) occupied Mopani with 7 troops.",
+    "timestamp": "2016-02-10T15:10:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Mopani (ryanbmilbourne) attacked Vhembe (kwren) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-02-10T15:10:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Mopani (ryanbmilbourne) occupied Vhembe with 1 troop.",
+    "timestamp": "2016-02-10T15:10:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Mopani (ryanbmilbourne) attacked Capricorn (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T15:10:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Mopani (ryanbmilbourne) occupied Capricorn with 5 troops.",
+    "timestamp": "2016-02-10T15:10:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Gauteng (ryanbmilbourne) attacked Waterberg (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-10T15:10:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Gauteng (ryanbmilbourne) occupied Waterberg with 1 troop.",
+    "timestamp": "2016-02-10T15:10:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Ngaka Modiri Molema (ryanbmilbourne) attacked Bojanala Platinum (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T15:10:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Ngaka Modiri Molema (ryanbmilbourne) occupied Bojanala Platinum with 2 troops.",
+    "timestamp": "2016-02-10T15:10:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Waterberg (ryanbmilbourne) was fortified from Capricorn (ryanbmilbourne) with 4 troops.",
+    "timestamp": "2016-02-10T15:10:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-10T15:10:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-10T15:10:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-10T16:14:51.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 10 territories.",
+    "timestamp": "2016-02-10T16:14:51.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding KwaZulu-Natal.",
+    "timestamp": "2016-02-10T16:14:51.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "uMgungundlovu (tanleach1001) was reinforced by tanleach1001 with 7 troops.",
+    "timestamp": "2016-02-10T16:14:57.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "uMgungundlovu (tanleach1001) attacked Durban (mmacfreier) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-10T16:15:02.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "uMgungundlovu (tanleach1001) occupied Durban with 1 troop.",
+    "timestamp": "2016-02-10T16:15:05.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "uMgungundlovu (tanleach1001) attacked Sisonke (mmacfreier) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-02-10T16:15:14.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "uMgungundlovu (tanleach1001) occupied Sisonke with 1 troop.",
+    "timestamp": "2016-02-10T16:15:17.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "uMgungundlovu (tanleach1001) attacked Ugu (gcochard) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-10T16:15:23.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "uMgungundlovu (tanleach1001) occupied Ugu with 3 troops.",
+    "timestamp": "2016-02-10T16:15:36.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-10T16:16:51.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-10T16:16:51.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-10T17:10:54.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-02-10T17:10:54.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for holding Central Cape.",
+    "timestamp": "2016-02-10T17:10:54.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards uMkhanyakude, Amajuba, and Johannesburg.",
+    "timestamp": "2016-02-10T17:11:01.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "ZF Mgcawu (gcochard) was reinforced by gcochard with 14 troops.",
+    "timestamp": "2016-02-10T17:12:16.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "ZF Mgcawu (gcochard) attacked Dr. Ruth S. Mompati (tanleach1001) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-10T17:12:27.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "ZF Mgcawu (gcochard) occupied Dr. Ruth S. Mompati with 13 troops.",
+    "timestamp": "2016-02-10T17:12:29.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Dr. Ruth S. Mompati (gcochard) attacked Dr. Kenneth Kaunda (mmacfreier) conquering it, killing 3, losing 5.",
+    "timestamp": "2016-02-10T17:12:37.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Dr. Ruth S. Mompati (gcochard) occupied Dr. Kenneth Kaunda with 7 troops.",
+    "timestamp": "2016-02-10T17:12:40.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (gcochard) attacked Lejweleputswa (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-10T17:12:47.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (gcochard) occupied Lejweleputswa with 1 troop.",
+    "timestamp": "2016-02-10T17:14:25.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (gcochard) attacked Bojanala Platinum (ryanbmilbourne) killing 0, losing 4.",
+    "timestamp": "2016-02-10T17:14:29.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-10T17:14:47.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-10T17:14:47.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-10T17:47:31.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 3 troops for 6 territories.",
+    "timestamp": "2016-02-10T17:47:31.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Eden, Joe Gqabi, and Bojanala Platinum.",
+    "timestamp": "2016-02-10T17:47:40.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "OR Tambo (mmacfreier) was reinforced by mmacfreier with 11 troops.",
+    "timestamp": "2016-02-10T17:47:57.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "OR Tambo (mmacfreier) attacked Joe Gqabi (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T17:48:04.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "OR Tambo (mmacfreier) occupied Joe Gqabi with 11 troops.",
+    "timestamp": "2016-02-10T17:48:25.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Joe Gqabi (mmacfreier) attacked Xhariep (kwren) conquering it, killing 6, losing 4.",
+    "timestamp": "2016-02-10T17:48:46.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Joe Gqabi (mmacfreier) occupied Xhariep with 1 troop.",
+    "timestamp": "2016-02-10T17:48:57.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "OR Tambo (mmacfreier) was fortified from Joe Gqabi (mmacfreier) with 2 troops.",
+    "timestamp": "2016-02-10T17:49:16.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-10T17:49:16.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-10T17:49:16.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-10T20:04:26.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 3 troops for 11 territories.",
+    "timestamp": "2016-02-10T20:04:26.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 2 troops for holding Western Cape.",
+    "timestamp": "2016-02-10T20:04:26.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 2 troops on City of Cape Town",
+    "timestamp": "2016-02-10T20:04:33.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards City of Cape Town, Springbok, and Dr. Ruth S. Mompati.",
+    "timestamp": "2016-02-10T20:04:33.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Bloemfontein (kwren) was reinforced by kwren with 8 troops.",
+    "timestamp": "2016-02-10T20:04:47.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "West Coast (kwren) was reinforced by kwren with 5 troops.",
+    "timestamp": "2016-02-10T20:04:50.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "West Coast (kwren) attacked Springbok (mmacfreier) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-02-10T20:04:57.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "West Coast (kwren) occupied Springbok with 1 troop.",
+    "timestamp": "2016-02-10T20:05:03.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Bloemfontein (kwren) attacked Xhariep (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T20:05:08.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Bloemfontein (kwren) occupied Xhariep with 8 troops.",
+    "timestamp": "2016-02-10T20:05:10.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Xhariep (kwren) attacked Joe Gqabi (mmacfreier) conquering it, killing 4, losing 3.",
+    "timestamp": "2016-02-10T20:05:18.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Xhariep (kwren) occupied Joe Gqabi with 1 troop.",
+    "timestamp": "2016-02-10T20:05:26.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Xhariep (kwren) attacked Lejweleputswa (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-10T20:05:32.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Xhariep (kwren) occupied Lejweleputswa with 1 troop.",
+    "timestamp": "2016-02-10T20:05:35.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Frances Baard (kwren) attacked ZF Mgcawu (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T20:05:44.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Frances Baard (kwren) occupied ZF Mgcawu with 1 troop.",
+    "timestamp": "2016-02-10T20:05:48.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Frances Baard (kwren) attacked Dr. Ruth S. Mompati (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T20:05:52.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Xhariep (kwren) was fortified from West Coast (kwren) with 2 troops.",
+    "timestamp": "2016-02-10T20:06:02.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-10T20:06:02.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-10T20:06:02.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-02-10T20:06:02.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-10T20:10:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 11 territories.",
+    "timestamp": "2016-02-10T20:10:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Mpumalanga.",
+    "timestamp": "2016-02-10T20:10:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Waterberg (ryanbmilbourne) was reinforced by ryanbmilbourne with 5 troops.",
+    "timestamp": "2016-02-10T20:10:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Waterberg (ryanbmilbourne) attacked Sekhukhune (Neutral) killing 0, losing 6.",
+    "timestamp": "2016-02-10T20:10:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Bojanala Platinum (ryanbmilbourne) attacked Dr. Kenneth Kaunda (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T20:10:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-10T20:11:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-10T20:11:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-10T20:11:39.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 4 troops for 12 territories.",
+    "timestamp": "2016-02-10T20:11:39.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding KwaZulu-Natal.",
+    "timestamp": "2016-02-10T20:11:39.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "John Taolo Gaetsewe (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-02-10T20:11:46.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Ugu (tanleach1001) was reinforced by tanleach1001 with 6 troops.",
+    "timestamp": "2016-02-10T20:11:51.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Ugu (tanleach1001) attacked Alfred Nzo (Neutral) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-10T20:11:55.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Ugu (tanleach1001) occupied Alfred Nzo with 7 troops.",
+    "timestamp": "2016-02-10T20:12:05.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-10T20:12:21.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-10T20:12:21.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-10T21:10:58.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 3 troops for 6 territories.",
+    "timestamp": "2016-02-10T21:10:58.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 3 troops for holding Central Cape.",
+    "timestamp": "2016-02-10T21:10:58.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Nelson Mandela Bay (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-02-10T21:11:08.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-10T21:11:12.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-10T21:56:21.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 3 troops for 5 territories.",
+    "timestamp": "2016-02-10T21:56:21.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Chris Hani (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-10T21:56:34.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Chris Hani (mmacfreier) attacked Joe Gqabi (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T21:56:38.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Chris Hani (mmacfreier) occupied Joe Gqabi with 1 troop.",
+    "timestamp": "2016-02-10T21:56:49.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Chris Hani (mmacfreier) attacked Pixley ka Seme (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T21:56:55.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Chris Hani (mmacfreier) occupied Pixley ka Seme with 4 troops.",
+    "timestamp": "2016-02-10T21:56:57.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Pixley ka Seme (mmacfreier) attacked Upington (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-10T21:57:05.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Pixley ka Seme (mmacfreier) occupied Upington with 2 troops.",
+    "timestamp": "2016-02-10T21:57:07.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Upington (mmacfreier) was fortified from OR Tambo (mmacfreier) with 2 troops.",
+    "timestamp": "2016-02-10T21:57:17.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-10T21:57:17.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-10T21:57:17.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-10T22:00:49.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 4 troops for 14 territories.",
+    "timestamp": "2016-02-10T22:00:50.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 2 troops for holding Western Cape.",
+    "timestamp": "2016-02-10T22:00:50.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for holding Free State.",
+    "timestamp": "2016-02-10T22:00:50.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Namakwa (kwren) was reinforced by kwren with 9 troops.",
+    "timestamp": "2016-02-10T22:01:40.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Namakwa (kwren) attacked Pixley ka Seme (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T22:01:47.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Namakwa (kwren) occupied Pixley ka Seme with 9 troops.",
+    "timestamp": "2016-02-10T22:01:49.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Pixley ka Seme (kwren) attacked Chris Hani (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T22:01:53.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Pixley ka Seme (kwren) occupied Chris Hani with 8 troops.",
+    "timestamp": "2016-02-10T22:01:56.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Chris Hani (kwren) attacked Cacadu (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T22:02:05.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Chris Hani (kwren) occupied Cacadu with 1 troop.",
+    "timestamp": "2016-02-10T22:02:09.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Chris Hani (kwren) attacked Joe Gqabi (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-10T22:02:16.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Chris Hani (kwren) occupied Joe Gqabi with 5 troops.",
+    "timestamp": "2016-02-10T22:02:18.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Joe Gqabi (kwren) was fortified from City of Cape Town (kwren) with 2 troops.",
+    "timestamp": "2016-02-10T22:02:27.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-10T22:02:28.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-10T22:02:28.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Round 7 started.",
+    "timestamp": "2016-02-10T22:02:28.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-10T22:09:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 12 territories.",
+    "timestamp": "2016-02-10T22:09:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Mpumalanga.",
+    "timestamp": "2016-02-10T22:09:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Waterberg (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-02-10T22:09:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Waterberg (ryanbmilbourne) attacked Sekhukhune (Neutral) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-10T22:09:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Waterberg (ryanbmilbourne) occupied Sekhukhune with 1 troop.",
+    "timestamp": "2016-02-10T22:09:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Bojanala Platinum (ryanbmilbourne) was fortified from Waterberg (ryanbmilbourne) with 7 troops.",
+    "timestamp": "2016-02-10T22:10:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-10T22:10:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-10T22:10:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-10T22:10:30.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 4 troops for 13 territories.",
+    "timestamp": "2016-02-10T22:10:31.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding KwaZulu-Natal.",
+    "timestamp": "2016-02-10T22:10:31.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Drakensberg & Coast.",
+    "timestamp": "2016-02-10T22:10:31.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "John Taolo Gaetsewe (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-02-10T22:10:45.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) was reinforced by tanleach1001 with 8 troops.",
+    "timestamp": "2016-02-10T22:25:14.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "John Taolo Gaetsewe (tanleach1001) was reinforced by tanleach1001 with 1 troop.",
+    "timestamp": "2016-02-10T22:25:46.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) attacked OR Tambo (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T22:25:50.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) occupied OR Tambo with 5 troops.",
+    "timestamp": "2016-02-10T22:26:00.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "OR Tambo (tanleach1001) attacked East London (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-10T22:26:09.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "OR Tambo (tanleach1001) occupied East London with 1 troop.",
+    "timestamp": "2016-02-10T22:26:31.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) was fortified from OR Tambo (tanleach1001) with 2 troops.",
+    "timestamp": "2016-02-10T22:27:05.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-10T22:27:05.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-10T22:27:05.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-10T22:28:06.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 3 troops for 5 territories.",
+    "timestamp": "2016-02-10T22:28:06.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Nelson Mandela Bay (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-10T22:28:10.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Nelson Mandela Bay (gcochard) attacked Cacadu (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T22:28:14.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Nelson Mandela Bay (gcochard) occupied Cacadu with 1 troop.",
+    "timestamp": "2016-02-10T22:28:21.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-10T22:28:40.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-10T22:28:40.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-10T23:06:15.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 3 troops for 3 territories.",
+    "timestamp": "2016-02-10T23:06:15.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Pixley ka Seme, Frances Baard, and Ehlanzeni.",
+    "timestamp": "2016-02-10T23:06:22.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Upington (mmacfreier) was reinforced by mmacfreier with 11 troops.",
+    "timestamp": "2016-02-10T23:06:31.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Upington (mmacfreier) attacked Springbok (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T23:06:34.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Upington (mmacfreier) occupied Springbok with 14 troops.",
+    "timestamp": "2016-02-10T23:06:36.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Springbok (mmacfreier) attacked Namakwa (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T23:06:42.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Springbok (mmacfreier) occupied Namakwa with 13 troops.",
+    "timestamp": "2016-02-10T23:06:46.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Namakwa (mmacfreier) attacked Pixley ka Seme (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-10T23:06:52.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Namakwa (mmacfreier) occupied Pixley ka Seme with 1 troop.",
+    "timestamp": "2016-02-10T23:07:07.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Namakwa (mmacfreier) attacked West Coast (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T23:07:13.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Namakwa (mmacfreier) occupied West Coast with 10 troops.",
+    "timestamp": "2016-02-10T23:07:15.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "West Coast (mmacfreier) attacked Cape Winelands (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T23:07:22.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "West Coast (mmacfreier) occupied Cape Winelands with 9 troops.",
+    "timestamp": "2016-02-10T23:07:25.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Cape Winelands (mmacfreier) attacked City of Cape Town (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T23:07:30.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Cape Winelands (mmacfreier) occupied City of Cape Town with 1 troop.",
+    "timestamp": "2016-02-10T23:07:36.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Cape Winelands (mmacfreier) attacked Overberg (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-10T23:07:50.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Cape Winelands (mmacfreier) occupied Overberg with 3 troops.",
+    "timestamp": "2016-02-10T23:07:58.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-10T23:08:16.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-10T23:08:16.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-10T23:42:40.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-02-10T23:42:40.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for holding Free State.",
+    "timestamp": "2016-02-10T23:42:40.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Central Karoo, OR Tambo, and Capricorn.",
+    "timestamp": "2016-02-10T23:42:43.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Chris Hani (kwren) was reinforced by kwren with 6 troops.",
+    "timestamp": "2016-02-10T23:42:55.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Joe Gqabi (kwren) was reinforced by kwren with 8 troops.",
+    "timestamp": "2016-02-10T23:42:58.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Chris Hani (kwren) attacked Amathole (mmacfreier) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-02-10T23:43:03.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Chris Hani (kwren) occupied Amathole with 3 troops.",
+    "timestamp": "2016-02-10T23:43:04.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Amathole (kwren) attacked Buffalo City (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T23:43:07.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Amathole (kwren) occupied Buffalo City with 2 troops.",
+    "timestamp": "2016-02-10T23:43:10.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Joe Gqabi (kwren) attacked Pixley ka Seme (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-10T23:43:13.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Joe Gqabi (kwren) occupied Pixley ka Seme with 13 troops.",
+    "timestamp": "2016-02-10T23:43:15.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Pixley ka Seme (kwren) attacked Upington (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T23:43:18.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Pixley ka Seme (kwren) occupied Upington with 12 troops.",
+    "timestamp": "2016-02-10T23:43:19.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Upington (kwren) attacked Springbok (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-10T23:43:23.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Upington (kwren) occupied Springbok with 10 troops.",
+    "timestamp": "2016-02-10T23:43:25.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Springbok (kwren) attacked Namakwa (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T23:43:27.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Springbok (kwren) occupied Namakwa with 9 troops.",
+    "timestamp": "2016-02-10T23:43:29.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Namakwa (kwren) attacked Cape Winelands (mmacfreier) killing 2, losing 8.",
+    "timestamp": "2016-02-10T23:43:37.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Buffalo City (kwren) attacked East London (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-02-10T23:43:43.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-10T23:43:52.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-10T23:43:52.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Round 8 started.",
+    "timestamp": "2016-02-10T23:43:52.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-10T23:55:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 13 territories.",
+    "timestamp": "2016-02-10T23:55:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Limpopo.",
+    "timestamp": "2016-02-10T23:55:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Mpumalanga.",
+    "timestamp": "2016-02-10T23:55:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Gert Sibande (ryanbmilbourne) was reinforced by ryanbmilbourne with 1 troop.",
+    "timestamp": "2016-02-10T23:56:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Gauteng (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-02-10T23:56:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Ngaka Modiri Molema (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-02-10T23:56:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Ngaka Modiri Molema (ryanbmilbourne) attacked Dr. Ruth S. Mompati (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-10T23:56:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Ngaka Modiri Molema (ryanbmilbourne) occupied Dr. Ruth S. Mompati with 1 troop.",
+    "timestamp": "2016-02-10T23:56:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Bojanala Platinum (ryanbmilbourne) was fortified from Ngaka Modiri Molema (ryanbmilbourne) with 3 troops.",
+    "timestamp": "2016-02-10T23:56:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-10T23:56:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-10T23:56:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-11T00:00:17.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 5 troops for 15 territories.",
+    "timestamp": "2016-02-11T00:00:17.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding KwaZulu-Natal.",
+    "timestamp": "2016-02-11T00:00:17.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Drakensberg & Coast.",
+    "timestamp": "2016-02-11T00:00:17.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "East London (tanleach1001) was reinforced by tanleach1001 with 12 troops.",
+    "timestamp": "2016-02-11T00:01:21.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "East London (tanleach1001) attacked Buffalo City (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T00:01:24.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "East London (tanleach1001) occupied Buffalo City with 12 troops.",
+    "timestamp": "2016-02-11T00:02:12.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Buffalo City (tanleach1001) attacked Amathole (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T00:02:16.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Buffalo City (tanleach1001) occupied Amathole with 11 troops.",
+    "timestamp": "2016-02-11T00:02:21.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Amathole (tanleach1001) attacked Chris Hani (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T00:02:25.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Amathole (tanleach1001) occupied Chris Hani with 10 troops.",
+    "timestamp": "2016-02-11T00:02:30.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Chris Hani (tanleach1001) attacked Cacadu (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T00:02:33.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Chris Hani (tanleach1001) occupied Cacadu with 1 troop.",
+    "timestamp": "2016-02-11T00:02:37.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Chris Hani (tanleach1001) attacked Joe Gqabi (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T00:02:41.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Chris Hani (tanleach1001) occupied Joe Gqabi with 8 troops.",
+    "timestamp": "2016-02-11T00:02:53.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) was fortified from Joe Gqabi (tanleach1001) with 4 troops.",
+    "timestamp": "2016-02-11T00:03:10.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-11T00:03:10.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-11T00:03:10.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-11T03:07:43.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 3 troops for 5 territories.",
+    "timestamp": "2016-02-11T03:07:43.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards West Coast, ZF Mgcawu, and Lejweleputswa.",
+    "timestamp": "2016-02-11T03:08:01.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Nelson Mandela Bay (gcochard) was reinforced by gcochard with 11 troops.",
+    "timestamp": "2016-02-11T03:08:04.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Nelson Mandela Bay (gcochard) attacked Cacadu (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T03:08:09.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Nelson Mandela Bay (gcochard) occupied Cacadu with 18 troops.",
+    "timestamp": "2016-02-11T03:08:11.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Cacadu (gcochard) attacked Amathole (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-11T03:08:24.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Cacadu (gcochard) occupied Amathole with 15 troops.",
+    "timestamp": "2016-02-11T03:08:26.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Amathole (gcochard) attacked Buffalo City (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T03:08:34.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Amathole (gcochard) occupied Buffalo City with 13 troops.",
+    "timestamp": "2016-02-11T03:08:35.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Buffalo City (gcochard) attacked East London (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T03:08:39.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Buffalo City (gcochard) occupied East London with 12 troops.",
+    "timestamp": "2016-02-11T03:08:40.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "East London (gcochard) attacked Chris Hani (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T03:08:44.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "East London (gcochard) occupied Chris Hani with 11 troops.",
+    "timestamp": "2016-02-11T03:08:46.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Chris Hani (gcochard) attacked Joe Gqabi (tanleach1001) conquering it, killing 4, losing 1.",
+    "timestamp": "2016-02-11T03:08:51.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Chris Hani (gcochard) occupied Joe Gqabi with 9 troops.",
+    "timestamp": "2016-02-11T03:08:55.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Joe Gqabi (gcochard) attacked OR Tambo (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T03:08:58.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Joe Gqabi (gcochard) occupied OR Tambo with 1 troop.",
+    "timestamp": "2016-02-11T03:09:04.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Nelson Mandela Bay (gcochard) was fortified from Joe Gqabi (gcochard) with 7 troops.",
+    "timestamp": "2016-02-11T03:12:08.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-11T03:12:08.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-11T03:12:08.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-11T16:02:38.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 3 troops for 4 territories.",
+    "timestamp": "2016-02-11T16:02:38.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Western Cape.",
+    "timestamp": "2016-02-11T16:02:38.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "West Coast (mmacfreier) was reinforced by mmacfreier with 5 troops.",
+    "timestamp": "2016-02-11T16:02:55.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "West Coast (mmacfreier) attacked Springbok (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T16:03:16.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "West Coast (mmacfreier) occupied Springbok with 1 troop.",
+    "timestamp": "2016-02-11T16:03:33.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Cape Winelands (mmacfreier) was fortified from West Coast (mmacfreier) with 2 troops.",
+    "timestamp": "2016-02-11T16:03:49.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-11T16:03:49.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-11T16:03:49.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-11T17:25:03.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-02-11T17:25:03.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 3 troops for holding Free State.",
+    "timestamp": "2016-02-11T17:25:03.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Namakwa (kwren) was reinforced by kwren with 6 troops.",
+    "timestamp": "2016-02-11T17:25:13.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Namakwa (kwren) attacked Springbok (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:25:17.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Namakwa (kwren) occupied Springbok with 1 troop.",
+    "timestamp": "2016-02-11T17:25:19.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Namakwa (kwren) attacked West Coast (mmacfreier) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-11T17:25:24.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Namakwa (kwren) occupied West Coast with 5 troops.",
+    "timestamp": "2016-02-11T17:25:26.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "West Coast (kwren) attacked Cape Winelands (mmacfreier) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-02-11T17:25:33.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "West Coast (kwren) occupied Cape Winelands with 2 troops.",
+    "timestamp": "2016-02-11T17:25:34.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Cape Winelands (kwren) attacked City of Cape Town (mmacfreier) killing 0, losing 1.",
+    "timestamp": "2016-02-11T17:25:38.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-11T17:26:44.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-11T17:26:44.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Round 9 started.",
+    "timestamp": "2016-02-11T17:26:44.000Z",
+    "player": "unknown",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-11T17:26:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 14 territories.",
+    "timestamp": "2016-02-11T17:26:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Limpopo.",
+    "timestamp": "2016-02-11T17:26:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Mpumalanga.",
+    "timestamp": "2016-02-11T17:26:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Dr. Kenneth Kaunda",
+    "timestamp": "2016-02-11T17:27:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Mopani",
+    "timestamp": "2016-02-11T17:27:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards iLembe, Dr. Kenneth Kaunda, and Mopani.",
+    "timestamp": "2016-02-11T17:27:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Bojanala Platinum (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-02-11T17:28:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-02-11T17:29:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Dr. Ruth S. Mompati (ryanbmilbourne) was reinforced by ryanbmilbourne with 7 troops.",
+    "timestamp": "2016-02-11T17:29:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Dr. Ruth S. Mompati (ryanbmilbourne) attacked Frances Baard (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-11T17:29:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Dr. Ruth S. Mompati (ryanbmilbourne) occupied Frances Baard with 5 troops.",
+    "timestamp": "2016-02-11T17:29:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Frances Baard (ryanbmilbourne) attacked ZF Mgcawu (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:29:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Frances Baard (ryanbmilbourne) occupied ZF Mgcawu with 4 troops.",
+    "timestamp": "2016-02-11T17:29:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ZF Mgcawu (ryanbmilbourne) attacked Pixley ka Seme (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-11T17:29:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (ryanbmilbourne) was fortified from Gauteng (ryanbmilbourne) with 11 troops.",
+    "timestamp": "2016-02-11T17:30:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-11T17:30:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-11T17:30:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-11T17:31:54.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 4 troops for 13 territories.",
+    "timestamp": "2016-02-11T17:31:54.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding KwaZulu-Natal.",
+    "timestamp": "2016-02-11T17:31:54.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Drakensberg & Coast.",
+    "timestamp": "2016-02-11T17:31:54.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Cacadu, Port Elisabeth, and Chris Hani.",
+    "timestamp": "2016-02-11T17:31:58.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "uThukela (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-02-11T17:32:10.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) was reinforced by tanleach1001 with 6 troops.",
+    "timestamp": "2016-02-11T17:32:57.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "John Taolo Gaetsewe (tanleach1001) was reinforced by tanleach1001 with 8 troops.",
+    "timestamp": "2016-02-11T17:33:11.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-02-11T17:33:13.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) attacked Joe Gqabi (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:33:22.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) occupied Joe Gqabi with 4 troops.",
+    "timestamp": "2016-02-11T17:34:14.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) attacked OR Tambo (gcochard) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-02-11T17:34:21.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) occupied OR Tambo with 4 troops.",
+    "timestamp": "2016-02-11T17:34:34.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "John Taolo Gaetsewe (tanleach1001) attacked ZF Mgcawu (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T17:34:41.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "John Taolo Gaetsewe (tanleach1001) occupied ZF Mgcawu with 16 troops.",
+    "timestamp": "2016-02-11T17:34:44.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "ZF Mgcawu (tanleach1001) attacked Pixley ka Seme (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:34:48.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "ZF Mgcawu (tanleach1001) occupied Pixley ka Seme with 15 troops.",
+    "timestamp": "2016-02-11T17:34:58.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Pixley ka Seme (tanleach1001) attacked Namakwa (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:35:01.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Pixley ka Seme (tanleach1001) occupied Namakwa with 3 troops.",
+    "timestamp": "2016-02-11T17:35:36.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Namakwa (tanleach1001) attacked Cape Winelands (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:35:46.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Namakwa (tanleach1001) occupied Cape Winelands with 2 troops.",
+    "timestamp": "2016-02-11T17:36:10.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Pixley ka Seme (tanleach1001) attacked Upington (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:36:15.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Pixley ka Seme (tanleach1001) occupied Upington with 11 troops.",
+    "timestamp": "2016-02-11T17:36:18.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Upington (tanleach1001) attacked Springbok (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:36:21.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Upington (tanleach1001) occupied Springbok with 10 troops.",
+    "timestamp": "2016-02-11T17:36:22.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Springbok (tanleach1001) attacked West Coast (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:36:26.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Springbok (tanleach1001) occupied West Coast with 9 troops.",
+    "timestamp": "2016-02-11T17:36:28.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "West Coast (tanleach1001) attacked City of Cape Town (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:36:31.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "West Coast (tanleach1001) occupied City of Cape Town with 8 troops.",
+    "timestamp": "2016-02-11T17:36:32.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "City of Cape Town (tanleach1001) attacked Overberg (mmacfreier) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-11T17:37:22.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier was defeated by tanleach1001.",
+    "timestamp": "2016-02-11T17:37:22.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "City of Cape Town (tanleach1001) occupied Overberg with 7 troops.",
+    "timestamp": "2016-02-11T17:37:27.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Sisonke",
+    "timestamp": "2016-02-11T17:37:39.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Amathole, Sisonke, and Gauteng.",
+    "timestamp": "2016-02-11T17:37:40.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Overberg (tanleach1001) was reinforced by tanleach1001 with 8 troops.",
+    "timestamp": "2016-02-11T17:37:43.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Overberg (tanleach1001) attacked Eden (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:37:47.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Overberg (tanleach1001) occupied Eden with 14 troops.",
+    "timestamp": "2016-02-11T17:37:51.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Eden (tanleach1001) attacked George (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:37:55.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Eden (tanleach1001) occupied George with 13 troops.",
+    "timestamp": "2016-02-11T17:37:57.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "George (tanleach1001) attacked Port Elisabeth (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:38:00.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "George (tanleach1001) occupied Port Elisabeth with 12 troops.",
+    "timestamp": "2016-02-11T17:38:03.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Port Elisabeth (tanleach1001) attacked Nelson Mandela Bay (gcochard) conquering it, killing 8, losing 4.",
+    "timestamp": "2016-02-11T17:38:14.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Port Elisabeth (tanleach1001) occupied Nelson Mandela Bay with 7 troops.",
+    "timestamp": "2016-02-11T17:38:18.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Nelson Mandela Bay (tanleach1001) attacked Cacadu (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:38:21.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Nelson Mandela Bay (tanleach1001) occupied Cacadu with 6 troops.",
+    "timestamp": "2016-02-11T17:38:25.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Cacadu (tanleach1001) attacked Central Karoo (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:38:28.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Cacadu (tanleach1001) occupied Central Karoo with 1 troop.",
+    "timestamp": "2016-02-11T17:38:31.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Cacadu (tanleach1001) attacked Amathole (gcochard) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-11T17:38:39.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Cacadu (tanleach1001) occupied Amathole with 2 troops.",
+    "timestamp": "2016-02-11T17:38:41.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Amathole (tanleach1001) attacked Buffalo City (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:38:45.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "OR Tambo (tanleach1001) attacked East London (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:38:49.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "OR Tambo (tanleach1001) occupied East London with 1 troop.",
+    "timestamp": "2016-02-11T17:38:55.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "OR Tambo (tanleach1001) attacked Chris Hani (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:38:58.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "gcochard was defeated by tanleach1001.",
+    "timestamp": "2016-02-11T17:38:58.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "OR Tambo (tanleach1001) occupied Chris Hani with 1 troop.",
+    "timestamp": "2016-02-11T17:39:05.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Joe Gqabi (tanleach1001) was fortified from Sisonke (tanleach1001) with 2 troops.",
+    "timestamp": "2016-02-11T17:39:36.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-11T17:39:36.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-11T17:39:36.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-11T17:39:57.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 3 troops for 5 territories.",
+    "timestamp": "2016-02-11T17:39:57.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 3 troops for holding Free State.",
+    "timestamp": "2016-02-11T17:39:57.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Xhariep (kwren) was reinforced by kwren with 6 troops.",
+    "timestamp": "2016-02-11T17:40:08.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Xhariep (kwren) attacked Joe Gqabi (tanleach1001) conquering it, killing 6, losing 2.",
+    "timestamp": "2016-02-11T17:40:15.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Xhariep (kwren) occupied Joe Gqabi with 1 troop.",
+    "timestamp": "2016-02-11T17:40:32.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-11T17:40:37.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-11T17:40:37.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Round 10 started.",
+    "timestamp": "2016-02-11T17:40:37.000Z",
+    "player": "unknown",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-11T17:54:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for 15 territories.",
+    "timestamp": "2016-02-11T17:54:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Limpopo.",
+    "timestamp": "2016-02-11T17:54:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Mpumalanga.",
+    "timestamp": "2016-02-11T17:54:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Dr. Ruth S. Mompati (ryanbmilbourne) was reinforced by ryanbmilbourne with 10 troops.",
+    "timestamp": "2016-02-11T17:54:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Dr. Ruth S. Mompati (ryanbmilbourne) attacked John Taolo Gaetsewe (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:54:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Dr. Ruth S. Mompati (ryanbmilbourne) occupied John Taolo Gaetsewe with 10 troops.",
+    "timestamp": "2016-02-11T17:54:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "John Taolo Gaetsewe (ryanbmilbourne) attacked ZF Mgcawu (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:54:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "John Taolo Gaetsewe (ryanbmilbourne) occupied ZF Mgcawu with 9 troops.",
+    "timestamp": "2016-02-11T17:54:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ZF Mgcawu (ryanbmilbourne) attacked Pixley ka Seme (tanleach1001) killing 0, losing 3.",
+    "timestamp": "2016-02-11T17:54:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ZF Mgcawu (ryanbmilbourne) was fortified from Bojanala Platinum (ryanbmilbourne) with 14 troops.",
+    "timestamp": "2016-02-11T17:55:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-11T17:55:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-11T17:55:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-11T17:56:12.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 10 troops for 31 territories.",
+    "timestamp": "2016-02-11T17:56:12.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding KwaZulu-Natal.",
+    "timestamp": "2016-02-11T17:56:12.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Drakensberg & Coast.",
+    "timestamp": "2016-02-11T17:56:12.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Northern Cape.",
+    "timestamp": "2016-02-11T17:56:12.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Western Cape.",
+    "timestamp": "2016-02-11T17:56:12.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Central Cape.",
+    "timestamp": "2016-02-11T17:56:12.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Pixley ka Seme (tanleach1001) was reinforced by tanleach1001 with 20 troops.",
+    "timestamp": "2016-02-11T17:57:07.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-02-11T17:57:33.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) attacked Joe Gqabi (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:57:37.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) occupied Joe Gqabi with 16 troops.",
+    "timestamp": "2016-02-11T17:57:43.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Joe Gqabi (tanleach1001) attacked Xhariep (kwren) conquering it, killing 7, losing 2.",
+    "timestamp": "2016-02-11T17:58:05.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Joe Gqabi (tanleach1001) occupied Xhariep with 13 troops.",
+    "timestamp": "2016-02-11T17:59:16.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Xhariep (tanleach1001) attacked Bloemfontein (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:59:20.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Xhariep (tanleach1001) occupied Bloemfontein with 12 troops.",
+    "timestamp": "2016-02-11T17:59:21.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Bloemfontein (tanleach1001) attacked Thabo Mofutsanyana (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:59:24.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Bloemfontein (tanleach1001) occupied Thabo Mofutsanyana with 11 troops.",
+    "timestamp": "2016-02-11T17:59:29.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Thabo Mofutsanyana (tanleach1001) attacked Fezile Dabi (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:59:32.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Thabo Mofutsanyana (tanleach1001) occupied Fezile Dabi with 10 troops.",
+    "timestamp": "2016-02-11T17:59:33.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Fezile Dabi (tanleach1001) attacked Lejweleputswa (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T17:59:36.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "kwren was defeated by tanleach1001.",
+    "timestamp": "2016-02-11T17:59:36.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Fezile Dabi (tanleach1001) occupied Lejweleputswa with 9 troops.",
+    "timestamp": "2016-02-11T17:59:39.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Cape Winelands",
+    "timestamp": "2016-02-11T17:59:48.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Bloemfontein",
+    "timestamp": "2016-02-11T17:59:48.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Vhembe, Cape Winelands, and Bloemfontein.",
+    "timestamp": "2016-02-11T17:59:48.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Lejweleputswa (tanleach1001) was reinforced by tanleach1001 with 8 troops.",
+    "timestamp": "2016-02-11T18:00:28.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Pixley ka Seme (tanleach1001) attacked ZF Mgcawu (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-02-11T18:00:46.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Thabo Mofutsanyana (tanleach1001) was fortified from Cape Winelands (tanleach1001) with 3 troops.",
+    "timestamp": "2016-02-11T18:01:11.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-11T18:01:11.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-11T18:01:11.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Round 11 started.",
+    "timestamp": "2016-02-11T18:01:11.000Z",
+    "player": "unknown",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-11T19:18:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for 17 territories.",
+    "timestamp": "2016-02-11T19:18:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Limpopo.",
+    "timestamp": "2016-02-11T19:18:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Mpumalanga.",
+    "timestamp": "2016-02-11T19:18:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for holding Northwest.",
+    "timestamp": "2016-02-11T19:18:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Ngaka Modiri Molema",
+    "timestamp": "2016-02-11T19:18:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Namakwa, Ngaka Modiri Molema, and Fezile Dabi.",
+    "timestamp": "2016-02-11T19:18:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Gert Sibande (ryanbmilbourne) was reinforced by ryanbmilbourne with 22 troops.",
+    "timestamp": "2016-02-11T19:19:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Gert Sibande (ryanbmilbourne) attacked Amajuba (tanleach1001) conquering it, killing 7, losing 1.",
+    "timestamp": "2016-02-11T19:19:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Gert Sibande (ryanbmilbourne) occupied Amajuba with 27 troops.",
+    "timestamp": "2016-02-11T19:19:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Amajuba (ryanbmilbourne) attacked uMzinyathi (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-11T19:19:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Amajuba (ryanbmilbourne) occupied uMzinyathi with 24 troops.",
+    "timestamp": "2016-02-11T19:19:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "uMzinyathi (ryanbmilbourne) attacked uMgungundlovu (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:19:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "uMzinyathi (ryanbmilbourne) occupied uMgungundlovu with 23 troops.",
+    "timestamp": "2016-02-11T19:19:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "uMgungundlovu (ryanbmilbourne) attacked Sisonke (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:19:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "uMgungundlovu (ryanbmilbourne) occupied Sisonke with 22 troops.",
+    "timestamp": "2016-02-11T19:19:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Sisonke (ryanbmilbourne) attacked Alfred Nzo (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-11T19:20:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Sisonke (ryanbmilbourne) occupied Alfred Nzo with 19 troops.",
+    "timestamp": "2016-02-11T19:20:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Alfred Nzo (ryanbmilbourne) attacked Joe Gqabi (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T19:20:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Alfred Nzo (ryanbmilbourne) occupied Joe Gqabi with 17 troops.",
+    "timestamp": "2016-02-11T19:20:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Joe Gqabi (ryanbmilbourne) attacked Xhariep (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:20:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Joe Gqabi (ryanbmilbourne) occupied Xhariep with 1 troop.",
+    "timestamp": "2016-02-11T19:20:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Joe Gqabi (ryanbmilbourne) attacked Chris Hani (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T19:20:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Joe Gqabi (ryanbmilbourne) occupied Chris Hani with 14 troops.",
+    "timestamp": "2016-02-11T19:20:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Chris Hani (ryanbmilbourne) attacked Central Karoo (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:20:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Chris Hani (ryanbmilbourne) occupied Central Karoo with 13 troops.",
+    "timestamp": "2016-02-11T19:20:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Central Karoo (ryanbmilbourne) attacked Namakwa (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T19:20:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Central Karoo (ryanbmilbourne) occupied Namakwa with 1 troop.",
+    "timestamp": "2016-02-11T19:20:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Central Karoo (ryanbmilbourne) attacked Cape Winelands (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:20:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Central Karoo (ryanbmilbourne) occupied Cape Winelands with 1 troop.",
+    "timestamp": "2016-02-11T19:20:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Gert Sibande (ryanbmilbourne) was fortified from Central Karoo (ryanbmilbourne) with 9 troops.",
+    "timestamp": "2016-02-11T19:21:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-11T19:21:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-11T19:21:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-11T19:21:14.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 8 troops for 26 territories.",
+    "timestamp": "2016-02-11T19:21:14.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Pixley ka Seme (tanleach1001) was reinforced by tanleach1001 with 8 troops.",
+    "timestamp": "2016-02-11T19:23:00.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Pixley ka Seme (tanleach1001) attacked ZF Mgcawu (ryanbmilbourne) killing 19, losing 26.",
+    "timestamp": "2016-02-11T19:23:28.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Lejweleputswa (tanleach1001) attacked Dr. Kenneth Kaunda (ryanbmilbourne) killing 18, losing 16.",
+    "timestamp": "2016-02-11T19:23:40.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "uThukela (tanleach1001) attacked Amajuba (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:23:43.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "uThukela (tanleach1001) occupied Amajuba with 3 troops.",
+    "timestamp": "2016-02-11T19:23:47.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Amajuba (tanleach1001) attacked Gert Sibande (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-02-11T19:23:50.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Thabo Mofutsanyana (tanleach1001) attacked Gert Sibande (ryanbmilbourne) killing 6, losing 3.",
+    "timestamp": "2016-02-11T19:23:54.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Bloemfontein (tanleach1001) attacked Xhariep (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:23:57.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Bloemfontein (tanleach1001) occupied Xhariep with 2 troops.",
+    "timestamp": "2016-02-11T19:24:00.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Xhariep (tanleach1001) attacked Joe Gqabi (ryanbmilbourne) killing 0, losing 1.",
+    "timestamp": "2016-02-11T19:24:02.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "OR Tambo (tanleach1001) attacked Alfred Nzo (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:24:06.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-11T19:24:16.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-11T19:24:16.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Round 12 started.",
+    "timestamp": "2016-02-11T19:24:16.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-11T19:25:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for 25 territories.",
+    "timestamp": "2016-02-11T19:25:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Limpopo.",
+    "timestamp": "2016-02-11T19:25:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Mpumalanga.",
+    "timestamp": "2016-02-11T19:25:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for holding Northwest.",
+    "timestamp": "2016-02-11T19:25:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Gert Sibande (ryanbmilbourne) was reinforced by ryanbmilbourne with 17 troops.",
+    "timestamp": "2016-02-11T19:25:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Gert Sibande (ryanbmilbourne) attacked Amajuba (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-11T19:25:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Gert Sibande (ryanbmilbourne) occupied Amajuba with 18 troops.",
+    "timestamp": "2016-02-11T19:25:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Amajuba (ryanbmilbourne) attacked Zululand (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:26:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Amajuba (ryanbmilbourne) occupied Zululand with 5 troops.",
+    "timestamp": "2016-02-11T19:26:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Zululand (ryanbmilbourne) attacked uMkhanyakude (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:26:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Zululand (ryanbmilbourne) occupied uMkhanyakude with 1 troop.",
+    "timestamp": "2016-02-11T19:26:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Zululand (ryanbmilbourne) attacked uThungulu (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:26:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Zululand (ryanbmilbourne) occupied uThungulu with 3 troops.",
+    "timestamp": "2016-02-11T19:26:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Amajuba (ryanbmilbourne) attacked uThukela (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:26:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Amajuba (ryanbmilbourne) occupied uThukela with 12 troops.",
+    "timestamp": "2016-02-11T19:26:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "uThukela (ryanbmilbourne) attacked Thabo Mofutsanyana (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:26:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "uThukela (ryanbmilbourne) occupied Thabo Mofutsanyana with 11 troops.",
+    "timestamp": "2016-02-11T19:26:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Thabo Mofutsanyana (ryanbmilbourne) attacked Fezile Dabi (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:26:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Thabo Mofutsanyana (ryanbmilbourne) occupied Fezile Dabi with 10 troops.",
+    "timestamp": "2016-02-11T19:26:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Fezile Dabi (ryanbmilbourne) attacked Lejweleputswa (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:26:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Fezile Dabi (ryanbmilbourne) occupied Lejweleputswa with 9 troops.",
+    "timestamp": "2016-02-11T19:26:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Lejweleputswa (ryanbmilbourne) attacked Bloemfontein (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:27:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Lejweleputswa (ryanbmilbourne) occupied Bloemfontein with 8 troops.",
+    "timestamp": "2016-02-11T19:27:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Bloemfontein (ryanbmilbourne) attacked Xhariep (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T19:27:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Bloemfontein (ryanbmilbourne) occupied Xhariep with 6 troops.",
+    "timestamp": "2016-02-11T19:27:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ZF Mgcawu (ryanbmilbourne) was fortified from Mopani (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-02-11T19:27:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-11T19:27:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-11T19:27:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-11T19:27:54.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 6 troops for 19 territories.",
+    "timestamp": "2016-02-11T19:27:54.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 2 troops on East London",
+    "timestamp": "2016-02-11T19:28:00.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Gert Sibande, Waterberg, and East London.",
+    "timestamp": "2016-02-11T19:28:00.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) was reinforced by tanleach1001 with 14 troops.",
+    "timestamp": "2016-02-11T19:28:17.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) attacked Joe Gqabi (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:28:22.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Alfred Nzo (tanleach1001) occupied Joe Gqabi with 14 troops.",
+    "timestamp": "2016-02-11T19:28:25.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Joe Gqabi (tanleach1001) attacked Chris Hani (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:28:28.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Joe Gqabi (tanleach1001) occupied Chris Hani with 1 troop.",
+    "timestamp": "2016-02-11T19:28:31.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Joe Gqabi (tanleach1001) attacked Xhariep (ryanbmilbourne) conquering it, killing 6, losing 4.",
+    "timestamp": "2016-02-11T19:28:38.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Joe Gqabi (tanleach1001) occupied Xhariep with 8 troops.",
+    "timestamp": "2016-02-11T19:28:42.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Xhariep (tanleach1001) attacked Lejweleputswa (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:28:44.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Xhariep (tanleach1001) occupied Lejweleputswa with 7 troops.",
+    "timestamp": "2016-02-11T19:28:46.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Lejweleputswa (tanleach1001) attacked Dr. Kenneth Kaunda (ryanbmilbourne) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-02-11T19:28:51.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Lejweleputswa (tanleach1001) occupied Dr. Kenneth Kaunda with 4 troops.",
+    "timestamp": "2016-02-11T19:28:54.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (tanleach1001) attacked Gauteng (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:28:57.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (tanleach1001) occupied Gauteng with 3 troops.",
+    "timestamp": "2016-02-11T19:28:59.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Gauteng (tanleach1001) attacked Waterberg (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T19:29:06.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Gauteng (tanleach1001) occupied Waterberg with 2 troops.",
+    "timestamp": "2016-02-11T19:29:28.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-11T19:29:34.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-11T19:29:34.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Round 13 started.",
+    "timestamp": "2016-02-11T19:29:34.000Z",
+    "player": "unknown",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-11T21:33:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne received 9 troops for 28 territories.",
+    "timestamp": "2016-02-11T21:33:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for holding KwaZulu-Natal.",
+    "timestamp": "2016-02-11T21:33:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Ngaka Modiri Molema (ryanbmilbourne) was reinforced by ryanbmilbourne with 13 troops.",
+    "timestamp": "2016-02-11T21:33:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Ngaka Modiri Molema (ryanbmilbourne) attacked Dr. Kenneth Kaunda (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-11T21:33:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Ngaka Modiri Molema (ryanbmilbourne) occupied Dr. Kenneth Kaunda with 13 troops.",
+    "timestamp": "2016-02-11T21:33:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (ryanbmilbourne) attacked Gauteng (tanleach1001) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-02-11T21:34:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (ryanbmilbourne) occupied Gauteng with 9 troops.",
+    "timestamp": "2016-02-11T21:34:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Gauteng (ryanbmilbourne) attacked Waterberg (tanleach1001) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-02-11T21:34:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Gauteng (ryanbmilbourne) occupied Waterberg with 1 troop.",
+    "timestamp": "2016-02-11T21:34:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "uThungulu (ryanbmilbourne) attacked iLembe (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:34:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "uThungulu (ryanbmilbourne) occupied iLembe with 2 troops.",
+    "timestamp": "2016-02-11T21:34:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "iLembe (ryanbmilbourne) attacked Durban (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:34:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (ryanbmilbourne) was fortified from Gauteng (ryanbmilbourne) with 5 troops.",
+    "timestamp": "2016-02-11T21:34:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-11T21:34:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-11T21:34:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-11T21:35:17.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received 7 troops for 21 territories.",
+    "timestamp": "2016-02-11T21:35:17.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Eastern Cape.",
+    "timestamp": "2016-02-11T21:35:17.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Ugu (tanleach1001) was reinforced by tanleach1001 with 11 troops.",
+    "timestamp": "2016-02-11T21:35:22.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Ugu (tanleach1001) attacked Sisonke (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T21:35:28.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Ugu (tanleach1001) occupied Sisonke with 10 troops.",
+    "timestamp": "2016-02-11T21:35:31.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Sisonke (tanleach1001) attacked uMgungundlovu (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-11T21:35:36.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Sisonke (tanleach1001) occupied uMgungundlovu with 7 troops.",
+    "timestamp": "2016-02-11T21:35:38.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "uMgungundlovu (tanleach1001) attacked Durban (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:35:42.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "uMgungundlovu (tanleach1001) occupied Durban with 6 troops.",
+    "timestamp": "2016-02-11T21:35:43.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Durban (tanleach1001) attacked iLembe (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T21:35:47.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Durban (tanleach1001) occupied iLembe with 4 troops.",
+    "timestamp": "2016-02-11T21:35:49.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "iLembe (tanleach1001) attacked uThungulu (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T21:35:53.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "iLembe (tanleach1001) occupied uThungulu with 2 troops.",
+    "timestamp": "2016-02-11T21:35:55.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "uThungulu (tanleach1001) was fortified from East London (tanleach1001) with 2 troops.",
+    "timestamp": "2016-02-11T21:36:05.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-11T21:36:05.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-11T21:36:05.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Round 14 started.",
+    "timestamp": "2016-02-11T21:36:05.000Z",
+    "player": "unknown",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-11T21:36:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 9 troops for 28 territories.",
+    "timestamp": "2016-02-11T21:36:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for holding Northwest.",
+    "timestamp": "2016-02-11T21:36:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Mpumalanga.",
+    "timestamp": "2016-02-11T21:36:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Limpopo.",
+    "timestamp": "2016-02-11T21:36:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on uThukela",
+    "timestamp": "2016-02-11T21:36:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Thabo Mofutsanyana",
+    "timestamp": "2016-02-11T21:36:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards uThukela, Thabo Mofutsanyana, and Alfred Nzo.",
+    "timestamp": "2016-02-11T21:36:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (ryanbmilbourne) was reinforced by ryanbmilbourne with 26 troops.",
+    "timestamp": "2016-02-11T21:36:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (ryanbmilbourne) attacked Lejweleputswa (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:36:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (ryanbmilbourne) occupied Lejweleputswa with 31 troops.",
+    "timestamp": "2016-02-11T21:36:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Lejweleputswa (ryanbmilbourne) attacked Xhariep (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:36:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Lejweleputswa (ryanbmilbourne) occupied Xhariep with 30 troops.",
+    "timestamp": "2016-02-11T21:36:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Xhariep (ryanbmilbourne) attacked Joe Gqabi (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:36:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Xhariep (ryanbmilbourne) occupied Joe Gqabi with 29 troops.",
+    "timestamp": "2016-02-11T21:36:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "uThukela (ryanbmilbourne) attacked uMgungundlovu (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:37:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "uThukela (ryanbmilbourne) occupied uMgungundlovu with 2 troops.",
+    "timestamp": "2016-02-11T21:37:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "uMgungundlovu (ryanbmilbourne) attacked Sisonke (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:37:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Joe Gqabi (ryanbmilbourne) attacked OR Tambo (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T21:37:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Joe Gqabi (ryanbmilbourne) occupied OR Tambo with 27 troops.",
+    "timestamp": "2016-02-11T21:37:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "OR Tambo (ryanbmilbourne) attacked Alfred Nzo (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:37:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "OR Tambo (ryanbmilbourne) occupied Alfred Nzo with 13 troops.",
+    "timestamp": "2016-02-11T21:37:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Alfred Nzo (ryanbmilbourne) attacked Ugu (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:37:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Alfred Nzo (ryanbmilbourne) occupied Ugu with 12 troops.",
+    "timestamp": "2016-02-11T21:37:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Ugu (ryanbmilbourne) attacked Durban (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:37:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Ugu (ryanbmilbourne) occupied Durban with 11 troops.",
+    "timestamp": "2016-02-11T21:37:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Durban (ryanbmilbourne) attacked iLembe (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-11T21:38:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Durban (ryanbmilbourne) occupied iLembe with 8 troops.",
+    "timestamp": "2016-02-11T21:38:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "iLembe (ryanbmilbourne) attacked uThungulu (tanleach1001) conquering it, killing 4, losing 3.",
+    "timestamp": "2016-02-11T21:38:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "iLembe (ryanbmilbourne) occupied uThungulu with 4 troops.",
+    "timestamp": "2016-02-11T21:38:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "OR Tambo (ryanbmilbourne) attacked East London (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:38:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "OR Tambo (ryanbmilbourne) occupied East London with 13 troops.",
+    "timestamp": "2016-02-11T21:38:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "East London (ryanbmilbourne) attacked Buffalo City (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:38:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "East London (ryanbmilbourne) occupied Buffalo City with 12 troops.",
+    "timestamp": "2016-02-11T21:38:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Buffalo City (ryanbmilbourne) attacked Amathole (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:38:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Buffalo City (ryanbmilbourne) occupied Amathole with 11 troops.",
+    "timestamp": "2016-02-11T21:38:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Amathole (ryanbmilbourne) attacked Chris Hani (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T21:38:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Amathole (ryanbmilbourne) occupied Chris Hani with 9 troops.",
+    "timestamp": "2016-02-11T21:38:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ZF Mgcawu (ryanbmilbourne) was fortified from Chris Hani (ryanbmilbourne) with 8 troops.",
+    "timestamp": "2016-02-11T21:39:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-11T21:39:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-11T21:39:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-11T21:40:12.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 11 territories.",
+    "timestamp": "2016-02-11T21:40:12.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Ugu, uThungulu, and Zululand.",
+    "timestamp": "2016-02-11T21:40:18.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Pixley ka Seme (tanleach1001) was reinforced by tanleach1001 with 11 troops.",
+    "timestamp": "2016-02-11T21:40:26.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Pixley ka Seme (tanleach1001) attacked Joe Gqabi (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:40:30.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Pixley ka Seme (tanleach1001) occupied Joe Gqabi with 11 troops.",
+    "timestamp": "2016-02-11T21:40:32.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Joe Gqabi (tanleach1001) attacked Alfred Nzo (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T21:40:36.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Joe Gqabi (tanleach1001) occupied Alfred Nzo with 1 troop.",
+    "timestamp": "2016-02-11T21:40:40.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Joe Gqabi (tanleach1001) attacked Xhariep (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:40:44.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Joe Gqabi (tanleach1001) occupied Xhariep with 8 troops.",
+    "timestamp": "2016-02-11T21:40:45.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Xhariep (tanleach1001) attacked Lejweleputswa (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:40:48.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Xhariep (tanleach1001) occupied Lejweleputswa with 7 troops.",
+    "timestamp": "2016-02-11T21:40:51.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Lejweleputswa (tanleach1001) attacked Dr. Kenneth Kaunda (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T21:40:55.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Lejweleputswa (tanleach1001) occupied Dr. Kenneth Kaunda with 5 troops.",
+    "timestamp": "2016-02-11T21:40:58.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (tanleach1001) attacked Gauteng (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:41:03.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (tanleach1001) occupied Gauteng with 4 troops.",
+    "timestamp": "2016-02-11T21:41:04.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Gauteng (tanleach1001) attacked Waterberg (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:41:08.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Gauteng (tanleach1001) occupied Waterberg with 1 troop.",
+    "timestamp": "2016-02-11T21:41:12.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Gauteng (tanleach1001) attacked Nkangala (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-02-11T21:41:17.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-11T21:41:30.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-11T21:41:30.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Round 15 started.",
+    "timestamp": "2016-02-11T21:41:30.000Z",
+    "player": "unknown",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-11T21:41:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received 12 troops for 36 territories.",
+    "timestamp": "2016-02-11T21:41:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for holding KwaZulu-Natal.",
+    "timestamp": "2016-02-11T21:41:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Capricorn (ryanbmilbourne) was reinforced by ryanbmilbourne with 16 troops.",
+    "timestamp": "2016-02-11T21:42:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Capricorn (ryanbmilbourne) attacked Waterberg (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:42:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Capricorn (ryanbmilbourne) occupied Waterberg with 16 troops.",
+    "timestamp": "2016-02-11T21:42:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Waterberg (ryanbmilbourne) attacked Gauteng (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:42:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Waterberg (ryanbmilbourne) occupied Gauteng with 15 troops.",
+    "timestamp": "2016-02-11T21:42:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Gauteng (ryanbmilbourne) attacked Dr. Kenneth Kaunda (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T21:42:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Gauteng (ryanbmilbourne) occupied Dr. Kenneth Kaunda with 13 troops.",
+    "timestamp": "2016-02-11T21:42:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (ryanbmilbourne) attacked Lejweleputswa (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T21:42:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Dr. Kenneth Kaunda (ryanbmilbourne) occupied Lejweleputswa with 11 troops.",
+    "timestamp": "2016-02-11T21:42:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Lejweleputswa (ryanbmilbourne) attacked Xhariep (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-11T21:42:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Lejweleputswa (ryanbmilbourne) occupied Xhariep with 9 troops.",
+    "timestamp": "2016-02-11T21:42:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Xhariep (ryanbmilbourne) attacked Joe Gqabi (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:42:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Xhariep (ryanbmilbourne) occupied Joe Gqabi with 8 troops.",
+    "timestamp": "2016-02-11T21:42:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Joe Gqabi (ryanbmilbourne) attacked Alfred Nzo (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:42:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Joe Gqabi (ryanbmilbourne) occupied Alfred Nzo with 1 troop.",
+    "timestamp": "2016-02-11T21:42:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ZF Mgcawu (ryanbmilbourne) attacked Pixley ka Seme (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:43:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ZF Mgcawu (ryanbmilbourne) occupied Pixley ka Seme with 10 troops.",
+    "timestamp": "2016-02-11T21:43:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Pixley ka Seme (ryanbmilbourne) attacked Upington (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:43:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Pixley ka Seme (ryanbmilbourne) occupied Upington with 9 troops.",
+    "timestamp": "2016-02-11T21:43:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Upington (ryanbmilbourne) attacked Springbok (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:43:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Upington (ryanbmilbourne) occupied Springbok with 8 troops.",
+    "timestamp": "2016-02-11T21:43:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Springbok (ryanbmilbourne) attacked West Coast (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:43:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Springbok (ryanbmilbourne) occupied West Coast with 7 troops.",
+    "timestamp": "2016-02-11T21:43:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "West Coast (ryanbmilbourne) attacked City of Cape Town (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:43:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "West Coast (ryanbmilbourne) occupied City of Cape Town with 6 troops.",
+    "timestamp": "2016-02-11T21:43:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "City of Cape Town (ryanbmilbourne) attacked Overberg (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:43:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "City of Cape Town (ryanbmilbourne) occupied Overberg with 5 troops.",
+    "timestamp": "2016-02-11T21:43:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Overberg (ryanbmilbourne) attacked Eden (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:43:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Overberg (ryanbmilbourne) occupied Eden with 4 troops.",
+    "timestamp": "2016-02-11T21:43:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Eden (ryanbmilbourne) attacked George (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:43:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Eden (ryanbmilbourne) occupied George with 3 troops.",
+    "timestamp": "2016-02-11T21:43:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "George (ryanbmilbourne) attacked Port Elisabeth (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:43:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "George (ryanbmilbourne) occupied Port Elisabeth with 2 troops.",
+    "timestamp": "2016-02-11T21:43:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Port Elisabeth (ryanbmilbourne) attacked Cacadu (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:44:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-11T21:45:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-11T21:45:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-11T21:45:38.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 1 territory.",
+    "timestamp": "2016-02-11T21:45:38.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Nelson Mandela Bay (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-02-11T21:45:41.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Nelson Mandela Bay (tanleach1001) attacked Cacadu (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:45:46.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Nelson Mandela Bay (tanleach1001) occupied Cacadu with 3 troops.",
+    "timestamp": "2016-02-11T21:45:48.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Cacadu (tanleach1001) attacked Chris Hani (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:45:54.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Cacadu (tanleach1001) occupied Chris Hani with 2 troops.",
+    "timestamp": "2016-02-11T21:45:59.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Chris Hani (tanleach1001) attacked Pixley ka Seme (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:46:02.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-11T21:46:06.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-11T21:46:06.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Round 16 started.",
+    "timestamp": "2016-02-11T21:46:06.000Z",
+    "player": "unknown",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-11T21:46:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 16 troops for 50 territories.",
+    "timestamp": "2016-02-11T21:46:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for holding KwaZulu-Natal.",
+    "timestamp": "2016-02-11T21:46:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Limpopo.",
+    "timestamp": "2016-02-11T21:46:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Mpumalanga.",
+    "timestamp": "2016-02-11T21:46:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for holding Northwest.",
+    "timestamp": "2016-02-11T21:46:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Free State.",
+    "timestamp": "2016-02-11T21:46:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Drakensberg & Coast.",
+    "timestamp": "2016-02-11T21:46:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Western Cape.",
+    "timestamp": "2016-02-11T21:46:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Joe Gqabi (ryanbmilbourne) was reinforced by ryanbmilbourne with 37 troops.",
+    "timestamp": "2016-02-11T21:46:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Joe Gqabi (ryanbmilbourne) attacked Pixley ka Seme (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:46:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Joe Gqabi (ryanbmilbourne) occupied Pixley ka Seme with 1 troop.",
+    "timestamp": "2016-02-11T21:46:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Joe Gqabi (ryanbmilbourne) attacked Chris Hani (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:46:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Joe Gqabi (ryanbmilbourne) occupied Chris Hani with 42 troops.",
+    "timestamp": "2016-02-11T21:46:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Chris Hani (ryanbmilbourne) attacked Cacadu (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:46:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Chris Hani (ryanbmilbourne) occupied Cacadu with 41 troops.",
+    "timestamp": "2016-02-11T21:46:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Cacadu (ryanbmilbourne) attacked Nelson Mandela Bay (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-11T21:46:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 was defeated by ryanbmilbourne.",
+    "timestamp": "2016-02-11T21:46:58.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-02-11T21:46:58.000Z",
+    "player": "unknown",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne won the game.",
+    "timestamp": "2016-02-11T21:46:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 79 rating.",
+    "timestamp": "2016-02-11T21:46:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 20 tokens.",
+    "timestamp": "2016-02-11T21:46:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 lost 18 rating.",
+    "timestamp": "2016-02-11T21:46:58.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 20 tokens.",
+    "timestamp": "2016-02-11T21:46:58.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "gcochard lost 14 rating.",
+    "timestamp": "2016-02-11T21:46:58.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "gcochard received 20 tokens.",
+    "timestamp": "2016-02-11T21:46:58.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier lost 26 rating.",
+    "timestamp": "2016-02-11T21:46:58.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 20 tokens.",
+    "timestamp": "2016-02-11T21:46:58.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "kwren lost 21 rating.",
+    "timestamp": "2016-02-11T21:46:58.000Z",
+    "player": "kwren",
+    "round": 16
+  },
+  {
+    "message": "kwren received 20 tokens.",
+    "timestamp": "2016-02-11T21:46:58.000Z",
+    "player": "kwren",
+    "round": 16
+  }
+]

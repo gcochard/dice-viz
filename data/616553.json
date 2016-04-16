@@ -1,0 +1,5612 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-02-22T23:57:27.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "kwren joined the game.",
+    "timestamp": "2016-02-22T23:57:27.000Z",
+    "player": "kwren",
+    "round": 0
+  },
+  {
+    "message": "tanleach1001 joined the game.",
+    "timestamp": "2016-02-22T23:59:15.000Z",
+    "player": "tanleach1001",
+    "round": 0
+  },
+  {
+    "message": "jobratt joined the game.",
+    "timestamp": "2016-02-22T23:59:32.000Z",
+    "player": "jobratt",
+    "round": 0
+  },
+  {
+    "message": "gcochard joined the game.",
+    "timestamp": "2016-02-23T00:00:51.000Z",
+    "player": "gcochard",
+    "round": 0
+  },
+  {
+    "message": "mmacfreier joined the game.",
+    "timestamp": "2016-02-23T00:01:04.000Z",
+    "player": "mmacfreier",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne joined the game.",
+    "timestamp": "2016-02-23T02:14:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-02-23T02:14:10.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-23T16:44:48.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received 4 troops for 12 territories.",
+    "timestamp": "2016-02-23T16:44:48.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Elizabeth (mmacfreier) was reinforced by mmacfreier with 4 troops.",
+    "timestamp": "2016-02-23T16:45:16.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Elizabeth (mmacfreier) attacked Woodbridge (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-23T16:45:21.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Elizabeth (mmacfreier) occupied Woodbridge with 1 troop.",
+    "timestamp": "2016-02-23T16:45:28.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Queens (mmacfreier) was fortified from Mets Stadium (mmacfreier) with 2 troops.",
+    "timestamp": "2016-02-23T16:45:39.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-23T16:45:40.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-23T16:45:40.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-23T17:01:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 11 territories.",
+    "timestamp": "2016-02-23T17:01:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Laconia (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-23T17:01:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "New Rochelle (ryanbmilbourne) attacked Pelham (mmacfreier) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-23T17:02:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "New Rochelle (ryanbmilbourne) occupied Pelham with 2 troops.",
+    "timestamp": "2016-02-23T17:02:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Laconia (ryanbmilbourne) was fortified from Pelham (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-02-23T17:02:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-23T17:02:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-23T17:02:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-02-23T17:03:23.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received 4 troops for 12 territories.",
+    "timestamp": "2016-02-23T17:03:23.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Haberman (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-02-23T17:03:32.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Haberman (jobratt) attacked Flatbush (tanleach1001) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-23T17:03:44.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Haberman (jobratt) occupied Flatbush with 3 troops.",
+    "timestamp": "2016-02-23T17:03:49.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Mariners Park (jobratt) was fortified from Bloomfield (jobratt) with 2 troops.",
+    "timestamp": "2016-02-23T17:04:07.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-02-23T17:04:08.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-02-23T17:04:08.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-23T17:05:29.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 4 troops for 12 territories.",
+    "timestamp": "2016-02-23T17:05:29.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Staten Island (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-02-23T17:05:36.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Staten Island (kwren) attacked Bloomfield (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-23T17:05:40.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Staten Island (kwren) occupied Bloomfield with 5 troops.",
+    "timestamp": "2016-02-23T17:05:44.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Dongan Hills (kwren) attacked Pleasant Plains (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-23T17:05:54.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Coney Island (kwren) attacked Bensonhurst (mmacfreier) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-23T17:06:04.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Brooklyn (kwren) attacked Cypress Hills (jobratt) killing 1, losing 1.",
+    "timestamp": "2016-02-23T17:08:02.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Brooklyn (kwren) attacked Haberman (jobratt) killing 1, losing 0.",
+    "timestamp": "2016-02-23T17:08:09.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Paramus (kwren) was fortified from Orange (kwren) with 2 troops.",
+    "timestamp": "2016-02-23T17:08:31.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-23T17:08:31.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-23T17:08:31.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-23T17:08:43.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 4 troops for 12 territories.",
+    "timestamp": "2016-02-23T17:08:44.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Rockdale Village (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-02-23T17:08:50.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Rockdale Village (gcochard) attacked Cambria Heights (jobratt) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-23T17:08:56.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Rockdale Village (gcochard) occupied Cambria Heights with 6 troops.",
+    "timestamp": "2016-02-23T17:09:03.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Cambria Heights (gcochard) attacked Hempstead (ryanbmilbourne) killing 0, losing 5.",
+    "timestamp": "2016-02-23T17:09:19.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Levittown (gcochard) was fortified from Woodhaven (gcochard) with 2 troops.",
+    "timestamp": "2016-02-23T17:09:26.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-23T17:09:26.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-23T17:09:26.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-23T17:09:46.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 11 territories.",
+    "timestamp": "2016-02-23T17:09:46.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "W. Newark (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-02-23T17:10:01.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "W. Newark (tanleach1001) attacked Orange (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-23T17:10:08.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "W. Newark (tanleach1001) occupied Orange with 4 troops.",
+    "timestamp": "2016-02-23T17:10:10.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Orange (tanleach1001) was fortified from Newark Airport (tanleach1001) with 2 troops.",
+    "timestamp": "2016-02-23T17:10:54.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-23T17:10:54.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-23T17:10:54.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-02-23T17:10:54.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-23T17:17:13.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 3 troops for 11 territories.",
+    "timestamp": "2016-02-23T17:17:13.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Elizabeth (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-23T17:17:28.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Elizabeth (mmacfreier) attacked Piscataway (kwren) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-23T17:17:33.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Elizabeth (mmacfreier) occupied Piscataway with 1 troop.",
+    "timestamp": "2016-02-23T17:17:37.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Woodbridge (mmacfreier) was fortified from Fords (mmacfreier) with 2 troops.",
+    "timestamp": "2016-02-23T17:17:44.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-23T17:17:44.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-23T17:17:44.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-23T17:18:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 11 territories.",
+    "timestamp": "2016-02-23T17:18:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Bronxville (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-23T17:18:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Bronxville (ryanbmilbourne) attacked Yonkers (Neutral) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-23T17:18:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Bronxville (ryanbmilbourne) occupied Yonkers with 4 troops.",
+    "timestamp": "2016-02-23T17:18:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Bronxville (ryanbmilbourne) was fortified from Laconia (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-02-23T17:20:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-23T17:20:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-23T17:20:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-02-23T17:20:28.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received 3 troops for 11 territories.",
+    "timestamp": "2016-02-23T17:20:28.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Flatbush (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-02-23T17:20:36.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Flatbush (jobratt) attacked Bensonhurst (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-23T17:20:43.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Flatbush (jobratt) occupied Bensonhurst with 1 troop.",
+    "timestamp": "2016-02-23T17:20:51.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Mariners Park (jobratt) attacked New Brighten (gcochard) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-23T17:20:54.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Mariners Park (jobratt) occupied New Brighten with 4 troops.",
+    "timestamp": "2016-02-23T17:20:57.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Flatbush (jobratt) was fortified from New Brighten (jobratt) with 3 troops.",
+    "timestamp": "2016-02-23T17:21:43.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-02-23T17:21:43.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-02-23T17:21:43.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-23T17:25:34.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 4 troops for 12 territories.",
+    "timestamp": "2016-02-23T17:25:34.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Staten Island (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-02-23T17:25:41.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "LaGuardia Airport (kwren) attacked Newark Airport (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-02-23T17:25:46.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Staten Island (kwren) attacked New Brighten (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T17:25:51.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Staten Island (kwren) occupied New Brighten with 4 troops.",
+    "timestamp": "2016-02-23T17:25:53.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "New Brighten (kwren) attacked Mariners Park (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T17:25:57.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "New Brighten (kwren) occupied Mariners Park with 3 troops.",
+    "timestamp": "2016-02-23T17:26:00.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Paramus (kwren) was fortified from Rutherford (kwren) with 2 troops.",
+    "timestamp": "2016-02-23T17:26:36.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-23T17:26:36.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-23T17:26:36.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-23T17:49:28.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 4 troops for 12 territories.",
+    "timestamp": "2016-02-23T17:49:28.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Levittown (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-02-23T17:50:25.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Levittown (gcochard) attacked Hempstead (ryanbmilbourne) killing 0, losing 8.",
+    "timestamp": "2016-02-23T17:50:31.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Mountain Lakes (gcochard) attacked Rutherford (kwren) killing 0, losing 2.",
+    "timestamp": "2016-02-23T17:50:52.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Irvington (gcochard) attacked W. Newark (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-02-23T17:50:57.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Roselle Park (gcochard) attacked W. Newark (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-02-23T17:51:11.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Central Park (gcochard) attacked Manhattan (jobratt) killing 0, losing 2.",
+    "timestamp": "2016-02-23T17:51:47.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Ridgewood (gcochard) attacked Wayne (mmacfreier) killing 0, losing 2.",
+    "timestamp": "2016-02-23T17:51:53.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Glen Cove (gcochard) attacked Flushing (jobratt) killing 0, losing 2.",
+    "timestamp": "2016-02-23T17:52:00.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Jersey City (gcochard) attacked Bayonne (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-02-23T17:53:48.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Hoboken (gcochard) attacked North Bergen (kwren) killing 1, losing 2.",
+    "timestamp": "2016-02-23T17:53:58.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-23T17:54:10.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-23T17:54:40.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 4 troops for 12 territories.",
+    "timestamp": "2016-02-23T17:54:40.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Orange (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-02-23T17:54:47.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Orange (tanleach1001) attacked E. Orange (ryanbmilbourne) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-23T17:54:55.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Orange (tanleach1001) occupied E. Orange with 1 troop.",
+    "timestamp": "2016-02-23T17:55:06.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Orange (tanleach1001) attacked Livingston (jobratt) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-02-23T17:55:21.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Orange (tanleach1001) occupied Livingston with 4 troops.",
+    "timestamp": "2016-02-23T17:55:26.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "E. Orange (tanleach1001) was fortified from Kearny (tanleach1001) with 2 troops.",
+    "timestamp": "2016-02-23T17:55:41.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-23T17:55:42.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-23T17:55:42.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-02-23T17:55:42.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-23T18:01:47.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 4 troops for 12 territories.",
+    "timestamp": "2016-02-23T18:01:47.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Middlesex County.",
+    "timestamp": "2016-02-23T18:01:47.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Queens (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-23T18:02:00.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Woodbridge (mmacfreier) was reinforced by mmacfreier with 4 troops.",
+    "timestamp": "2016-02-23T18:02:02.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Queens (mmacfreier) attacked Woodhaven (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-23T18:02:07.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Queens (mmacfreier) occupied Woodhaven with 6 troops.",
+    "timestamp": "2016-02-23T18:02:08.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Woodhaven (mmacfreier) attacked JFK Airport (ryanbmilbourne) killing 1, losing 5.",
+    "timestamp": "2016-02-23T18:02:14.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Union Square (mmacfreier) was fortified from Elizabeth (mmacfreier) with 2 troops.",
+    "timestamp": "2016-02-23T18:02:28.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-23T18:02:28.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-23T18:02:28.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-23T18:02:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 11 territories.",
+    "timestamp": "2016-02-23T18:02:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Westchester County.",
+    "timestamp": "2016-02-23T18:02:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "JFK Airport (ryanbmilbourne) was reinforced by ryanbmilbourne with 1 troop.",
+    "timestamp": "2016-02-23T18:03:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Bronxville (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-02-23T18:03:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Breezy Point (ryanbmilbourne) attacked Bensonhurst (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-23T18:03:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Hempstead (ryanbmilbourne) attacked Cambria Heights (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T18:03:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Hempstead (ryanbmilbourne) occupied Cambria Heights with 2 troops.",
+    "timestamp": "2016-02-23T18:03:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "JFK Airport (ryanbmilbourne) attacked LaGuardia Airport (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-23T18:03:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Bronxville (ryanbmilbourne) attacked Englewood (mmacfreier) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-23T18:04:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Bronxville (ryanbmilbourne) occupied Englewood with 6 troops.",
+    "timestamp": "2016-02-23T18:04:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "LaGuardia Airport (ryanbmilbourne) was fortified from Cambria Heights (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-02-23T18:04:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-23T18:04:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-23T18:04:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-02-23T18:21:34.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 3 troops for 9 territories.",
+    "timestamp": "2016-02-23T18:21:34.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Flatbush (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-02-23T18:21:44.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Flatbush (jobratt) attacked Bensonhurst (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-23T18:21:48.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Flatbush (jobratt) occupied Bensonhurst with 7 troops.",
+    "timestamp": "2016-02-23T18:21:51.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Bensonhurst (jobratt) attacked Brooklyn (kwren) conquering it, killing 2, losing 3.",
+    "timestamp": "2016-02-23T18:22:01.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Bensonhurst (jobratt) occupied Brooklyn with 1 troop.",
+    "timestamp": "2016-02-23T18:22:07.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Bensonhurst (jobratt) attacked Coney Island (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-23T18:22:15.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Bensonhurst (jobratt) was fortified from Cypress Hills (jobratt) with 1 troop.",
+    "timestamp": "2016-02-23T18:22:28.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-02-23T18:22:28.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-02-23T18:22:28.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-23T18:44:20.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 3 troops for 11 territories.",
+    "timestamp": "2016-02-23T18:44:20.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 3 troops for holding Richmond County.",
+    "timestamp": "2016-02-23T18:44:20.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Mariners Park (kwren) was reinforced by kwren with 6 troops.",
+    "timestamp": "2016-02-23T18:44:25.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Mariners Park (kwren) attacked Bayonne (tanleach1001) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-02-23T18:44:31.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Mariners Park (kwren) occupied Bayonne with 6 troops.",
+    "timestamp": "2016-02-23T18:44:34.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Bayonne (kwren) attacked Jersey City (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T18:44:38.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Bayonne (kwren) occupied Jersey City with 1 troop.",
+    "timestamp": "2016-02-23T18:44:45.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Paramus (kwren) attacked Ridgewood (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T18:44:49.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Paramus (kwren) occupied Ridgewood with 6 troops.",
+    "timestamp": "2016-02-23T18:45:04.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Bayonne (kwren) was fortified from Bloomfield (kwren) with 4 troops.",
+    "timestamp": "2016-02-23T18:45:20.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-23T18:45:20.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-23T18:45:20.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-23T18:48:36.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 3 troops for 8 territories.",
+    "timestamp": "2016-02-23T18:48:36.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Levittown (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-23T18:48:41.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Levittown (gcochard) attacked Hempstead (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T18:48:44.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Levittown (gcochard) occupied Hempstead with 3 troops.",
+    "timestamp": "2016-02-23T18:48:45.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Hempstead (gcochard) attacked Long Beach (mmacfreier) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-23T18:48:49.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Hempstead (gcochard) occupied Long Beach with 1 troop.",
+    "timestamp": "2016-02-23T18:48:55.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-23T18:49:01.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-23T18:49:01.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-23T18:49:21.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 4 troops for 13 territories.",
+    "timestamp": "2016-02-23T18:49:21.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Essex County.",
+    "timestamp": "2016-02-23T18:49:21.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "E. Orange (tanleach1001) was reinforced by tanleach1001 with 1 troop.",
+    "timestamp": "2016-02-23T18:49:30.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "W. Newark (tanleach1001) was reinforced by tanleach1001 with 6 troops.",
+    "timestamp": "2016-02-23T18:49:32.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "W. Newark (tanleach1001) attacked Cranford (ryanbmilbourne) killing 1, losing 1.",
+    "timestamp": "2016-02-23T18:49:40.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "W. Newark (tanleach1001) attacked Roselle Park (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T18:49:44.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "W. Newark (tanleach1001) occupied Roselle Park with 1 troop.",
+    "timestamp": "2016-02-23T18:50:41.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "W. Newark (tanleach1001) attacked Cranford (ryanbmilbourne) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-02-23T18:50:45.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "W. Newark (tanleach1001) occupied Cranford with 1 troop.",
+    "timestamp": "2016-02-23T18:50:52.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "W. Newark (tanleach1001) attacked Irvington (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T18:50:56.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "W. Newark (tanleach1001) occupied Irvington with 2 troops.",
+    "timestamp": "2016-02-23T18:51:00.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "W. Newark (tanleach1001) was fortified from Livingston (tanleach1001) with 1 troop.",
+    "timestamp": "2016-02-23T18:51:17.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-23T18:51:17.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-23T18:51:17.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-02-23T18:51:17.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-23T18:53:08.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 3 troops for 11 territories.",
+    "timestamp": "2016-02-23T18:53:08.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Middlesex County.",
+    "timestamp": "2016-02-23T18:53:08.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Elizabeth (mmacfreier) was reinforced by mmacfreier with 6 troops.",
+    "timestamp": "2016-02-23T18:53:18.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Elizabeth (mmacfreier) attacked Roselle Park (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-23T18:53:24.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Elizabeth (mmacfreier) occupied Roselle Park with 7 troops.",
+    "timestamp": "2016-02-23T18:53:26.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Roselle Park (mmacfreier) attacked Cranford (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-23T18:53:31.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Roselle Park (mmacfreier) occupied Cranford with 1 troop.",
+    "timestamp": "2016-02-23T18:53:35.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Roselle Park (mmacfreier) was fortified from Woodbridge (mmacfreier) with 2 troops.",
+    "timestamp": "2016-02-23T18:53:46.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-23T18:53:46.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-23T18:53:46.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-23T19:07:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 12 territories.",
+    "timestamp": "2016-02-23T19:07:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Westchester County.",
+    "timestamp": "2016-02-23T19:07:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Laconia (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-02-23T19:07:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Laconia (ryanbmilbourne) attacked Bronx (tanleach1001) conquering it, killing 3, losing 5.",
+    "timestamp": "2016-02-23T19:07:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Laconia (ryanbmilbourne) occupied Bronx with 1 troop.",
+    "timestamp": "2016-02-23T19:08:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "LaGuardia Airport (ryanbmilbourne) was fortified from Parkchester (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-02-23T19:08:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-23T19:08:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-23T19:08:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-02-23T19:20:21.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 4 troops for 12 territories.",
+    "timestamp": "2016-02-23T19:20:21.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 4 troops for holding Kings County.",
+    "timestamp": "2016-02-23T19:20:21.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Bensonhurst (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-02-23T19:21:05.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Cypress Hills (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-02-23T19:21:24.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Manhattan (jobratt) attacked Central Park (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T19:21:36.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Manhattan (jobratt) occupied Central Park with 1 troop.",
+    "timestamp": "2016-02-23T19:21:38.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Haberman (jobratt) was fortified from Bensonhurst (jobratt) with 1 troop.",
+    "timestamp": "2016-02-23T19:22:17.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-02-23T19:22:17.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-02-23T19:22:17.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-23T19:25:51.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 4 troops for 14 territories.",
+    "timestamp": "2016-02-23T19:25:51.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 3 troops for holding Richmond County.",
+    "timestamp": "2016-02-23T19:25:51.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Bloomfield (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-02-23T19:26:05.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "New Brighten (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-02-23T19:26:09.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Ridgewood (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-02-23T19:26:11.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Ridgewood (kwren) attacked River Edge (mmacfreier) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-23T19:26:15.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Ridgewood (kwren) occupied River Edge with 8 troops.",
+    "timestamp": "2016-02-23T19:26:16.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "River Edge (kwren) attacked Fort Lee (tanleach1001) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-23T19:26:21.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "River Edge (kwren) occupied Fort Lee with 1 troop.",
+    "timestamp": "2016-02-23T19:26:32.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "River Edge (kwren) was fortified from North Bergen (kwren) with 1 troop.",
+    "timestamp": "2016-02-23T19:26:41.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-23T19:26:41.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-23T19:26:41.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-23T19:26:58.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-02-23T19:26:58.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 3 troops for holding Nassau County.",
+    "timestamp": "2016-02-23T19:26:58.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Glen Cove (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-02-23T19:27:18.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Glen Cove (gcochard) attacked Flushing (jobratt) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-02-23T19:27:29.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Glen Cove (gcochard) occupied Flushing with 1 troop.",
+    "timestamp": "2016-02-23T19:27:32.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Glen Cove (gcochard) was fortified from Hempstead (gcochard) with 1 troop.",
+    "timestamp": "2016-02-23T19:27:40.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-23T19:27:40.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-23T19:27:40.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-23T19:27:45.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 4 troops for 12 territories.",
+    "timestamp": "2016-02-23T19:27:45.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Essex County.",
+    "timestamp": "2016-02-23T19:27:45.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Irvington (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-02-23T19:28:09.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "W. Newark (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-02-23T19:28:12.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "W. Newark (tanleach1001) attacked Cranford (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T19:28:24.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "W. Newark (tanleach1001) occupied Cranford with 1 troop.",
+    "timestamp": "2016-02-23T19:28:31.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "W. Newark (tanleach1001) was fortified from Livingston (tanleach1001) with 2 troops.",
+    "timestamp": "2016-02-23T19:28:43.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-23T19:28:43.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-23T19:28:43.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-02-23T19:28:43.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-23T19:39:58.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 3 troops for 11 territories.",
+    "timestamp": "2016-02-23T19:39:58.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Middlesex County.",
+    "timestamp": "2016-02-23T19:39:58.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Roselle Park (mmacfreier) was reinforced by mmacfreier with 6 troops.",
+    "timestamp": "2016-02-23T19:40:09.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Roselle Park (mmacfreier) attacked W. Newark (tanleach1001) conquering it, killing 7, losing 2.",
+    "timestamp": "2016-02-23T19:40:20.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Roselle Park (mmacfreier) occupied W. Newark with 6 troops.",
+    "timestamp": "2016-02-23T19:40:34.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "W. Newark (mmacfreier) attacked Livingston (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T19:40:38.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "W. Newark (mmacfreier) occupied Livingston with 5 troops.",
+    "timestamp": "2016-02-23T19:40:47.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-23T19:40:58.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-23T19:40:58.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-23T20:00:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 13 territories.",
+    "timestamp": "2016-02-23T20:00:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Westchester County.",
+    "timestamp": "2016-02-23T20:00:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Englewood (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-23T20:03:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Laconia (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-23T20:03:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Parkchester (ryanbmilbourne) attacked Morris Park (kwren) killing 1, losing 1.",
+    "timestamp": "2016-02-23T20:03:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Laconia (ryanbmilbourne) attacked Morris Park (kwren) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-02-23T20:03:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Laconia (ryanbmilbourne) occupied Morris Park with 6 troops.",
+    "timestamp": "2016-02-23T20:03:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Englewood (ryanbmilbourne) attacked Yankee Stadium (jobratt) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-02-23T20:03:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Englewood (ryanbmilbourne) occupied Yankee Stadium with 1 troop.",
+    "timestamp": "2016-02-23T20:03:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "LaGuardia Airport (ryanbmilbourne) was fortified from Morris Park (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-02-23T20:04:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-23T20:04:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-23T20:04:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-02-23T20:04:52.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 3 troops for 11 territories.",
+    "timestamp": "2016-02-23T20:04:53.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 4 troops for holding Kings County.",
+    "timestamp": "2016-02-23T20:04:53.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Haberman (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-02-23T20:05:19.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Cypress Hills (jobratt) was reinforced by jobratt with 1 troop.",
+    "timestamp": "2016-02-23T20:05:40.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Bensonhurst (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-02-23T20:05:43.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Bensonhurst (jobratt) attacked Breezy Point (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-23T20:05:48.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Bensonhurst (jobratt) occupied Breezy Point with 1 troop.",
+    "timestamp": "2016-02-23T20:06:01.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-02-23T20:06:31.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-02-23T20:06:31.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-23T20:06:41.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 5 troops for 15 territories.",
+    "timestamp": "2016-02-23T20:06:41.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 3 troops for holding Richmond County.",
+    "timestamp": "2016-02-23T20:06:41.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Bloomfield (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-02-23T20:06:53.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "New Brighten (kwren) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-02-23T20:06:56.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Fort Lee (kwren) was reinforced by kwren with 5 troops.",
+    "timestamp": "2016-02-23T20:07:05.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "River Edge (kwren) attacked Teaneck (tanleach1001) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-23T20:07:11.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "River Edge (kwren) occupied Teaneck with 1 troop.",
+    "timestamp": "2016-02-23T20:07:16.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "River Edge (kwren) attacked Bergenfield (Neutral) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-23T20:07:20.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "River Edge (kwren) occupied Bergenfield with 6 troops.",
+    "timestamp": "2016-02-23T20:07:22.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Bergenfield (kwren) attacked Yonkers (ryanbmilbourne) conquering it, killing 4, losing 2.",
+    "timestamp": "2016-02-23T20:07:28.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Bergenfield (kwren) occupied Yonkers with 1 troop.",
+    "timestamp": "2016-02-23T20:07:35.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Fort Lee (kwren) attacked Union City (mmacfreier) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-23T20:07:48.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Fort Lee (kwren) occupied Union City with 5 troops.",
+    "timestamp": "2016-02-23T20:07:51.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Union City (kwren) attacked Hoboken (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T20:07:54.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Union City (kwren) occupied Hoboken with 1 troop.",
+    "timestamp": "2016-02-23T20:08:01.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Bergenfield (kwren) was fortified from Bayonne (kwren) with 5 troops.",
+    "timestamp": "2016-02-23T20:08:22.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-23T20:08:22.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-23T20:08:22.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-23T20:08:41.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-02-23T20:08:41.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for holding Nassau County.",
+    "timestamp": "2016-02-23T20:08:41.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Mountain Lakes (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-23T20:08:59.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Long Beach (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-23T20:09:08.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Mountain Lakes (gcochard) attacked Rutherford (kwren) killing 0, losing 3.",
+    "timestamp": "2016-02-23T20:09:18.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Long Beach (gcochard) attacked Breezy Point (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T20:09:23.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Long Beach (gcochard) occupied Breezy Point with 1 troop.",
+    "timestamp": "2016-02-23T20:09:27.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-23T20:09:46.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-23T20:09:46.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-23T20:13:03.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 10 territories.",
+    "timestamp": "2016-02-23T20:13:03.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Irvington (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-02-23T20:13:13.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Irvington (tanleach1001) attacked Livingston (mmacfreier) conquering it, killing 5, losing 1.",
+    "timestamp": "2016-02-23T20:13:19.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Irvington (tanleach1001) occupied Livingston with 7 troops.",
+    "timestamp": "2016-02-23T20:13:21.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Orange (tanleach1001) attacked W. Newark (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T20:15:48.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Orange (tanleach1001) occupied W. Newark with 1 troop.",
+    "timestamp": "2016-02-23T20:15:51.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Orange (tanleach1001) was fortified from E. Orange (tanleach1001) with 3 troops.",
+    "timestamp": "2016-02-23T20:15:58.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-23T20:15:58.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-23T20:15:58.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-02-23T20:15:58.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-23T20:16:17.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 3 troops for 10 territories.",
+    "timestamp": "2016-02-23T20:16:17.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Middlesex County.",
+    "timestamp": "2016-02-23T20:16:17.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops on Roselle Park",
+    "timestamp": "2016-02-23T20:16:31.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 4 troops for turning in cards Coney Island, Roselle Park, and Meadowlands.",
+    "timestamp": "2016-02-23T20:16:31.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Roselle Park (mmacfreier) was reinforced by mmacfreier with 10 troops.",
+    "timestamp": "2016-02-23T20:16:40.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Roselle Park (mmacfreier) attacked W. Newark (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T20:16:43.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Roselle Park (mmacfreier) occupied W. Newark with 11 troops.",
+    "timestamp": "2016-02-23T20:16:56.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "W. Newark (mmacfreier) attacked Orange (tanleach1001) killing 3, losing 7.",
+    "timestamp": "2016-02-23T20:17:10.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "W. Newark (mmacfreier) attacked Cranford (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T20:17:15.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "W. Newark (mmacfreier) occupied Cranford with 3 troops.",
+    "timestamp": "2016-02-23T20:17:17.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Cranford (mmacfreier) attacked Irvington (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-02-23T20:17:21.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-23T20:17:28.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-23T20:17:28.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-23T20:20:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 13 territories.",
+    "timestamp": "2016-02-23T20:20:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for holding Bronx County.",
+    "timestamp": "2016-02-23T20:20:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 6 troops for turning in cards Mariners Park, Bergenfield, and Union Square.",
+    "timestamp": "2016-02-23T20:20:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Morris Park (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-23T20:20:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Englewood (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-23T20:20:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "LaGuardia Airport (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-23T20:20:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Bronxville (ryanbmilbourne) was reinforced by ryanbmilbourne with 5 troops.",
+    "timestamp": "2016-02-23T20:20:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Bronxville (ryanbmilbourne) attacked Yonkers (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T20:20:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Bronxville (ryanbmilbourne) occupied Yonkers with 5 troops.",
+    "timestamp": "2016-02-23T20:20:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Yonkers (ryanbmilbourne) was fortified from Morris Park (ryanbmilbourne) with 4 troops.",
+    "timestamp": "2016-02-23T20:21:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-23T20:21:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-23T20:21:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-02-23T20:30:32.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 3 troops for 11 territories.",
+    "timestamp": "2016-02-23T20:30:32.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 4 troops for holding Kings County.",
+    "timestamp": "2016-02-23T20:30:32.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards Yankee Stadium, Teaneck, and North Bergen.",
+    "timestamp": "2016-02-23T20:30:52.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Haberman (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-02-23T20:30:57.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Cypress Hills (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-02-23T20:31:01.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Bensonhurst (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-02-23T20:31:07.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Manhattan (jobratt) was reinforced by jobratt with 5 troops.",
+    "timestamp": "2016-02-23T20:32:02.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Manhattan (jobratt) attacked Times Square (Neutral) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-02-23T20:32:10.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Manhattan (jobratt) occupied Times Square with 1 troop.",
+    "timestamp": "2016-02-23T20:32:17.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-02-23T20:32:32.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-02-23T20:32:32.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-23T20:32:52.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 6 troops for 19 territories.",
+    "timestamp": "2016-02-23T20:32:52.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for holding Richmond County.",
+    "timestamp": "2016-02-23T20:32:52.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for holding Bergen County.",
+    "timestamp": "2016-02-23T20:32:52.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 4 troops for holding Hudson County.",
+    "timestamp": "2016-02-23T20:32:52.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Cypress Hills, Hempstead, and Harlem.",
+    "timestamp": "2016-02-23T20:33:16.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Rutherford (kwren) was reinforced by kwren with 14 troops.",
+    "timestamp": "2016-02-23T20:33:32.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Jersey City (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-02-23T20:33:39.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Union City (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-02-23T20:33:44.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Bergenfield (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-02-23T20:33:46.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "New Brighten (kwren) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-02-23T20:33:51.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Bayonne (kwren) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-02-23T20:33:55.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Rutherford (kwren) attacked Mountain Lakes (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T20:33:58.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Rutherford (kwren) occupied Mountain Lakes with 1 troop.",
+    "timestamp": "2016-02-23T20:34:01.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Rutherford (kwren) attacked Wayne (mmacfreier) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-02-23T20:34:06.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Rutherford (kwren) occupied Wayne with 1 troop.",
+    "timestamp": "2016-02-23T20:34:09.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Rutherford (kwren) attacked Hackensack (jobratt) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-23T20:34:14.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Rutherford (kwren) occupied Hackensack with 8 troops.",
+    "timestamp": "2016-02-23T20:34:16.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Hackensack (kwren) attacked Meadowlands (tanleach1001) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-23T20:34:22.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Hackensack (kwren) occupied Meadowlands with 1 troop.",
+    "timestamp": "2016-02-23T20:34:32.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Jersey City (kwren) was fortified from Hackensack (kwren) with 5 troops.",
+    "timestamp": "2016-02-23T20:35:02.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-23T20:35:02.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-23T20:35:02.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-23T20:37:11.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-02-23T20:37:11.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 3 troops for holding Nassau County.",
+    "timestamp": "2016-02-23T20:37:11.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards LaGuardia Airport, Statue of Liberty, and Hackensack.",
+    "timestamp": "2016-02-23T20:37:16.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Breezy Point (gcochard) was reinforced by gcochard with 14 troops.",
+    "timestamp": "2016-02-23T20:37:37.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Breezy Point (gcochard) attacked Bensonhurst (jobratt) conquering it, killing 9, losing 5.",
+    "timestamp": "2016-02-23T20:37:51.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Breezy Point (gcochard) occupied Bensonhurst with 1 troop.",
+    "timestamp": "2016-02-23T20:37:59.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Breezy Point (gcochard) was fortified from Long Beach (gcochard) with 2 troops.",
+    "timestamp": "2016-02-23T20:38:07.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-23T20:38:07.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-23T20:38:07.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-23T20:38:36.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 9 territories.",
+    "timestamp": "2016-02-23T20:38:36.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Essex County.",
+    "timestamp": "2016-02-23T20:38:36.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Newark Airport",
+    "timestamp": "2016-02-23T20:38:40.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Glen Cove, Newark Airport, and Hoboken.",
+    "timestamp": "2016-02-23T20:38:40.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Orange (tanleach1001) was reinforced by tanleach1001 with 14 troops.",
+    "timestamp": "2016-02-23T20:39:10.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Orange (tanleach1001) attacked W. Newark (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T20:39:13.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Orange (tanleach1001) occupied W. Newark with 15 troops.",
+    "timestamp": "2016-02-23T20:39:15.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "W. Newark (tanleach1001) attacked Union Square (mmacfreier) conquering it, killing 5, losing 6.",
+    "timestamp": "2016-02-23T20:39:28.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "W. Newark (tanleach1001) occupied Union Square with 1 troop.",
+    "timestamp": "2016-02-23T20:39:37.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Irvington (tanleach1001) was fortified from Livingston (tanleach1001) with 6 troops.",
+    "timestamp": "2016-02-23T20:40:02.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-23T20:40:03.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-23T20:40:03.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Round 7 started.",
+    "timestamp": "2016-02-23T20:40:03.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-23T20:41:56.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 3 troops for 9 territories.",
+    "timestamp": "2016-02-23T20:41:57.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Englewood, Brooklyn, and Paramus.",
+    "timestamp": "2016-02-23T20:42:03.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Woodbridge (mmacfreier) was reinforced by mmacfreier with 11 troops.",
+    "timestamp": "2016-02-23T20:42:08.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Woodbridge (mmacfreier) attacked Union Square (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-23T20:42:14.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Woodbridge (mmacfreier) occupied Union Square with 14 troops.",
+    "timestamp": "2016-02-23T20:42:16.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Union Square (mmacfreier) attacked W. Newark (tanleach1001) conquering it, killing 8, losing 8.",
+    "timestamp": "2016-02-23T20:42:39.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Union Square (mmacfreier) occupied W. Newark with 5 troops.",
+    "timestamp": "2016-02-23T20:42:43.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "W. Newark (mmacfreier) attacked Orange (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-23T20:42:56.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "W. Newark (mmacfreier) occupied Orange with 1 troop.",
+    "timestamp": "2016-02-23T20:43:02.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Union Square (mmacfreier) was fortified from Roselle Park (mmacfreier) with 3 troops.",
+    "timestamp": "2016-02-23T20:43:20.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-23T20:43:21.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-23T20:43:21.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-23T21:47:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 14 territories.",
+    "timestamp": "2016-02-23T21:47:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Westchester County.",
+    "timestamp": "2016-02-23T21:47:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for holding Bronx County.",
+    "timestamp": "2016-02-23T21:47:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Laconia",
+    "timestamp": "2016-02-23T21:47:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Laconia, Fords, and W. Orange.",
+    "timestamp": "2016-02-23T21:47:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Englewood (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-02-23T21:47:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "LaGuardia Airport (ryanbmilbourne) was reinforced by ryanbmilbourne with 12 troops.",
+    "timestamp": "2016-02-23T21:47:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "LaGuardia Airport (ryanbmilbourne) attacked Astoria (tanleach1001) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-23T21:48:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "LaGuardia Airport (ryanbmilbourne) occupied Astoria with 11 troops.",
+    "timestamp": "2016-02-23T21:48:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Astoria (ryanbmilbourne) attacked Queens (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T21:48:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Astoria (ryanbmilbourne) occupied Queens with 1 troop.",
+    "timestamp": "2016-02-23T21:48:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Astoria (ryanbmilbourne) attacked Mets Stadium (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T21:48:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Astoria (ryanbmilbourne) occupied Mets Stadium with 1 troop.",
+    "timestamp": "2016-02-23T21:48:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Parkchester (ryanbmilbourne) was fortified from Yonkers (ryanbmilbourne) with 8 troops.",
+    "timestamp": "2016-02-23T21:49:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-23T21:49:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-23T21:49:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-02-23T22:16:20.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 3 troops for 10 territories.",
+    "timestamp": "2016-02-23T22:16:20.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 2 troops on Times Square",
+    "timestamp": "2016-02-23T22:16:23.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards Yonkers, Times Square, and Staten Island.",
+    "timestamp": "2016-02-23T22:16:23.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Times Square (jobratt) was reinforced by jobratt with 11 troops.",
+    "timestamp": "2016-02-23T22:16:50.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Times Square (jobratt) attacked Wall Street (kwren) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-02-23T22:17:02.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Times Square (jobratt) occupied Wall Street with 11 troops.",
+    "timestamp": "2016-02-23T22:17:05.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Wall Street (jobratt) attacked Statue of Liberty (ryanbmilbourne) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-02-23T22:17:10.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Wall Street (jobratt) occupied Statue of Liberty with 1 troop.",
+    "timestamp": "2016-02-23T22:17:13.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Cypress Hills (jobratt) attacked Bensonhurst (gcochard) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-02-23T22:17:20.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Cypress Hills (jobratt) occupied Bensonhurst with 1 troop.",
+    "timestamp": "2016-02-23T22:17:24.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Bensonhurst (jobratt) was fortified from Wall Street (jobratt) with 6 troops.",
+    "timestamp": "2016-02-23T22:17:32.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-02-23T22:17:33.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-02-23T22:17:33.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-23T22:24:55.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 7 troops for 22 territories.",
+    "timestamp": "2016-02-23T22:24:55.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for holding Richmond County.",
+    "timestamp": "2016-02-23T22:24:55.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for holding Passaic County.",
+    "timestamp": "2016-02-23T22:24:56.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for holding Bergen County.",
+    "timestamp": "2016-02-23T22:24:56.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 4 troops for holding Hudson County.",
+    "timestamp": "2016-02-23T22:24:56.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Jersey City (kwren) was reinforced by kwren with 15 troops.",
+    "timestamp": "2016-02-23T22:25:28.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Union City (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-02-23T22:25:43.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "New Brighten (kwren) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-02-23T22:26:07.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Jersey City (kwren) attacked E. Newark (jobratt) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-23T22:26:28.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Jersey City (kwren) occupied E. Newark with 24 troops.",
+    "timestamp": "2016-02-23T22:28:16.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "E. Newark (kwren) attacked Newark Airport (tanleach1001) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-02-23T22:29:05.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "E. Newark (kwren) occupied Newark Airport with 21 troops.",
+    "timestamp": "2016-02-23T22:29:19.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Newark Airport (kwren) attacked LaGuardia Airport (ryanbmilbourne) conquering it, killing 7, losing 15.",
+    "timestamp": "2016-02-23T22:29:57.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Newark Airport (kwren) occupied LaGuardia Airport with 1 troop.",
+    "timestamp": "2016-02-23T22:30:07.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Newark Airport (kwren) attacked JFK Airport (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T22:30:13.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Newark Airport (kwren) occupied JFK Airport with 4 troops.",
+    "timestamp": "2016-02-23T22:30:29.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "JFK Airport (kwren) attacked Cambria Heights (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-23T22:30:37.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "JFK Airport (kwren) occupied Cambria Heights with 2 troops.",
+    "timestamp": "2016-02-23T22:30:40.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Cambria Heights (kwren) attacked Levittown (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-02-23T22:30:45.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Jersey City (kwren) was fortified from Bergenfield (kwren) with 9 troops.",
+    "timestamp": "2016-02-23T22:31:04.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-23T22:31:07.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-23T22:31:07.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-23T22:31:54.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-02-23T22:31:54.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 3 troops for holding Nassau County.",
+    "timestamp": "2016-02-23T22:31:54.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Glen Cove (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-02-23T22:33:51.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Glen Cove (gcochard) attacked Cambria Heights (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-23T22:34:05.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Glen Cove (gcochard) occupied Cambria Heights with 1 troop.",
+    "timestamp": "2016-02-23T22:45:57.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Breezy Point (gcochard) attacked Bensonhurst (jobratt) conquering it, killing 7, losing 5.",
+    "timestamp": "2016-02-23T22:46:07.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Breezy Point (gcochard) occupied Bensonhurst with 1 troop.",
+    "timestamp": "2016-02-23T22:46:15.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Breezy Point (gcochard) was fortified from Glen Cove (gcochard) with 3 troops.",
+    "timestamp": "2016-02-23T22:46:55.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-23T22:46:55.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-23T22:46:55.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-23T22:47:15.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 6 territories.",
+    "timestamp": "2016-02-23T22:47:15.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Livingston (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-02-23T22:47:29.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Irvington (tanleach1001) was reinforced by tanleach1001 with 1 troop.",
+    "timestamp": "2016-02-23T22:47:34.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Irvington (tanleach1001) attacked W. Newark (mmacfreier) conquering it, killing 3, losing 6.",
+    "timestamp": "2016-02-23T22:47:45.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Livingston (tanleach1001) was fortified from W. Orange (tanleach1001) with 2 troops.",
+    "timestamp": "2016-02-23T22:48:08.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-23T22:48:08.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-23T22:48:08.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Round 8 started.",
+    "timestamp": "2016-02-23T22:48:08.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-23T22:48:26.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 3 troops for 9 territories.",
+    "timestamp": "2016-02-23T22:48:26.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Middlesex County.",
+    "timestamp": "2016-02-23T22:48:26.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Roselle Park (mmacfreier) was reinforced by mmacfreier with 6 troops.",
+    "timestamp": "2016-02-23T22:48:35.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Roselle Park (mmacfreier) attacked W. Newark (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-23T22:48:44.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Roselle Park (mmacfreier) occupied W. Newark with 1 troop.",
+    "timestamp": "2016-02-23T22:48:48.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Union Square (mmacfreier) was fortified from Roselle Park (mmacfreier) with 1 troop.",
+    "timestamp": "2016-02-23T22:48:54.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-23T22:48:54.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-23T22:48:54.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-23T23:38:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 13 territories.",
+    "timestamp": "2016-02-23T23:38:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Westchester County.",
+    "timestamp": "2016-02-23T23:38:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for holding Bronx County.",
+    "timestamp": "2016-02-23T23:38:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Englewood (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-23T23:39:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Astoria (ryanbmilbourne) was reinforced by ryanbmilbourne with 7 troops.",
+    "timestamp": "2016-02-23T23:39:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Astoria (ryanbmilbourne) attacked LaGuardia Airport (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-23T23:39:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Astoria (ryanbmilbourne) occupied LaGuardia Airport with 15 troops.",
+    "timestamp": "2016-02-23T23:40:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Englewood (ryanbmilbourne) attacked Harlem (jobratt) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-02-23T23:40:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Englewood (ryanbmilbourne) occupied Harlem with 1 troop.",
+    "timestamp": "2016-02-23T23:40:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Morris Park (ryanbmilbourne) was fortified from Laconia (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-02-23T23:40:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-23T23:40:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-23T23:40:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-02-24T16:46:19.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 3 troops for 10 territories.",
+    "timestamp": "2016-02-24T16:46:19.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Cypress Hills (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-02-24T16:46:36.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Cypress Hills (jobratt) attacked Bensonhurst (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T16:46:41.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Cypress Hills (jobratt) occupied Bensonhurst with 6 troops.",
+    "timestamp": "2016-02-24T16:46:46.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Cypress Hills (jobratt) was fortified from Haberman (jobratt) with 3 troops.",
+    "timestamp": "2016-02-24T16:46:55.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-02-24T16:46:56.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-02-24T16:46:56.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-24T16:55:29.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 8 troops for 25 territories.",
+    "timestamp": "2016-02-24T16:55:29.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 3 troops for holding Richmond County.",
+    "timestamp": "2016-02-24T16:55:29.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 3 troops for holding Passaic County.",
+    "timestamp": "2016-02-24T16:55:29.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 3 troops for holding Bergen County.",
+    "timestamp": "2016-02-24T16:55:29.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 4 troops for holding Hudson County.",
+    "timestamp": "2016-02-24T16:55:29.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 2 troops on Dongan Hills",
+    "timestamp": "2016-02-24T16:55:44.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Morris Park, Central Park, and Dongan Hills.",
+    "timestamp": "2016-02-24T16:55:44.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "JFK Airport (kwren) was reinforced by kwren with 10 troops.",
+    "timestamp": "2016-02-24T16:55:55.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Rutherford (kwren) was reinforced by kwren with 15 troops.",
+    "timestamp": "2016-02-24T16:56:04.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Bergenfield (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-02-24T16:56:07.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "JFK Airport (kwren) attacked Woodhaven (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T16:56:12.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "JFK Airport (kwren) occupied Woodhaven with 9 troops.",
+    "timestamp": "2016-02-24T16:56:14.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Woodhaven (kwren) attacked J. Bay Wildlife Refuge (tanleach1001) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-02-24T16:56:20.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Woodhaven (kwren) occupied J. Bay Wildlife Refuge with 1 troop.",
+    "timestamp": "2016-02-24T16:56:23.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Woodhaven (kwren) attacked Queens (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T16:56:26.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Woodhaven (kwren) occupied Queens with 5 troops.",
+    "timestamp": "2016-02-24T16:56:28.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Queens (kwren) attacked Flushing (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T16:56:35.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Queens (kwren) occupied Flushing with 4 troops.",
+    "timestamp": "2016-02-24T16:56:37.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Flushing (kwren) attacked Glen Cove (gcochard) killing 0, losing 3.",
+    "timestamp": "2016-02-24T16:56:41.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Rutherford (kwren) attacked Orange (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T16:56:48.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Rutherford (kwren) occupied Orange with 15 troops.",
+    "timestamp": "2016-02-24T16:56:51.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Orange (kwren) attacked Livingston (tanleach1001) conquering it, killing 5, losing 8.",
+    "timestamp": "2016-02-24T16:57:15.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Orange (kwren) occupied Livingston with 3 troops.",
+    "timestamp": "2016-02-24T16:57:32.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Livingston (kwren) attacked Irvington (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T16:57:36.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Livingston (kwren) occupied Irvington with 1 troop.",
+    "timestamp": "2016-02-24T16:57:39.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Livingston (kwren) attacked W. Orange (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-02-24T16:57:42.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Orange (kwren) attacked W. Orange (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T16:57:45.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Orange (kwren) occupied W. Orange with 1 troop.",
+    "timestamp": "2016-02-24T16:57:50.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Orange (kwren) attacked E. Orange (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T16:57:53.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Orange (kwren) occupied E. Orange with 2 troops.",
+    "timestamp": "2016-02-24T16:57:54.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "E. Orange (kwren) attacked Kearny (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T16:57:57.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 was defeated by kwren.",
+    "timestamp": "2016-02-24T16:57:57.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Rockdale Village, Wall Street, and Levittown.",
+    "timestamp": "2016-02-24T16:58:05.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Flushing (kwren) was reinforced by kwren with 8 troops.",
+    "timestamp": "2016-02-24T16:58:59.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Flushing (kwren) attacked Morris Park (ryanbmilbourne) killing 5, losing 8.",
+    "timestamp": "2016-02-24T16:59:11.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Jersey City (kwren) was fortified from Bayonne (kwren) with 4 troops.",
+    "timestamp": "2016-02-24T17:00:06.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-24T17:00:06.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-24T17:00:06.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-24T17:32:07.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-02-24T17:32:07.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 3 troops for holding Nassau County.",
+    "timestamp": "2016-02-24T17:32:07.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Cambria Heights (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-02-24T17:32:48.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Cambria Heights (gcochard) attacked Queens (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T17:32:54.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Cambria Heights (gcochard) occupied Queens with 1 troop.",
+    "timestamp": "2016-02-24T17:33:06.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Breezy Point (gcochard) attacked J. Bay Wildlife Refuge (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T17:33:45.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Breezy Point (gcochard) occupied J. Bay Wildlife Refuge with 7 troops.",
+    "timestamp": "2016-02-24T17:33:48.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "J. Bay Wildlife Refuge (gcochard) attacked Woodhaven (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T17:33:52.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "J. Bay Wildlife Refuge (gcochard) occupied Woodhaven with 6 troops.",
+    "timestamp": "2016-02-24T17:33:54.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Woodhaven (gcochard) attacked JFK Airport (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T17:33:58.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Woodhaven (gcochard) occupied JFK Airport with 1 troop.",
+    "timestamp": "2016-02-24T17:34:02.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Breezy Point (gcochard) was fortified from Woodhaven (gcochard) with 4 troops.",
+    "timestamp": "2016-02-24T17:34:15.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-24T17:34:15.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-24T17:34:15.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Round 9 started.",
+    "timestamp": "2016-02-24T17:34:15.000Z",
+    "player": "unknown",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-24T17:34:34.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 3 troops for 8 territories.",
+    "timestamp": "2016-02-24T17:34:34.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Middlesex County.",
+    "timestamp": "2016-02-24T17:34:34.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "W. Newark (mmacfreier) was reinforced by mmacfreier with 6 troops.",
+    "timestamp": "2016-02-24T17:34:43.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "W. Newark (mmacfreier) attacked Irvington (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T17:34:47.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "W. Newark (mmacfreier) occupied Irvington with 1 troop.",
+    "timestamp": "2016-02-24T17:34:50.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "W. Newark (mmacfreier) attacked Orange (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T17:34:53.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "W. Newark (mmacfreier) occupied Orange with 5 troops.",
+    "timestamp": "2016-02-24T17:34:59.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Orange (mmacfreier) attacked Rutherford (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T17:35:05.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Orange (mmacfreier) occupied Rutherford with 3 troops.",
+    "timestamp": "2016-02-24T17:35:07.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Rutherford (mmacfreier) attacked Paramus (kwren) killing 0, losing 2.",
+    "timestamp": "2016-02-24T17:35:11.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-24T17:35:18.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-24T17:35:18.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-24T17:35:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 14 territories.",
+    "timestamp": "2016-02-24T17:35:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Westchester County.",
+    "timestamp": "2016-02-24T17:35:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for holding Bronx County.",
+    "timestamp": "2016-02-24T17:35:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Morris Park (ryanbmilbourne) was reinforced by ryanbmilbourne with 10 troops.",
+    "timestamp": "2016-02-24T17:36:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Morris Park (ryanbmilbourne) attacked Flushing (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T17:36:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Morris Park (ryanbmilbourne) occupied Flushing with 1 troop.",
+    "timestamp": "2016-02-24T17:36:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "LaGuardia Airport (ryanbmilbourne) was fortified from Parkchester (ryanbmilbourne) with 8 troops.",
+    "timestamp": "2016-02-24T17:36:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-24T17:36:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-24T17:36:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-02-24T17:37:04.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received 3 troops for 11 territories.",
+    "timestamp": "2016-02-24T17:37:04.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received 4 troops for holding Kings County.",
+    "timestamp": "2016-02-24T17:37:04.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Manhattan (jobratt) was reinforced by jobratt with 7 troops.",
+    "timestamp": "2016-02-24T17:37:14.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Manhattan (jobratt) attacked Harlem (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T17:37:16.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Manhattan (jobratt) occupied Harlem with 9 troops.",
+    "timestamp": "2016-02-24T17:37:26.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-02-24T17:37:34.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-02-24T17:37:34.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-24T17:37:41.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 9 troops for 27 territories.",
+    "timestamp": "2016-02-24T17:37:41.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 3 troops for holding Richmond County.",
+    "timestamp": "2016-02-24T17:37:41.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 3 troops for holding Bergen County.",
+    "timestamp": "2016-02-24T17:37:41.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 4 troops for holding Hudson County.",
+    "timestamp": "2016-02-24T17:37:41.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Paramus (kwren) was reinforced by kwren with 19 troops.",
+    "timestamp": "2016-02-24T17:37:45.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Paramus (kwren) attacked Rutherford (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T17:37:49.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Paramus (kwren) occupied Rutherford with 19 troops.",
+    "timestamp": "2016-02-24T17:37:51.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Rutherford (kwren) attacked Orange (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T17:37:55.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Rutherford (kwren) occupied Orange with 18 troops.",
+    "timestamp": "2016-02-24T17:37:57.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Orange (kwren) attacked W. Newark (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T17:38:00.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Orange (kwren) occupied W. Newark with 17 troops.",
+    "timestamp": "2016-02-24T17:38:01.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "W. Newark (kwren) attacked Irvington (mmacfreier) killing 0, losing 2.",
+    "timestamp": "2016-02-24T17:38:09.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "W. Newark (kwren) attacked Roselle Park (mmacfreier) conquering it, killing 5, losing 1.",
+    "timestamp": "2016-02-24T17:38:14.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "W. Newark (kwren) occupied Roselle Park with 13 troops.",
+    "timestamp": "2016-02-24T17:38:26.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Roselle Park (kwren) attacked Cranford (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T17:38:30.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Roselle Park (kwren) occupied Cranford with 5 troops.",
+    "timestamp": "2016-02-24T17:38:35.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Cranford (kwren) attacked Irvington (mmacfreier) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-02-24T17:38:44.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Roselle Park (kwren) attacked Elizabeth (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T17:38:48.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Roselle Park (kwren) occupied Elizabeth with 6 troops.",
+    "timestamp": "2016-02-24T17:38:50.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Elizabeth (kwren) attacked Union Square (mmacfreier) conquering it, killing 5, losing 4.",
+    "timestamp": "2016-02-24T17:38:58.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Bloomfield (kwren) attacked Woodbridge (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T17:39:03.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Bloomfield (kwren) occupied Woodbridge with 4 troops.",
+    "timestamp": "2016-02-24T17:39:04.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Elizabeth (kwren) was fortified from Woodbridge (kwren) with 3 troops.",
+    "timestamp": "2016-02-24T17:40:14.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-24T17:40:14.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-24T17:40:14.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-24T17:40:45.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 3 troops for 11 territories.",
+    "timestamp": "2016-02-24T17:40:45.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 3 troops for holding Nassau County.",
+    "timestamp": "2016-02-24T17:40:45.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Pelham, Jersey City, and River Edge.",
+    "timestamp": "2016-02-24T17:40:57.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Glen Cove (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-24T17:41:10.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Cambria Heights (gcochard) was reinforced by gcochard with 2 troops.",
+    "timestamp": "2016-02-24T17:41:15.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Breezy Point (gcochard) was reinforced by gcochard with 9 troops.",
+    "timestamp": "2016-02-24T17:41:19.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Breezy Point (gcochard) attacked Bensonhurst (jobratt) conquering it, killing 6, losing 4.",
+    "timestamp": "2016-02-24T17:41:36.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Breezy Point (gcochard) occupied Bensonhurst with 1 troop.",
+    "timestamp": "2016-02-24T17:41:48.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-24T17:42:32.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-24T17:42:32.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Round 10 started.",
+    "timestamp": "2016-02-24T17:42:32.000Z",
+    "player": "unknown",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-24T17:42:51.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 3 troops for 2 territories.",
+    "timestamp": "2016-02-24T17:42:51.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Fords (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-24T17:43:02.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-24T17:43:07.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-24T18:02:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 14 territories.",
+    "timestamp": "2016-02-24T18:02:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Westchester County.",
+    "timestamp": "2016-02-24T18:02:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for holding Bronx County.",
+    "timestamp": "2016-02-24T18:02:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Englewood (ryanbmilbourne) was reinforced by ryanbmilbourne with 10 troops.",
+    "timestamp": "2016-02-24T18:02:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Englewood (ryanbmilbourne) attacked Harlem (jobratt) conquering it, killing 9, losing 6.",
+    "timestamp": "2016-02-24T18:03:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Englewood (ryanbmilbourne) occupied Harlem with 11 troops.",
+    "timestamp": "2016-02-24T18:03:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Harlem (ryanbmilbourne) attacked Manhattan (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:03:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Harlem (ryanbmilbourne) occupied Manhattan with 10 troops.",
+    "timestamp": "2016-02-24T18:03:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Manhattan (ryanbmilbourne) attacked Times Square (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:03:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Manhattan (ryanbmilbourne) occupied Times Square with 9 troops.",
+    "timestamp": "2016-02-24T18:03:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Times Square (ryanbmilbourne) attacked Haberman (jobratt) conquering it, killing 6, losing 5.",
+    "timestamp": "2016-02-24T18:03:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Times Square (ryanbmilbourne) occupied Haberman with 3 troops.",
+    "timestamp": "2016-02-24T18:03:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Haberman (ryanbmilbourne) attacked Flatbush (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:04:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Haberman (ryanbmilbourne) occupied Flatbush with 1 troop.",
+    "timestamp": "2016-02-24T18:04:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "LaGuardia Airport (ryanbmilbourne) attacked Newark Airport (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:04:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "LaGuardia Airport (ryanbmilbourne) occupied Newark Airport with 7 troops.",
+    "timestamp": "2016-02-24T18:04:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Newark Airport (ryanbmilbourne) attacked E. Newark (kwren) killing 0, losing 2.",
+    "timestamp": "2016-02-24T18:04:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Newark Airport (ryanbmilbourne) attacked Union Square (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:04:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Newark Airport (ryanbmilbourne) occupied Union Square with 1 troop.",
+    "timestamp": "2016-02-24T18:04:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Newark Airport (ryanbmilbourne) attacked E. Newark (kwren) killing 0, losing 2.",
+    "timestamp": "2016-02-24T18:04:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Newark Airport (ryanbmilbourne) attacked W. Newark (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:04:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Englewood (ryanbmilbourne) was fortified from LaGuardia Airport (ryanbmilbourne) with 3 troops.",
+    "timestamp": "2016-02-24T18:05:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-24T18:05:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-24T18:05:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-02-24T18:07:51.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received 3 troops for 6 territories.",
+    "timestamp": "2016-02-24T18:07:51.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Cypress Hills (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-02-24T18:07:53.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Cypress Hills (jobratt) attacked Haberman (ryanbmilbourne) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-02-24T18:08:04.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Cypress Hills (jobratt) occupied Haberman with 6 troops.",
+    "timestamp": "2016-02-24T18:08:09.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Haberman (jobratt) attacked Flatbush (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:08:11.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Haberman (jobratt) occupied Flatbush with 1 troop.",
+    "timestamp": "2016-02-24T18:08:19.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Haberman (jobratt) attacked Times Square (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:08:23.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Haberman (jobratt) occupied Times Square with 3 troops.",
+    "timestamp": "2016-02-24T18:08:25.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Times Square (jobratt) attacked Manhattan (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:08:27.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Times Square (jobratt) occupied Manhattan with 2 troops.",
+    "timestamp": "2016-02-24T18:08:31.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Manhattan (jobratt) attacked Union City (kwren) killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:08:34.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-02-24T18:09:37.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-02-24T18:09:37.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-24T18:10:07.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 11 troops for 33 territories.",
+    "timestamp": "2016-02-24T18:10:07.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 3 troops for holding Richmond County.",
+    "timestamp": "2016-02-24T18:10:07.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 3 troops for holding Essex County.",
+    "timestamp": "2016-02-24T18:10:07.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 3 troops for holding Passaic County.",
+    "timestamp": "2016-02-24T18:10:07.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 3 troops for holding Bergen County.",
+    "timestamp": "2016-02-24T18:10:07.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 4 troops for holding Hudson County.",
+    "timestamp": "2016-02-24T18:10:07.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 2 troops on Mountain Lakes",
+    "timestamp": "2016-02-24T18:10:13.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 2 troops on Bayonne",
+    "timestamp": "2016-02-24T18:10:13.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Parkchester, Mountain Lakes, and Bayonne.",
+    "timestamp": "2016-02-24T18:10:13.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Elizabeth (kwren) was reinforced by kwren with 12 troops.",
+    "timestamp": "2016-02-24T18:10:20.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Union City (kwren) was reinforced by kwren with 9 troops.",
+    "timestamp": "2016-02-24T18:10:35.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "New Brighten (kwren) was reinforced by kwren with 14 troops.",
+    "timestamp": "2016-02-24T18:10:39.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Elizabeth (kwren) attacked Piscataway (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:10:43.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Elizabeth (kwren) occupied Piscataway with 15 troops.",
+    "timestamp": "2016-02-24T18:10:45.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Piscataway (kwren) attacked Fords (mmacfreier) conquering it, killing 4, losing 1.",
+    "timestamp": "2016-02-24T18:10:49.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier was defeated by kwren.",
+    "timestamp": "2016-02-24T18:10:49.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Piscataway (kwren) occupied Fords with 1 troop.",
+    "timestamp": "2016-02-24T18:10:59.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 2 troops on Elizabeth",
+    "timestamp": "2016-02-24T18:11:05.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 2 troops on Union City",
+    "timestamp": "2016-02-24T18:11:05.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Elizabeth, W. Newark, and Union City.",
+    "timestamp": "2016-02-24T18:11:05.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "New Brighten (kwren) was reinforced by kwren with 8 troops.",
+    "timestamp": "2016-02-24T18:11:12.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Union City (kwren) attacked Manhattan (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:11:14.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Union City (kwren) occupied Manhattan with 19 troops.",
+    "timestamp": "2016-02-24T18:11:16.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Manhattan (kwren) attacked Central Park (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:11:20.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Manhattan (kwren) occupied Central Park with 1 troop.",
+    "timestamp": "2016-02-24T18:11:23.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Manhattan (kwren) attacked Times Square (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:11:26.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Manhattan (kwren) occupied Times Square with 16 troops.",
+    "timestamp": "2016-02-24T18:11:30.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Times Square (kwren) attacked Wall Street (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:11:34.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Times Square (kwren) occupied Wall Street with 8 troops.",
+    "timestamp": "2016-02-24T18:11:38.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Wall Street (kwren) attacked Statue of Liberty (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:11:41.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Wall Street (kwren) occupied Statue of Liberty with 1 troop.",
+    "timestamp": "2016-02-24T18:11:44.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "New Brighten (kwren) attacked Flatbush (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:11:48.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "New Brighten (kwren) occupied Flatbush with 27 troops.",
+    "timestamp": "2016-02-24T18:11:49.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Times Square (kwren) attacked Haberman (jobratt) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-24T18:11:58.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Times Square (kwren) occupied Haberman with 5 troops.",
+    "timestamp": "2016-02-24T18:12:00.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Flatbush (kwren) attacked Bensonhurst (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:12:05.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Flatbush (kwren) occupied Bensonhurst with 25 troops.",
+    "timestamp": "2016-02-24T18:12:08.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Bensonhurst (kwren) attacked Coney Island (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:12:11.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Bensonhurst (kwren) occupied Coney Island with 1 troop.",
+    "timestamp": "2016-02-24T18:12:15.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Bensonhurst (kwren) attacked Brooklyn (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:12:20.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Bensonhurst (kwren) occupied Brooklyn with 22 troops.",
+    "timestamp": "2016-02-24T18:12:22.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Brooklyn (kwren) attacked Cypress Hills (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:12:26.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "jobratt was defeated by kwren.",
+    "timestamp": "2016-02-24T18:12:26.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Brooklyn (kwren) occupied Cypress Hills with 21 troops.",
+    "timestamp": "2016-02-24T18:12:28.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 2 troops on Irvington",
+    "timestamp": "2016-02-24T18:14:04.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 2 troops on Flatbush",
+    "timestamp": "2016-02-24T18:14:04.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 2 troops on Bloomfield",
+    "timestamp": "2016-02-24T18:14:04.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Irvington, Flatbush, and Bloomfield.",
+    "timestamp": "2016-02-24T18:14:04.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Irvington (kwren) was reinforced by kwren with 8 troops.",
+    "timestamp": "2016-02-24T18:14:12.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Cypress Hills (kwren) attacked Queens (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:14:19.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Cypress Hills (kwren) occupied Queens with 20 troops.",
+    "timestamp": "2016-02-24T18:14:22.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Queens (kwren) attacked Flushing (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:14:26.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Queens (kwren) occupied Flushing with 19 troops.",
+    "timestamp": "2016-02-24T18:14:27.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Flushing (kwren) attacked Morris Park (ryanbmilbourne) conquering it, killing 9, losing 8.",
+    "timestamp": "2016-02-24T18:14:39.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Flushing (kwren) occupied Morris Park with 10 troops.",
+    "timestamp": "2016-02-24T18:14:41.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Morris Park (kwren) attacked Laconia (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:14:44.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Morris Park (kwren) occupied Laconia with 9 troops.",
+    "timestamp": "2016-02-24T18:14:46.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Laconia (kwren) attacked Pelham (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:14:48.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Laconia (kwren) occupied Pelham with 1 troop.",
+    "timestamp": "2016-02-24T18:14:51.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Laconia (kwren) attacked Bronx (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:14:54.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Laconia (kwren) occupied Bronx with 7 troops.",
+    "timestamp": "2016-02-24T18:14:55.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Bronx (kwren) attacked Parkchester (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:14:58.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Bronx (kwren) occupied Parkchester with 5 troops.",
+    "timestamp": "2016-02-24T18:15:00.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Parkchester (kwren) attacked LaGuardia Airport (ryanbmilbourne) killing 6, losing 4.",
+    "timestamp": "2016-02-24T18:15:08.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Irvington (kwren) attacked W. Newark (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:15:17.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Irvington (kwren) occupied W. Newark with 10 troops.",
+    "timestamp": "2016-02-24T18:15:19.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "W. Newark (kwren) attacked Union Square (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:15:23.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "W. Newark (kwren) occupied Union Square with 9 troops.",
+    "timestamp": "2016-02-24T18:15:25.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Union Square (kwren) attacked Newark Airport (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:15:28.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Union Square (kwren) occupied Newark Airport with 8 troops.",
+    "timestamp": "2016-02-24T18:15:30.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Newark Airport (kwren) attacked JFK Airport (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:15:35.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Newark Airport (kwren) occupied JFK Airport with 7 troops.",
+    "timestamp": "2016-02-24T18:15:37.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "JFK Airport (kwren) attacked Cambria Heights (gcochard) conquering it, killing 7, losing 5.",
+    "timestamp": "2016-02-24T18:15:47.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Newark Airport (kwren) was fortified from Piscataway (kwren) with 12 troops.",
+    "timestamp": "2016-02-24T18:17:39.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-24T18:17:39.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-24T18:17:39.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-24T18:18:11.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 3 troops for 8 territories.",
+    "timestamp": "2016-02-24T18:18:11.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 3 troops for holding Nassau County.",
+    "timestamp": "2016-02-24T18:18:11.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Glen Cove (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-02-24T18:18:22.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Glen Cove (gcochard) attacked Cambria Heights (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:18:29.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Glen Cove (gcochard) occupied Cambria Heights with 12 troops.",
+    "timestamp": "2016-02-24T18:18:31.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Cambria Heights (gcochard) attacked Queens (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:18:41.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Cambria Heights (gcochard) occupied Queens with 10 troops.",
+    "timestamp": "2016-02-24T18:18:43.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Queens (gcochard) attacked Flushing (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:18:47.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Queens (gcochard) occupied Flushing with 8 troops.",
+    "timestamp": "2016-02-24T18:18:49.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Flushing (gcochard) attacked Morris Park (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:18:58.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Flushing (gcochard) occupied Morris Park with 1 troop.",
+    "timestamp": "2016-02-24T18:19:01.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Glen Cove (gcochard) was fortified from Flushing (gcochard) with 5 troops.",
+    "timestamp": "2016-02-24T18:19:10.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-24T18:19:10.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-24T18:19:10.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Round 11 started.",
+    "timestamp": "2016-02-24T18:19:10.000Z",
+    "player": "unknown",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-24T18:24:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 9 territories.",
+    "timestamp": "2016-02-24T18:24:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Astoria",
+    "timestamp": "2016-02-24T18:24:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Manhattan, Astoria, and Fort Lee.",
+    "timestamp": "2016-02-24T18:24:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "LaGuardia Airport (ryanbmilbourne) was reinforced by ryanbmilbourne with 11 troops.",
+    "timestamp": "2016-02-24T18:25:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "LaGuardia Airport (ryanbmilbourne) attacked JFK Airport (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:25:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "LaGuardia Airport (ryanbmilbourne) occupied JFK Airport with 1 troop.",
+    "timestamp": "2016-02-24T18:25:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Astoria (ryanbmilbourne) attacked Queens (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-02-24T18:25:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "LaGuardia Airport (ryanbmilbourne) attacked Newark Airport (kwren) conquering it, killing 13, losing 11.",
+    "timestamp": "2016-02-24T18:25:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "LaGuardia Airport (ryanbmilbourne) occupied Newark Airport with 5 troops.",
+    "timestamp": "2016-02-24T18:25:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Newark Airport (ryanbmilbourne) attacked Union Square (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:25:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Newark Airport (ryanbmilbourne) occupied Union Square with 1 troop.",
+    "timestamp": "2016-02-24T18:25:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Newark Airport (ryanbmilbourne) attacked W. Newark (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:25:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Newark Airport (ryanbmilbourne) occupied W. Newark with 3 troops.",
+    "timestamp": "2016-02-24T18:26:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "W. Newark (ryanbmilbourne) attacked Orange (kwren) killing 0, losing 2.",
+    "timestamp": "2016-02-24T18:26:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Englewood (ryanbmilbourne) attacked Laconia (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:26:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Englewood (ryanbmilbourne) occupied Laconia with 10 troops.",
+    "timestamp": "2016-02-24T18:26:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Laconia (ryanbmilbourne) attacked Pelham (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:26:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Laconia (ryanbmilbourne) occupied Pelham with 1 troop.",
+    "timestamp": "2016-02-24T18:26:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Laconia (ryanbmilbourne) attacked Bronx (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:26:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Laconia (ryanbmilbourne) occupied Bronx with 8 troops.",
+    "timestamp": "2016-02-24T18:26:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Bronx (ryanbmilbourne) attacked Parkchester (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:26:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Bronx (ryanbmilbourne) occupied Parkchester with 7 troops.",
+    "timestamp": "2016-02-24T18:26:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Parkchester (ryanbmilbourne) attacked Morris Park (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:26:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Parkchester (ryanbmilbourne) occupied Morris Park with 3 troops.",
+    "timestamp": "2016-02-24T18:26:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-24T18:26:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-24T18:26:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-24T18:27:06.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 15 troops for 46 territories.",
+    "timestamp": "2016-02-24T18:27:06.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 3 troops for holding Richmond County.",
+    "timestamp": "2016-02-24T18:27:06.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 3 troops for holding Essex County.",
+    "timestamp": "2016-02-24T18:27:06.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 3 troops for holding Passaic County.",
+    "timestamp": "2016-02-24T18:27:06.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 3 troops for holding Bergen County.",
+    "timestamp": "2016-02-24T18:27:06.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 4 troops for holding Hudson County.",
+    "timestamp": "2016-02-24T18:27:06.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 4 troops for holding Kings County.",
+    "timestamp": "2016-02-24T18:27:06.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 2 troops on Pleasant Plains",
+    "timestamp": "2016-02-24T18:27:11.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 2 troops on Ridgewood",
+    "timestamp": "2016-02-24T18:27:11.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 2 troops on Cranford",
+    "timestamp": "2016-02-24T18:27:11.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Pleasant Plains, Ridgewood, and Cranford.",
+    "timestamp": "2016-02-24T18:27:11.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Cranford (kwren) was reinforced by kwren with 5 troops.",
+    "timestamp": "2016-02-24T18:27:31.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Cypress Hills (kwren) was reinforced by kwren with 38 troops.",
+    "timestamp": "2016-02-24T18:27:35.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Cypress Hills (kwren) attacked Woodhaven (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:27:42.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Cypress Hills (kwren) occupied Woodhaven with 38 troops.",
+    "timestamp": "2016-02-24T18:27:45.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Woodhaven (kwren) attacked Queens (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:27:49.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Woodhaven (kwren) occupied Queens with 21 troops.",
+    "timestamp": "2016-02-24T18:27:57.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Queens (kwren) attacked Flushing (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:28:01.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Queens (kwren) occupied Flushing with 19 troops.",
+    "timestamp": "2016-02-24T18:28:03.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Flushing (kwren) attacked Morris Park (ryanbmilbourne) killing 0, losing 4.",
+    "timestamp": "2016-02-24T18:28:07.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Flushing (kwren) attacked Glen Cove (gcochard) conquering it, killing 6, losing 0.",
+    "timestamp": "2016-02-24T18:28:11.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Flushing (kwren) occupied Glen Cove with 14 troops.",
+    "timestamp": "2016-02-24T18:28:13.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Woodhaven (kwren) attacked J. Bay Wildlife Refuge (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:28:18.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Woodhaven (kwren) occupied J. Bay Wildlife Refuge with 15 troops.",
+    "timestamp": "2016-02-24T18:28:19.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "J. Bay Wildlife Refuge (kwren) attacked Breezy Point (gcochard) conquering it, killing 9, losing 1.",
+    "timestamp": "2016-02-24T18:28:26.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "J. Bay Wildlife Refuge (kwren) occupied Breezy Point with 13 troops.",
+    "timestamp": "2016-02-24T18:28:28.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Breezy Point (kwren) attacked Long Beach (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:28:32.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Breezy Point (kwren) occupied Long Beach with 12 troops.",
+    "timestamp": "2016-02-24T18:28:34.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Long Beach (kwren) attacked Hempstead (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:28:40.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Long Beach (kwren) occupied Hempstead with 11 troops.",
+    "timestamp": "2016-02-24T18:28:42.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Glen Cove (kwren) attacked Cambria Heights (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:28:48.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Glen Cove (kwren) occupied Cambria Heights with 13 troops.",
+    "timestamp": "2016-02-24T18:28:49.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Cambria Heights (kwren) attacked Rockdale Village (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:28:54.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Cambria Heights (kwren) occupied Rockdale Village with 11 troops.",
+    "timestamp": "2016-02-24T18:28:56.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Hempstead (kwren) attacked Levittown (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:28:58.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "gcochard was defeated by kwren.",
+    "timestamp": "2016-02-24T18:28:58.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Hempstead (kwren) occupied Levittown with 10 troops.",
+    "timestamp": "2016-02-24T18:29:05.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 2 troops on Piscataway",
+    "timestamp": "2016-02-24T18:29:08.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Bronxville, Mets Stadium, and Piscataway.",
+    "timestamp": "2016-02-24T18:29:08.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Rockdale Village (kwren) was reinforced by kwren with 8 troops.",
+    "timestamp": "2016-02-24T18:29:10.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Rockdale Village (kwren) attacked JFK Airport (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:29:13.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Rockdale Village (kwren) occupied JFK Airport with 18 troops.",
+    "timestamp": "2016-02-24T18:29:15.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "JFK Airport (kwren) attacked LaGuardia Airport (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:29:18.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "JFK Airport (kwren) occupied LaGuardia Airport with 17 troops.",
+    "timestamp": "2016-02-24T18:29:19.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "LaGuardia Airport (kwren) attacked Astoria (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:29:24.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "LaGuardia Airport (kwren) occupied Astoria with 6 troops.",
+    "timestamp": "2016-02-24T18:29:28.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "LaGuardia Airport (kwren) attacked Parkchester (ryanbmilbourne) conquering it, killing 4, losing 1.",
+    "timestamp": "2016-02-24T18:29:33.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "LaGuardia Airport (kwren) occupied Parkchester with 8 troops.",
+    "timestamp": "2016-02-24T18:29:40.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Parkchester (kwren) attacked Bronx (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:29:44.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Parkchester (kwren) occupied Bronx with 6 troops.",
+    "timestamp": "2016-02-24T18:29:45.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Bronx (kwren) attacked Laconia (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:29:48.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Bronx (kwren) occupied Laconia with 5 troops.",
+    "timestamp": "2016-02-24T18:29:49.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Laconia (kwren) attacked Bronxville (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:29:52.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Laconia (kwren) occupied Bronxville with 4 troops.",
+    "timestamp": "2016-02-24T18:29:57.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Astoria (kwren) attacked Mets Stadium (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:30:01.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Astoria (kwren) occupied Mets Stadium with 5 troops.",
+    "timestamp": "2016-02-24T18:30:03.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Bronxville (kwren) attacked Yonkers (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:30:07.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Bronxville (kwren) occupied Yonkers with 1 troop.",
+    "timestamp": "2016-02-24T18:30:10.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Bronxville (kwren) attacked New Rochelle (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:30:16.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Cranford (kwren) attacked W. Newark (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:30:22.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Cranford (kwren) occupied W. Newark with 7 troops.",
+    "timestamp": "2016-02-24T18:30:24.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "W. Newark (kwren) attacked Newark Airport (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-24T18:30:28.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "W. Newark (kwren) occupied Newark Airport with 5 troops.",
+    "timestamp": "2016-02-24T18:30:30.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Elizabeth (kwren) attacked Union Square (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:30:34.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Elizabeth (kwren) occupied Union Square with 2 troops.",
+    "timestamp": "2016-02-24T18:30:35.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Laconia (kwren) was fortified from Jersey City (kwren) with 13 troops.",
+    "timestamp": "2016-02-24T18:30:52.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-24T18:30:52.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-24T18:30:52.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Round 12 started.",
+    "timestamp": "2016-02-24T18:30:52.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-24T18:36:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 5 territories.",
+    "timestamp": "2016-02-24T18:36:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Morris Park (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-24T18:36:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Morris Park (ryanbmilbourne) attacked Laconia (kwren) killing 6, losing 5.",
+    "timestamp": "2016-02-24T18:36:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-24T18:58:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-24T18:59:01.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 23 troops for 70 territories.",
+    "timestamp": "2016-02-24T18:59:01.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 4 troops for holding Kings County.",
+    "timestamp": "2016-02-24T18:59:01.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 7 troops for holding Queens County.",
+    "timestamp": "2016-02-24T18:59:01.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 3 troops for holding Nassau County.",
+    "timestamp": "2016-02-24T18:59:01.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 3 troops for holding Richmond County.",
+    "timestamp": "2016-02-24T18:59:01.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 3 troops for holding Middlesex County.",
+    "timestamp": "2016-02-24T18:59:01.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 4 troops for holding Union County.",
+    "timestamp": "2016-02-24T18:59:01.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 3 troops for holding Essex County.",
+    "timestamp": "2016-02-24T18:59:01.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 3 troops for holding Passaic County.",
+    "timestamp": "2016-02-24T18:59:01.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 3 troops for holding Bergen County.",
+    "timestamp": "2016-02-24T18:59:01.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 4 troops for holding Hudson County.",
+    "timestamp": "2016-02-24T18:59:01.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Parkchester (kwren) was reinforced by kwren with 60 troops.",
+    "timestamp": "2016-02-24T18:59:08.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Laconia (kwren) attacked Pelham (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:59:12.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Laconia (kwren) occupied Pelham with 1 troop.",
+    "timestamp": "2016-02-24T18:59:16.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Laconia (kwren) attacked Morris Park (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:59:22.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Laconia (kwren) occupied Morris Park with 1 troop.",
+    "timestamp": "2016-02-24T18:59:24.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Parkchester (kwren) attacked Yankee Stadium (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:59:32.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Parkchester (kwren) occupied Yankee Stadium with 60 troops.",
+    "timestamp": "2016-02-24T18:59:33.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Yankee Stadium (kwren) attacked Englewood (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:59:36.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Yankee Stadium (kwren) occupied Englewood with 59 troops.",
+    "timestamp": "2016-02-24T18:59:37.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Englewood (kwren) attacked Harlem (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne was defeated by kwren.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier lost 22 rating.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier received 20 tokens.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne lost 19 rating.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 20 tokens.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "jobratt lost 29 rating.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "jobratt received 20 tokens.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "kwren won the game.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 97 rating.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 20 tokens.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "gcochard lost 12 rating.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 20 tokens.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 lost 15 rating.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 20 tokens.",
+    "timestamp": "2016-02-24T18:59:41.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  }
+]

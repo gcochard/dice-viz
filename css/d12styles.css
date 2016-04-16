@@ -1,0 +1,104 @@
+body {
+    margin: 5px;
+    font-family: sans-serif;
+}
+.map {
+    position: relative;
+    margin: 5px;
+}
+.map div {
+    position: absolute;
+    cursor: pointer;
+}
+.territory-large a, .territory-small a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 14px;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.7);
+}
+.territory-large a:hover, .territory-small a:hover {
+    text-decoration: none;
+}
+.territory-large {
+    width: 36px;
+    height: 36px;
+    background-image: url("https://dominating12.com/assets/img/territories/normal-large.png");
+}
+.territory-large a {
+    line-height: 36px;
+    background-color: transparent;
+}
+.territory-small {
+    width: 32px;
+    height: 32px;
+    background-image: url("https://dominating12.com/assets/img/territories/normal-small.png");
+}
+.territory-small a {
+    line-height: 32px;
+    font-size: 88.8888888889%;
+    background-color: transparent;
+}
+.territory-large.tc-0 {
+    background-position: 0px 0px;
+}
+.territory-large.tc-1 {
+    background-position: -36px 0px;
+}
+.territory-large.tc-2 {
+    background-position: -72px 0px;
+}
+.territory-large.tc-3 {
+    background-position: -108px 0px;
+}
+.territory-large.tc-4 {
+    background-position: -144px 0px;
+}
+.territory-large.tc-5 {
+    background-position: -180px 0px;
+}
+.territory-large.tc-6 {
+    background-position: -216px 0px;
+}
+.territory-large.tc-7 {
+    background-position: -252px 0px;
+}
+.territory-large.tc-8 {
+    background-position: -288px 0px;
+}
+.territory-large.tc-9 {
+    background-position: -324px 0px;
+}
+.territory-small.tc-0 {
+    background-position: 0px 0px;
+}
+.territory-small.tc-1 {
+    background-position: -32px 0px;
+}
+.territory-small.tc-2 {
+    background-position: -64px 0px;
+}
+.territory-small.tc-3 {
+    background-position: -96px 0px;
+}
+.territory-small.tc-4 {
+    background-position: -128px 0px;
+}
+.territory-small.tc-5 {
+    background-position: -160px 0px;
+}
+.territory-small.tc-6 {
+    background-position: -192px 0px;
+}
+.territory-small.tc-7 {
+    background-position: -224px 0px;
+}
+.territory-small.tc-8 {
+    background-position: -256px 0px;
+}
+.territory-small.tc-9 {
+    background-position: -288px 0px;
+}
