@@ -39,7 +39,7 @@ function getGameData(cb) {
     var gameId = $('#game').val();
 
     if(getGD && $.isNumeric(gameId)) {
-        d3.json('https://hubot-gregcochard.rhcloud.com/hubot/d12log/'+gameId, function (error, gdata) {
+        d3.json('data/'+gameId+'.json', function (error, gdata) {
             d3.json('data/d12maps.json', function (error, mdata) {
                 mdata = d3.entries(mdata).filter(function (d) { return (d.value.gid.indexOf(gameId) > -1); });
                 cb(gameId, gdata, mdata[0]);
@@ -58,7 +58,7 @@ function setGameIds(data, opt0, chg_cb) {
         .on('change', function () { getGameData(chg_cb); })
         .selectAll('option')
         .data([opt0].concat(d3.keys(data).filter(function(d) {
-            return d != "undefined";
+            return d != "undefined" && d != '600989';
         }).sort()))
         .enter().append('option')
         .attr('value', function(d) {
