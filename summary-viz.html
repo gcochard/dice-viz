@@ -4,6 +4,12 @@
 <head>
     <meta charset="utf-8">
     <title>D12 Game Summary Data</title>
+    <link href="http://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet">
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+    <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+    <!--script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.6.7/d3-tip.js"></script-->
+    <script type="text/javascript" src="js/viz-utils.js"></script>
     <style>
     body {
         margin: 5px;
@@ -30,17 +36,36 @@
     text.ltitle {
         cursor: pointer;
     }
+
+    .ui-slider .ui-slider-handle {
+        width: 0.6em;
+    }
+
+    #slider {
+        width: 70%;
+        margin: 0 auto;
+        margin-top: 18px;
+    }
+    #slider a {
+        text-decoration: none;
+        outline: none;
+    }
+    #sval {
+        width: 50px;
+        text-align: center;
+        color: black;
+        text-decoration: none;
+        font: 14px sans-serif;
+    }
     </style>
-    <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.2.min.js" integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI=" crossorigin="anonymous"></script>
-    <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
-    <!--script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.6.7/d3-tip.js"></script-->
-    <script type="text/javascript" src="js/viz-utils.js"></script>
 </head>
 
 <body>
     <h2>D12 Game Summary Analysis</h2>
     <div id="selectors">
         <select id="game"></select>
+        <!-- <div id="slider"></div>
+        <span id="sval"></span> -->
     </div>
     <div id="focusBar"></div>
     <div id="attrGraph"></div>
