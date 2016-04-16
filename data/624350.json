@@ -1,0 +1,2114 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-03-15T15:12:44.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne joined the game.",
+    "timestamp": "2016-03-15T15:12:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "johnsgill3 joined the game.",
+    "timestamp": "2016-03-15T15:40:49.000Z",
+    "player": "johnsgill3",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-03-15T15:40:50.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-15T15:41:53.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 14 territories.",
+    "timestamp": "2016-03-15T15:41:54.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Ukraine (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-03-15T15:43:34.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Northern Europe (johnsgill3) was reinforced by johnsgill3 with 1 troop.",
+    "timestamp": "2016-03-15T15:43:43.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Scandinavia (johnsgill3) was reinforced by johnsgill3 with 1 troop.",
+    "timestamp": "2016-03-15T15:43:45.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Greenland (johnsgill3) attacked Iceland (ryanbmilbourne) killing 2, losing 2.",
+    "timestamp": "2016-03-15T15:44:31.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-15T15:44:49.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-15T16:13:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 14 territories.",
+    "timestamp": "2016-03-15T16:13:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Eastern Australia (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-03-15T16:13:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Eastern Australia (ryanbmilbourne) attacked Western Australia (johnsgill3) killing 0, losing 4.",
+    "timestamp": "2016-03-15T16:14:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Quebec (ryanbmilbourne) attacked Greenland (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-15T16:14:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Eastern United States (ryanbmilbourne) attacked Ontario (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-03-15T16:15:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Alaska (ryanbmilbourne) was fortified from Kamchatka (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-03-15T16:15:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-15T16:15:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-15T16:15:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-03-15T16:15:20.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-15T16:38:10.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 13 territories.",
+    "timestamp": "2016-03-15T16:38:10.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Peru (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-03-15T16:39:57.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "North Africa (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-03-15T16:39:59.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Peru (johnsgill3) attacked Argentina (Neutral) killing 0, losing 4.",
+    "timestamp": "2016-03-15T16:40:11.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "North Africa (johnsgill3) attacked Brazil (Neutral) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-03-15T16:40:27.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "North Africa (johnsgill3) occupied Brazil with 2 troops.",
+    "timestamp": "2016-03-15T16:40:43.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Scandinavia (johnsgill3) attacked Iceland (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-15T16:40:55.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Scandinavia (johnsgill3) occupied Iceland with 1 troop.",
+    "timestamp": "2016-03-15T16:41:03.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Northern Europe (johnsgill3) attacked Britain (ryanbmilbourne) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-15T16:41:19.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Northern Europe (johnsgill3) occupied Britain with 1 troop.",
+    "timestamp": "2016-03-15T16:41:28.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-15T16:42:00.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-15T16:42:00.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-15T16:42:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 13 territories.",
+    "timestamp": "2016-03-15T16:42:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Eastern Australia (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-03-15T16:42:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Eastern Australia (ryanbmilbourne) attacked Western Australia (johnsgill3) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-03-15T16:42:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Eastern Australia (ryanbmilbourne) occupied Western Australia with 2 troops.",
+    "timestamp": "2016-03-15T16:42:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Northwest Territory (ryanbmilbourne) attacked Ontario (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-03-15T16:43:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-15T16:43:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-15T16:43:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-03-15T16:43:16.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-15T16:59:15.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 15 territories.",
+    "timestamp": "2016-03-15T16:59:15.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Peru (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-03-15T17:00:37.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Iceland (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-03-15T17:00:42.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Peru (johnsgill3) attacked Argentina (Neutral) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-15T17:00:51.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Peru (johnsgill3) occupied Argentina with 1 troop.",
+    "timestamp": "2016-03-15T17:00:57.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Ontario (johnsgill3) attacked Eastern United States (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-15T17:01:08.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Alberta (johnsgill3) attacked Northwest Territory (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-15T17:01:11.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Alberta (johnsgill3) occupied Northwest Territory with 2 troops.",
+    "timestamp": "2016-03-15T17:01:42.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Venezuela (johnsgill3) was fortified from Peru (johnsgill3) with 2 troops.",
+    "timestamp": "2016-03-15T17:03:13.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-15T17:03:13.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-15T17:03:13.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-15T18:53:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 12 territories.",
+    "timestamp": "2016-03-15T18:53:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Western United States (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-03-15T18:53:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Western United States (ryanbmilbourne) attacked Eastern United States (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-15T18:53:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Western United States (ryanbmilbourne) occupied Eastern United States with 1 troop.",
+    "timestamp": "2016-03-15T18:54:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Western United States (ryanbmilbourne) attacked Ontario (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-15T18:54:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Western United States (ryanbmilbourne) occupied Ontario with 5 troops.",
+    "timestamp": "2016-03-15T18:54:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Ontario (ryanbmilbourne) attacked Alberta (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-15T18:55:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Ontario (ryanbmilbourne) occupied Alberta with 3 troops.",
+    "timestamp": "2016-03-15T18:55:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Alberta (ryanbmilbourne) attacked Northwest Territory (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-03-15T18:55:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Alaska (ryanbmilbourne) attacked Northwest Territory (johnsgill3) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-03-15T18:55:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Alaska (ryanbmilbourne) occupied Northwest Territory with 1 troop.",
+    "timestamp": "2016-03-15T18:56:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Southern Europe (ryanbmilbourne) was fortified from Middle East (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-03-15T18:56:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-15T18:56:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-15T18:56:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-03-15T18:56:15.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-15T23:11:54.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 14 territories.",
+    "timestamp": "2016-03-15T23:11:54.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding South America.",
+    "timestamp": "2016-03-15T23:11:54.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Venezuela (johnsgill3) was reinforced by johnsgill3 with 1 troop.",
+    "timestamp": "2016-03-15T23:12:15.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Northern Europe (johnsgill3) was reinforced by johnsgill3 with 4 troops.",
+    "timestamp": "2016-03-15T23:13:09.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Iceland (johnsgill3) was reinforced by johnsgill3 with 1 troop.",
+    "timestamp": "2016-03-15T23:13:13.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Northern Europe (johnsgill3) attacked Southern Europe (ryanbmilbourne) killing 0, losing 6.",
+    "timestamp": "2016-03-15T23:13:24.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Ukraine (johnsgill3) attacked Southern Europe (ryanbmilbourne) killing 3, losing 4.",
+    "timestamp": "2016-03-15T23:13:38.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Iceland (johnsgill3) attacked Greenland (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-15T23:13:44.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Iceland (johnsgill3) occupied Greenland with 1 troop.",
+    "timestamp": "2016-03-15T23:13:50.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Yakutsk (johnsgill3) attacked Kamchatka (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-15T23:14:22.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Yakutsk (johnsgill3) occupied Kamchatka with 1 troop.",
+    "timestamp": "2016-03-15T23:14:25.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Siberia (johnsgill3) attacked Irkutsk (Neutral) killing 0, losing 2.",
+    "timestamp": "2016-03-15T23:14:40.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Northern Europe (johnsgill3) was fortified from Scandinavia (johnsgill3) with 2 troops.",
+    "timestamp": "2016-03-15T23:14:58.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-15T23:14:58.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-15T23:14:58.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-16T00:04:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 14 territories.",
+    "timestamp": "2016-03-16T00:04:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Eastern United States",
+    "timestamp": "2016-03-16T00:04:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Eastern Australia",
+    "timestamp": "2016-03-16T00:04:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for turning in cards Eastern United States, Scandinavia, and Eastern Australia.",
+    "timestamp": "2016-03-16T00:04:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Quebec (ryanbmilbourne) was reinforced by ryanbmilbourne with 8 troops.",
+    "timestamp": "2016-03-16T00:04:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Quebec (ryanbmilbourne) attacked Greenland (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-16T00:04:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Quebec (ryanbmilbourne) occupied Greenland with 7 troops.",
+    "timestamp": "2016-03-16T00:04:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Central America (ryanbmilbourne) was fortified from Eastern United States (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-03-16T00:05:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-16T00:05:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-16T00:05:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-03-16T00:05:03.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-16T00:26:54.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 15 territories.",
+    "timestamp": "2016-03-16T00:26:54.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding South America.",
+    "timestamp": "2016-03-16T00:26:54.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Northern Europe (johnsgill3) was reinforced by johnsgill3 with 4 troops.",
+    "timestamp": "2016-03-16T00:31:11.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "North Africa (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-03-16T00:31:13.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "North Africa (johnsgill3) attacked Southern Europe (ryanbmilbourne) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-03-16T00:31:21.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "North Africa (johnsgill3) occupied Southern Europe with 3 troops.",
+    "timestamp": "2016-03-16T00:31:44.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Northern Europe (johnsgill3) attacked Western Europe (Neutral) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-03-16T00:31:57.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Northern Europe (johnsgill3) occupied Western Europe with 1 troop.",
+    "timestamp": "2016-03-16T00:32:01.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Southern Europe (johnsgill3) attacked Middle East (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-16T00:32:14.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Southern Europe (johnsgill3) was fortified from Northern Europe (johnsgill3) with 3 troops.",
+    "timestamp": "2016-03-16T00:37:33.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-16T00:37:33.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-16T00:37:33.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-16T00:51:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 13 territories.",
+    "timestamp": "2016-03-16T00:51:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for holding North America.",
+    "timestamp": "2016-03-16T00:51:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "South Africa (ryanbmilbourne) was reinforced by ryanbmilbourne with 9 troops.",
+    "timestamp": "2016-03-16T00:51:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "South Africa (ryanbmilbourne) attacked Congo (johnsgill3) killing 1, losing 7.",
+    "timestamp": "2016-03-16T00:51:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Papua New Guinea (ryanbmilbourne) was fortified from Eastern Australia (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-03-16T00:51:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-16T00:51:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-03-16T00:51:53.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-16T01:06:35.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 6 troops for 18 territories.",
+    "timestamp": "2016-03-16T01:06:35.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding South America.",
+    "timestamp": "2016-03-16T01:06:35.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 5 troops for holding Europe.",
+    "timestamp": "2016-03-16T01:06:35.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Congo",
+    "timestamp": "2016-03-16T01:06:39.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 6 troops for turning in cards Congo, Siam, and Indonesia.",
+    "timestamp": "2016-03-16T01:06:39.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Congo (johnsgill3) was reinforced by johnsgill3 with 10 troops.",
+    "timestamp": "2016-03-16T01:12:02.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Iceland (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-03-16T01:12:16.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Japan (johnsgill3) was reinforced by johnsgill3 with 6 troops.",
+    "timestamp": "2016-03-16T01:12:36.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Congo (johnsgill3) attacked South Africa (ryanbmilbourne) conquering it, killing 5, losing 7.",
+    "timestamp": "2016-03-16T01:12:56.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Congo (johnsgill3) occupied South Africa with 6 troops.",
+    "timestamp": "2016-03-16T01:13:08.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "South Africa (johnsgill3) attacked Madagascar (Neutral) killing 2, losing 5.",
+    "timestamp": "2016-03-16T01:13:24.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Southern Europe (johnsgill3) attacked Egypt (Neutral) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-03-16T01:14:14.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Japan (johnsgill3) attacked Mongolia (Neutral) conquering it, killing 3, losing 6.",
+    "timestamp": "2016-03-16T01:14:41.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Japan (johnsgill3) occupied Mongolia with 2 troops.",
+    "timestamp": "2016-03-16T01:14:45.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Venezuela (johnsgill3) was fortified from Brazil (johnsgill3) with 1 troop.",
+    "timestamp": "2016-03-16T01:15:11.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-16T01:15:11.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-16T01:15:11.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-16T02:13:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 12 territories.",
+    "timestamp": "2016-03-16T02:13:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for holding North America.",
+    "timestamp": "2016-03-16T02:13:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Greenland (ryanbmilbourne) was reinforced by ryanbmilbourne with 9 troops.",
+    "timestamp": "2016-03-16T02:13:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Greenland (ryanbmilbourne) attacked Iceland (johnsgill3) conquering it, killing 6, losing 4.",
+    "timestamp": "2016-03-16T02:13:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Greenland (ryanbmilbourne) occupied Iceland with 11 troops.",
+    "timestamp": "2016-03-16T02:13:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Iceland (ryanbmilbourne) attacked Britain (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T02:13:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Iceland (ryanbmilbourne) occupied Britain with 10 troops.",
+    "timestamp": "2016-03-16T02:13:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Britain (ryanbmilbourne) attacked Western Europe (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T02:13:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Britain (ryanbmilbourne) occupied Western Europe with 9 troops.",
+    "timestamp": "2016-03-16T02:13:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Western Europe (ryanbmilbourne) attacked North Africa (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T02:14:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Western Europe (ryanbmilbourne) occupied North Africa with 8 troops.",
+    "timestamp": "2016-03-16T02:14:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "North Africa (ryanbmilbourne) attacked Brazil (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T02:14:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "North Africa (ryanbmilbourne) occupied Brazil with 1 troop.",
+    "timestamp": "2016-03-16T02:14:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Greenland (ryanbmilbourne) was fortified from North Africa (ryanbmilbourne) with 6 troops.",
+    "timestamp": "2016-03-16T02:14:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-16T02:14:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-16T02:14:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Round 7 started.",
+    "timestamp": "2016-03-16T02:14:21.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-16T02:18:53.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 16 territories.",
+    "timestamp": "2016-03-16T02:18:53.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Peru (johnsgill3) was reinforced by johnsgill3 with 5 troops.",
+    "timestamp": "2016-03-16T02:19:15.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Peru (johnsgill3) attacked Brazil (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T02:19:19.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Peru (johnsgill3) occupied Brazil with 5 troops.",
+    "timestamp": "2016-03-16T02:19:21.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Brazil (johnsgill3) attacked North Africa (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T02:19:25.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Brazil (johnsgill3) occupied North Africa with 4 troops.",
+    "timestamp": "2016-03-16T02:19:28.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-16T02:19:53.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-16T02:19:53.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-16T15:06:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for 15 territories.",
+    "timestamp": "2016-03-16T15:06:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for holding North America.",
+    "timestamp": "2016-03-16T15:06:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Central America (ryanbmilbourne) was reinforced by ryanbmilbourne with 5 troops.",
+    "timestamp": "2016-03-16T15:07:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Greenland (ryanbmilbourne) was reinforced by ryanbmilbourne with 1 troop.",
+    "timestamp": "2016-03-16T15:07:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Alaska (ryanbmilbourne) was reinforced by ryanbmilbourne with 1 troop.",
+    "timestamp": "2016-03-16T15:07:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Papua New Guinea (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-03-16T15:07:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Papua New Guinea (ryanbmilbourne) attacked Indonesia (Neutral) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-16T15:07:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Papua New Guinea (ryanbmilbourne) occupied Indonesia with 7 troops.",
+    "timestamp": "2016-03-16T15:07:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Alaska (ryanbmilbourne) was fortified from Greenland (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-03-16T15:08:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-16T15:08:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-16T15:08:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Round 8 started.",
+    "timestamp": "2016-03-16T15:08:18.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-16T15:45:36.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 6 troops for 18 territories.",
+    "timestamp": "2016-03-16T15:45:36.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding South America.",
+    "timestamp": "2016-03-16T15:45:36.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "South Africa (johnsgill3) was reinforced by johnsgill3 with 8 troops.",
+    "timestamp": "2016-03-16T15:46:08.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "South Africa (johnsgill3) attacked Madagascar (Neutral) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T15:46:11.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "South Africa (johnsgill3) occupied Madagascar with 8 troops.",
+    "timestamp": "2016-03-16T15:46:15.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Madagascar (johnsgill3) attacked East Africa (Neutral) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-03-16T15:46:24.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Madagascar (johnsgill3) occupied East Africa with 6 troops.",
+    "timestamp": "2016-03-16T15:46:26.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Egypt (johnsgill3) was fortified from East Africa (johnsgill3) with 5 troops.",
+    "timestamp": "2016-03-16T15:46:47.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-16T15:46:47.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-16T15:46:47.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-16T16:27:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for 16 territories.",
+    "timestamp": "2016-03-16T16:27:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for holding North America.",
+    "timestamp": "2016-03-16T16:27:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Australia.",
+    "timestamp": "2016-03-16T16:27:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Western Europe (ryanbmilbourne) was reinforced by ryanbmilbourne with 12 troops.",
+    "timestamp": "2016-03-16T16:28:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Western Europe (ryanbmilbourne) attacked North Africa (johnsgill3) conquering it, killing 4, losing 8.",
+    "timestamp": "2016-03-16T16:28:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Western Europe (ryanbmilbourne) occupied North Africa with 4 troops.",
+    "timestamp": "2016-03-16T16:28:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "North Africa (ryanbmilbourne) attacked Brazil (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T16:28:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "North Africa (ryanbmilbourne) occupied Brazil with 3 troops.",
+    "timestamp": "2016-03-16T16:28:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Brazil (ryanbmilbourne) attacked Venezuela (johnsgill3) killing 4, losing 2.",
+    "timestamp": "2016-03-16T16:29:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Central America (ryanbmilbourne) attacked Venezuela (johnsgill3) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-03-16T16:29:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Central America (ryanbmilbourne) occupied Venezuela with 1 troop.",
+    "timestamp": "2016-03-16T16:29:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Alaska (ryanbmilbourne) was fortified from Central America (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-03-16T16:29:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-16T16:29:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-16T16:29:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Round 9 started.",
+    "timestamp": "2016-03-16T16:29:58.000Z",
+    "player": "unknown",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-16T16:50:00.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 17 territories.",
+    "timestamp": "2016-03-16T16:50:00.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Egypt",
+    "timestamp": "2016-03-16T16:50:10.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Madagascar",
+    "timestamp": "2016-03-16T16:50:10.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received 8 troops for turning in cards North Africa, Egypt, and Madagascar.",
+    "timestamp": "2016-03-16T16:50:10.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Scandinavia (johnsgill3) was reinforced by johnsgill3 with 13 troops.",
+    "timestamp": "2016-03-16T16:50:56.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Scandinavia (johnsgill3) attacked Iceland (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-16T16:51:01.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Scandinavia (johnsgill3) occupied Iceland with 12 troops.",
+    "timestamp": "2016-03-16T16:51:03.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Iceland (johnsgill3) attacked Greenland (ryanbmilbourne) killing 4, losing 11.",
+    "timestamp": "2016-03-16T16:51:19.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Egypt (johnsgill3) attacked North Africa (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-03-16T16:51:26.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Egypt (johnsgill3) occupied North Africa with 5 troops.",
+    "timestamp": "2016-03-16T16:51:29.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "North Africa (johnsgill3) attacked Brazil (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T16:51:46.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "North Africa (johnsgill3) occupied Brazil with 4 troops.",
+    "timestamp": "2016-03-16T16:51:48.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Brazil (johnsgill3) attacked Venezuela (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-16T16:51:53.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Brazil (johnsgill3) occupied Venezuela with 2 troops.",
+    "timestamp": "2016-03-16T16:51:55.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Iceland (johnsgill3) was fortified from Madagascar (johnsgill3) with 2 troops.",
+    "timestamp": "2016-03-16T16:52:12.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-16T16:52:13.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-16T16:52:13.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-16T16:56:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for 15 territories.",
+    "timestamp": "2016-03-16T16:56:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for holding North America.",
+    "timestamp": "2016-03-16T16:56:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Australia.",
+    "timestamp": "2016-03-16T16:56:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Alaska",
+    "timestamp": "2016-03-16T16:56:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Venezuela, Siberia, and Alaska.",
+    "timestamp": "2016-03-16T16:56:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Greenland (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-03-16T16:57:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Central America (ryanbmilbourne) was reinforced by ryanbmilbourne with 14 troops.",
+    "timestamp": "2016-03-16T16:57:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Central America (ryanbmilbourne) attacked Venezuela (johnsgill3) conquering it, killing 2, losing 6.",
+    "timestamp": "2016-03-16T16:57:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Central America (ryanbmilbourne) occupied Venezuela with 14 troops.",
+    "timestamp": "2016-03-16T16:57:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Venezuela (ryanbmilbourne) attacked Brazil (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T16:57:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Venezuela (ryanbmilbourne) occupied Brazil with 13 troops.",
+    "timestamp": "2016-03-16T16:58:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Brazil (ryanbmilbourne) attacked North Africa (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T16:58:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Brazil (ryanbmilbourne) occupied North Africa with 1 troop.",
+    "timestamp": "2016-03-16T16:58:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Brazil (ryanbmilbourne) attacked Peru (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T16:58:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Brazil (ryanbmilbourne) occupied Peru with 1 troop.",
+    "timestamp": "2016-03-16T16:58:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Brazil (ryanbmilbourne) attacked Argentina (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T16:58:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Brazil (ryanbmilbourne) occupied Argentina with 1 troop.",
+    "timestamp": "2016-03-16T16:58:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Greenland (ryanbmilbourne) was fortified from Alaska (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-03-16T16:59:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-16T16:59:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-16T16:59:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Round 10 started.",
+    "timestamp": "2016-03-16T16:59:52.000Z",
+    "player": "unknown",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-16T17:08:15.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 16 territories.",
+    "timestamp": "2016-03-16T17:08:15.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Congo (johnsgill3) was reinforced by johnsgill3 with 5 troops.",
+    "timestamp": "2016-03-16T17:09:58.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Congo (johnsgill3) attacked North Africa (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-16T17:10:03.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Congo (johnsgill3) occupied North Africa with 4 troops.",
+    "timestamp": "2016-03-16T17:10:04.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "North Africa (johnsgill3) attacked Western Europe (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-16T17:10:17.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "North Africa (johnsgill3) occupied Western Europe with 2 troops.",
+    "timestamp": "2016-03-16T17:10:20.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Iceland (johnsgill3) attacked Britain (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-03-16T17:10:25.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Western Europe (johnsgill3) attacked Britain (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T17:10:28.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Mongolia (johnsgill3) was fortified from Yakutsk (johnsgill3) with 1 troop.",
+    "timestamp": "2016-03-16T17:10:44.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-16T17:10:44.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-16T17:10:44.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-16T17:11:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for 17 territories.",
+    "timestamp": "2016-03-16T17:11:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for holding North America.",
+    "timestamp": "2016-03-16T17:11:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Australia.",
+    "timestamp": "2016-03-16T17:11:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding South America.",
+    "timestamp": "2016-03-16T17:11:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Brazil (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-03-16T17:11:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Alaska (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-03-16T17:11:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Greenland (ryanbmilbourne) was reinforced by ryanbmilbourne with 8 troops.",
+    "timestamp": "2016-03-16T17:11:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Greenland (ryanbmilbourne) attacked Iceland (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T17:11:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Greenland (ryanbmilbourne) occupied Iceland with 18 troops.",
+    "timestamp": "2016-03-16T17:11:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Brazil (ryanbmilbourne) attacked North Africa (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T17:12:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Brazil (ryanbmilbourne) occupied North Africa with 1 troop.",
+    "timestamp": "2016-03-16T17:12:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Alaska (ryanbmilbourne) was fortified from Iceland (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-03-16T17:13:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-16T17:13:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-16T17:13:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Round 11 started.",
+    "timestamp": "2016-03-16T17:13:10.000Z",
+    "player": "unknown",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-16T17:20:56.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 17 territories.",
+    "timestamp": "2016-03-16T17:20:56.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Ukraine",
+    "timestamp": "2016-03-16T17:21:03.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 received 8 troops for turning in cards Western Australia, Ukraine, and Greenland.",
+    "timestamp": "2016-03-16T17:21:03.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Congo (johnsgill3) was reinforced by johnsgill3 with 13 troops.",
+    "timestamp": "2016-03-16T17:21:44.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Congo (johnsgill3) attacked North Africa (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T17:21:48.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Congo (johnsgill3) occupied North Africa with 13 troops.",
+    "timestamp": "2016-03-16T17:21:56.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Egypt (johnsgill3) was fortified from Ukraine (johnsgill3) with 2 troops.",
+    "timestamp": "2016-03-16T17:23:29.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-16T17:23:29.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-16T17:23:29.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-16T17:39:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 6 troops for 18 territories.",
+    "timestamp": "2016-03-16T17:39:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for holding North America.",
+    "timestamp": "2016-03-16T17:39:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding South America.",
+    "timestamp": "2016-03-16T17:39:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Australia.",
+    "timestamp": "2016-03-16T17:39:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Quebec",
+    "timestamp": "2016-03-16T17:39:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Iceland",
+    "timestamp": "2016-03-16T17:39:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Quebec, Iceland, and Middle East.",
+    "timestamp": "2016-03-16T17:39:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Brazil (ryanbmilbourne) was reinforced by ryanbmilbourne with 23 troops.",
+    "timestamp": "2016-03-16T17:39:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Brazil (ryanbmilbourne) attacked North Africa (johnsgill3) conquering it, killing 13, losing 6.",
+    "timestamp": "2016-03-16T17:40:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Brazil (ryanbmilbourne) occupied North Africa with 28 troops.",
+    "timestamp": "2016-03-16T17:40:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "North Africa (ryanbmilbourne) attacked Egypt (johnsgill3) killing 2, losing 1.",
+    "timestamp": "2016-03-16T17:40:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "North Africa (ryanbmilbourne) attacked Congo (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T17:40:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "North Africa (ryanbmilbourne) occupied Congo with 26 troops.",
+    "timestamp": "2016-03-16T17:40:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Congo (ryanbmilbourne) attacked South Africa (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-16T17:40:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Congo (ryanbmilbourne) occupied South Africa with 24 troops.",
+    "timestamp": "2016-03-16T17:40:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "South Africa (ryanbmilbourne) attacked Madagascar (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T17:40:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "South Africa (ryanbmilbourne) occupied Madagascar with 23 troops.",
+    "timestamp": "2016-03-16T17:40:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Madagascar (ryanbmilbourne) attacked East Africa (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T17:40:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Madagascar (ryanbmilbourne) occupied East Africa with 22 troops.",
+    "timestamp": "2016-03-16T17:41:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "East Africa (ryanbmilbourne) attacked Egypt (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-16T17:41:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "East Africa (ryanbmilbourne) occupied Egypt with 20 troops.",
+    "timestamp": "2016-03-16T17:41:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Iceland (ryanbmilbourne) attacked Britain (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T17:41:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Iceland (ryanbmilbourne) occupied Britain with 1 troop.",
+    "timestamp": "2016-03-16T17:41:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Iceland (ryanbmilbourne) attacked Scandinavia (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-16T17:41:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Iceland (ryanbmilbourne) occupied Scandinavia with 15 troops.",
+    "timestamp": "2016-03-16T17:41:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Scandinavia (ryanbmilbourne) attacked Northern Europe (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T17:41:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Scandinavia (ryanbmilbourne) occupied Northern Europe with 14 troops.",
+    "timestamp": "2016-03-16T17:41:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Northern Europe (ryanbmilbourne) attacked Western Europe (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-16T17:42:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Northern Europe (ryanbmilbourne) occupied Western Europe with 1 troop.",
+    "timestamp": "2016-03-16T17:42:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Northern Europe (ryanbmilbourne) attacked Ukraine (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T17:42:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Northern Europe (ryanbmilbourne) occupied Ukraine with 11 troops.",
+    "timestamp": "2016-03-16T17:42:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Egypt (ryanbmilbourne) attacked Southern Europe (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T17:42:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Egypt (ryanbmilbourne) occupied Southern Europe with 1 troop.",
+    "timestamp": "2016-03-16T17:42:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Egypt (ryanbmilbourne) attacked Middle East (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T17:42:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Egypt (ryanbmilbourne) occupied Middle East with 18 troops.",
+    "timestamp": "2016-03-16T17:42:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Alaska (ryanbmilbourne) was fortified from Quebec (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-03-16T17:43:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-16T17:43:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-16T17:43:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Round 12 started.",
+    "timestamp": "2016-03-16T17:43:02.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-16T17:53:41.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 5 territories.",
+    "timestamp": "2016-03-16T17:53:41.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Mongolia (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-03-16T17:53:45.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Mongolia (johnsgill3) attacked Irkutsk (Neutral) killing 1, losing 5.",
+    "timestamp": "2016-03-16T17:53:52.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-16T17:54:00.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-16T19:03:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 10 troops for 31 territories.",
+    "timestamp": "2016-03-16T19:03:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for holding North America.",
+    "timestamp": "2016-03-16T19:03:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Africa.",
+    "timestamp": "2016-03-16T19:03:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding South America.",
+    "timestamp": "2016-03-16T19:03:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for holding Europe.",
+    "timestamp": "2016-03-16T19:03:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Australia.",
+    "timestamp": "2016-03-16T19:03:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Alaska (ryanbmilbourne) was reinforced by ryanbmilbourne with 27 troops.",
+    "timestamp": "2016-03-16T19:03:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Alaska (ryanbmilbourne) attacked Kamchatka (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T19:03:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Alaska (ryanbmilbourne) occupied Kamchatka with 40 troops.",
+    "timestamp": "2016-03-16T19:03:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Kamchatka (ryanbmilbourne) attacked Japan (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T19:03:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Kamchatka (ryanbmilbourne) occupied Japan with 1 troop.",
+    "timestamp": "2016-03-16T19:03:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Kamchatka (ryanbmilbourne) attacked Mongolia (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-16T19:03:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Kamchatka (ryanbmilbourne) occupied Mongolia with 1 troop.",
+    "timestamp": "2016-03-16T19:04:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Kamchatka (ryanbmilbourne) attacked Yakutsk (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T19:04:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Kamchatka (ryanbmilbourne) occupied Yakutsk with 36 troops.",
+    "timestamp": "2016-03-16T19:04:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Yakutsk (ryanbmilbourne) attacked Siberia (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-16T19:04:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 was defeated by ryanbmilbourne.",
+    "timestamp": "2016-03-16T19:04:12.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-03-16T19:04:12.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 lost 21 rating.",
+    "timestamp": "2016-03-16T19:04:12.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 received 20 tokens.",
+    "timestamp": "2016-03-16T19:04:12.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne won the game.",
+    "timestamp": "2016-03-16T19:04:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 21 rating.",
+    "timestamp": "2016-03-16T19:04:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 20 tokens.",
+    "timestamp": "2016-03-16T19:04:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  }
+]

@@ -1,0 +1,5534 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-02-02T21:02:55.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "mmacfreier joined the game.",
+    "timestamp": "2016-02-02T21:02:55.000Z",
+    "player": "mmacfreier",
+    "round": 0
+  },
+  {
+    "message": "tanleach1001 joined the game.",
+    "timestamp": "2016-02-02T21:27:41.000Z",
+    "player": "tanleach1001",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne joined the game.",
+    "timestamp": "2016-02-02T21:44:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "kwren joined the game.",
+    "timestamp": "2016-02-02T21:45:54.000Z",
+    "player": "kwren",
+    "round": 0
+  },
+  {
+    "message": "gcochard joined the game.",
+    "timestamp": "2016-02-02T21:46:05.000Z",
+    "player": "gcochard",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-02-02T21:46:05.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-02T21:47:46.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 8 territories.",
+    "timestamp": "2016-02-02T21:47:46.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Haskovo (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-02-02T21:48:01.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Haskovo (tanleach1001) attacked Edirne (kwren) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-02-02T21:48:06.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Haskovo (tanleach1001) occupied Edirne with 3 troops.",
+    "timestamp": "2016-02-02T21:48:10.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Shqipëria Jugore (tanleach1001) was fortified from Tirana (tanleach1001) with 2 troops.",
+    "timestamp": "2016-02-02T21:50:25.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-02T21:50:26.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-02T21:50:26.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-02T22:15:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 8 territories.",
+    "timestamp": "2016-02-02T22:15:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Lovech (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-02T22:15:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Lovech (ryanbmilbourne) attacked Burgas (mmacfreier) killing 1, losing 3.",
+    "timestamp": "2016-02-02T22:15:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (ryanbmilbourne) attacked Haskovo (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-02T22:15:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Niš (ryanbmilbourne) was fortified from Tuzla (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-02-02T22:16:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-02T22:16:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-02T22:16:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-02T22:17:41.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-02-02T22:17:41.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-02-02T22:17:50.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) attacked Tirana (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-02T22:17:55.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) occupied Tirana with 3 troops.",
+    "timestamp": "2016-02-02T22:17:57.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Tirana (kwren) was fortified from Polog (kwren) with 2 troops.",
+    "timestamp": "2016-02-02T22:18:06.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-02T22:18:06.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-02T22:18:06.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-02T22:18:22.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 3 troops for 8 territories.",
+    "timestamp": "2016-02-02T22:18:22.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Mostar (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-02T22:18:52.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Mostar (gcochard) attacked Tuzla (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-02T22:18:55.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Mostar (gcochard) occupied Tuzla with 5 troops.",
+    "timestamp": "2016-02-02T22:18:58.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Thessalia (gcochard) was fortified from Pelagonija (gcochard) with 2 troops.",
+    "timestamp": "2016-02-02T22:19:15.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-02T22:19:15.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-02T22:19:15.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-02T22:56:21.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received 3 troops for 8 territories.",
+    "timestamp": "2016-02-02T22:56:21.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Burgas (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-02T22:56:33.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Burgas (mmacfreier) attacked Haskovo (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-02T22:56:37.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Burgas (mmacfreier) occupied Haskovo with 4 troops.",
+    "timestamp": "2016-02-02T22:56:39.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Plovdiv (mmacfreier) was fortified from Sofia (mmacfreier) with 2 troops.",
+    "timestamp": "2016-02-02T22:56:52.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-02T22:56:52.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-02T22:56:52.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-02-02T22:56:52.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-02T23:00:39.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 7 territories.",
+    "timestamp": "2016-02-02T23:00:39.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Marmara.",
+    "timestamp": "2016-02-02T23:00:39.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Tekirdağ (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-02-02T23:00:53.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Tekirdağ (tanleach1001) attacked Anatoliki Makedonia kai Thraki (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-02T23:00:56.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Tekirdağ (tanleach1001) occupied Anatoliki Makedonia kai Thraki with 7 troops.",
+    "timestamp": "2016-02-02T23:01:24.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Shqipëria Jugore (tanleach1001) attacked Pelagonija (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-02T23:01:28.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Shqipëria Jugore (tanleach1001) occupied Pelagonija with 4 troops.",
+    "timestamp": "2016-02-02T23:01:32.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Edirne (tanleach1001) was fortified from İstanbul (tanleach1001) with 2 troops.",
+    "timestamp": "2016-02-02T23:02:02.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-02T23:02:02.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-02T23:02:02.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-02T23:02:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 6 territories.",
+    "timestamp": "2016-02-02T23:02:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Lovech (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-02T23:02:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Lovech (ryanbmilbourne) attacked Burgas (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-02T23:02:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Lovech (ryanbmilbourne) occupied Burgas with 2 troops.",
+    "timestamp": "2016-02-02T23:02:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Niš (ryanbmilbourne) was fortified from Zlatibor (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-02-02T23:02:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-02T23:02:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-02T23:02:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-02T23:03:35.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 3 troops for 8 territories.",
+    "timestamp": "2016-02-02T23:03:35.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Primorska Crna Gora (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-02-02T23:03:42.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Tirana (kwren) attacked Shqipëria Jugore (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-02T23:03:46.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Tirana (kwren) occupied Shqipëria Jugore with 3 troops.",
+    "timestamp": "2016-02-02T23:03:48.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Primorska Crna Gora (kwren) attacked Sjeverna Crna Gora (mmacfreier) killing 0, losing 2.",
+    "timestamp": "2016-02-02T23:04:04.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Primorska Crna Gora (kwren) was fortified from Vardar (kwren) with 2 troops.",
+    "timestamp": "2016-02-02T23:04:15.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-02T23:04:15.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-02T23:04:15.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-02T23:04:47.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 3 troops for 8 territories.",
+    "timestamp": "2016-02-02T23:04:47.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Tuzla (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-02T23:05:15.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Tuzla (gcochard) attacked Sarajevo (mmacfreier) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-02-02T23:05:26.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Tuzla (gcochard) occupied Sarajevo with 5 troops.",
+    "timestamp": "2016-02-02T23:05:28.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Sarajevo (gcochard) attacked Banja Luka (kwren) killing 0, losing 4.",
+    "timestamp": "2016-02-02T23:05:34.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Thessalia (gcochard) was fortified from Kentriki Makedonia (gcochard) with 2 troops.",
+    "timestamp": "2016-02-02T23:05:46.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-02T23:05:46.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-02T23:05:46.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-02T23:17:34.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 3 troops for 7 territories.",
+    "timestamp": "2016-02-02T23:17:34.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Plovdiv (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-02T23:17:39.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Plovdiv (mmacfreier) attacked Sofia Oblast (tanleach1001) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-02T23:17:44.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Plovdiv (mmacfreier) occupied Sofia Oblast with 1 troop.",
+    "timestamp": "2016-02-02T23:17:58.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) was fortified from Skopje (mmacfreier) with 2 troops.",
+    "timestamp": "2016-02-02T23:18:03.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-02T23:18:03.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-02T23:18:03.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-02-02T23:18:03.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-02T23:18:19.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 7 territories.",
+    "timestamp": "2016-02-02T23:18:19.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Marmara.",
+    "timestamp": "2016-02-02T23:18:19.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Pelagonija (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-02-02T23:18:41.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Pelagonija (tanleach1001) attacked Ditiki Makedonia (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-02T23:18:45.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Pelagonija (tanleach1001) occupied Ditiki Makedonia with 7 troops.",
+    "timestamp": "2016-02-02T23:19:02.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Ditiki Makedonia (tanleach1001) attacked Kentriki Makedonia (gcochard) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-02T23:19:06.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Ditiki Makedonia (tanleach1001) occupied Kentriki Makedonia with 4 troops.",
+    "timestamp": "2016-02-02T23:19:08.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-02T23:19:35.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-02T23:19:35.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-02T23:19:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 6 territories.",
+    "timestamp": "2016-02-02T23:19:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Lovech (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-02T23:21:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Niš (ryanbmilbourne) attacked Zaječar (tanleach1001) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-02T23:21:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Niš (ryanbmilbourne) occupied Zaječar with 5 troops.",
+    "timestamp": "2016-02-02T23:21:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) attacked Montana (Neutral) killing 1, losing 3.",
+    "timestamp": "2016-02-02T23:21:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Dalmacija (ryanbmilbourne) attacked Mostar (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-02T23:21:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Dalmacija (ryanbmilbourne) occupied Mostar with 2 troops.",
+    "timestamp": "2016-02-02T23:21:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Mostar (ryanbmilbourne) attacked Tuzla (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-02-02T23:22:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Mostar (ryanbmilbourne) was fortified from Središnja Hrvatska (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-02-02T23:22:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-02T23:22:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-02T23:22:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-02T23:22:46.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 3 troops for 9 territories.",
+    "timestamp": "2016-02-02T23:22:46.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Primorska Crna Gora (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-02-02T23:22:50.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Primorska Crna Gora (kwren) attacked Sjeverna Crna Gora (mmacfreier) conquering it, killing 3, losing 5.",
+    "timestamp": "2016-02-02T23:23:10.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Primorska Crna Gora (kwren) occupied Sjeverna Crna Gora with 3 troops.",
+    "timestamp": "2016-02-02T23:23:11.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Banja Luka (kwren) attacked Sarajevo (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-02T23:23:17.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) was fortified from Ipiros (kwren) with 2 troops.",
+    "timestamp": "2016-02-02T23:23:26.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-02T23:23:26.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-02T23:23:26.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-02T23:26:43.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 3 troops for 6 territories.",
+    "timestamp": "2016-02-02T23:26:43.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Stajerska (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-02T23:27:06.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Stajerska (gcochard) attacked Kranjska (kwren) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-02T23:27:13.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Stajerska (gcochard) occupied Kranjska with 4 troops.",
+    "timestamp": "2016-02-02T23:27:15.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Istra i Kvarner (gcochard) was fortified from Kranjska (gcochard) with 3 troops.",
+    "timestamp": "2016-02-02T23:27:35.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-02T23:27:35.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-02T23:27:35.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-02T23:31:21.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 3 troops for 7 territories.",
+    "timestamp": "2016-02-02T23:31:22.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Yujna Bulgaria.",
+    "timestamp": "2016-02-02T23:31:22.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) was reinforced by mmacfreier with 2 troops.",
+    "timestamp": "2016-02-02T23:31:39.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Skopje (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-02T23:31:43.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Skopje (mmacfreier) attacked Vardar (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-02T23:31:46.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Skopje (mmacfreier) occupied Vardar with 1 troop.",
+    "timestamp": "2016-02-02T23:31:53.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Slavonija (mmacfreier) was fortified from Vojvodina (mmacfreier) with 2 troops.",
+    "timestamp": "2016-02-02T23:32:33.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-02T23:32:33.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-02T23:32:33.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-02-02T23:32:33.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-02T23:35:34.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 8 territories.",
+    "timestamp": "2016-02-02T23:35:34.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Marmara.",
+    "timestamp": "2016-02-02T23:35:34.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-02-02T23:36:00.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-02-02T23:36:02.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (tanleach1001) attacked Haskovo (mmacfreier) conquering it, killing 4, losing 2.",
+    "timestamp": "2016-02-02T23:36:07.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (tanleach1001) occupied Haskovo with 1 troop.",
+    "timestamp": "2016-02-02T23:36:15.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-02T23:36:35.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-02T23:36:35.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-02T23:36:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 8 territories.",
+    "timestamp": "2016-02-02T23:36:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Burgas (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-02T23:36:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Lovech (ryanbmilbourne) attacked Montana (Neutral) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-02-02T23:36:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Lovech (ryanbmilbourne) occupied Montana with 1 troop.",
+    "timestamp": "2016-02-02T23:37:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Mostar (ryanbmilbourne) attacked Tuzla (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-02-02T23:37:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Montana (ryanbmilbourne) was fortified from Zaječar (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-02-02T23:37:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-02T23:37:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-02T23:37:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-02T23:44:59.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 3 troops for 9 territories.",
+    "timestamp": "2016-02-02T23:44:59.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 3 troops for holding Crna Gora & Shqipëria.",
+    "timestamp": "2016-02-02T23:44:59.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Sjeverna Crna Gora (kwren) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-02-02T23:45:05.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-02-02T23:45:08.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Shqipëria Jugore (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-02-02T23:45:22.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Polog (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-02-02T23:45:24.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Polog (kwren) attacked Vardar (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-02T23:45:28.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Polog (kwren) occupied Vardar with 1 troop.",
+    "timestamp": "2016-02-02T23:45:30.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) was fortified from Polog (kwren) with 1 troop.",
+    "timestamp": "2016-02-02T23:45:35.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-02T23:45:36.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-02T23:45:36.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-02T23:48:47.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-02-02T23:48:47.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Istra i Kvarner (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-02T23:48:56.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Istra i Kvarner (gcochard) attacked Dalmacija (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-02T23:49:01.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Istra i Kvarner (gcochard) occupied Dalmacija with 1 troop.",
+    "timestamp": "2016-02-02T23:49:04.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Istra i Kvarner (gcochard) attacked Središnja Hrvatska (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-02T23:49:09.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Istra i Kvarner (gcochard) occupied Središnja Hrvatska with 7 troops.",
+    "timestamp": "2016-02-02T23:49:10.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Središnja Hrvatska (gcochard) attacked Slavonija (mmacfreier) conquering it, killing 5, losing 5.",
+    "timestamp": "2016-02-02T23:49:19.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Beograd (gcochard) attacked Zlatibor (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-02T23:49:29.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Beograd (gcochard) occupied Zlatibor with 2 troops.",
+    "timestamp": "2016-02-02T23:49:32.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Središnja Hrvatska (gcochard) was fortified from Kosovo (gcochard) with 2 troops.",
+    "timestamp": "2016-02-02T23:49:42.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-02T23:49:42.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-02T23:49:42.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-02T23:50:09.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 3 troops for 5 territories.",
+    "timestamp": "2016-02-02T23:50:09.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Plovdiv (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-02T23:50:19.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Plovdiv (mmacfreier) attacked Haskovo (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-02T23:50:22.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Plovdiv (mmacfreier) occupied Haskovo with 9 troops.",
+    "timestamp": "2016-02-02T23:50:33.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Haskovo (mmacfreier) attacked Edirne (tanleach1001) conquering it, killing 5, losing 4.",
+    "timestamp": "2016-02-02T23:50:42.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Haskovo (mmacfreier) occupied Edirne with 4 troops.",
+    "timestamp": "2016-02-02T23:50:51.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Haskovo (mmacfreier) was fortified from Skopje (mmacfreier) with 2 troops.",
+    "timestamp": "2016-02-02T23:51:06.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-02T23:51:06.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-02T23:51:06.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-02-02T23:51:06.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-02T23:51:17.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 7 territories.",
+    "timestamp": "2016-02-02T23:51:17.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-02-02T23:51:23.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (tanleach1001) attacked Edirne (mmacfreier) conquering it, killing 4, losing 2.",
+    "timestamp": "2016-02-02T23:51:28.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (tanleach1001) occupied Edirne with 4 troops.",
+    "timestamp": "2016-02-02T23:51:36.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Edirne (tanleach1001) was fortified from Kentriki Makedonia (tanleach1001) with 1 troop.",
+    "timestamp": "2016-02-02T23:52:57.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-02T23:52:57.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-02T23:52:57.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-03T00:37:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 6 territories.",
+    "timestamp": "2016-02-03T00:37:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Lovech (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-03T00:38:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Lovech (ryanbmilbourne) attacked Razgrad (Neutral) killing 0, losing 6.",
+    "timestamp": "2016-02-03T00:38:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Mostar (ryanbmilbourne) attacked Dalmacija (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T00:38:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-03T00:38:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-03T00:38:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-03T00:39:24.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-02-03T00:39:24.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 3 troops for holding Crna Gora & Shqipëria.",
+    "timestamp": "2016-02-03T00:39:24.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Shqipëria Jugore (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-02-03T00:39:32.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Sjeverna Crna Gora (kwren) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-02-03T00:39:36.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-02-03T00:39:40.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Sjeverna Crna Gora (kwren) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-02-03T00:39:43.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) attacked Kosovo (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T00:39:47.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) occupied Kosovo with 1 troop.",
+    "timestamp": "2016-02-03T00:39:50.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-03T00:42:35.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-03T00:42:35.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-03T01:11:24.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for 9 territories.",
+    "timestamp": "2016-02-03T01:11:24.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Središnja Hrvatska (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-03T01:11:52.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Središnja Hrvatska (gcochard) attacked Dalmacija (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T01:11:59.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Središnja Hrvatska (gcochard) occupied Dalmacija with 3 troops.",
+    "timestamp": "2016-02-03T01:12:13.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Slavonija (gcochard) was fortified from Zlatibor (gcochard) with 1 troop.",
+    "timestamp": "2016-02-03T01:12:23.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-03T01:12:23.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-03T01:12:23.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-03T01:31:08.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 3 troops for 6 territories.",
+    "timestamp": "2016-02-03T01:31:08.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Yujna Bulgaria.",
+    "timestamp": "2016-02-03T01:31:08.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 2 troops on Plovdiv",
+    "timestamp": "2016-02-03T01:31:14.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 4 troops for turning in cards Plovdiv, Razgrad, and Niš.",
+    "timestamp": "2016-02-03T01:31:14.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) was reinforced by mmacfreier with 9 troops.",
+    "timestamp": "2016-02-03T01:31:34.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) attacked Anatoliki Makedonia kai Thraki (tanleach1001) conquering it, killing 4, losing 7.",
+    "timestamp": "2016-02-03T01:31:42.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) occupied Anatoliki Makedonia kai Thraki with 6 troops.",
+    "timestamp": "2016-02-03T01:31:46.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (mmacfreier) attacked Tekirdağ (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T01:31:50.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (mmacfreier) occupied Tekirdağ with 1 troop.",
+    "timestamp": "2016-02-03T01:31:55.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) was fortified from Anatoliki Makedonia kai Thraki (mmacfreier) with 4 troops.",
+    "timestamp": "2016-02-03T01:32:00.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-03T01:32:00.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-03T01:32:00.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-02-03T01:32:00.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-03T01:46:50.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 6 territories.",
+    "timestamp": "2016-02-03T01:46:50.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 6 troops for turning in cards Burgas, Zlatibor, and Zaječar.",
+    "timestamp": "2016-02-03T01:46:59.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) was reinforced by tanleach1001 with 9 troops.",
+    "timestamp": "2016-02-03T01:47:23.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) attacked Anatoliki Makedonia kai Thraki (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T01:47:26.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) occupied Anatoliki Makedonia kai Thraki with 13 troops.",
+    "timestamp": "2016-02-03T01:47:31.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (tanleach1001) attacked Haskovo (mmacfreier) killing 2, losing 2.",
+    "timestamp": "2016-02-03T01:47:36.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Kırklareli (tanleach1001) was fortified from Anatoliki Makedonia kai Thraki (tanleach1001) with 4 troops.",
+    "timestamp": "2016-02-03T01:47:58.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-03T01:47:58.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-03T01:47:58.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-03T02:18:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 6 territories.",
+    "timestamp": "2016-02-03T02:18:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Mostar",
+    "timestamp": "2016-02-03T02:18:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Mostar, Vardar, and Sofia Oblast.",
+    "timestamp": "2016-02-03T02:18:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Burgas (ryanbmilbourne) was reinforced by ryanbmilbourne with 11 troops.",
+    "timestamp": "2016-02-03T02:18:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Mostar (ryanbmilbourne) attacked Tuzla (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T02:18:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Mostar (ryanbmilbourne) occupied Tuzla with 2 troops.",
+    "timestamp": "2016-02-03T02:18:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Burgas (ryanbmilbourne) attacked Varna (Neutral) conquering it, killing 3, losing 5.",
+    "timestamp": "2016-02-03T02:19:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Burgas (ryanbmilbourne) occupied Varna with 1 troop.",
+    "timestamp": "2016-02-03T02:19:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Burgas (ryanbmilbourne) attacked Razgrad (Neutral) killing 1, losing 3.",
+    "timestamp": "2016-02-03T02:19:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Lovech (ryanbmilbourne) attacked Razgrad (Neutral) killing 0, losing 1.",
+    "timestamp": "2016-02-03T02:19:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-03T02:19:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-03T02:19:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-03T02:20:00.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for 11 territories.",
+    "timestamp": "2016-02-03T02:20:00.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for holding Crna Gora & Shqipëria.",
+    "timestamp": "2016-02-03T02:20:00.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 2 troops on Polog",
+    "timestamp": "2016-02-03T02:20:39.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Stajerska, Polog, and Tekirdağ.",
+    "timestamp": "2016-02-03T02:20:39.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Shqipëria Jugore (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-02-03T02:20:50.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-02-03T02:20:55.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Sjeverna Crna Gora (kwren) was reinforced by kwren with 7 troops.",
+    "timestamp": "2016-02-03T02:21:23.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Sjeverna Crna Gora (kwren) attacked Mostar (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T02:21:26.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Sjeverna Crna Gora (kwren) occupied Mostar with 12 troops.",
+    "timestamp": "2016-02-03T02:21:37.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Mostar (kwren) attacked Dalmacija (gcochard) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-02-03T02:21:44.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Mostar (kwren) occupied Dalmacija with 1 troop.",
+    "timestamp": "2016-02-03T02:21:46.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Sjeverna Crna Gora (kwren) was fortified from Mostar (kwren) with 7 troops.",
+    "timestamp": "2016-02-03T02:21:52.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-03T02:21:52.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-03T02:21:52.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-03T05:47:39.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 3 troops for 8 territories.",
+    "timestamp": "2016-02-03T05:47:40.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 2 troops on Thessalia",
+    "timestamp": "2016-02-03T05:48:00.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Pelagonija, Thessalia, and Kırklareli.",
+    "timestamp": "2016-02-03T05:48:00.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Thessalia (gcochard) was reinforced by gcochard with 7 troops.",
+    "timestamp": "2016-02-03T05:49:19.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Središnja Hrvatska (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-02-03T05:49:25.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Središnja Hrvatska (gcochard) attacked Dalmacija (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T05:49:31.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Središnja Hrvatska (gcochard) occupied Dalmacija with 3 troops.",
+    "timestamp": "2016-02-03T05:49:41.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Thessalia (gcochard) attacked Ditiki Makedonia (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T05:49:49.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Thessalia (gcochard) occupied Ditiki Makedonia with 15 troops.",
+    "timestamp": "2016-02-03T05:49:52.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Ditiki Makedonia (gcochard) attacked Pelagonija (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T05:49:56.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Ditiki Makedonia (gcochard) occupied Pelagonija with 14 troops.",
+    "timestamp": "2016-02-03T05:49:58.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Pelagonija (gcochard) attacked Polog (kwren) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-02-03T05:50:08.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Pelagonija (gcochard) occupied Polog with 11 troops.",
+    "timestamp": "2016-02-03T05:50:13.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Polog (gcochard) attacked Vardar (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T05:50:34.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Polog (gcochard) occupied Vardar with 9 troops.",
+    "timestamp": "2016-02-03T05:50:37.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Vardar (gcochard) attacked Skopje (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T05:50:41.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Vardar (gcochard) occupied Skopje with 8 troops.",
+    "timestamp": "2016-02-03T05:50:44.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Thessalia (gcochard) was fortified from Skopje (gcochard) with 7 troops.",
+    "timestamp": "2016-02-03T05:50:53.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-03T05:50:53.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-03T05:50:53.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-03T17:02:20.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 3 troops for 6 territories.",
+    "timestamp": "2016-02-03T17:02:20.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Yujna Bulgaria.",
+    "timestamp": "2016-02-03T17:02:20.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) was reinforced by mmacfreier with 1 troop.",
+    "timestamp": "2016-02-03T17:02:32.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Haskovo (mmacfreier) was reinforced by mmacfreier with 4 troops.",
+    "timestamp": "2016-02-03T17:02:34.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) attacked Skopje (gcochard) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-02-03T17:02:44.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) occupied Skopje with 1 troop.",
+    "timestamp": "2016-02-03T17:02:47.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-03T17:02:53.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-03T17:02:53.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Round 7 started.",
+    "timestamp": "2016-02-03T17:02:53.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-03T17:03:01.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 5 territories.",
+    "timestamp": "2016-02-03T17:03:02.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Tirana, Ipiros, and Šumadija.",
+    "timestamp": "2016-02-03T17:03:05.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Edirne (tanleach1001) was reinforced by tanleach1001 with 11 troops.",
+    "timestamp": "2016-02-03T17:03:15.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Edirne (tanleach1001) attacked Tekirdağ (mmacfreier) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-03T17:03:20.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Edirne (tanleach1001) occupied Tekirdağ with 1 troop.",
+    "timestamp": "2016-02-03T17:03:25.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Edirne (tanleach1001) attacked Haskovo (mmacfreier) conquering it, killing 5, losing 6.",
+    "timestamp": "2016-02-03T17:03:33.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Edirne (tanleach1001) occupied Haskovo with 6 troops.",
+    "timestamp": "2016-02-03T17:03:37.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Edirne (tanleach1001) was fortified from Kırklareli (tanleach1001) with 6 troops.",
+    "timestamp": "2016-02-03T17:04:34.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-03T17:04:34.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-03T17:04:34.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-03T17:45:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 7 territories.",
+    "timestamp": "2016-02-03T17:45:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Sarajevo, Edirne, and Vojvodina.",
+    "timestamp": "2016-02-03T17:46:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Burgas (ryanbmilbourne) was reinforced by ryanbmilbourne with 2 troops.",
+    "timestamp": "2016-02-03T17:46:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Niš (ryanbmilbourne) was reinforced by ryanbmilbourne with 9 troops.",
+    "timestamp": "2016-02-03T17:46:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Niš (ryanbmilbourne) attacked Kosovo (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T17:46:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Niš (ryanbmilbourne) occupied Kosovo with 9 troops.",
+    "timestamp": "2016-02-03T17:46:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Kosovo (ryanbmilbourne) attacked Polog (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T17:46:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Kosovo (ryanbmilbourne) occupied Polog with 8 troops.",
+    "timestamp": "2016-02-03T17:47:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Polog (ryanbmilbourne) attacked Pelagonija (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T17:47:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Polog (ryanbmilbourne) occupied Pelagonija with 1 troop.",
+    "timestamp": "2016-02-03T17:47:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Burgas (ryanbmilbourne) attacked Razgrad (Neutral) killing 0, losing 8.",
+    "timestamp": "2016-02-03T17:47:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) was fortified from Polog (ryanbmilbourne) with 6 troops.",
+    "timestamp": "2016-02-03T17:47:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-03T17:47:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-03T17:47:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-03T17:47:51.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for 9 territories.",
+    "timestamp": "2016-02-03T17:47:51.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for holding Crna Gora & Shqipëria.",
+    "timestamp": "2016-02-03T17:47:51.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Središnja Hrvatska, Haskovo, and Beograd.",
+    "timestamp": "2016-02-03T17:47:55.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Shqipëria Jugore (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-02-03T17:48:02.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-02-03T17:48:07.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Sjeverna Crna Gora (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-02-03T17:48:12.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Banja Luka (kwren) was reinforced by kwren with 6 troops.",
+    "timestamp": "2016-02-03T17:48:23.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) attacked Polog (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T17:48:28.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) occupied Polog with 1 troop.",
+    "timestamp": "2016-02-03T17:48:36.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Banja Luka (kwren) attacked Slavonija (gcochard) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-02-03T17:48:40.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Banja Luka (kwren) occupied Slavonija with 1 troop.",
+    "timestamp": "2016-02-03T17:48:46.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Sjeverna Crna Gora (kwren) attacked Zlatibor (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T17:48:54.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Sjeverna Crna Gora (kwren) occupied Zlatibor with 1 troop.",
+    "timestamp": "2016-02-03T17:48:58.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) attacked Kosovo (ryanbmilbourne) killing 0, losing 1.",
+    "timestamp": "2016-02-03T17:49:18.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Sjeverna Crna Gora (kwren) attacked Kosovo (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T17:49:25.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Sjeverna Crna Gora (kwren) occupied Kosovo with 1 troop.",
+    "timestamp": "2016-02-03T17:49:28.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Sjeverna Crna Gora (kwren) was fortified from Banja Luka (kwren) with 5 troops.",
+    "timestamp": "2016-02-03T17:49:34.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-03T17:49:34.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-03T17:49:34.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-03T17:50:18.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 3 troops for 9 territories.",
+    "timestamp": "2016-02-03T17:50:18.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 2 troops on Dalmacija",
+    "timestamp": "2016-02-03T17:50:23.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Dalmacija, Tuzla, and Shqipëria Jugore.",
+    "timestamp": "2016-02-03T17:50:23.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Središnja Hrvatska (gcochard) was reinforced by gcochard with 11 troops.",
+    "timestamp": "2016-02-03T17:50:48.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Središnja Hrvatska (gcochard) attacked Slavonija (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T17:50:52.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Središnja Hrvatska (gcochard) occupied Slavonija with 6 troops.",
+    "timestamp": "2016-02-03T17:51:04.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Središnja Hrvatska (gcochard) attacked Banja Luka (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-03T17:51:12.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Središnja Hrvatska (gcochard) occupied Banja Luka with 1 troop.",
+    "timestamp": "2016-02-03T17:51:18.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Thessalia (gcochard) attacked Kentriki Makedonia (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T17:51:42.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Thessalia (gcochard) occupied Kentriki Makedonia with 7 troops.",
+    "timestamp": "2016-02-03T17:51:44.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Dalmacija (gcochard) was fortified from Središnja Hrvatska (gcochard) with 1 troop.",
+    "timestamp": "2016-02-03T17:52:01.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-03T17:52:01.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-03T17:52:01.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-03T17:52:49.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 3 troops for 5 territories.",
+    "timestamp": "2016-02-03T17:52:49.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Skopje (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-03T17:53:09.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Skopje (mmacfreier) attacked Kosovo (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T17:53:13.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Skopje (mmacfreier) occupied Kosovo with 3 troops.",
+    "timestamp": "2016-02-03T17:53:15.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Kosovo (mmacfreier) attacked Shqipëria Veriore (kwren) killing 2, losing 2.",
+    "timestamp": "2016-02-03T17:53:19.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-03T17:53:28.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-03T17:53:28.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Round 8 started.",
+    "timestamp": "2016-02-03T17:53:28.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-03T17:53:48.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 6 territories.",
+    "timestamp": "2016-02-03T17:53:48.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Marmara.",
+    "timestamp": "2016-02-03T17:53:48.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-02-03T17:54:25.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (tanleach1001) attacked Kentriki Makedonia (gcochard) conquering it, killing 7, losing 4.",
+    "timestamp": "2016-02-03T17:54:36.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (tanleach1001) occupied Kentriki Makedonia with 7 troops.",
+    "timestamp": "2016-02-03T17:54:56.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) attacked Thessalia (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T17:55:00.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) occupied Thessalia with 1 troop.",
+    "timestamp": "2016-02-03T17:55:03.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) attacked Ditiki Makedonia (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T17:56:00.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) occupied Ditiki Makedonia with 1 troop.",
+    "timestamp": "2016-02-03T17:56:08.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) was fortified from Edirne (tanleach1001) with 6 troops.",
+    "timestamp": "2016-02-03T17:58:12.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-03T17:58:12.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-03T17:58:12.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-03T18:14:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 8 territories.",
+    "timestamp": "2016-02-03T18:14:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Burgas (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-02-03T18:14:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Burgas (ryanbmilbourne) attacked Razgrad (Neutral) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-02-03T18:15:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Burgas (ryanbmilbourne) occupied Razgrad with 1 troop.",
+    "timestamp": "2016-02-03T18:15:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Niš (ryanbmilbourne) was fortified from Zaječar (ryanbmilbourne) with 6 troops.",
+    "timestamp": "2016-02-03T18:16:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-03T18:16:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-03T18:16:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-03T18:17:39.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-02-03T18:17:39.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 3 troops for holding Crna Gora & Shqipëria.",
+    "timestamp": "2016-02-03T18:17:39.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Sarajevo (kwren) was reinforced by kwren with 6 troops.",
+    "timestamp": "2016-02-03T18:17:44.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Sarajevo (kwren) attacked Banja Luka (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T18:17:48.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Sarajevo (kwren) occupied Banja Luka with 6 troops.",
+    "timestamp": "2016-02-03T18:17:58.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Banja Luka (kwren) attacked Dalmacija (gcochard) killing 4, losing 5.",
+    "timestamp": "2016-02-03T18:18:08.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Shqipëria Jugore (kwren) attacked Pelagonija (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T18:18:16.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Shqipëria Jugore (kwren) occupied Pelagonija with 1 troop.",
+    "timestamp": "2016-02-03T18:18:22.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-03T18:18:30.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-03T18:18:30.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-03T18:18:48.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 3 troops for 8 territories.",
+    "timestamp": "2016-02-03T18:18:48.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 3 troops for holding Slovenija & Hrvatska.",
+    "timestamp": "2016-02-03T18:18:48.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Vardar (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-02-03T18:19:02.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Vardar (gcochard) attacked Skopje (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T18:19:08.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Vardar (gcochard) occupied Skopje with 6 troops.",
+    "timestamp": "2016-02-03T18:19:10.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Skopje (gcochard) attacked Kosovo (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T18:19:26.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Skopje (gcochard) occupied Kosovo with 5 troops.",
+    "timestamp": "2016-02-03T18:19:27.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Kosovo (gcochard) attacked Zlatibor (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T18:19:31.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Kosovo (gcochard) occupied Zlatibor with 4 troops.",
+    "timestamp": "2016-02-03T18:19:33.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Zlatibor (gcochard) attacked Vojvodina (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T18:19:37.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Zlatibor (gcochard) occupied Vojvodina with 3 troops.",
+    "timestamp": "2016-02-03T18:19:38.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Dalmacija (gcochard) was fortified from Vojvodina (gcochard) with 2 troops.",
+    "timestamp": "2016-02-03T18:19:53.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-03T18:19:53.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-03T18:19:53.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-03T18:20:59.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 3 troops for 3 territories.",
+    "timestamp": "2016-02-03T18:20:59.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Slavonija, Primorska Crna Gora, and Skopje.",
+    "timestamp": "2016-02-03T18:21:04.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) was reinforced by mmacfreier with 11 troops.",
+    "timestamp": "2016-02-03T18:21:10.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) attacked Skopje (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T18:21:15.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) occupied Skopje with 11 troops.",
+    "timestamp": "2016-02-03T18:21:17.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Skopje (mmacfreier) attacked Polog (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T18:21:21.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Skopje (mmacfreier) occupied Polog with 9 troops.",
+    "timestamp": "2016-02-03T18:21:23.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Polog (mmacfreier) attacked Shqipëria Veriore (kwren) conquering it, killing 10, losing 5.",
+    "timestamp": "2016-02-03T18:21:33.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Polog (mmacfreier) occupied Shqipëria Veriore with 3 troops.",
+    "timestamp": "2016-02-03T18:21:36.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-03T18:21:43.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-03T18:21:43.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Round 9 started.",
+    "timestamp": "2016-02-03T18:21:43.000Z",
+    "player": "unknown",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-03T18:21:55.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 9 territories.",
+    "timestamp": "2016-02-03T18:21:55.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Marmara.",
+    "timestamp": "2016-02-03T18:21:55.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-02-03T18:39:18.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) attacked Pelagonija (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T18:39:22.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) occupied Pelagonija with 15 troops.",
+    "timestamp": "2016-02-03T18:39:24.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Pelagonija (tanleach1001) attacked Shqipëria Jugore (kwren) killing 7, losing 9.",
+    "timestamp": "2016-02-03T18:40:15.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Pelagonija (tanleach1001) attacked Vardar (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T18:40:23.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Pelagonija (tanleach1001) occupied Vardar with 1 troop.",
+    "timestamp": "2016-02-03T18:40:43.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (tanleach1001) was fortified from Pelagonija (tanleach1001) with 4 troops.",
+    "timestamp": "2016-02-03T18:41:01.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-03T18:41:01.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-03T18:41:01.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-03T19:13:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 8 territories.",
+    "timestamp": "2016-02-03T19:13:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Severna Bulgaria.",
+    "timestamp": "2016-02-03T19:13:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Niš (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-02-03T19:13:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Tuzla (ryanbmilbourne) attacked Sjeverna Crna Gora (kwren) killing 0, losing 1.",
+    "timestamp": "2016-02-03T19:13:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Niš (ryanbmilbourne) attacked Zlatibor (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:13:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Niš (ryanbmilbourne) occupied Zlatibor with 12 troops.",
+    "timestamp": "2016-02-03T19:13:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Zlatibor (ryanbmilbourne) attacked Sjeverna Crna Gora (kwren) conquering it, killing 12, losing 3.",
+    "timestamp": "2016-02-03T19:14:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Zlatibor (ryanbmilbourne) occupied Sjeverna Crna Gora with 1 troop.",
+    "timestamp": "2016-02-03T19:15:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) was fortified from Zlatibor (ryanbmilbourne) with 7 troops.",
+    "timestamp": "2016-02-03T19:15:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-03T19:15:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-03T19:15:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-03T19:15:35.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-02-03T19:15:35.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Shqipëria Jugore (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-02-03T19:15:38.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Shqipëria Jugore (kwren) attacked Shqipëria Veriore (mmacfreier) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-03T19:15:42.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Shqipëria Jugore (kwren) occupied Shqipëria Veriore with 5 troops.",
+    "timestamp": "2016-02-03T19:15:44.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) attacked Sjeverna Crna Gora (ryanbmilbourne) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-02-03T19:15:49.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-03T19:15:54.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-03T19:15:54.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-03T19:17:58.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 3 troops for 9 territories.",
+    "timestamp": "2016-02-03T19:17:58.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 3 troops for holding Slovenija & Hrvatska.",
+    "timestamp": "2016-02-03T19:17:58.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Slavonija (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-02-03T19:18:12.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Slavonija (gcochard) attacked Banja Luka (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:18:23.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Slavonija (gcochard) occupied Banja Luka with 11 troops.",
+    "timestamp": "2016-02-03T19:18:26.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Banja Luka (gcochard) attacked Sarajevo (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-03T19:18:34.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Banja Luka (gcochard) occupied Sarajevo with 8 troops.",
+    "timestamp": "2016-02-03T19:18:36.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Sarajevo (gcochard) attacked Mostar (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:18:40.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Sarajevo (gcochard) occupied Mostar with 7 troops.",
+    "timestamp": "2016-02-03T19:18:42.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Mostar (gcochard) attacked Sjeverna Crna Gora (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:18:46.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Mostar (gcochard) occupied Sjeverna Crna Gora with 6 troops.",
+    "timestamp": "2016-02-03T19:18:48.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Sjeverna Crna Gora (gcochard) attacked Shqipëria Veriore (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:18:52.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Sjeverna Crna Gora (gcochard) occupied Shqipëria Veriore with 5 troops.",
+    "timestamp": "2016-02-03T19:18:54.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Shqipëria Veriore (gcochard) attacked Primorska Crna Gora (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T19:19:07.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Shqipëria Veriore (gcochard) occupied Primorska Crna Gora with 1 troop.",
+    "timestamp": "2016-02-03T19:19:09.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Shqipëria Veriore (gcochard) attacked Shqipëria Jugore (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T19:19:14.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) was fortified from Središnja Hrvatska (gcochard) with 4 troops.",
+    "timestamp": "2016-02-03T19:19:42.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-03T19:19:42.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-03T19:19:42.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-03T19:19:54.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 3 troops for 5 territories.",
+    "timestamp": "2016-02-03T19:19:54.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Skopje (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-03T19:20:03.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Skopje (mmacfreier) attacked Vardar (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:20:07.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Skopje (mmacfreier) occupied Vardar with 1 troop.",
+    "timestamp": "2016-02-03T19:20:14.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) was fortified from Skopje (mmacfreier) with 2 troops.",
+    "timestamp": "2016-02-03T19:20:25.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-03T19:20:25.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-03T19:20:25.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Round 10 started.",
+    "timestamp": "2016-02-03T19:20:25.000Z",
+    "player": "unknown",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-03T19:20:32.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 10 territories.",
+    "timestamp": "2016-02-03T19:20:32.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Marmara.",
+    "timestamp": "2016-02-03T19:20:32.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Ditiki Makedonia (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-02-03T19:20:40.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Ditiki Makedonia (tanleach1001) attacked Ipiros (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:20:43.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Ditiki Makedonia (tanleach1001) occupied Ipiros with 4 troops.",
+    "timestamp": "2016-02-03T19:20:52.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) was fortified from Haskovo (tanleach1001) with 4 troops.",
+    "timestamp": "2016-02-03T19:21:36.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-03T19:21:36.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-03T19:21:36.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-03T19:21:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 9 territories.",
+    "timestamp": "2016-02-03T19:21:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Severna Bulgaria.",
+    "timestamp": "2016-02-03T19:21:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Zlatibor (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-02-03T19:22:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Zlatibor (ryanbmilbourne) attacked Sjeverna Crna Gora (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:22:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Zlatibor (ryanbmilbourne) occupied Sjeverna Crna Gora with 1 troop.",
+    "timestamp": "2016-02-03T19:22:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Zlatibor (ryanbmilbourne) attacked Kosovo (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:23:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Zlatibor (ryanbmilbourne) occupied Kosovo with 1 troop.",
+    "timestamp": "2016-02-03T19:23:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) attacked Vojvodina (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:23:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) occupied Vojvodina with 7 troops.",
+    "timestamp": "2016-02-03T19:23:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Vojvodina (ryanbmilbourne) attacked Beograd (gcochard) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-03T19:23:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Vojvodina (ryanbmilbourne) occupied Beograd with 1 troop.",
+    "timestamp": "2016-02-03T19:23:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) was fortified from Burgas (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-02-03T19:23:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-03T19:23:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-03T19:23:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-02-03T19:23:42.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 3 troops for 1 territory.",
+    "timestamp": "2016-02-03T19:23:42.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Tirana (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-02-03T19:23:44.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Tirana (kwren) attacked Shqipëria Veriore (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:23:48.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Tirana (kwren) occupied Shqipëria Veriore with 3 troops.",
+    "timestamp": "2016-02-03T19:23:53.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Shqipëria Veriore (kwren) attacked Kosovo (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-02-03T19:24:00.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-02-03T19:24:09.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-02-03T19:24:09.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-03T19:24:17.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 3 troops for 11 territories.",
+    "timestamp": "2016-02-03T19:24:17.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 3 troops for holding Slovenija & Hrvatska.",
+    "timestamp": "2016-02-03T19:24:17.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-02-03T19:24:20.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) attacked Tirana (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T19:24:25.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) occupied Tirana with 9 troops.",
+    "timestamp": "2016-02-03T19:24:27.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Tirana (gcochard) attacked Shqipëria Veriore (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:24:30.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "kwren was defeated by gcochard.",
+    "timestamp": "2016-02-03T19:24:30.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Tirana (gcochard) occupied Shqipëria Veriore with 8 troops.",
+    "timestamp": "2016-02-03T19:24:35.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 2 troops on Kranjska",
+    "timestamp": "2016-02-03T19:24:44.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 2 troops on Istra i Kvarner",
+    "timestamp": "2016-02-03T19:24:44.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Kranjska, İstanbul, and Istra i Kvarner.",
+    "timestamp": "2016-02-03T19:24:44.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Središnja Hrvatska (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-02-03T19:25:03.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Slavonija (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-02-03T19:25:08.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Shqipëria Veriore (gcochard) attacked Sjeverna Crna Gora (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:25:13.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Shqipëria Veriore (gcochard) occupied Sjeverna Crna Gora with 4 troops.",
+    "timestamp": "2016-02-03T19:25:30.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) was fortified from Središnja Hrvatska (gcochard) with 4 troops.",
+    "timestamp": "2016-02-03T19:26:02.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-03T19:26:02.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-03T19:26:02.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-03T19:28:08.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 3 troops for 6 territories.",
+    "timestamp": "2016-02-03T19:28:08.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Plovdiv (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-03T19:28:11.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Plovdiv (mmacfreier) attacked Haskovo (tanleach1001) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-02-03T19:28:14.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Plovdiv (mmacfreier) occupied Haskovo with 1 troop.",
+    "timestamp": "2016-02-03T19:28:19.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) was fortified from Plovdiv (mmacfreier) with 4 troops.",
+    "timestamp": "2016-02-03T19:28:29.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-03T19:28:29.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-03T19:28:29.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Round 11 started.",
+    "timestamp": "2016-02-03T19:28:29.000Z",
+    "player": "unknown",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-03T19:28:55.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 10 territories.",
+    "timestamp": "2016-02-03T19:28:55.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Marmara.",
+    "timestamp": "2016-02-03T19:28:55.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Voreia Ellada.",
+    "timestamp": "2016-02-03T19:28:55.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Anatoliki Makedonia kai Thraki",
+    "timestamp": "2016-02-03T19:29:09.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Lovech, Anatoliki Makedonia kai Thraki, and Niš.",
+    "timestamp": "2016-02-03T19:29:09.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Pelagonija (tanleach1001) was reinforced by tanleach1001 with 16 troops.",
+    "timestamp": "2016-02-03T19:29:23.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Pelagonija (tanleach1001) attacked Skopje (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:29:27.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Pelagonija (tanleach1001) occupied Skopje with 16 troops.",
+    "timestamp": "2016-02-03T19:29:30.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Skopje (tanleach1001) attacked Vardar (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:29:33.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Skopje (tanleach1001) occupied Vardar with 10 troops.",
+    "timestamp": "2016-02-03T19:29:44.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Vardar (tanleach1001) attacked Polog (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T19:29:50.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Vardar (tanleach1001) occupied Polog with 8 troops.",
+    "timestamp": "2016-02-03T19:30:16.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Edirne (tanleach1001) was fortified from Polog (tanleach1001) with 2 troops.",
+    "timestamp": "2016-02-03T19:30:48.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-03T19:30:48.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-03T19:30:48.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-03T19:32:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 12 territories.",
+    "timestamp": "2016-02-03T19:32:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Severna Bulgaria.",
+    "timestamp": "2016-02-03T19:32:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Zlatibor",
+    "timestamp": "2016-02-03T19:33:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Sofia, Ditiki Makedonia, and Zlatibor.",
+    "timestamp": "2016-02-03T19:33:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Niš (ryanbmilbourne) was reinforced by ryanbmilbourne with 7 troops.",
+    "timestamp": "2016-02-03T19:33:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) was reinforced by ryanbmilbourne with 8 troops.",
+    "timestamp": "2016-02-03T19:33:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) attacked Šumadija (Neutral) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-02-03T19:33:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) occupied Šumadija with 1 troop.",
+    "timestamp": "2016-02-03T19:33:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Kosovo (ryanbmilbourne) was fortified from Zlatibor (ryanbmilbourne) with 6 troops.",
+    "timestamp": "2016-02-03T19:34:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-03T19:34:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-03T19:34:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-03T19:34:31.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 4 troops for 14 territories.",
+    "timestamp": "2016-02-03T19:34:31.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 3 troops for holding Slovenija & Hrvatska.",
+    "timestamp": "2016-02-03T19:34:31.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 3 troops for holding Crna Gora & Shqipëria.",
+    "timestamp": "2016-02-03T19:34:31.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Kosovo, Montana, and Varna.",
+    "timestamp": "2016-02-03T19:34:37.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Shqipëria Veriore (gcochard) was reinforced by gcochard with 9 troops.",
+    "timestamp": "2016-02-03T19:34:52.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) was reinforced by gcochard with 9 troops.",
+    "timestamp": "2016-02-03T19:34:55.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Shqipëria Veriore (gcochard) attacked Polog (tanleach1001) conquering it, killing 6, losing 2.",
+    "timestamp": "2016-02-03T19:35:03.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Shqipëria Veriore (gcochard) occupied Polog with 3 troops.",
+    "timestamp": "2016-02-03T19:35:19.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) attacked Ipiros (tanleach1001) conquering it, killing 4, losing 1.",
+    "timestamp": "2016-02-03T19:35:27.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) occupied Ipiros with 1 troop.",
+    "timestamp": "2016-02-03T19:35:33.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) attacked Ditiki Makedonia (tanleach1001) conquering it, killing 2, losing 4.",
+    "timestamp": "2016-02-03T19:35:51.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) occupied Ditiki Makedonia with 1 troop.",
+    "timestamp": "2016-02-03T19:36:02.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) was fortified from Slavonija (gcochard) with 4 troops.",
+    "timestamp": "2016-02-03T19:36:20.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-03T19:36:21.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-03T19:36:21.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-03T19:36:44.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 3 troops for 4 territories.",
+    "timestamp": "2016-02-03T19:36:44.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Yujna Bulgaria.",
+    "timestamp": "2016-02-03T19:36:44.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Banja Luka, Tekirdağ, and Središnja Hrvatska.",
+    "timestamp": "2016-02-03T19:36:51.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Sofia (mmacfreier) was reinforced by mmacfreier with 13 troops.",
+    "timestamp": "2016-02-03T19:36:55.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Sofia (mmacfreier) was fortified from Sofia Oblast (mmacfreier) with 6 troops.",
+    "timestamp": "2016-02-03T19:37:02.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-03T19:37:02.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Round 12 started.",
+    "timestamp": "2016-02-03T19:37:02.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-03T19:37:21.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 10 territories.",
+    "timestamp": "2016-02-03T19:37:21.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Marmara.",
+    "timestamp": "2016-02-03T19:37:21.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-02-03T19:37:27.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) attacked Ditiki Makedonia (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:37:39.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) occupied Ditiki Makedonia with 1 troop.",
+    "timestamp": "2016-02-03T19:38:10.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Skopje (tanleach1001) attacked Polog (gcochard) killing 2, losing 5.",
+    "timestamp": "2016-02-03T19:38:23.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Ditiki Makedonia (tanleach1001) was fortified from Anatoliki Makedonia kai Thraki (tanleach1001) with 2 troops.",
+    "timestamp": "2016-02-03T19:38:48.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-03T19:38:48.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-03T19:38:48.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-03T19:42:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 13 territories.",
+    "timestamp": "2016-02-03T19:42:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Severna Bulgaria.",
+    "timestamp": "2016-02-03T19:42:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for holding Srbija & Kosovo.",
+    "timestamp": "2016-02-03T19:42:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Kosovo (ryanbmilbourne) was reinforced by ryanbmilbourne with 12 troops.",
+    "timestamp": "2016-02-03T19:43:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Kosovo (ryanbmilbourne) attacked Skopje (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T19:43:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Kosovo (ryanbmilbourne) occupied Skopje with 14 troops.",
+    "timestamp": "2016-02-03T19:43:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Skopje (ryanbmilbourne) attacked Pelagonija (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:43:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Skopje (ryanbmilbourne) occupied Pelagonija with 1 troop.",
+    "timestamp": "2016-02-03T19:43:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Skopje (ryanbmilbourne) attacked Vardar (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:43:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Skopje (ryanbmilbourne) occupied Vardar with 1 troop.",
+    "timestamp": "2016-02-03T19:44:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Kosovo (ryanbmilbourne) attacked Polog (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:44:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Kosovo (ryanbmilbourne) occupied Polog with 1 troop.",
+    "timestamp": "2016-02-03T19:44:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Kosovo (ryanbmilbourne) was fortified from Vojvodina (ryanbmilbourne) with 3 troops.",
+    "timestamp": "2016-02-03T19:45:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-03T19:45:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-03T19:45:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-03T19:45:46.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 5 troops for 15 territories.",
+    "timestamp": "2016-02-03T19:45:46.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 3 troops for holding Slovenija & Hrvatska.",
+    "timestamp": "2016-02-03T19:45:46.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 3 troops for holding Crna Gora & Shqipëria.",
+    "timestamp": "2016-02-03T19:45:46.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Shqipëria Veriore (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-03T19:46:06.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Ipiros (gcochard) was reinforced by gcochard with 8 troops.",
+    "timestamp": "2016-02-03T19:46:10.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Ipiros (gcochard) attacked Thessalia (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:46:14.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Ipiros (gcochard) occupied Thessalia with 1 troop.",
+    "timestamp": "2016-02-03T19:46:19.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Ipiros (gcochard) was fortified from Sjeverna Crna Gora (gcochard) with 3 troops.",
+    "timestamp": "2016-02-03T19:47:05.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-03T19:47:06.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-03T19:47:06.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-03T19:47:38.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier received 3 troops for 4 territories.",
+    "timestamp": "2016-02-03T19:47:38.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Yujna Bulgaria.",
+    "timestamp": "2016-02-03T19:47:38.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Sofia (mmacfreier) was reinforced by mmacfreier with 5 troops.",
+    "timestamp": "2016-02-03T19:47:53.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) was fortified from Sofia (mmacfreier) with 24 troops.",
+    "timestamp": "2016-02-03T19:47:59.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-03T19:47:59.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Round 13 started.",
+    "timestamp": "2016-02-03T19:47:59.000Z",
+    "player": "unknown",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-03T19:48:10.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 7 territories.",
+    "timestamp": "2016-02-03T19:48:10.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Marmara.",
+    "timestamp": "2016-02-03T19:48:10.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Kentriki Makedonia",
+    "timestamp": "2016-02-03T19:48:16.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Kentriki Makedonia, Dalmacija, and Mostar.",
+    "timestamp": "2016-02-03T19:48:16.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) was reinforced by tanleach1001 with 13 troops.",
+    "timestamp": "2016-02-03T19:48:33.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) attacked Pelagonija (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T19:48:37.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Kentriki Makedonia (tanleach1001) occupied Pelagonija with 23 troops.",
+    "timestamp": "2016-02-03T19:48:39.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Pelagonija (tanleach1001) attacked Shqipëria Jugore (gcochard) conquering it, killing 11, losing 11.",
+    "timestamp": "2016-02-03T19:48:53.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Pelagonija (tanleach1001) occupied Shqipëria Jugore with 1 troop.",
+    "timestamp": "2016-02-03T19:49:11.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (tanleach1001) was fortified from Pelagonija (tanleach1001) with 10 troops.",
+    "timestamp": "2016-02-03T19:49:34.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-03T19:49:34.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-03T19:49:34.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-03T20:54:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for 16 territories.",
+    "timestamp": "2016-02-03T20:54:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for holding Srbija & Kosovo.",
+    "timestamp": "2016-02-03T20:54:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Severna Bulgaria.",
+    "timestamp": "2016-02-03T20:54:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Tuzla (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-02-03T20:55:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Skopje (ryanbmilbourne) was reinforced by ryanbmilbourne with 7 troops.",
+    "timestamp": "2016-02-03T20:55:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Tuzla (ryanbmilbourne) attacked Banja Luka (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T20:55:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Tuzla (ryanbmilbourne) occupied Banja Luka with 1 troop.",
+    "timestamp": "2016-02-03T20:55:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Tuzla (ryanbmilbourne) attacked Sarajevo (gcochard) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-03T20:55:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Tuzla (ryanbmilbourne) occupied Sarajevo with 1 troop.",
+    "timestamp": "2016-02-03T20:55:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Kosovo (ryanbmilbourne) was fortified from Tuzla (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-02-03T20:55:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-03T20:55:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-03T20:55:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-03T21:48:30.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "gcochard received 4 troops for 13 territories.",
+    "timestamp": "2016-02-03T21:48:30.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "gcochard received 3 troops for holding Slovenija & Hrvatska.",
+    "timestamp": "2016-02-03T21:48:30.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Ipiros (gcochard) was reinforced by gcochard with 7 troops.",
+    "timestamp": "2016-02-03T21:48:33.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Ipiros (gcochard) attacked Shqipëria Jugore (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T21:48:36.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Ipiros (gcochard) occupied Shqipëria Jugore with 17 troops.",
+    "timestamp": "2016-02-03T21:48:38.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) attacked Ditiki Makedonia (tanleach1001) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-02-03T21:48:49.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) occupied Ditiki Makedonia with 1 troop.",
+    "timestamp": "2016-02-03T21:48:55.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Shqipëria Veriore (gcochard) was fortified from Dalmacija (gcochard) with 3 troops.",
+    "timestamp": "2016-02-03T21:49:08.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-03T21:49:09.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-03T21:49:09.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-03T21:49:54.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "mmacfreier received 3 troops for 4 territories.",
+    "timestamp": "2016-02-03T21:49:54.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Yujna Bulgaria.",
+    "timestamp": "2016-02-03T21:49:54.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) was reinforced by mmacfreier with 5 troops.",
+    "timestamp": "2016-02-03T21:49:58.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) attacked Kentriki Makedonia (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T21:50:04.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) occupied Kentriki Makedonia with 29 troops.",
+    "timestamp": "2016-02-03T21:50:06.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Kentriki Makedonia (mmacfreier) attacked Ditiki Makedonia (gcochard) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-03T21:50:13.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Kentriki Makedonia (mmacfreier) occupied Ditiki Makedonia with 26 troops.",
+    "timestamp": "2016-02-03T21:50:16.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Ditiki Makedonia (mmacfreier) attacked Shqipëria Jugore (gcochard) conquering it, killing 14, losing 11.",
+    "timestamp": "2016-02-03T21:50:36.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Ditiki Makedonia (mmacfreier) occupied Shqipëria Jugore with 1 troop.",
+    "timestamp": "2016-02-03T21:50:42.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Ditiki Makedonia (mmacfreier) attacked Pelagonija (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T21:50:57.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Ditiki Makedonia (mmacfreier) occupied Pelagonija with 12 troops.",
+    "timestamp": "2016-02-03T21:50:59.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Pelagonija (mmacfreier) attacked Polog (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T21:51:03.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Pelagonija (mmacfreier) occupied Polog with 1 troop.",
+    "timestamp": "2016-02-03T21:51:09.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Sofia (mmacfreier) was fortified from Pelagonija (mmacfreier) with 10 troops.",
+    "timestamp": "2016-02-03T21:51:15.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-03T21:51:15.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-03T21:51:15.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Round 14 started.",
+    "timestamp": "2016-02-03T21:51:15.000Z",
+    "player": "unknown",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-02-03T21:51:19.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 5 territories.",
+    "timestamp": "2016-02-03T21:51:19.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Marmara.",
+    "timestamp": "2016-02-03T21:51:19.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-02-03T21:51:55.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (tanleach1001) attacked Plovdiv (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T21:52:13.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Anatoliki Makedonia kai Thraki (tanleach1001) occupied Plovdiv with 19 troops.",
+    "timestamp": "2016-02-03T21:52:28.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Plovdiv (tanleach1001) attacked Lovech (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T21:52:32.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Plovdiv (tanleach1001) occupied Lovech with 17 troops.",
+    "timestamp": "2016-02-03T21:52:37.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Lovech (tanleach1001) attacked Montana (ryanbmilbourne) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-02-03T21:52:42.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Lovech (tanleach1001) occupied Montana with 1 troop.",
+    "timestamp": "2016-02-03T21:52:47.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Edirne (tanleach1001) was fortified from Lovech (tanleach1001) with 13 troops.",
+    "timestamp": "2016-02-03T21:52:54.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-02-03T21:52:55.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-02-03T21:52:55.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-03T22:03:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for 15 territories.",
+    "timestamp": "2016-02-03T22:03:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for holding Srbija & Kosovo.",
+    "timestamp": "2016-02-03T22:03:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Skopje (ryanbmilbourne) was reinforced by ryanbmilbourne with 10 troops.",
+    "timestamp": "2016-02-03T22:03:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Skopje (ryanbmilbourne) attacked Sofia Oblast (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T22:03:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Skopje (ryanbmilbourne) occupied Sofia Oblast with 27 troops.",
+    "timestamp": "2016-02-03T22:03:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Sofia Oblast (ryanbmilbourne) attacked Plovdiv (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:04:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Sofia Oblast (ryanbmilbourne) occupied Plovdiv with 26 troops.",
+    "timestamp": "2016-02-03T22:04:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Plovdiv (ryanbmilbourne) attacked Lovech (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:04:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Plovdiv (ryanbmilbourne) occupied Lovech with 25 troops.",
+    "timestamp": "2016-02-03T22:04:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Lovech (ryanbmilbourne) attacked Montana (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:04:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Lovech (ryanbmilbourne) occupied Montana with 1 troop.",
+    "timestamp": "2016-02-03T22:04:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Lovech (ryanbmilbourne) attacked Haskovo (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:04:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Lovech (ryanbmilbourne) occupied Haskovo with 23 troops.",
+    "timestamp": "2016-02-03T22:04:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Haskovo (ryanbmilbourne) attacked Edirne (tanleach1001) conquering it, killing 16, losing 14.",
+    "timestamp": "2016-02-03T22:05:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Haskovo (ryanbmilbourne) occupied Edirne with 8 troops.",
+    "timestamp": "2016-02-03T22:05:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Edirne (ryanbmilbourne) attacked Kırklareli (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:05:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Edirne (ryanbmilbourne) occupied Kırklareli with 1 troop.",
+    "timestamp": "2016-02-03T22:05:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Edirne (ryanbmilbourne) attacked Anatoliki Makedonia kai Thraki (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:05:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Edirne (ryanbmilbourne) occupied Anatoliki Makedonia kai Thraki with 1 troop.",
+    "timestamp": "2016-02-03T22:05:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Edirne (ryanbmilbourne) attacked Tekirdağ (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T22:05:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Edirne (ryanbmilbourne) occupied Tekirdağ with 4 troops.",
+    "timestamp": "2016-02-03T22:05:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Tekirdağ (ryanbmilbourne) attacked İstanbul (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:05:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 was defeated by ryanbmilbourne.",
+    "timestamp": "2016-02-03T22:05:33.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Tekirdağ (ryanbmilbourne) occupied İstanbul with 3 troops.",
+    "timestamp": "2016-02-03T22:05:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Haskovo",
+    "timestamp": "2016-02-03T22:05:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Edirne",
+    "timestamp": "2016-02-03T22:05:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Vardar",
+    "timestamp": "2016-02-03T22:05:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Haskovo, Edirne, and Vardar.",
+    "timestamp": "2016-02-03T22:05:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Vardar (ryanbmilbourne) was reinforced by ryanbmilbourne with 8 troops.",
+    "timestamp": "2016-02-03T22:06:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Vardar (ryanbmilbourne) was fortified from İstanbul (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-02-03T22:07:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-03T22:07:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-03T22:07:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-03T22:08:11.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "gcochard received 4 troops for 13 territories.",
+    "timestamp": "2016-02-03T22:08:11.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "gcochard received 3 troops for holding Slovenija & Hrvatska.",
+    "timestamp": "2016-02-03T22:08:11.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "gcochard received 2 troops on Slavonija",
+    "timestamp": "2016-02-03T22:08:24.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "gcochard received 2 troops on Thessalia",
+    "timestamp": "2016-02-03T22:08:24.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Slavonija, Razgrad, and Thessalia.",
+    "timestamp": "2016-02-03T22:08:24.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Shqipëria Veriore (gcochard) was reinforced by gcochard with 15 troops.",
+    "timestamp": "2016-02-03T22:08:31.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Shqipëria Veriore (gcochard) attacked Polog (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:08:38.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Shqipëria Veriore (gcochard) occupied Polog with 1 troop.",
+    "timestamp": "2016-02-03T22:08:45.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Shqipëria Veriore (gcochard) attacked Shqipëria Jugore (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T22:08:50.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Shqipëria Veriore (gcochard) occupied Shqipëria Jugore with 14 troops.",
+    "timestamp": "2016-02-03T22:08:57.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) attacked Ditiki Makedonia (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:09:11.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) occupied Ditiki Makedonia with 1 troop.",
+    "timestamp": "2016-02-03T22:09:20.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) attacked Pelagonija (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:09:25.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) occupied Pelagonija with 1 troop.",
+    "timestamp": "2016-02-03T22:09:30.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Thessalia (gcochard) attacked Kentriki Makedonia (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:09:33.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Thessalia (gcochard) occupied Kentriki Makedonia with 2 troops.",
+    "timestamp": "2016-02-03T22:09:35.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Kentriki Makedonia (gcochard) was fortified from Slavonija (gcochard) with 2 troops.",
+    "timestamp": "2016-02-03T22:10:05.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-03T22:10:05.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-03T22:10:05.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-02-03T22:16:32.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "mmacfreier received 3 troops for 1 territory.",
+    "timestamp": "2016-02-03T22:16:32.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Sofia (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-02-03T22:16:38.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Sofia (mmacfreier) attacked Sofia Oblast (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:16:43.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Sofia (mmacfreier) occupied Sofia Oblast with 13 troops.",
+    "timestamp": "2016-02-03T22:16:50.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) attacked Niš (ryanbmilbourne) conquering it, killing 8, losing 2.",
+    "timestamp": "2016-02-03T22:16:58.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Sofia Oblast (mmacfreier) occupied Niš with 10 troops.",
+    "timestamp": "2016-02-03T22:17:00.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Niš (mmacfreier) attacked Zlatibor (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:17:04.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Niš (mmacfreier) occupied Zlatibor with 9 troops.",
+    "timestamp": "2016-02-03T22:17:06.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Zlatibor (mmacfreier) attacked Sjeverna Crna Gora (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:17:09.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Zlatibor (mmacfreier) occupied Sjeverna Crna Gora with 8 troops.",
+    "timestamp": "2016-02-03T22:17:11.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Sjeverna Crna Gora (mmacfreier) attacked Mostar (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T22:17:15.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Sjeverna Crna Gora (mmacfreier) occupied Mostar with 6 troops.",
+    "timestamp": "2016-02-03T22:17:17.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Mostar (mmacfreier) attacked Dalmacija (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:17:21.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Mostar (mmacfreier) occupied Dalmacija with 1 troop.",
+    "timestamp": "2016-02-03T22:17:26.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Sofia (mmacfreier) was fortified from Mostar (mmacfreier) with 4 troops.",
+    "timestamp": "2016-02-03T22:17:33.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-02-03T22:17:33.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-02-03T22:17:33.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Round 15 started.",
+    "timestamp": "2016-02-03T22:17:33.000Z",
+    "player": "unknown",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-03T22:17:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received 7 troops for 22 territories.",
+    "timestamp": "2016-02-03T22:17:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Severna Bulgaria.",
+    "timestamp": "2016-02-03T22:17:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Marmara.",
+    "timestamp": "2016-02-03T22:17:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) was reinforced by ryanbmilbourne with 12 troops.",
+    "timestamp": "2016-02-03T22:18:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) attacked Sofia Oblast (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:18:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) occupied Sofia Oblast with 21 troops.",
+    "timestamp": "2016-02-03T22:18:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Sofia Oblast (ryanbmilbourne) attacked Sofia (mmacfreier) conquering it, killing 5, losing 2.",
+    "timestamp": "2016-02-03T22:18:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Sofia Oblast (ryanbmilbourne) occupied Sofia with 1 troop.",
+    "timestamp": "2016-02-03T22:18:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Sofia Oblast (ryanbmilbourne) attacked Niš (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:18:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Sofia Oblast (ryanbmilbourne) occupied Niš with 17 troops.",
+    "timestamp": "2016-02-03T22:18:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Niš (ryanbmilbourne) attacked Zlatibor (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T22:18:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Niš (ryanbmilbourne) occupied Zlatibor with 15 troops.",
+    "timestamp": "2016-02-03T22:18:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Zlatibor (ryanbmilbourne) attacked Sjeverna Crna Gora (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:18:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Zlatibor (ryanbmilbourne) occupied Sjeverna Crna Gora with 14 troops.",
+    "timestamp": "2016-02-03T22:18:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Sjeverna Crna Gora (ryanbmilbourne) attacked Mostar (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T22:18:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Sjeverna Crna Gora (ryanbmilbourne) occupied Mostar with 12 troops.",
+    "timestamp": "2016-02-03T22:18:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Mostar (ryanbmilbourne) attacked Dalmacija (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T22:19:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "mmacfreier was defeated by ryanbmilbourne.",
+    "timestamp": "2016-02-03T22:19:03.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Mostar (ryanbmilbourne) occupied Dalmacija with 10 troops.",
+    "timestamp": "2016-02-03T22:19:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Sjeverna Crna Gora",
+    "timestamp": "2016-02-03T22:19:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Plovdiv",
+    "timestamp": "2016-02-03T22:19:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Sjeverna Crna Gora, Polog, and Plovdiv.",
+    "timestamp": "2016-02-03T22:19:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Stajerska, Tirana, and Shqipëria Veriore.",
+    "timestamp": "2016-02-03T22:20:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Dalmacija (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-02-03T22:20:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Vardar (ryanbmilbourne) was reinforced by ryanbmilbourne with 10 troops.",
+    "timestamp": "2016-02-03T22:21:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Dalmacija (ryanbmilbourne) attacked Istra i Kvarner (gcochard) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-02-03T22:21:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Dalmacija (ryanbmilbourne) occupied Istra i Kvarner with 14 troops.",
+    "timestamp": "2016-02-03T22:21:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Istra i Kvarner (ryanbmilbourne) attacked Središnja Hrvatska (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:21:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Istra i Kvarner (ryanbmilbourne) occupied Središnja Hrvatska with 13 troops.",
+    "timestamp": "2016-02-03T22:21:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Središnja Hrvatska (ryanbmilbourne) attacked Kranjska (gcochard) conquering it, killing 3, losing 5.",
+    "timestamp": "2016-02-03T22:21:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Središnja Hrvatska (ryanbmilbourne) occupied Kranjska with 1 troop.",
+    "timestamp": "2016-02-03T22:21:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Središnja Hrvatska (ryanbmilbourne) attacked Stajerska (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:21:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Središnja Hrvatska (ryanbmilbourne) occupied Stajerska with 1 troop.",
+    "timestamp": "2016-02-03T22:21:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Središnja Hrvatska (ryanbmilbourne) attacked Slavonija (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:22:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Središnja Hrvatska (ryanbmilbourne) occupied Slavonija with 5 troops.",
+    "timestamp": "2016-02-03T22:22:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Sjeverna Crna Gora (ryanbmilbourne) attacked Primorska Crna Gora (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:22:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Sjeverna Crna Gora (ryanbmilbourne) occupied Primorska Crna Gora with 2 troops.",
+    "timestamp": "2016-02-03T22:22:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Primorska Crna Gora (ryanbmilbourne) attacked Shqipëria Veriore (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-02-03T22:22:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Vardar (ryanbmilbourne) attacked Polog (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:22:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Vardar (ryanbmilbourne) occupied Polog with 22 troops.",
+    "timestamp": "2016-02-03T22:22:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Polog (ryanbmilbourne) attacked Shqipëria Veriore (gcochard) killing 12, losing 10.",
+    "timestamp": "2016-02-03T22:22:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Kosovo (ryanbmilbourne) attacked Shqipëria Veriore (gcochard) killing 0, losing 3.",
+    "timestamp": "2016-02-03T22:23:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Polog (ryanbmilbourne) attacked Shqipëria Veriore (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T22:23:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Polog (ryanbmilbourne) occupied Shqipëria Veriore with 10 troops.",
+    "timestamp": "2016-02-03T22:24:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Niš (ryanbmilbourne) was fortified from Slavonija (ryanbmilbourne) with 4 troops.",
+    "timestamp": "2016-02-03T22:24:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-02-03T22:24:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-02-03T22:24:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-02-03T22:24:57.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-02-03T22:24:57.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-02-03T22:25:14.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) attacked Polog (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:25:18.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Shqipëria Jugore (gcochard) occupied Polog with 14 troops.",
+    "timestamp": "2016-02-03T22:25:19.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Polog (gcochard) attacked Skopje (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:25:22.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Polog (gcochard) occupied Skopje with 13 troops.",
+    "timestamp": "2016-02-03T22:25:24.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Skopje (gcochard) attacked Sofia Oblast (ryanbmilbourne) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-02-03T22:25:40.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Skopje (gcochard) occupied Sofia Oblast with 9 troops.",
+    "timestamp": "2016-02-03T22:25:44.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Sofia Oblast (gcochard) attacked Montana (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:25:49.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Sofia Oblast (gcochard) occupied Montana with 1 troop.",
+    "timestamp": "2016-02-03T22:25:53.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Sofia Oblast (gcochard) attacked Zaječar (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:25:56.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Sofia Oblast (gcochard) occupied Zaječar with 7 troops.",
+    "timestamp": "2016-02-03T22:26:27.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Zaječar (gcochard) attacked Vojvodina (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:26:32.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Zaječar (gcochard) occupied Vojvodina with 6 troops.",
+    "timestamp": "2016-02-03T22:26:36.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Vojvodina (gcochard) attacked Slavonija (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:26:45.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Vojvodina (gcochard) occupied Slavonija with 5 troops.",
+    "timestamp": "2016-02-03T22:26:49.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Slavonija (gcochard) attacked Tuzla (ryanbmilbourne) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-02-03T22:27:00.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Kentriki Makedonia (gcochard) attacked Anatoliki Makedonia kai Thraki (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-02-03T22:27:14.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-02-03T22:27:21.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-02-03T22:27:21.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Round 16 started.",
+    "timestamp": "2016-02-03T22:27:21.000Z",
+    "player": "unknown",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-02-03T22:28:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 9 troops for 28 territories.",
+    "timestamp": "2016-02-03T22:28:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Marmara.",
+    "timestamp": "2016-02-03T22:28:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Niš (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-02-03T22:29:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Shqipëria Veriore (ryanbmilbourne) was reinforced by ryanbmilbourne with 5 troops.",
+    "timestamp": "2016-02-03T22:29:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Kosovo (ryanbmilbourne) attacked Skopje (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T22:29:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Kosovo (ryanbmilbourne) occupied Skopje with 1 troop.",
+    "timestamp": "2016-02-03T22:30:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Plovdiv (ryanbmilbourne) attacked Sofia Oblast (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-02-03T22:30:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Edirne (ryanbmilbourne) attacked Anatoliki Makedonia kai Thraki (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-02-03T22:30:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Niš (ryanbmilbourne) attacked Zaječar (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:30:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Niš (ryanbmilbourne) occupied Zaječar with 10 troops.",
+    "timestamp": "2016-02-03T22:30:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) attacked Montana (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:30:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) occupied Montana with 1 troop.",
+    "timestamp": "2016-02-03T22:30:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) attacked Vojvodina (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:30:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Zaječar (ryanbmilbourne) occupied Vojvodina with 8 troops.",
+    "timestamp": "2016-02-03T22:30:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Vojvodina (ryanbmilbourne) attacked Slavonija (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:30:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Vojvodina (ryanbmilbourne) occupied Slavonija with 7 troops.",
+    "timestamp": "2016-02-03T22:30:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Slavonija (ryanbmilbourne) attacked Tuzla (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:30:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Slavonija (ryanbmilbourne) occupied Tuzla with 6 troops.",
+    "timestamp": "2016-02-03T22:31:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Haskovo (ryanbmilbourne) attacked Anatoliki Makedonia kai Thraki (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T22:31:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Kosovo (ryanbmilbourne) attacked Polog (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-02-03T22:31:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Shqipëria Veriore (ryanbmilbourne) attacked Polog (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-02-03T22:31:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Shqipëria Veriore (ryanbmilbourne) occupied Polog with 13 troops.",
+    "timestamp": "2016-02-03T22:31:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Polog (ryanbmilbourne) attacked Shqipëria Jugore (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:31:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Polog (ryanbmilbourne) occupied Shqipëria Jugore with 12 troops.",
+    "timestamp": "2016-02-03T22:31:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Shqipëria Jugore (ryanbmilbourne) attacked Tirana (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:31:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Shqipëria Jugore (ryanbmilbourne) occupied Tirana with 1 troop.",
+    "timestamp": "2016-02-03T22:31:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Shqipëria Jugore (ryanbmilbourne) attacked Pelagonija (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:32:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Shqipëria Jugore (ryanbmilbourne) occupied Pelagonija with 10 troops.",
+    "timestamp": "2016-02-03T22:32:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Pelagonija (ryanbmilbourne) attacked Ditiki Makedonia (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:32:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Pelagonija (ryanbmilbourne) occupied Ditiki Makedonia with 9 troops.",
+    "timestamp": "2016-02-03T22:32:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Ditiki Makedonia (ryanbmilbourne) attacked Ipiros (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:32:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Ditiki Makedonia (ryanbmilbourne) occupied Ipiros with 1 troop.",
+    "timestamp": "2016-02-03T22:32:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Ditiki Makedonia (ryanbmilbourne) attacked Thessalia (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:32:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Ditiki Makedonia (ryanbmilbourne) occupied Thessalia with 1 troop.",
+    "timestamp": "2016-02-03T22:32:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Ditiki Makedonia (ryanbmilbourne) attacked Kentriki Makedonia (gcochard) conquering it, killing 1, losing 4.",
+    "timestamp": "2016-02-03T22:32:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Ditiki Makedonia (ryanbmilbourne) occupied Kentriki Makedonia with 2 troops.",
+    "timestamp": "2016-02-03T22:32:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Kentriki Makedonia (ryanbmilbourne) attacked Sofia Oblast (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-02-03T22:32:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "gcochard was defeated by ryanbmilbourne.",
+    "timestamp": "2016-02-03T22:32:40.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-02-03T22:32:40.000Z",
+    "player": "unknown",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 lost 19 rating.",
+    "timestamp": "2016-02-03T22:32:40.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 20 tokens.",
+    "timestamp": "2016-02-03T22:32:40.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne won the game.",
+    "timestamp": "2016-02-03T22:32:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 81 rating.",
+    "timestamp": "2016-02-03T22:32:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 20 tokens.",
+    "timestamp": "2016-02-03T22:32:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "kwren lost 20 rating.",
+    "timestamp": "2016-02-03T22:32:40.000Z",
+    "player": "kwren",
+    "round": 16
+  },
+  {
+    "message": "kwren received 20 tokens.",
+    "timestamp": "2016-02-03T22:32:40.000Z",
+    "player": "kwren",
+    "round": 16
+  },
+  {
+    "message": "gcochard lost 15 rating.",
+    "timestamp": "2016-02-03T22:32:40.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "gcochard received 20 tokens.",
+    "timestamp": "2016-02-03T22:32:40.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier lost 27 rating.",
+    "timestamp": "2016-02-03T22:32:40.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 20 tokens.",
+    "timestamp": "2016-02-03T22:32:40.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  }
+]

@@ -1,0 +1,2588 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-03-10T17:04:09.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "gcochard joined the game.",
+    "timestamp": "2016-03-10T17:04:09.000Z",
+    "player": "gcochard",
+    "round": 0
+  },
+  {
+    "message": "mmacfreier joined the game.",
+    "timestamp": "2016-03-10T17:04:55.000Z",
+    "player": "mmacfreier",
+    "round": 0
+  },
+  {
+    "message": "tanleach1001 joined the game.",
+    "timestamp": "2016-03-10T17:04:55.000Z",
+    "player": "tanleach1001",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne joined the game.",
+    "timestamp": "2016-03-10T17:05:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "jobratt joined the game.",
+    "timestamp": "2016-03-10T18:35:03.000Z",
+    "player": "jobratt",
+    "round": 0
+  },
+  {
+    "message": "jobratt left the game.",
+    "timestamp": "2016-03-10T18:43:45.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "jobratt joined the game.",
+    "timestamp": "2016-03-10T18:43:48.000Z",
+    "player": "jobratt",
+    "round": 0
+  },
+  {
+    "message": "kwren joined the game.",
+    "timestamp": "2016-03-10T19:22:09.000Z",
+    "player": "kwren",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-03-10T19:22:09.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-03-10T19:22:44.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received 4 troops for 13 territories.",
+    "timestamp": "2016-03-10T19:22:44.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Syddanmark (mmacfreier) was reinforced by mmacfreier with 4 troops.",
+    "timestamp": "2016-03-10T19:23:15.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Syddanmark (mmacfreier) attacked Fyn (tanleach1001) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-03-10T19:23:21.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Syddanmark (mmacfreier) occupied Fyn with 2 troops.",
+    "timestamp": "2016-03-10T19:23:23.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Fyn (mmacfreier) was fortified from Sørlandet (mmacfreier) with 2 troops.",
+    "timestamp": "2016-03-10T19:23:40.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Pärnumaa (mmacfreier) was fortified from Tartumaa (mmacfreier) with 2 troops.",
+    "timestamp": "2016-03-10T19:24:00.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-03-10T19:24:10.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-03-10T19:24:10.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-10T19:27:03.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 4 troops for 13 territories.",
+    "timestamp": "2016-03-10T19:27:03.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Suvalkija (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-03-10T19:27:29.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Suvalkija (gcochard) attacked Podlaskie (mmacfreier) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-03-10T19:27:48.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Suvalkija (gcochard) occupied Podlaskie with 3 troops.",
+    "timestamp": "2016-03-10T19:27:52.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Mazowieckie (gcochard) was fortified from Žemaitija (gcochard) with 2 troops.",
+    "timestamp": "2016-03-10T19:28:03.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Skåne (gcochard) was fortified from København (gcochard) with 2 troops.",
+    "timestamp": "2016-03-10T19:28:08.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-10T19:28:15.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-10T19:28:15.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-03-10T19:28:21.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 4 troops for 13 territories.",
+    "timestamp": "2016-03-10T19:28:21.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Uppsala (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-03-10T19:28:28.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Uppsala (kwren) attacked Södermanland (gcochard) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-03-10T19:28:45.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Uppsala (kwren) occupied Södermanland with 1 troop.",
+    "timestamp": "2016-03-10T19:28:48.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Uppsala (kwren) attacked Dalarna (gcochard) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-03-10T19:28:53.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Uppsala (kwren) occupied Dalarna with 1 troop.",
+    "timestamp": "2016-03-10T19:28:59.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Örebro (kwren) attacked Värmland (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-03-10T19:29:03.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Uppsala (kwren) was fortified from Gävleborg (kwren) with 2 troops.",
+    "timestamp": "2016-03-10T19:29:11.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Uppsala (kwren) was fortified from Stockholm (kwren) with 2 troops.",
+    "timestamp": "2016-03-10T19:30:00.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Kaliningrad (kwren) was fortified from Kujawy (kwren) with 2 troops.",
+    "timestamp": "2016-03-10T19:30:05.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Kaliningrad (kwren) was fortified from Mazurskie (kwren) with 2 troops.",
+    "timestamp": "2016-03-10T19:30:10.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-03-10T19:30:26.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-03-10T19:30:26.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-03-10T19:33:16.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received 4 troops for 13 territories.",
+    "timestamp": "2016-03-10T19:33:16.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Aukštaitija (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-03-10T19:33:28.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Aukštaitija (jobratt) attacked Žemaitija (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T19:33:30.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Aukštaitija (jobratt) occupied Žemaitija with 1 troop.",
+    "timestamp": "2016-03-10T19:34:28.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Aukštaitija (jobratt) attacked Zemgale (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-03-10T19:34:33.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Aukštaitija (jobratt) occupied Zemgale with 4 troops.",
+    "timestamp": "2016-03-10T19:34:37.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Riga (jobratt) attacked Kurzeme (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-03-10T19:39:39.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Riga (jobratt) was fortified from Zemgale (jobratt) with 3 troops.",
+    "timestamp": "2016-03-10T19:39:48.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Riga (jobratt) was fortified from Latgale (jobratt) with 2 troops.",
+    "timestamp": "2016-03-10T19:39:55.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Hrozna (jobratt) was fortified from Brest (jobratt) with 2 troops.",
+    "timestamp": "2016-03-10T19:40:01.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Hrozna (jobratt) was fortified from Borisov (jobratt) with 2 troops.",
+    "timestamp": "2016-03-10T19:40:11.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Brandenburg (jobratt) was fortified from Mecklenburg-Vorpommern (jobratt) with 2 troops.",
+    "timestamp": "2016-03-10T19:40:17.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Kalmar (jobratt) was fortified from Halland (jobratt) with 2 troops.",
+    "timestamp": "2016-03-10T19:40:28.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Kalmar (jobratt) was fortified from Jönköping (jobratt) with 2 troops.",
+    "timestamp": "2016-03-10T19:40:35.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-03-10T19:40:49.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-03-10T19:40:49.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-03-10T19:40:56.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received 4 troops for 12 territories.",
+    "timestamp": "2016-03-10T19:40:56.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Helsinki (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-03-10T19:41:15.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Helsinki (tanleach1001) attacked Espoo (mmacfreier) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-03-10T19:41:21.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Helsinki (tanleach1001) occupied Espoo with 16 troops.",
+    "timestamp": "2016-03-10T19:41:47.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Espoo (tanleach1001) attacked Turku (kwren) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-10T19:41:51.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Espoo (tanleach1001) occupied Turku with 15 troops.",
+    "timestamp": "2016-03-10T19:41:59.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Turku (tanleach1001) attacked Åland (mmacfreier) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-03-10T19:42:33.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Turku (tanleach1001) occupied Åland with 4 troops.",
+    "timestamp": "2016-03-10T19:42:45.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Turku (tanleach1001) attacked Lahti (ryanbmilbourne) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-10T19:42:49.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Turku (tanleach1001) occupied Lahti with 6 troops.",
+    "timestamp": "2016-03-10T19:42:56.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Helsinki (tanleach1001) was fortified from Lahti (tanleach1001) with 5 troops.",
+    "timestamp": "2016-03-10T19:43:09.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Helsinki (tanleach1001) was fortified from Rakvere (tanleach1001) with 2 troops.",
+    "timestamp": "2016-03-10T19:43:13.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Helsinki (tanleach1001) was fortified from Slantsy (tanleach1001) with 2 troops.",
+    "timestamp": "2016-03-10T19:43:16.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Østlandet (tanleach1001) was fortified from Värmland (tanleach1001) with 2 troops.",
+    "timestamp": "2016-03-10T19:44:11.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Helsinki (tanleach1001) was fortified from Åland (tanleach1001) with 1 troop.",
+    "timestamp": "2016-03-10T19:44:20.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-03-10T19:44:27.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-03-10T19:44:27.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-10T19:44:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 11 territories.",
+    "timestamp": "2016-03-10T19:44:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Szczecin (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-03-10T19:46:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Szczecin (ryanbmilbourne) attacked Mecklenburg-Vorpommern (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T19:46:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Szczecin (ryanbmilbourne) occupied Mecklenburg-Vorpommern with 5 troops.",
+    "timestamp": "2016-03-10T19:46:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Östergötland (ryanbmilbourne) attacked Örebro (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T19:46:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Mecklenburg-Vorpommern (ryanbmilbourne) attacked Brandenburg (jobratt) killing 1, losing 3.",
+    "timestamp": "2016-03-10T19:47:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Sachsen-Anhalt (ryanbmilbourne) attacked Brandenburg (jobratt) killing 1, losing 3.",
+    "timestamp": "2016-03-10T19:47:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Pskov (ryanbmilbourne) was fortified from Novgorod (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-03-10T19:48:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Haapsalu (ryanbmilbourne) was fortified from Saaremaa (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-03-10T19:48:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Haapsalu (ryanbmilbourne) was fortified from Tallinn (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-03-10T19:48:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-10T19:48:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-10T19:48:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-03-10T19:48:35.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-03-10T20:45:32.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 3 troops for 11 territories.",
+    "timestamp": "2016-03-10T20:45:32.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Fyn (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-03-10T20:45:51.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Fyn (mmacfreier) attacked Sjælland (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-03-10T20:46:00.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Fyn (mmacfreier) occupied Sjælland with 5 troops.",
+    "timestamp": "2016-03-10T20:46:02.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Sjælland (mmacfreier) attacked København (gcochard) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-03-10T20:46:13.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "København (mmacfreier) was fortified from Midtjylland (mmacfreier) with 3 troops.",
+    "timestamp": "2016-03-10T20:46:45.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Nordjylland (mmacfreier) was fortified from Midtjylland (mmacfreier) with 1 troop.",
+    "timestamp": "2016-03-10T20:46:53.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-03-10T20:46:56.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-03-10T20:46:56.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-10T21:10:03.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 3 troops for 10 territories.",
+    "timestamp": "2016-03-10T21:10:03.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Skåne (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-03-10T21:10:32.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Skåne (gcochard) attacked Halland (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T21:10:40.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Skåne (gcochard) occupied Halland with 1 troop.",
+    "timestamp": "2016-03-10T21:10:46.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Skåne (gcochard) attacked Bornholm (jobratt) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-10T21:10:55.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Skåne (gcochard) occupied Bornholm with 6 troops.",
+    "timestamp": "2016-03-10T21:10:57.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Bornholm (gcochard) attacked Szczecin (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T21:11:09.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Bornholm (gcochard) occupied Szczecin with 4 troops.",
+    "timestamp": "2016-03-10T21:11:14.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Szczecin (gcochard) attacked Wielkopolskie (mmacfreier) killing 1, losing 3.",
+    "timestamp": "2016-03-10T21:11:37.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Pomorskie (gcochard) attacked Wielkopolskie (mmacfreier) killing 0, losing 2.",
+    "timestamp": "2016-03-10T21:11:51.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Mazowieckie (gcochard) attacked Kujawy (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T21:11:59.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Mazowieckie (gcochard) occupied Kujawy with 15 troops.",
+    "timestamp": "2016-03-10T21:12:05.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Kujawy (gcochard) attacked Wielkopolskie (mmacfreier) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-03-10T21:12:12.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Kujawy (gcochard) occupied Wielkopolskie with 1 troop.",
+    "timestamp": "2016-03-10T21:12:16.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Kujawy (gcochard) attacked Mazurskie (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T21:12:19.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Kujawy (gcochard) occupied Mazurskie with 11 troops.",
+    "timestamp": "2016-03-10T21:12:22.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Minsk (gcochard) attacked Borisov (jobratt) killing 0, losing 2.",
+    "timestamp": "2016-03-10T21:12:31.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Jotunheimen (gcochard) attacked Oslo (jobratt) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-10T21:12:53.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Jotunheimen (gcochard) occupied Oslo with 2 troops.",
+    "timestamp": "2016-03-10T21:12:57.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "St. Petersburg (gcochard) attacked Novgorod (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-03-10T21:13:12.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Szczecin (gcochard) was fortified from Oslo (gcochard) with 1 troop.",
+    "timestamp": "2016-03-10T21:13:22.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Szczecin (gcochard) was fortified from Västra Götaland (gcochard) with 2 troops.",
+    "timestamp": "2016-03-10T21:13:27.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Mazowieckie (gcochard) was fortified from Mazurskie (gcochard) with 10 troops.",
+    "timestamp": "2016-03-10T21:13:34.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Wielkopolskie (gcochard) was fortified from Mazowieckie (gcochard) with 2 troops.",
+    "timestamp": "2016-03-10T21:13:43.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Podlaskie (gcochard) was fortified from Szczecin (gcochard) with 1 troop.",
+    "timestamp": "2016-03-10T21:13:51.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Mazowieckie (gcochard) was fortified from Podlaskie (gcochard) with 1 troop.",
+    "timestamp": "2016-03-10T21:13:59.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-10T21:14:16.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-10T21:14:16.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-03-10T21:31:06.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 3 troops for 11 territories.",
+    "timestamp": "2016-03-10T21:31:07.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Uppsala (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-03-10T21:31:15.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Uppsala (kwren) attacked Örebro (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T21:31:19.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Uppsala (kwren) occupied Örebro with 5 troops.",
+    "timestamp": "2016-03-10T21:32:12.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Örebro (kwren) attacked Värmland (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T21:32:16.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Örebro (kwren) occupied Värmland with 1 troop.",
+    "timestamp": "2016-03-10T21:32:21.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Örebro (kwren) attacked Östergötland (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T21:32:25.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Lüneburg (kwren) attacked Sachsen-Anhalt (ryanbmilbourne) killing 2, losing 2.",
+    "timestamp": "2016-03-10T21:32:31.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Kaliningrad (kwren) attacked Suvalkija (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T21:32:41.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Kaliningrad (kwren) occupied Suvalkija with 1 troop.",
+    "timestamp": "2016-03-10T21:32:47.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Dzūkija (kwren) attacked Aukštaitija (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T21:32:50.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Dzūkija (kwren) occupied Aukštaitija with 1 troop.",
+    "timestamp": "2016-03-10T21:32:53.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Vidzeme (kwren) attacked Zemgale (jobratt) killing 0, losing 2.",
+    "timestamp": "2016-03-10T21:32:57.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Hiiumaa (kwren) attacked Saaremaa (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-03-10T21:33:06.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Kaliningrad (kwren) was fortified from Dzūkija (kwren) with 1 troop.",
+    "timestamp": "2016-03-10T21:33:12.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-03-10T21:33:22.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-03-10T21:33:22.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-03-10T21:38:58.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received 3 troops for 10 territories.",
+    "timestamp": "2016-03-10T21:38:58.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Brandenburg (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-03-10T21:39:04.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Brandenburg (jobratt) attacked Sachsen-Anhalt (ryanbmilbourne) killing 0, losing 5.",
+    "timestamp": "2016-03-10T21:39:10.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Riga (jobratt) attacked Vidzeme (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T21:39:49.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Riga (jobratt) occupied Vidzeme with 1 troop.",
+    "timestamp": "2016-03-10T21:40:04.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Riga (jobratt) attacked Kurzeme (ryanbmilbourne) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-03-10T21:40:10.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Riga (jobratt) occupied Kurzeme with 1 troop.",
+    "timestamp": "2016-03-10T21:40:12.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Hrozna (jobratt) attacked Dzūkija (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T21:40:23.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Hrozna (jobratt) occupied Dzūkija with 5 troops.",
+    "timestamp": "2016-03-10T21:40:24.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Dzūkija (jobratt) attacked Aukštaitija (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T21:40:28.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Dzūkija (jobratt) occupied Aukštaitija with 3 troops.",
+    "timestamp": "2016-03-10T21:40:30.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Aukštaitija (jobratt) attacked Suvalkija (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T21:40:35.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Aukštaitija (jobratt) occupied Suvalkija with 2 troops.",
+    "timestamp": "2016-03-10T21:40:37.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-03-10T21:41:18.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-03-10T21:41:18.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-03-10T21:45:08.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 5 troops for 15 territories.",
+    "timestamp": "2016-03-10T21:45:08.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Suomi.",
+    "timestamp": "2016-03-10T21:45:08.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Helsinki (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-03-10T21:45:23.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Åland (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-03-10T21:46:33.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Åland (tanleach1001) attacked Saaremaa (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T21:46:39.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Åland (tanleach1001) occupied Saaremaa with 6 troops.",
+    "timestamp": "2016-03-10T21:48:52.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Saaremaa (tanleach1001) attacked Pärnumaa (mmacfreier) killing 2, losing 2.",
+    "timestamp": "2016-03-10T21:48:59.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Velikiye Luki (tanleach1001) attacked Novgorod (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T21:50:08.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Velikiye Luki (tanleach1001) occupied Novgorod with 1 troop.",
+    "timestamp": "2016-03-10T21:50:16.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Telemark (tanleach1001) attacked Jotunheimen (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T21:50:28.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Telemark (tanleach1001) occupied Jotunheimen with 1 troop.",
+    "timestamp": "2016-03-10T21:50:31.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Rakvere (tanleach1001) was fortified from Velikiye Luki (tanleach1001) with 1 troop.",
+    "timestamp": "2016-03-10T21:50:57.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Helsinki (tanleach1001) was fortified from Kotka (tanleach1001) with 2 troops.",
+    "timestamp": "2016-03-10T21:50:59.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Saaremaa (tanleach1001) was fortified from Gotland (tanleach1001) with 2 troops.",
+    "timestamp": "2016-03-10T21:51:03.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Saaremaa (tanleach1001) was fortified from Rakvere (tanleach1001) with 1 troop.",
+    "timestamp": "2016-03-10T21:51:26.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Telemark (tanleach1001) was fortified from Østlandet (tanleach1001) with 1 troop.",
+    "timestamp": "2016-03-10T21:52:13.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-03-10T21:52:15.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-03-10T21:52:15.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-10T21:53:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 6 territories.",
+    "timestamp": "2016-03-10T21:53:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Sachsen-Anhalt (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-03-10T21:53:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Mecklenburg-Vorpommern (ryanbmilbourne) attacked Brandenburg (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T21:53:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Sachsen-Anhalt (ryanbmilbourne) attacked Lüneburg (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T21:53:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Sachsen-Anhalt (ryanbmilbourne) occupied Lüneburg with 1 troop.",
+    "timestamp": "2016-03-10T21:54:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Haapsalu (ryanbmilbourne) attacked Pärnumaa (mmacfreier) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-03-10T21:54:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Haapsalu (ryanbmilbourne) occupied Pärnumaa with 5 troops.",
+    "timestamp": "2016-03-10T21:54:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Pärnumaa (ryanbmilbourne) attacked Tartumaa (mmacfreier) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-03-10T21:54:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Pärnumaa (ryanbmilbourne) occupied Tartumaa with 2 troops.",
+    "timestamp": "2016-03-10T21:54:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Tartumaa (ryanbmilbourne) attacked Vidzeme (jobratt) killing 0, losing 1.",
+    "timestamp": "2016-03-10T21:54:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Pskov (ryanbmilbourne) attacked Vidzeme (jobratt) killing 0, losing 1.",
+    "timestamp": "2016-03-10T21:54:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Pskov (ryanbmilbourne) attacked Latgale (jobratt) killing 0, losing 1.",
+    "timestamp": "2016-03-10T21:55:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-10T21:55:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-10T21:55:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-03-10T21:55:21.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-03-10T21:56:45.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 3 troops for 10 territories.",
+    "timestamp": "2016-03-10T21:56:46.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Danmark.",
+    "timestamp": "2016-03-10T21:56:46.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Syddanmark (mmacfreier) was reinforced by mmacfreier with 6 troops.",
+    "timestamp": "2016-03-10T21:57:03.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Syddanmark (mmacfreier) attacked Schleswig-Holstein (tanleach1001) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-03-10T21:57:09.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Syddanmark (mmacfreier) occupied Schleswig-Holstein with 4 troops.",
+    "timestamp": "2016-03-10T21:57:11.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Schleswig-Holstein (mmacfreier) was fortified from Niedersachsen (mmacfreier) with 2 troops.",
+    "timestamp": "2016-03-10T21:57:18.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-03-10T21:57:24.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-03-10T21:57:24.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-10T21:57:37.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 5 troops for 15 territories.",
+    "timestamp": "2016-03-10T21:57:37.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 4 troops for holding Polska.",
+    "timestamp": "2016-03-10T21:57:37.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Vitebsk (gcochard) was reinforced by gcochard with 9 troops.",
+    "timestamp": "2016-03-10T21:59:26.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Vitebsk (gcochard) attacked Borisov (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T21:59:33.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Vitebsk (gcochard) occupied Borisov with 11 troops.",
+    "timestamp": "2016-03-10T21:59:35.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Borisov (gcochard) attacked Mahilyow (tanleach1001) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-10T21:59:39.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Borisov (gcochard) occupied Mahilyow with 10 troops.",
+    "timestamp": "2016-03-10T21:59:40.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Mahilyow (gcochard) attacked Brest (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T21:59:43.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Mahilyow (gcochard) occupied Brest with 9 troops.",
+    "timestamp": "2016-03-10T21:59:45.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Brest (gcochard) attacked Hrozna (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T21:59:49.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Brest (gcochard) occupied Hrozna with 7 troops.",
+    "timestamp": "2016-03-10T21:59:55.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Mazowieckie (gcochard) was fortified from Hrozna (gcochard) with 4 troops.",
+    "timestamp": "2016-03-10T22:00:23.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Vitebsk (gcochard) was fortified from Wielkopolskie (gcochard) with 2 troops.",
+    "timestamp": "2016-03-10T22:00:28.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Hrozna (gcochard) was fortified from Mazowieckie (gcochard) with 2 troops.",
+    "timestamp": "2016-03-10T22:01:05.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Vitebsk (gcochard) was fortified from Szczecin (gcochard) with 2 troops.",
+    "timestamp": "2016-03-10T22:01:17.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-10T22:01:36.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-10T22:01:36.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-03-10T22:01:49.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 3 troops for 11 territories.",
+    "timestamp": "2016-03-10T22:01:49.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 4 troops for holding Svealand.",
+    "timestamp": "2016-03-10T22:01:49.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Uppsala (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-03-10T22:02:07.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Värmland (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-03-10T22:02:14.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Värmland (kwren) attacked Oslo (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T22:02:18.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Värmland (kwren) occupied Oslo with 2 troops.",
+    "timestamp": "2016-03-10T22:02:20.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Oslo (kwren) attacked Jotunheimen (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-03-10T22:02:24.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Vestlandet (kwren) attacked Jotunheimen (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T22:02:29.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Kaliningrad (kwren) attacked Mazurskie (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T22:02:36.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Kaliningrad (kwren) occupied Mazurskie with 6 troops.",
+    "timestamp": "2016-03-10T22:02:40.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Mazurskie (kwren) attacked Mazowieckie (gcochard) conquering it, killing 12, losing 2.",
+    "timestamp": "2016-03-10T22:02:49.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "gcochard was defeated by kwren.",
+    "timestamp": "2016-03-10T22:02:49.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Mazurskie (kwren) occupied Mazowieckie with 3 troops.",
+    "timestamp": "2016-03-10T22:03:12.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 2 troops on Uppsala",
+    "timestamp": "2016-03-10T22:03:22.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 2 troops on Pomorskie",
+    "timestamp": "2016-03-10T22:03:22.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 4 troops for turning in cards Uppsala, Suvalkija, and Pomorskie.",
+    "timestamp": "2016-03-10T22:03:22.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Szczecin (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-03-10T22:03:27.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Szczecin (kwren) attacked Brandenburg (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T22:03:30.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Szczecin (kwren) occupied Brandenburg with 4 troops.",
+    "timestamp": "2016-03-10T22:03:32.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Brandenburg (kwren) attacked Sachsen-Anhalt (ryanbmilbourne) killing 2, losing 3.",
+    "timestamp": "2016-03-10T22:03:37.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Vitebsk (kwren) attacked Latgale (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T22:03:47.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Vitebsk (kwren) occupied Latgale with 1 troop.",
+    "timestamp": "2016-03-10T22:04:02.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Brandenburg (kwren) was fortified from Vitebsk (kwren) with 3 troops.",
+    "timestamp": "2016-03-10T22:04:14.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Brandenburg (kwren) was fortified from Hrozna (kwren) with 4 troops.",
+    "timestamp": "2016-03-10T22:04:18.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Brandenburg (kwren) was fortified from Podlaskie (kwren) with 2 troops.",
+    "timestamp": "2016-03-10T22:04:21.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Brandenburg (kwren) was fortified from Mazowieckie (kwren) with 2 troops.",
+    "timestamp": "2016-03-10T22:04:25.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-03-10T22:04:34.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-03-10T22:04:34.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-03-10T22:18:25.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 3 troops for 10 territories.",
+    "timestamp": "2016-03-10T22:18:25.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Kalmar (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-03-10T22:18:41.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Kalmar (jobratt) attacked Östergötland (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T22:18:44.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Kalmar (jobratt) occupied Östergötland with 9 troops.",
+    "timestamp": "2016-03-10T22:18:59.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Östergötland (jobratt) attacked Södermanland (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T22:19:02.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Östergötland (jobratt) occupied Södermanland with 8 troops.",
+    "timestamp": "2016-03-10T22:19:04.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Södermanland (jobratt) attacked Uppsala (kwren) killing 2, losing 7.",
+    "timestamp": "2016-03-10T22:19:21.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-03-10T22:19:44.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-03-10T22:19:44.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-03-10T22:19:47.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 5 troops for 15 territories.",
+    "timestamp": "2016-03-10T22:19:47.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Suomi.",
+    "timestamp": "2016-03-10T22:19:47.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Helsinki (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-03-10T22:19:55.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Saaremaa (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-03-10T22:19:59.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Saaremaa (tanleach1001) attacked Hiiumaa (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T22:20:09.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Saaremaa (tanleach1001) occupied Hiiumaa with 10 troops.",
+    "timestamp": "2016-03-10T22:20:12.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Hiiumaa (tanleach1001) attacked Haapsalu (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-03-10T22:20:21.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Hiiumaa (tanleach1001) occupied Haapsalu with 7 troops.",
+    "timestamp": "2016-03-10T22:20:23.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Haapsalu (tanleach1001) attacked Tallinn (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T22:20:26.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Haapsalu (tanleach1001) occupied Tallinn with 6 troops.",
+    "timestamp": "2016-03-10T22:20:30.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Tallinn (tanleach1001) attacked Pärnumaa (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T22:20:34.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Tallinn (tanleach1001) occupied Pärnumaa with 4 troops.",
+    "timestamp": "2016-03-10T22:20:38.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Pärnumaa (tanleach1001) attacked Tartumaa (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T22:20:41.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Pärnumaa (tanleach1001) occupied Tartumaa with 3 troops.",
+    "timestamp": "2016-03-10T22:20:45.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Tartumaa (tanleach1001) attacked Vidzeme (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T22:20:51.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-03-10T22:21:17.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-03-10T22:21:17.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-10T22:21:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 5 territories.",
+    "timestamp": "2016-03-10T22:21:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Sachsen-Anhalt (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-03-10T22:21:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Sachsen-Anhalt (ryanbmilbourne) attacked Brandenburg (kwren) killing 3, losing 11.",
+    "timestamp": "2016-03-10T22:21:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Pskov (ryanbmilbourne) attacked Tartumaa (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T22:22:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Pskov (ryanbmilbourne) occupied Tartumaa with 2 troops.",
+    "timestamp": "2016-03-10T22:22:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Vyborg (ryanbmilbourne) attacked Kotka (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-03-10T22:22:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Tartumaa (ryanbmilbourne) attacked Vidzeme (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-03-10T22:22:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-10T22:22:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-10T22:22:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-03-10T22:22:59.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-03-10T22:23:34.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 3 troops for 11 territories.",
+    "timestamp": "2016-03-10T22:23:34.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Danmark.",
+    "timestamp": "2016-03-10T22:23:34.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Schleswig-Holstein (mmacfreier) was reinforced by mmacfreier with 6 troops.",
+    "timestamp": "2016-03-10T22:23:43.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Schleswig-Holstein (mmacfreier) attacked Lüneburg (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T22:24:00.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Schleswig-Holstein (mmacfreier) occupied Lüneburg with 10 troops.",
+    "timestamp": "2016-03-10T22:24:02.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Lüneburg (mmacfreier) attacked Sachsen-Anhalt (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T22:24:06.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne was defeated by mmacfreier.",
+    "timestamp": "2016-03-10T22:24:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Lüneburg (mmacfreier) occupied Sachsen-Anhalt with 9 troops.",
+    "timestamp": "2016-03-10T22:24:12.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 2 troops on København",
+    "timestamp": "2016-03-10T22:24:24.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 6 troops for turning in cards Aukštaitija, Vitebsk, and København.",
+    "timestamp": "2016-03-10T22:24:24.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 2 troops on Sjælland",
+    "timestamp": "2016-03-10T22:24:29.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Mazowieckie, Sjælland, and Telemark.",
+    "timestamp": "2016-03-10T22:24:29.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Tartumaa (mmacfreier) was reinforced by mmacfreier with 14 troops.",
+    "timestamp": "2016-03-10T22:25:36.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Tartumaa (mmacfreier) attacked Vidzeme (tanleach1001) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-03-10T22:25:45.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Tartumaa (mmacfreier) occupied Vidzeme with 11 troops.",
+    "timestamp": "2016-03-10T22:25:47.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Vidzeme (mmacfreier) attacked Riga (jobratt) conquering it, killing 11, losing 7.",
+    "timestamp": "2016-03-10T22:26:01.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "jobratt was defeated by mmacfreier.",
+    "timestamp": "2016-03-10T22:26:01.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Vidzeme (mmacfreier) occupied Riga with 3 troops.",
+    "timestamp": "2016-03-10T22:26:07.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Sovetsk (mmacfreier) attacked Mazurskie (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T22:26:49.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Midtjylland (mmacfreier) was fortified from Sjælland (mmacfreier) with 2 troops.",
+    "timestamp": "2016-03-10T22:27:12.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Midtjylland (mmacfreier) was fortified from Sachsen-Anhalt (mmacfreier) with 4 troops.",
+    "timestamp": "2016-03-10T22:27:35.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Schleswig-Holstein (mmacfreier) was fortified from Sachsen-Anhalt (mmacfreier) with 4 troops.",
+    "timestamp": "2016-03-10T22:27:38.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Södermanland (mmacfreier) was fortified from Öland (mmacfreier) with 2 troops.",
+    "timestamp": "2016-03-10T22:27:50.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Mazurskie (mmacfreier) was fortified from Riga (mmacfreier) with 2 troops.",
+    "timestamp": "2016-03-10T22:27:56.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Mazurskie (mmacfreier) was fortified from Suvalkija (mmacfreier) with 1 troop.",
+    "timestamp": "2016-03-10T22:27:59.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-03-10T22:28:04.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-03-10T22:28:04.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-03-10T22:28:08.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 9 troops for 29 territories.",
+    "timestamp": "2016-03-10T22:28:08.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 3 troops for holding Bielaruś.",
+    "timestamp": "2016-03-10T22:28:08.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Brandenburg (kwren) was reinforced by kwren with 12 troops.",
+    "timestamp": "2016-03-10T22:28:45.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Brandenburg (kwren) attacked Mecklenburg-Vorpommern (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T22:28:51.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Brandenburg (kwren) occupied Mecklenburg-Vorpommern with 19 troops.",
+    "timestamp": "2016-03-10T22:28:52.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Mecklenburg-Vorpommern (kwren) attacked Schleswig-Holstein (mmacfreier) conquering it, killing 5, losing 5.",
+    "timestamp": "2016-03-10T22:29:06.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Mecklenburg-Vorpommern (kwren) occupied Schleswig-Holstein with 13 troops.",
+    "timestamp": "2016-03-10T22:29:07.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Schleswig-Holstein (kwren) attacked Syddanmark (mmacfreier) conquering it, killing 1, losing 4.",
+    "timestamp": "2016-03-10T22:29:22.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Schleswig-Holstein (kwren) occupied Syddanmark with 8 troops.",
+    "timestamp": "2016-03-10T22:29:25.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Syddanmark (kwren) attacked Midtjylland (mmacfreier) killing 3, losing 7.",
+    "timestamp": "2016-03-10T22:29:31.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Uppsala (kwren) attacked Södermanland (mmacfreier) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-03-10T22:29:46.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Uppsala (kwren) occupied Södermanland with 1 troop.",
+    "timestamp": "2016-03-10T22:29:52.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Uppsala (kwren) was fortified from Pomorskie (kwren) with 2 troops.",
+    "timestamp": "2016-03-10T22:30:22.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-03-10T22:30:27.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-03-10T22:30:27.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-03-10T22:30:33.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 6 troops for 19 territories.",
+    "timestamp": "2016-03-10T22:30:33.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Suomi.",
+    "timestamp": "2016-03-10T22:30:33.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Telemark (tanleach1001) was reinforced by tanleach1001 with 9 troops.",
+    "timestamp": "2016-03-10T22:30:50.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Telemark (tanleach1001) attacked Sørlandet (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T22:30:54.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Telemark (tanleach1001) occupied Sørlandet with 11 troops.",
+    "timestamp": "2016-03-10T22:30:56.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Sørlandet (tanleach1001) attacked Nordjylland (mmacfreier) conquering it, killing 4, losing 2.",
+    "timestamp": "2016-03-10T22:31:07.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Sørlandet (tanleach1001) occupied Nordjylland with 8 troops.",
+    "timestamp": "2016-03-10T22:31:10.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Nordjylland (tanleach1001) attacked Midtjylland (mmacfreier) killing 1, losing 7.",
+    "timestamp": "2016-03-10T22:31:16.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-03-10T22:31:35.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-03-10T22:31:35.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-03-10T22:31:35.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-03-10T22:31:50.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 8 troops for 24 territories.",
+    "timestamp": "2016-03-10T22:31:50.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 2 troops on Tartumaa",
+    "timestamp": "2016-03-10T22:31:55.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 10 troops for turning in cards Åland, Kujawy, and Tartumaa.",
+    "timestamp": "2016-03-10T22:31:55.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Midtjylland (mmacfreier) was reinforced by mmacfreier with 18 troops.",
+    "timestamp": "2016-03-10T22:32:11.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Midtjylland (mmacfreier) attacked Nordjylland (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T22:32:16.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Midtjylland (mmacfreier) occupied Nordjylland with 11 troops.",
+    "timestamp": "2016-03-10T22:32:24.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Midtjylland (mmacfreier) attacked Syddanmark (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-03-10T22:32:30.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Midtjylland (mmacfreier) occupied Syddanmark with 6 troops.",
+    "timestamp": "2016-03-10T22:32:38.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Nordjylland (mmacfreier) attacked Sørlandet (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T22:32:44.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Nordjylland (mmacfreier) occupied Sørlandet with 1 troop.",
+    "timestamp": "2016-03-10T22:32:47.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Midtjylland (mmacfreier) was fortified from Nordjylland (mmacfreier) with 3 troops.",
+    "timestamp": "2016-03-10T22:33:07.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Mazurskie (mmacfreier) was fortified from Tartumaa (mmacfreier) with 2 troops.",
+    "timestamp": "2016-03-10T22:33:18.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-03-10T22:33:25.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-03-10T22:33:25.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-03-10T22:33:31.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 10 troops for 32 territories.",
+    "timestamp": "2016-03-10T22:33:31.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 3 troops for holding Bielaruś.",
+    "timestamp": "2016-03-10T22:33:31.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 4 troops for holding Svealand.",
+    "timestamp": "2016-03-10T22:33:31.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 2 troops on Vestlandet",
+    "timestamp": "2016-03-10T22:33:35.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 2 troops on Minsk",
+    "timestamp": "2016-03-10T22:33:35.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 12 troops for turning in cards Riga, Vestlandet, and Minsk.",
+    "timestamp": "2016-03-10T22:33:35.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Vestlandet (kwren) was reinforced by kwren with 29 troops.",
+    "timestamp": "2016-03-10T22:34:00.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Vestlandet (kwren) attacked Sørlandet (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-10T22:34:03.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Vestlandet (kwren) occupied Sørlandet with 30 troops.",
+    "timestamp": "2016-03-10T22:34:05.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Sørlandet (kwren) attacked Nordjylland (mmacfreier) conquering it, killing 6, losing 4.",
+    "timestamp": "2016-03-10T22:34:10.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Sørlandet (kwren) occupied Nordjylland with 25 troops.",
+    "timestamp": "2016-03-10T22:34:12.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Nordjylland (kwren) attacked Midtjylland (mmacfreier) conquering it, killing 14, losing 2.",
+    "timestamp": "2016-03-10T22:34:45.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier was defeated by kwren.",
+    "timestamp": "2016-03-10T22:34:45.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Nordjylland (kwren) occupied Midtjylland with 1 troop.",
+    "timestamp": "2016-03-10T22:35:13.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Uppsala (kwren) was fortified from Nordjylland (kwren) with 21 troops.",
+    "timestamp": "2016-03-10T22:36:34.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Uppsala (kwren) was fortified from København (kwren) with 5 troops.",
+    "timestamp": "2016-03-10T22:36:39.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Uppsala (kwren) was fortified from Syddanmark (kwren) with 5 troops.",
+    "timestamp": "2016-03-10T22:36:45.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-03-10T22:36:55.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-03-10T22:36:55.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-03-10T22:37:01.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 6 troops for 19 territories.",
+    "timestamp": "2016-03-10T22:37:01.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Suomi.",
+    "timestamp": "2016-03-10T22:37:01.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Pärnumaa",
+    "timestamp": "2016-03-10T22:37:08.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 12 troops for turning in cards Pärnumaa, Mecklenburg-Vorpommern, and Örebro.",
+    "timestamp": "2016-03-10T22:37:08.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Østlandet (tanleach1001) was reinforced by tanleach1001 with 21 troops.",
+    "timestamp": "2016-03-10T22:38:05.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Østlandet (tanleach1001) attacked Värmland (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T22:38:11.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Østlandet (tanleach1001) occupied Värmland with 24 troops.",
+    "timestamp": "2016-03-10T22:38:13.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Värmland (tanleach1001) attacked Örebro (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T22:38:18.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Värmland (tanleach1001) occupied Örebro with 23 troops.",
+    "timestamp": "2016-03-10T22:38:21.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Örebro (tanleach1001) attacked Uppsala (kwren) killing 23, losing 22.",
+    "timestamp": "2016-03-10T22:39:42.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Helsinki (tanleach1001) was fortified from Pärnumaa (tanleach1001) with 2 troops.",
+    "timestamp": "2016-03-10T22:39:50.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-03-10T22:40:09.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-03-10T22:40:09.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-03-10T22:40:09.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-03-10T22:40:14.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 19 troops for 57 territories.",
+    "timestamp": "2016-03-10T22:40:14.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for holding Danmark.",
+    "timestamp": "2016-03-10T22:40:14.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for holding Deutschland.",
+    "timestamp": "2016-03-10T22:40:14.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 4 troops for holding Polska.",
+    "timestamp": "2016-03-10T22:40:14.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 1 troop for holding Kaliningrad Oblast.",
+    "timestamp": "2016-03-10T22:40:14.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 5 troops for holding Latvija/Lietuva.",
+    "timestamp": "2016-03-10T22:40:14.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for holding Bielaruś.",
+    "timestamp": "2016-03-10T22:40:14.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 1 troop for holding Danmark+Bornholm.",
+    "timestamp": "2016-03-10T22:40:14.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 2 troops on Stockholm",
+    "timestamp": "2016-03-10T22:40:17.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 2 troops on Fyn",
+    "timestamp": "2016-03-10T22:40:17.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 12 troops for turning in cards Stockholm, Fyn, and Turku.",
+    "timestamp": "2016-03-10T22:40:17.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Vyborg (kwren) was reinforced by kwren with 51 troops.",
+    "timestamp": "2016-03-10T22:40:21.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Vyborg (kwren) attacked Kotka (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-10T22:40:23.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Vyborg (kwren) occupied Kotka with 51 troops.",
+    "timestamp": "2016-03-10T22:40:25.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Kotka (kwren) attacked Helsinki (tanleach1001) conquering it, killing 22, losing 21.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 was defeated by kwren.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier lost 22 rating.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 20 tokens.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "gcochard lost 13 rating.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 20 tokens.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "kwren won the game.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 95 rating.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 20 tokens.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "jobratt lost 27 rating.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 20 tokens.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 lost 15 rating.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 20 tokens.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne lost 18 rating.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 20 tokens.",
+    "timestamp": "2016-03-10T22:40:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  }
+]

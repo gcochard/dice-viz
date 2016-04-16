@@ -1,0 +1,2750 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-03-07T20:17:40.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne joined the game.",
+    "timestamp": "2016-03-07T20:17:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "mmacfreier joined the game.",
+    "timestamp": "2016-03-07T20:41:19.000Z",
+    "player": "mmacfreier",
+    "round": 0
+  },
+  {
+    "message": "tanleach1001 joined the game.",
+    "timestamp": "2016-03-07T20:43:03.000Z",
+    "player": "tanleach1001",
+    "round": 0
+  },
+  {
+    "message": "gcochard joined the game.",
+    "timestamp": "2016-03-07T20:43:32.000Z",
+    "player": "gcochard",
+    "round": 0
+  },
+  {
+    "message": "jobratt joined the game.",
+    "timestamp": "2016-03-07T21:02:22.000Z",
+    "player": "jobratt",
+    "round": 0
+  },
+  {
+    "message": "kwren joined the game.",
+    "timestamp": "2016-03-07T23:04:35.000Z",
+    "player": "kwren",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-03-07T23:04:36.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-03-08T01:45:01.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received 3 troops for 6 territories.",
+    "timestamp": "2016-03-08T01:45:01.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Rio Grande do Sul (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-03-08T01:45:19.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Rio Grande do Sul (jobratt) attacked Santa Catarina (kwren) killing 0, losing 5.",
+    "timestamp": "2016-03-08T01:45:24.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-03-08T01:46:21.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-03-08T01:51:32.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received 3 troops for 6 territories.",
+    "timestamp": "2016-03-08T01:51:32.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Novo Progresso (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-03-08T01:51:35.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Novo Progresso (mmacfreier) attacked Madeira (gcochard) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-08T01:51:39.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Novo Progresso (mmacfreier) occupied Madeira with 5 troops.",
+    "timestamp": "2016-03-08T01:51:42.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Amazonas (mmacfreier) was fortified from São Félix do Xingu (mmacfreier) with 2 troops.",
+    "timestamp": "2016-03-08T01:52:04.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-03-08T01:52:04.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-03-08T01:52:04.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-03-08T04:33:54.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 3 troops for 6 territories.",
+    "timestamp": "2016-03-08T04:33:54.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Santa Catarina (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-03-08T04:34:01.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Paraná (kwren) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-03-08T04:34:02.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Santa Catarina (kwren) attacked Rio Grande do Sul (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-08T04:34:06.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Santa Catarina (kwren) occupied Rio Grande do Sul with 1 troop.",
+    "timestamp": "2016-03-08T04:34:10.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Paraná (kwren) was fortified from Santa Catarina (kwren) with 3 troops.",
+    "timestamp": "2016-03-08T04:35:30.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-03-08T04:35:30.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-03-08T04:35:30.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-03-08T15:50:19.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 6 territories.",
+    "timestamp": "2016-03-08T15:50:19.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Rio Negro (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-03-08T15:50:31.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Rio Negro (tanleach1001) attacked Manaus (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-03-08T15:50:42.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Rio Negro (tanleach1001) occupied Manaus with 4 troops.",
+    "timestamp": "2016-03-08T15:50:45.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-03-08T15:51:28.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-03-08T15:51:28.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-08T18:11:29.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 3 troops for 5 territories.",
+    "timestamp": "2016-03-08T18:11:29.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Alto Solimões (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-03-08T18:13:40.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Alto Solimões (gcochard) attacked Acre (tanleach1001) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-08T18:13:44.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Alto Solimões (gcochard) occupied Acre with 5 troops.",
+    "timestamp": "2016-03-08T18:13:45.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-08T18:13:56.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-08T18:13:56.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-08T18:17:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 5 territories.",
+    "timestamp": "2016-03-08T18:17:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Pará (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-03-08T18:17:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Pará (ryanbmilbourne) attacked Novo Progresso (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-08T18:17:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Pará (ryanbmilbourne) occupied Novo Progresso with 5 troops.",
+    "timestamp": "2016-03-08T18:17:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Novo Progresso (ryanbmilbourne) attacked São Félix do Xingu (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-08T18:17:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Novo Progresso (ryanbmilbourne) occupied São Félix do Xingu with 2 troops.",
+    "timestamp": "2016-03-08T18:18:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-08T18:28:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-08T18:28:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-03-08T18:28:20.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-03-08T18:38:15.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received 3 troops for 5 territories.",
+    "timestamp": "2016-03-08T18:38:15.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Roraima (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-03-08T18:38:25.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Roraima (jobratt) attacked Rio Negro (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-08T18:38:28.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Roraima (jobratt) occupied Rio Negro with 1 troop.",
+    "timestamp": "2016-03-08T18:38:30.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-03-08T18:38:36.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-03-08T18:38:36.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-03-08T18:41:00.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 3 troops for 5 territories.",
+    "timestamp": "2016-03-08T18:41:00.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Amazonas (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-03-08T18:41:11.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Amazonas (mmacfreier) attacked Porto Velho (Neutral) killing 0, losing 4.",
+    "timestamp": "2016-03-08T18:41:17.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Amazonas (mmacfreier) attacked Alto Solimões (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-08T18:41:19.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Amazonas (mmacfreier) occupied Alto Solimões with 3 troops.",
+    "timestamp": "2016-03-08T18:41:22.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-03-08T18:41:27.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-03-08T18:41:27.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-03-08T18:51:08.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-03-08T18:51:08.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 1 troop for holding South.",
+    "timestamp": "2016-03-08T18:51:08.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Paraná (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-03-08T18:51:17.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Paraná (kwren) attacked São Paulo (ryanbmilbourne) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-03-08T18:51:24.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Paraná (kwren) occupied São Paulo with 7 troops.",
+    "timestamp": "2016-03-08T18:51:43.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "São Paulo (kwren) attacked Belo Horizonte (gcochard) killing 2, losing 0.",
+    "timestamp": "2016-03-08T18:51:50.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Oeste São Paulo (kwren) attacked Belo Horizonte (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-08T18:51:55.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Oeste São Paulo (kwren) occupied Belo Horizonte with 1 troop.",
+    "timestamp": "2016-03-08T18:52:00.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Mato Grosso (kwren) attacked Novo Progresso (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-03-08T18:52:10.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "São Paulo (kwren) attacked Rio de Janeiro (mmacfreier) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-03-08T18:52:35.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "São Paulo (kwren) occupied Rio de Janeiro with 1 troop.",
+    "timestamp": "2016-03-08T18:52:41.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Oeste São Paulo (kwren) was fortified from São Paulo (kwren) with 1 troop.",
+    "timestamp": "2016-03-08T18:52:48.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-03-08T18:52:48.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-03-08T18:52:48.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-03-08T18:53:06.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 5 territories.",
+    "timestamp": "2016-03-08T18:53:06.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Óbidos (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-03-08T18:53:14.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Óbidos (tanleach1001) attacked Amapá (kwren) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-03-08T18:53:20.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Óbidos (tanleach1001) occupied Amapá with 1 troop.",
+    "timestamp": "2016-03-08T18:53:24.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Manaus (tanleach1001) attacked Rio Negro (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-08T18:53:28.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Manaus (tanleach1001) occupied Rio Negro with 3 troops.",
+    "timestamp": "2016-03-08T18:53:29.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Manaus (tanleach1001) was fortified from Óbidos (tanleach1001) with 3 troops.",
+    "timestamp": "2016-03-08T18:56:46.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-03-08T18:56:46.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-03-08T18:56:46.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-08T20:23:44.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 3 troops for 4 territories.",
+    "timestamp": "2016-03-08T20:23:44.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Acre (gcochard) was reinforced by gcochard with 1 troop.",
+    "timestamp": "2016-03-08T20:23:59.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Rondônia (gcochard) was reinforced by gcochard with 2 troops.",
+    "timestamp": "2016-03-08T20:24:01.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Rondônia (gcochard) attacked Mato Grosso (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-08T20:24:04.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Rondônia (gcochard) occupied Mato Grosso with 4 troops.",
+    "timestamp": "2016-03-08T20:24:07.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Acre (gcochard) attacked Porto Velho (Neutral) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-03-08T20:24:13.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Acre (gcochard) occupied Porto Velho with 4 troops.",
+    "timestamp": "2016-03-08T20:24:18.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Mato Grosso (gcochard) was fortified from Porto Velho (gcochard) with 3 troops.",
+    "timestamp": "2016-03-08T20:24:25.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-08T20:24:25.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-08T20:24:25.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-08T21:00:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 6 territories.",
+    "timestamp": "2016-03-08T21:00:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for holding Pará.",
+    "timestamp": "2016-03-08T21:00:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Tocantins (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-03-08T21:00:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Belém (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-03-08T21:01:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Belém (ryanbmilbourne) attacked Óbidos (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-03-08T21:01:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "São Félix do Xingu (ryanbmilbourne) was fortified from Novo Progresso (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-03-08T21:01:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-08T21:01:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-03-08T21:01:46.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-03-08T21:48:04.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 3 troops for 5 territories.",
+    "timestamp": "2016-03-08T21:48:04.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Roraima (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-03-08T21:48:07.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Roraima (jobratt) attacked Óbidos (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-08T21:48:10.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Roraima (jobratt) occupied Óbidos with 7 troops.",
+    "timestamp": "2016-03-08T21:48:12.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Óbidos (jobratt) attacked Belém (ryanbmilbourne) conquering it, killing 5, losing 5.",
+    "timestamp": "2016-03-08T21:48:19.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-03-08T21:48:25.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-03-08T21:48:25.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-03-08T21:48:45.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 3 troops for 5 territories.",
+    "timestamp": "2016-03-08T21:48:45.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Alto Solimões (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-03-08T21:48:47.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Alto Solimões (mmacfreier) attacked Acre (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-08T21:48:51.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Alto Solimões (mmacfreier) occupied Acre with 5 troops.",
+    "timestamp": "2016-03-08T21:48:52.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Acre (mmacfreier) attacked Porto Velho (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-08T21:48:56.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Acre (mmacfreier) occupied Porto Velho with 3 troops.",
+    "timestamp": "2016-03-08T21:48:58.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Porto Velho (mmacfreier) attacked Rondônia (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-03-08T21:49:03.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Madeira (mmacfreier) attacked Rondônia (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-08T21:49:06.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Madeira (mmacfreier) occupied Rondônia with 1 troop.",
+    "timestamp": "2016-03-08T21:49:10.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Rondônia (mmacfreier) was fortified from Porto Velho (mmacfreier) with 1 troop.",
+    "timestamp": "2016-03-08T21:49:15.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-03-08T21:49:15.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-03-08T21:49:15.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-03-08T21:54:52.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 3 troops for 8 territories.",
+    "timestamp": "2016-03-08T21:54:52.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 1 troop for holding South.",
+    "timestamp": "2016-03-08T21:54:52.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Bahia (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-03-08T21:54:55.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Bahia (kwren) attacked Espírito Santo (jobratt) killing 0, losing 6.",
+    "timestamp": "2016-03-08T21:55:01.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Rio de Janeiro (kwren) was fortified from Oeste São Paulo (kwren) with 2 troops.",
+    "timestamp": "2016-03-08T21:55:16.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-03-08T21:55:16.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-03-08T21:55:30.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 6 territories.",
+    "timestamp": "2016-03-08T21:55:30.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Rio Negro (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-03-08T21:55:35.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Rio Negro (tanleach1001) attacked Roraima (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-08T21:55:38.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Rio Negro (tanleach1001) occupied Roraima with 5 troops.",
+    "timestamp": "2016-03-08T21:55:40.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Roraima (tanleach1001) attacked Óbidos (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-08T21:55:44.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Roraima (tanleach1001) occupied Óbidos with 4 troops.",
+    "timestamp": "2016-03-08T21:55:46.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-03-08T21:56:00.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-03-08T21:56:00.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-08T21:58:17.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 3 troops for 3 territories.",
+    "timestamp": "2016-03-08T21:58:17.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Mato Grosso (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-03-08T21:58:25.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Mato Grosso (gcochard) attacked Araguaia (tanleach1001) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-03-08T21:58:35.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Mato Grosso (gcochard) occupied Araguaia with 1 troop.",
+    "timestamp": "2016-03-08T21:58:39.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Mato Grosso (gcochard) attacked Alto Pantanal (jobratt) killing 1, losing 6.",
+    "timestamp": "2016-03-08T21:58:46.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Pernambuco (gcochard) attacked Bahia (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-08T21:58:51.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-08T21:59:14.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-08T21:59:14.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-08T21:59:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 5 territories.",
+    "timestamp": "2016-03-08T21:59:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "São Félix do Xingu (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-03-08T21:59:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "São Félix do Xingu (ryanbmilbourne) attacked Belém (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-08T21:59:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "São Félix do Xingu (ryanbmilbourne) occupied Belém with 5 troops.",
+    "timestamp": "2016-03-08T21:59:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "São Félix do Xingu (ryanbmilbourne) was fortified from Tocantins (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-03-08T22:00:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-08T22:00:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-08T22:00:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-03-08T22:00:07.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-03-08T22:04:34.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 3 troops for 4 territories.",
+    "timestamp": "2016-03-08T22:04:34.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Alagoas (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-03-08T22:04:41.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Alagoas (jobratt) attacked Pernambuco (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-08T22:04:43.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Alagoas (jobratt) occupied Pernambuco with 1 troop.",
+    "timestamp": "2016-03-08T22:04:46.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-03-08T22:04:48.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-03-08T22:04:48.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-03-08T22:07:13.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 3 troops for 8 territories.",
+    "timestamp": "2016-03-08T22:07:13.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Amazon.",
+    "timestamp": "2016-03-08T22:07:13.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Rondônia (mmacfreier) was reinforced by mmacfreier with 4 troops.",
+    "timestamp": "2016-03-08T22:07:41.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Madeira (mmacfreier) was reinforced by mmacfreier with 2 troops.",
+    "timestamp": "2016-03-08T22:07:43.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Baixo Pantanal (mmacfreier) attacked Mato Grosso do Sul (Neutral) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-08T22:07:53.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Baixo Pantanal (mmacfreier) occupied Mato Grosso do Sul with 1 troop.",
+    "timestamp": "2016-03-08T22:07:57.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-03-08T22:08:26.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-03-08T22:08:26.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-03-08T22:47:04.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-03-08T22:47:04.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 1 troop for holding South.",
+    "timestamp": "2016-03-08T22:47:04.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Oeste São Paulo (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-03-08T22:47:12.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Rio de Janeiro (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-03-08T22:47:14.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Oeste São Paulo (kwren) attacked Mato Grosso do Sul (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-08T22:47:17.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Oeste São Paulo (kwren) occupied Mato Grosso do Sul with 1 troop.",
+    "timestamp": "2016-03-08T22:47:21.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Rio de Janeiro (kwren) attacked Espírito Santo (jobratt) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-03-08T22:47:28.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Rio de Janeiro (kwren) occupied Espírito Santo with 2 troops.",
+    "timestamp": "2016-03-08T22:47:31.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Espírito Santo (kwren) was fortified from São Paulo (kwren) with 2 troops.",
+    "timestamp": "2016-03-08T22:47:40.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-03-08T22:47:40.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-03-08T22:47:40.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-03-08T22:48:02.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 7 territories.",
+    "timestamp": "2016-03-08T22:48:02.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding North.",
+    "timestamp": "2016-03-08T22:48:02.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Óbidos (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-03-08T22:48:13.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Óbidos (tanleach1001) attacked Belém (ryanbmilbourne) conquering it, killing 5, losing 2.",
+    "timestamp": "2016-03-08T22:48:30.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Óbidos (tanleach1001) occupied Belém with 1 troop.",
+    "timestamp": "2016-03-08T22:48:41.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Manaus (tanleach1001) was fortified from Óbidos (tanleach1001) with 1 troop.",
+    "timestamp": "2016-03-08T22:49:17.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-03-08T22:49:17.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-03-08T22:49:17.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-09T01:04:12.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 3 troops for 4 territories.",
+    "timestamp": "2016-03-09T01:04:12.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Goiás (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-03-09T01:04:16.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Goiás (gcochard) attacked Baixo Pantanal (mmacfreier) killing 0, losing 5.",
+    "timestamp": "2016-03-09T01:04:23.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-09T01:04:30.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-09T01:04:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 5 territories.",
+    "timestamp": "2016-03-09T01:04:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "São Félix do Xingu (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-03-09T01:04:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "São Félix do Xingu (ryanbmilbourne) attacked Belém (tanleach1001) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-03-09T01:04:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "São Félix do Xingu (ryanbmilbourne) occupied Belém with 2 troops.",
+    "timestamp": "2016-03-09T01:05:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Belém (ryanbmilbourne) was fortified from Tocantins (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-03-09T01:05:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-09T01:05:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-09T01:05:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-03-09T01:05:12.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-03-09T17:26:20.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 3 troops for 4 territories.",
+    "timestamp": "2016-03-09T17:26:20.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Alagoas (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-03-09T17:26:26.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Alagoas (jobratt) attacked Bahia (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T17:26:30.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Alagoas (jobratt) occupied Bahia with 1 troop.",
+    "timestamp": "2016-03-09T17:26:36.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Pernambuco (jobratt) was fortified from Alagoas (jobratt) with 6 troops.",
+    "timestamp": "2016-03-09T17:27:18.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-03-09T17:27:18.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-03-09T17:27:18.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-03-09T17:35:23.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 3 troops for 8 territories.",
+    "timestamp": "2016-03-09T17:35:23.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Amazon.",
+    "timestamp": "2016-03-09T17:35:23.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Rondônia (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-03-09T17:35:48.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Madeira (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-03-09T17:35:50.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Rondônia (mmacfreier) attacked Mato Grosso (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-09T17:35:58.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Rondônia (mmacfreier) occupied Mato Grosso with 7 troops.",
+    "timestamp": "2016-03-09T17:36:00.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Madeira (mmacfreier) attacked Novo Progresso (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T17:36:04.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Madeira (mmacfreier) occupied Novo Progresso with 1 troop.",
+    "timestamp": "2016-03-09T17:36:11.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-03-09T17:36:16.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-03-09T17:36:16.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-03-09T17:36:23.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 3 troops for 9 territories.",
+    "timestamp": "2016-03-09T17:36:23.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 1 troop for holding South.",
+    "timestamp": "2016-03-09T17:36:23.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Espírito Santo (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-03-09T17:36:27.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Espírito Santo (kwren) attacked Minas Gerais (tanleach1001) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-03-09T17:36:32.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Espírito Santo (kwren) occupied Minas Gerais with 4 troops.",
+    "timestamp": "2016-03-09T17:36:36.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Minas Gerais (kwren) attacked Bahia (jobratt) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-03-09T17:36:44.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Minas Gerais (kwren) was fortified from Oeste São Paulo (kwren) with 1 troop.",
+    "timestamp": "2016-03-09T17:37:05.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-03-09T17:37:05.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-03-09T17:37:05.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-03-09T17:37:09.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 6 territories.",
+    "timestamp": "2016-03-09T17:37:09.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding North.",
+    "timestamp": "2016-03-09T17:37:09.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Óbidos (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-03-09T17:37:18.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Óbidos (tanleach1001) attacked Belém (ryanbmilbourne) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-03-09T17:37:26.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Óbidos (tanleach1001) occupied Belém with 1 troop.",
+    "timestamp": "2016-03-09T17:37:39.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Manaus (tanleach1001) was fortified from Óbidos (tanleach1001) with 2 troops.",
+    "timestamp": "2016-03-09T17:37:50.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-03-09T17:37:51.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-03-09T17:37:51.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-09T18:07:05.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for 2 territories.",
+    "timestamp": "2016-03-09T18:07:05.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Goiás (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-03-09T18:07:43.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Goiás (gcochard) attacked Mato Grosso do Sul (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-03-09T18:07:50.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-09T18:07:53.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-09T18:07:53.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-03-09T18:14:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 4 territories.",
+    "timestamp": "2016-03-09T18:14:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Tocantins (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-03-09T18:14:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Tocantins (ryanbmilbourne) attacked Bahia (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T18:14:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Tocantins (ryanbmilbourne) occupied Bahia with 5 troops.",
+    "timestamp": "2016-03-09T18:14:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Bahia (ryanbmilbourne) attacked Minas Gerais (kwren) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-03-09T18:15:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Bahia (ryanbmilbourne) occupied Minas Gerais with 2 troops.",
+    "timestamp": "2016-03-09T18:15:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Minas Gerais (ryanbmilbourne) attacked Belo Horizonte (kwren) killing 0, losing 1.",
+    "timestamp": "2016-03-09T18:15:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Rio Grande do Norte (ryanbmilbourne) attacked Ceará (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-03-09T18:15:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-03-09T18:15:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-03-09T18:15:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-03-09T18:15:54.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-03-09T18:32:32.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 3 troops for 4 territories.",
+    "timestamp": "2016-03-09T18:32:32.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Pernambuco (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-03-09T18:32:43.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Pernambuco (jobratt) attacked Bahia (ryanbmilbourne) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-03-09T18:32:49.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Pernambuco (jobratt) occupied Bahia with 6 troops.",
+    "timestamp": "2016-03-09T18:32:55.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Bahia (jobratt) attacked Tocantins (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T18:32:59.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Bahia (jobratt) occupied Tocantins with 1 troop.",
+    "timestamp": "2016-03-09T18:33:03.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Piauí (jobratt) was fortified from Bahia (jobratt) with 4 troops.",
+    "timestamp": "2016-03-09T18:33:10.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-03-09T18:33:10.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-03-09T18:33:10.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-03-09T18:41:19.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 3 troops for 10 territories.",
+    "timestamp": "2016-03-09T18:41:19.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Amazon.",
+    "timestamp": "2016-03-09T18:41:19.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops on Madeira",
+    "timestamp": "2016-03-09T18:41:31.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops on Baixo Pantanal",
+    "timestamp": "2016-03-09T18:41:31.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 4 troops for turning in cards Madeira, Rio Grande do Norte, and Baixo Pantanal.",
+    "timestamp": "2016-03-09T18:41:31.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Paraíba (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-03-09T18:41:43.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Madeira (mmacfreier) was reinforced by mmacfreier with 7 troops.",
+    "timestamp": "2016-03-09T18:41:48.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Paraíba (mmacfreier) attacked Rio Grande do Norte (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T18:41:58.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Paraíba (mmacfreier) occupied Rio Grande do Norte with 5 troops.",
+    "timestamp": "2016-03-09T18:42:00.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Madeira (mmacfreier) attacked Pará (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T18:42:04.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Madeira (mmacfreier) occupied Pará with 16 troops.",
+    "timestamp": "2016-03-09T18:42:06.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Pará (mmacfreier) attacked São Félix do Xingu (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T18:42:09.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Pará (mmacfreier) occupied São Félix do Xingu with 15 troops.",
+    "timestamp": "2016-03-09T18:42:11.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "São Félix do Xingu (mmacfreier) attacked Tocantins (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T18:42:15.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "São Félix do Xingu (mmacfreier) occupied Tocantins with 14 troops.",
+    "timestamp": "2016-03-09T18:42:17.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Tocantins (mmacfreier) attacked Goiás (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-09T18:42:23.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Tocantins (mmacfreier) occupied Goiás with 12 troops.",
+    "timestamp": "2016-03-09T18:42:25.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Goiás (mmacfreier) attacked Minas Gerais (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T18:42:28.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne was defeated by mmacfreier.",
+    "timestamp": "2016-03-09T18:42:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Goiás (mmacfreier) occupied Minas Gerais with 1 troop.",
+    "timestamp": "2016-03-09T18:42:33.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops on Amazonas",
+    "timestamp": "2016-03-09T18:42:42.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops on Porto Velho",
+    "timestamp": "2016-03-09T18:42:42.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 6 troops for turning in cards São Paulo, Amazonas, and Porto Velho.",
+    "timestamp": "2016-03-09T18:42:42.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops on Novo Progresso",
+    "timestamp": "2016-03-09T18:42:46.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Bahia, Novo Progresso, and Pernambuco.",
+    "timestamp": "2016-03-09T18:42:46.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Mato Grosso (mmacfreier) was reinforced by mmacfreier with 5 troops.",
+    "timestamp": "2016-03-09T18:43:11.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Rio Grande do Norte (mmacfreier) was reinforced by mmacfreier with 9 troops.",
+    "timestamp": "2016-03-09T18:43:15.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Baixo Pantanal (mmacfreier) attacked Mato Grosso do Sul (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T18:43:24.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Baixo Pantanal (mmacfreier) occupied Mato Grosso do Sul with 3 troops.",
+    "timestamp": "2016-03-09T18:43:26.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Mato Grosso (mmacfreier) attacked Alto Pantanal (jobratt) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-03-09T18:43:31.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Mato Grosso (mmacfreier) occupied Alto Pantanal with 1 troop.",
+    "timestamp": "2016-03-09T18:43:33.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Mato Grosso (mmacfreier) attacked Araguaia (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T18:43:36.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "gcochard was defeated by mmacfreier.",
+    "timestamp": "2016-03-09T18:43:36.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Mato Grosso (mmacfreier) occupied Araguaia with 1 troop.",
+    "timestamp": "2016-03-09T18:43:46.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops on Acre",
+    "timestamp": "2016-03-09T18:43:51.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops on Pará",
+    "timestamp": "2016-03-09T18:43:51.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops on Tocantins",
+    "timestamp": "2016-03-09T18:43:51.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Acre, Pará, and Tocantins.",
+    "timestamp": "2016-03-09T18:43:51.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Rio Grande do Norte (mmacfreier) was reinforced by mmacfreier with 8 troops.",
+    "timestamp": "2016-03-09T18:44:04.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Rio Grande do Norte (mmacfreier) attacked Ceará (tanleach1001) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-09T18:44:10.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Rio Grande do Norte (mmacfreier) occupied Ceará with 21 troops.",
+    "timestamp": "2016-03-09T18:44:12.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Ceará (mmacfreier) attacked Piauí (jobratt) conquering it, killing 7, losing 5.",
+    "timestamp": "2016-03-09T18:44:22.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Ceará (mmacfreier) occupied Piauí with 15 troops.",
+    "timestamp": "2016-03-09T18:44:23.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Piauí (mmacfreier) attacked Maranhão (Neutral) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-09T18:44:28.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Piauí (mmacfreier) occupied Maranhão with 1 troop.",
+    "timestamp": "2016-03-09T18:44:30.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Piauí (mmacfreier) attacked Pernambuco (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T18:44:34.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Piauí (mmacfreier) occupied Pernambuco with 13 troops.",
+    "timestamp": "2016-03-09T18:44:35.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Pernambuco (mmacfreier) attacked Alagoas (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-09T18:44:39.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Pernambuco (mmacfreier) occupied Alagoas with 11 troops.",
+    "timestamp": "2016-03-09T18:44:40.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Alagoas (mmacfreier) attacked Bahia (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-09T18:44:44.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "jobratt was defeated by mmacfreier.",
+    "timestamp": "2016-03-09T18:44:44.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Alagoas (mmacfreier) occupied Bahia with 9 troops.",
+    "timestamp": "2016-03-09T18:44:46.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops on Alto Pantanal",
+    "timestamp": "2016-03-09T18:44:54.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops on Piauí",
+    "timestamp": "2016-03-09T18:44:54.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Alto Pantanal, Piauí, and Óbidos.",
+    "timestamp": "2016-03-09T18:44:54.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Madeira (mmacfreier) was reinforced by mmacfreier with 8 troops.",
+    "timestamp": "2016-03-09T18:45:15.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Madeira (mmacfreier) attacked Manaus (tanleach1001) conquering it, killing 7, losing 5.",
+    "timestamp": "2016-03-09T18:45:29.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Madeira (mmacfreier) occupied Manaus with 3 troops.",
+    "timestamp": "2016-03-09T18:45:32.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Pará (mmacfreier) attacked Belém (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-09T18:45:43.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Manaus (mmacfreier) was fortified from Mato Grosso (mmacfreier) with 8 troops.",
+    "timestamp": "2016-03-09T18:46:08.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-03-09T18:46:08.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-03-09T18:46:08.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-03-09T18:52:27.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for 8 territories.",
+    "timestamp": "2016-03-09T18:52:27.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 1 troop for holding South.",
+    "timestamp": "2016-03-09T18:52:27.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Espírito Santo (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-03-09T18:52:34.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Espírito Santo (kwren) attacked Minas Gerais (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T18:52:36.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Espírito Santo (kwren) occupied Minas Gerais with 5 troops.",
+    "timestamp": "2016-03-09T18:52:40.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-03-09T18:53:06.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-03-09T18:53:06.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-03-09T20:05:05.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 4 territories.",
+    "timestamp": "2016-03-09T20:05:05.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Amapá",
+    "timestamp": "2016-03-09T20:05:12.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Amapá, Minas Gerais, and Oeste São Paulo.",
+    "timestamp": "2016-03-09T20:05:12.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Óbidos (tanleach1001) was reinforced by tanleach1001 with 11 troops.",
+    "timestamp": "2016-03-09T20:05:20.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Óbidos (tanleach1001) attacked Manaus (mmacfreier) conquering it, killing 11, losing 4.",
+    "timestamp": "2016-03-09T20:05:37.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Óbidos (tanleach1001) occupied Manaus with 7 troops.",
+    "timestamp": "2016-03-09T20:06:00.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Manaus (tanleach1001) attacked Madeira (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-09T20:06:06.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Manaus (tanleach1001) occupied Madeira with 5 troops.",
+    "timestamp": "2016-03-09T20:06:10.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Madeira (tanleach1001) attacked Pará (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T20:06:15.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Madeira (tanleach1001) occupied Pará with 1 troop.",
+    "timestamp": "2016-03-09T20:06:20.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Madeira (tanleach1001) attacked Mato Grosso (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T20:06:24.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Madeira (tanleach1001) occupied Mato Grosso with 1 troop.",
+    "timestamp": "2016-03-09T20:06:28.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Manaus (tanleach1001) was fortified from Madeira (tanleach1001) with 2 troops.",
+    "timestamp": "2016-03-09T20:06:33.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-03-09T20:06:33.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-03-09T20:06:33.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Round 7 started.",
+    "timestamp": "2016-03-09T20:06:33.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-03-09T21:36:17.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 7 troops for 22 territories.",
+    "timestamp": "2016-03-09T21:36:17.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Northeast.",
+    "timestamp": "2016-03-09T21:36:17.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 2 troops on Ceará",
+    "timestamp": "2016-03-09T21:36:22.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 2 troops on Goiás",
+    "timestamp": "2016-03-09T21:36:22.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Ceará, Goiás, and Rio Grande do Sul.",
+    "timestamp": "2016-03-09T21:36:22.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Alto Pantanal (mmacfreier) was reinforced by mmacfreier with 19 troops.",
+    "timestamp": "2016-03-09T21:36:42.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Alto Pantanal (mmacfreier) attacked Mato Grosso (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-09T21:36:47.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Alto Pantanal (mmacfreier) occupied Mato Grosso with 20 troops.",
+    "timestamp": "2016-03-09T21:36:49.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Mato Grosso (mmacfreier) attacked Madeira (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T21:36:53.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Mato Grosso (mmacfreier) occupied Madeira with 19 troops.",
+    "timestamp": "2016-03-09T21:36:55.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Novo Progresso (mmacfreier) attacked Pará (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T21:36:58.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Novo Progresso (mmacfreier) occupied Pará with 2 troops.",
+    "timestamp": "2016-03-09T21:37:00.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Madeira (mmacfreier) attacked Manaus (tanleach1001) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-03-09T21:37:05.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Madeira (mmacfreier) occupied Manaus with 17 troops.",
+    "timestamp": "2016-03-09T21:37:07.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Manaus (mmacfreier) attacked Rio Negro (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T21:37:12.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Manaus (mmacfreier) occupied Rio Negro with 1 troop.",
+    "timestamp": "2016-03-09T21:37:15.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Manaus (mmacfreier) attacked Roraima (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T21:37:18.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Manaus (mmacfreier) occupied Roraima with 1 troop.",
+    "timestamp": "2016-03-09T21:37:21.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Manaus (mmacfreier) attacked Óbidos (tanleach1001) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-03-09T21:37:28.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Manaus (mmacfreier) occupied Óbidos with 12 troops.",
+    "timestamp": "2016-03-09T21:37:30.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Óbidos (mmacfreier) attacked Amapá (tanleach1001) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-03-09T21:37:36.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 was defeated by mmacfreier.",
+    "timestamp": "2016-03-09T21:37:36.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Óbidos (mmacfreier) occupied Amapá with 1 troop.",
+    "timestamp": "2016-03-09T21:37:40.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 2 troops on Alto Solimões",
+    "timestamp": "2016-03-09T21:37:47.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 2 troops on Paraíba",
+    "timestamp": "2016-03-09T21:37:47.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Alto Solimões, Paraíba, and Santa Catarina.",
+    "timestamp": "2016-03-09T21:37:47.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Mato Grosso do Sul (mmacfreier) was reinforced by mmacfreier with 8 troops.",
+    "timestamp": "2016-03-09T21:38:02.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Goiás (mmacfreier) attacked Minas Gerais (kwren) conquering it, killing 5, losing 4.",
+    "timestamp": "2016-03-09T21:38:13.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Goiás (mmacfreier) occupied Minas Gerais with 8 troops.",
+    "timestamp": "2016-03-09T21:38:15.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Bahia (mmacfreier) attacked Espírito Santo (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T21:38:17.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Bahia (mmacfreier) occupied Espírito Santo with 8 troops.",
+    "timestamp": "2016-03-09T21:38:19.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Mato Grosso do Sul (mmacfreier) attacked Oeste São Paulo (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T21:38:26.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Mato Grosso do Sul (mmacfreier) occupied Oeste São Paulo with 10 troops.",
+    "timestamp": "2016-03-09T21:38:29.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Minas Gerais (mmacfreier) attacked Belo Horizonte (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T21:38:34.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Minas Gerais (mmacfreier) occupied Belo Horizonte with 7 troops.",
+    "timestamp": "2016-03-09T21:38:35.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Belo Horizonte (mmacfreier) attacked São Paulo (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-09T21:38:42.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Belo Horizonte (mmacfreier) occupied São Paulo with 5 troops.",
+    "timestamp": "2016-03-09T21:38:44.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Espírito Santo (mmacfreier) attacked Rio de Janeiro (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T21:38:47.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Espírito Santo (mmacfreier) occupied Rio de Janeiro with 7 troops.",
+    "timestamp": "2016-03-09T21:38:49.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "São Paulo (mmacfreier) was fortified from Rio de Janeiro (mmacfreier) with 6 troops.",
+    "timestamp": "2016-03-09T21:38:55.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-03-09T21:38:55.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-03-09T21:38:55.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-03-09T23:21:17.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for 3 territories.",
+    "timestamp": "2016-03-09T23:21:17.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 1 troop for holding South.",
+    "timestamp": "2016-03-09T23:21:17.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Roraima, Maranhão, and Alagoas.",
+    "timestamp": "2016-03-09T23:21:21.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Paraná (kwren) was reinforced by kwren with 12 troops.",
+    "timestamp": "2016-03-09T23:21:28.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Paraná (kwren) attacked São Paulo (mmacfreier) conquering it, killing 11, losing 9.",
+    "timestamp": "2016-03-09T23:21:45.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Paraná (kwren) occupied São Paulo with 3 troops.",
+    "timestamp": "2016-03-09T23:21:52.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "São Paulo (kwren) attacked Oeste São Paulo (mmacfreier) killing 0, losing 2.",
+    "timestamp": "2016-03-09T23:21:55.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-03-09T23:36:41.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-03-09T23:36:41.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Round 8 started.",
+    "timestamp": "2016-03-09T23:36:41.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-03-09T23:48:08.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 11 troops for 35 territories.",
+    "timestamp": "2016-03-09T23:48:08.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Mato Grosso.",
+    "timestamp": "2016-03-09T23:48:08.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Northeast.",
+    "timestamp": "2016-03-09T23:48:08.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Pará.",
+    "timestamp": "2016-03-09T23:48:08.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Amazon.",
+    "timestamp": "2016-03-09T23:48:08.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding North.",
+    "timestamp": "2016-03-09T23:48:08.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Oeste São Paulo (mmacfreier) was reinforced by mmacfreier with 28 troops.",
+    "timestamp": "2016-03-09T23:48:12.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Oeste São Paulo (mmacfreier) attacked São Paulo (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T23:48:15.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Oeste São Paulo (mmacfreier) occupied São Paulo with 37 troops.",
+    "timestamp": "2016-03-09T23:48:16.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "São Paulo (mmacfreier) attacked Paraná (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T23:48:19.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "São Paulo (mmacfreier) occupied Paraná with 36 troops.",
+    "timestamp": "2016-03-09T23:48:21.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Paraná (mmacfreier) attacked Santa Catarina (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T23:48:24.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Paraná (mmacfreier) occupied Santa Catarina with 35 troops.",
+    "timestamp": "2016-03-09T23:48:25.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Santa Catarina (mmacfreier) attacked Rio Grande do Sul (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "kwren was defeated by mmacfreier.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "jobratt lost 28 rating.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 20 tokens.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier won the game.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 96 rating.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 20 tokens.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "kwren lost 22 rating.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 20 tokens.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 lost 15 rating.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 20 tokens.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "gcochard lost 13 rating.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 20 tokens.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne lost 18 rating.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 20 tokens.",
+    "timestamp": "2016-03-09T23:48:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  }
+]

@@ -1,0 +1,2594 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-03-18T01:54:37.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "johnsgill3 joined the game.",
+    "timestamp": "2016-03-18T01:54:37.000Z",
+    "player": "johnsgill3",
+    "round": 0
+  },
+  {
+    "message": "gcochard joined the game.",
+    "timestamp": "2016-03-18T05:06:07.000Z",
+    "player": "gcochard",
+    "round": 0
+  },
+  {
+    "message": "Kyla joined the game.",
+    "timestamp": "2016-03-18T09:42:27.000Z",
+    "player": "Kyla",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-03-18T09:42:27.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "gcochard missed the turn.",
+    "timestamp": "2016-03-19T09:42:28.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-19T16:28:34.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 14 territories.",
+    "timestamp": "2016-03-19T16:28:34.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Peru (johnsgill3) was reinforced by johnsgill3 with 4 troops.",
+    "timestamp": "2016-03-19T16:29:11.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Peru (johnsgill3) attacked Venezuela (gcochard) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-19T16:29:19.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Peru (johnsgill3) occupied Venezuela with 6 troops.",
+    "timestamp": "2016-03-19T16:29:30.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Argentina (johnsgill3) attacked Brazil (Kyla) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-03-19T16:29:40.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Brazil (johnsgill3) was fortified from Venezuela (johnsgill3) with 3 troops.",
+    "timestamp": "2016-03-19T16:29:57.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-19T16:29:57.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-19T16:29:57.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Kyla started the turn.",
+    "timestamp": "2016-03-20T02:37:27.000Z",
+    "player": "Kyla",
+    "round": 1
+  },
+  {
+    "message": "Kyla received 4 troops for 13 territories.",
+    "timestamp": "2016-03-20T02:37:27.000Z",
+    "player": "Kyla",
+    "round": 1
+  },
+  {
+    "message": "Irkutsk (Kyla) was reinforced by Kyla with 4 troops.",
+    "timestamp": "2016-03-20T02:40:17.000Z",
+    "player": "Kyla",
+    "round": 1
+  },
+  {
+    "message": "Irkutsk (Kyla) attacked Yakutsk (johnsgill3) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-03-20T02:41:28.000Z",
+    "player": "Kyla",
+    "round": 1
+  },
+  {
+    "message": "Irkutsk (Kyla) occupied Yakutsk with 1 troop.",
+    "timestamp": "2016-03-20T02:41:32.000Z",
+    "player": "Kyla",
+    "round": 1
+  },
+  {
+    "message": "Kyla received a card.",
+    "timestamp": "2016-03-20T02:42:15.000Z",
+    "player": "Kyla",
+    "round": 1
+  },
+  {
+    "message": "Kyla ended the turn.",
+    "timestamp": "2016-03-20T02:42:15.000Z",
+    "player": "Kyla",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-03-20T02:42:15.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-21T01:08:03.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 4 troops for 13 territories.",
+    "timestamp": "2016-03-21T01:08:03.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 2 troops for holding Australia.",
+    "timestamp": "2016-03-21T01:08:03.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Kazakhstan (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-03-21T01:09:30.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Kazakhstan (gcochard) attacked China (Kyla) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-21T01:09:35.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Kazakhstan (gcochard) occupied China with 8 troops.",
+    "timestamp": "2016-03-21T01:09:38.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "China (gcochard) attacked Siam (johnsgill3) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-21T01:09:44.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "China (gcochard) occupied Siam with 7 troops.",
+    "timestamp": "2016-03-21T01:09:50.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Siam (gcochard) was fortified from Eastern Australia (gcochard) with 2 troops.",
+    "timestamp": "2016-03-21T01:10:24.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-21T01:10:24.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-21T01:10:24.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-21T15:44:50.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 14 territories.",
+    "timestamp": "2016-03-21T15:44:50.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding South America.",
+    "timestamp": "2016-03-21T15:44:50.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Venezuela (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-03-21T15:45:25.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Congo (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-03-21T15:51:28.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Congo (johnsgill3) attacked North Africa (gcochard) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-21T15:51:35.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Congo (johnsgill3) occupied North Africa with 1 troop.",
+    "timestamp": "2016-03-21T15:51:58.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "North Africa (johnsgill3) was fortified from Middle East (johnsgill3) with 2 troops.",
+    "timestamp": "2016-03-21T15:53:04.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-21T15:53:04.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-21T15:53:04.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Kyla started the turn.",
+    "timestamp": "2016-03-21T22:07:06.000Z",
+    "player": "Kyla",
+    "round": 2
+  },
+  {
+    "message": "Kyla received 4 troops for 13 territories.",
+    "timestamp": "2016-03-21T22:07:06.000Z",
+    "player": "Kyla",
+    "round": 2
+  },
+  {
+    "message": "East Africa (Kyla) was reinforced by Kyla with 3 troops.",
+    "timestamp": "2016-03-21T22:08:39.000Z",
+    "player": "Kyla",
+    "round": 2
+  },
+  {
+    "message": "Kamchatka (Kyla) was reinforced by Kyla with 1 troop.",
+    "timestamp": "2016-03-21T22:08:43.000Z",
+    "player": "Kyla",
+    "round": 2
+  },
+  {
+    "message": "East Africa (Kyla) attacked Middle East (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-21T22:08:47.000Z",
+    "player": "Kyla",
+    "round": 2
+  },
+  {
+    "message": "East Africa (Kyla) occupied Middle East with 3 troops.",
+    "timestamp": "2016-03-21T22:08:54.000Z",
+    "player": "Kyla",
+    "round": 2
+  },
+  {
+    "message": "Kyla received a card.",
+    "timestamp": "2016-03-21T22:09:21.000Z",
+    "player": "Kyla",
+    "round": 2
+  },
+  {
+    "message": "Kyla ended the turn.",
+    "timestamp": "2016-03-21T22:09:21.000Z",
+    "player": "Kyla",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-03-21T22:09:21.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-22T17:05:18.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 4 troops for 14 territories.",
+    "timestamp": "2016-03-22T17:05:18.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 2 troops for holding Australia.",
+    "timestamp": "2016-03-22T17:05:18.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Alberta (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-03-22T17:06:48.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Alberta (gcochard) attacked Alaska (Kyla) conquering it, killing 3, losing 5.",
+    "timestamp": "2016-03-22T17:06:57.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Alberta (gcochard) occupied Alaska with 3 troops.",
+    "timestamp": "2016-03-22T17:07:01.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "India (gcochard) was fortified from Western Australia (gcochard) with 2 troops.",
+    "timestamp": "2016-03-22T17:07:13.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-22T17:07:13.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-22T17:07:13.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-22T17:13:07.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 14 territories.",
+    "timestamp": "2016-03-22T17:13:07.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding South America.",
+    "timestamp": "2016-03-22T17:13:07.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Congo (johnsgill3) was reinforced by johnsgill3 with 6 troops.",
+    "timestamp": "2016-03-22T17:14:18.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Congo (johnsgill3) attacked South Africa (gcochard) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-22T17:14:31.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Congo (johnsgill3) occupied South Africa with 1 troop.",
+    "timestamp": "2016-03-22T17:15:01.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Congo (johnsgill3) attacked East Africa (Kyla) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-22T17:15:32.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Congo (johnsgill3) occupied East Africa with 9 troops.",
+    "timestamp": "2016-03-22T17:15:45.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "East Africa (johnsgill3) attacked Egypt (Kyla) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-22T17:16:39.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "East Africa (johnsgill3) occupied Egypt with 5 troops.",
+    "timestamp": "2016-03-22T17:17:12.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Venezuela (johnsgill3) was fortified from Brazil (johnsgill3) with 3 troops.",
+    "timestamp": "2016-03-22T17:19:21.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-22T17:19:22.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-22T17:19:22.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Kyla started the turn.",
+    "timestamp": "2016-03-22T20:07:04.000Z",
+    "player": "Kyla",
+    "round": 3
+  },
+  {
+    "message": "Kyla received 3 troops for 11 territories.",
+    "timestamp": "2016-03-22T20:07:04.000Z",
+    "player": "Kyla",
+    "round": 3
+  },
+  {
+    "message": "Western Europe (Kyla) was reinforced by Kyla with 3 troops.",
+    "timestamp": "2016-03-22T20:07:25.000Z",
+    "player": "Kyla",
+    "round": 3
+  },
+  {
+    "message": "Western Europe (Kyla) attacked North Africa (johnsgill3) killing 0, losing 5.",
+    "timestamp": "2016-03-22T20:07:30.000Z",
+    "player": "Kyla",
+    "round": 3
+  },
+  {
+    "message": "Ural (Kyla) attacked Kazakhstan (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-22T20:07:40.000Z",
+    "player": "Kyla",
+    "round": 3
+  },
+  {
+    "message": "Ural (Kyla) occupied Kazakhstan with 1 troop.",
+    "timestamp": "2016-03-22T20:07:43.000Z",
+    "player": "Kyla",
+    "round": 3
+  },
+  {
+    "message": "Ontario (Kyla) attacked Alberta (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-22T20:08:22.000Z",
+    "player": "Kyla",
+    "round": 3
+  },
+  {
+    "message": "Ontario (Kyla) occupied Alberta with 1 troop.",
+    "timestamp": "2016-03-22T20:08:27.000Z",
+    "player": "Kyla",
+    "round": 3
+  },
+  {
+    "message": "Kazakhstan (Kyla) was fortified from Kamchatka (Kyla) with 1 troop.",
+    "timestamp": "2016-03-22T20:08:39.000Z",
+    "player": "Kyla",
+    "round": 3
+  },
+  {
+    "message": "Kyla received a card.",
+    "timestamp": "2016-03-22T20:08:39.000Z",
+    "player": "Kyla",
+    "round": 3
+  },
+  {
+    "message": "Kyla ended the turn.",
+    "timestamp": "2016-03-22T20:08:39.000Z",
+    "player": "Kyla",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-03-22T20:08:39.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-22T23:58:42.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 4 troops for 12 territories.",
+    "timestamp": "2016-03-22T23:58:42.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 2 troops for holding Australia.",
+    "timestamp": "2016-03-22T23:58:42.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Alaska (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-03-22T23:59:13.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Alaska (gcochard) attacked Alberta (Kyla) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-22T23:59:23.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Alaska (gcochard) occupied Alberta with 8 troops.",
+    "timestamp": "2016-03-22T23:59:38.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Alberta (gcochard) attacked Northwest Territory (johnsgill3) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-22T23:59:50.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Alberta (gcochard) occupied Northwest Territory with 7 troops.",
+    "timestamp": "2016-03-23T00:00:04.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Northwest Territory (gcochard) attacked Ontario (Kyla) conquering it, killing 2, losing 4.",
+    "timestamp": "2016-03-23T00:00:22.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Northwest Territory (gcochard) occupied Ontario with 2 troops.",
+    "timestamp": "2016-03-23T00:00:24.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "India (gcochard) was fortified from Papua New Guinea (gcochard) with 2 troops.",
+    "timestamp": "2016-03-23T00:00:46.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-23T00:00:46.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-23T00:00:46.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-23T00:49:05.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 16 territories.",
+    "timestamp": "2016-03-23T00:49:05.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Africa.",
+    "timestamp": "2016-03-23T00:49:05.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding South America.",
+    "timestamp": "2016-03-23T00:49:05.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Scandinavia (johnsgill3) was reinforced by johnsgill3 with 10 troops.",
+    "timestamp": "2016-03-23T00:49:13.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "North Africa (johnsgill3) attacked Western Europe (Kyla) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-23T00:49:20.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Britain (johnsgill3) attacked Iceland (Kyla) killing 0, losing 2.",
+    "timestamp": "2016-03-23T00:49:31.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Northern Europe (johnsgill3) attacked Ukraine (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-03-23T00:49:39.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Scandinavia (johnsgill3) attacked Iceland (Kyla) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-03-23T00:49:57.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Scandinavia (johnsgill3) occupied Iceland with 3 troops.",
+    "timestamp": "2016-03-23T00:50:46.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Scandinavia (johnsgill3) attacked Ukraine (gcochard) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-23T00:50:58.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Scandinavia (johnsgill3) occupied Ukraine with 7 troops.",
+    "timestamp": "2016-03-23T00:51:01.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Quebec (johnsgill3) attacked Greenland (Kyla) killing 2, losing 1.",
+    "timestamp": "2016-03-23T00:51:18.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Southern Europe (johnsgill3) was fortified from Madagascar (johnsgill3) with 2 troops.",
+    "timestamp": "2016-03-23T00:54:41.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-23T00:54:41.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-23T00:54:41.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Kyla started the turn.",
+    "timestamp": "2016-03-23T01:08:44.000Z",
+    "player": "Kyla",
+    "round": 4
+  },
+  {
+    "message": "Kyla received 3 troops for 9 territories.",
+    "timestamp": "2016-03-23T01:08:44.000Z",
+    "player": "Kyla",
+    "round": 4
+  },
+  {
+    "message": "Kyla received 8 troops for turning in cards Peru, China, and Siam.",
+    "timestamp": "2016-03-23T01:09:46.000Z",
+    "player": "Kyla",
+    "round": 4
+  },
+  {
+    "message": "Middle East (Kyla) was reinforced by Kyla with 11 troops.",
+    "timestamp": "2016-03-23T01:09:54.000Z",
+    "player": "Kyla",
+    "round": 4
+  },
+  {
+    "message": "Middle East (Kyla) attacked East Africa (johnsgill3) conquering it, killing 4, losing 12.",
+    "timestamp": "2016-03-23T01:10:05.000Z",
+    "player": "Kyla",
+    "round": 4
+  },
+  {
+    "message": "Kamchatka (Kyla) was fortified from Irkutsk (Kyla) with 2 troops.",
+    "timestamp": "2016-03-23T01:11:03.000Z",
+    "player": "Kyla",
+    "round": 4
+  },
+  {
+    "message": "Kyla received a card.",
+    "timestamp": "2016-03-23T01:11:04.000Z",
+    "player": "Kyla",
+    "round": 4
+  },
+  {
+    "message": "Kyla ended the turn.",
+    "timestamp": "2016-03-23T01:11:04.000Z",
+    "player": "Kyla",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-03-23T01:11:04.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-23T16:00:35.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 4 troops for 14 territories.",
+    "timestamp": "2016-03-23T16:00:35.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 2 troops for holding Australia.",
+    "timestamp": "2016-03-23T16:00:35.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Western United States (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-03-23T16:00:45.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Western United States (gcochard) attacked Eastern United States (Kyla) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-23T16:00:49.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Western United States (gcochard) occupied Eastern United States with 8 troops.",
+    "timestamp": "2016-03-23T16:00:51.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Eastern United States (gcochard) attacked Quebec (johnsgill3) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-03-23T16:00:54.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Eastern United States (gcochard) occupied Quebec with 7 troops.",
+    "timestamp": "2016-03-23T16:00:56.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Quebec (gcochard) attacked Greenland (Kyla) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-23T16:01:07.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Quebec (gcochard) occupied Greenland with 3 troops.",
+    "timestamp": "2016-03-23T16:01:17.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Central America (gcochard) was fortified from Quebec (gcochard) with 2 troops.",
+    "timestamp": "2016-03-23T16:01:29.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-23T16:01:29.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-23T16:01:29.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-23T16:17:21.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 17 territories.",
+    "timestamp": "2016-03-23T16:17:21.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding South America.",
+    "timestamp": "2016-03-23T16:17:21.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 5 troops for holding Europe.",
+    "timestamp": "2016-03-23T16:17:21.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 2 troops on North Africa",
+    "timestamp": "2016-03-23T16:17:25.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 8 troops for turning in cards Central America, North Africa, and Papua New Guinea.",
+    "timestamp": "2016-03-23T16:17:25.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Venezuela (johnsgill3) was reinforced by johnsgill3 with 16 troops.",
+    "timestamp": "2016-03-23T16:23:33.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "North Africa (johnsgill3) was reinforced by johnsgill3 with 4 troops.",
+    "timestamp": "2016-03-23T16:23:38.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "North Africa (johnsgill3) attacked East Africa (Kyla) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-23T16:23:41.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "North Africa (johnsgill3) occupied East Africa with 6 troops.",
+    "timestamp": "2016-03-23T16:23:43.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Venezuela (johnsgill3) attacked Central America (gcochard) conquering it, killing 5, losing 1.",
+    "timestamp": "2016-03-23T16:23:55.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Venezuela (johnsgill3) occupied Central America with 23 troops.",
+    "timestamp": "2016-03-23T16:23:57.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Central America (johnsgill3) attacked Eastern United States (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-23T16:24:22.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Central America (johnsgill3) occupied Eastern United States with 22 troops.",
+    "timestamp": "2016-03-23T16:24:24.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Eastern United States (johnsgill3) attacked Quebec (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-23T16:24:28.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Eastern United States (johnsgill3) occupied Quebec with 21 troops.",
+    "timestamp": "2016-03-23T16:24:30.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Quebec (johnsgill3) attacked Greenland (gcochard) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-03-23T16:24:50.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Quebec (johnsgill3) occupied Greenland with 1 troop.",
+    "timestamp": "2016-03-23T16:24:58.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Quebec (johnsgill3) attacked Ontario (gcochard) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-03-23T16:25:02.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Quebec (johnsgill3) occupied Ontario with 16 troops.",
+    "timestamp": "2016-03-23T16:25:05.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Ontario (johnsgill3) attacked Western United States (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-23T16:25:10.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Ontario (johnsgill3) occupied Western United States with 1 troop.",
+    "timestamp": "2016-03-23T16:25:16.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Ontario (johnsgill3) attacked Alberta (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-23T16:25:19.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Ontario (johnsgill3) occupied Alberta with 1 troop.",
+    "timestamp": "2016-03-23T16:25:24.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Ontario (johnsgill3) attacked Northwest Territory (gcochard) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-03-23T16:25:33.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Ontario (johnsgill3) occupied Northwest Territory with 10 troops.",
+    "timestamp": "2016-03-23T16:25:35.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Northwest Territory (johnsgill3) attacked Alaska (gcochard) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-03-23T16:25:43.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Northwest Territory (johnsgill3) occupied Alaska with 7 troops.",
+    "timestamp": "2016-03-23T16:25:45.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "East Africa (johnsgill3) attacked Middle East (Kyla) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-23T16:26:15.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "East Africa (johnsgill3) occupied Middle East with 3 troops.",
+    "timestamp": "2016-03-23T16:26:27.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Alaska (johnsgill3) was fortified from Iceland (johnsgill3) with 2 troops.",
+    "timestamp": "2016-03-23T16:26:49.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-23T16:26:49.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-23T16:26:49.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Kyla started the turn.",
+    "timestamp": "2016-03-23T23:44:56.000Z",
+    "player": "Kyla",
+    "round": 5
+  },
+  {
+    "message": "Kyla received 3 troops for 6 territories.",
+    "timestamp": "2016-03-23T23:44:56.000Z",
+    "player": "Kyla",
+    "round": 5
+  },
+  {
+    "message": "Kamchatka (Kyla) was reinforced by Kyla with 3 troops.",
+    "timestamp": "2016-03-23T23:45:44.000Z",
+    "player": "Kyla",
+    "round": 5
+  },
+  {
+    "message": "Kamchatka (Kyla) attacked Alaska (johnsgill3) conquering it, killing 9, losing 4.",
+    "timestamp": "2016-03-23T23:45:59.000Z",
+    "player": "Kyla",
+    "round": 5
+  },
+  {
+    "message": "Kamchatka (Kyla) occupied Alaska with 3 troops.",
+    "timestamp": "2016-03-23T23:46:01.000Z",
+    "player": "Kyla",
+    "round": 5
+  },
+  {
+    "message": "Alaska (Kyla) attacked Alberta (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-03-23T23:46:36.000Z",
+    "player": "Kyla",
+    "round": 5
+  },
+  {
+    "message": "Kyla received a card.",
+    "timestamp": "2016-03-23T23:47:19.000Z",
+    "player": "Kyla",
+    "round": 5
+  },
+  {
+    "message": "Kyla ended the turn.",
+    "timestamp": "2016-03-23T23:47:19.000Z",
+    "player": "Kyla",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-03-23T23:47:19.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-24T17:21:49.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 3 troops for 8 territories.",
+    "timestamp": "2016-03-24T17:21:49.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 2 troops for holding Australia.",
+    "timestamp": "2016-03-24T17:21:49.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Ontario, Congo, and Alberta.",
+    "timestamp": "2016-03-24T17:21:58.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "India (gcochard) was reinforced by gcochard with 13 troops.",
+    "timestamp": "2016-03-24T17:22:10.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "India (gcochard) attacked Middle East (johnsgill3) conquering it, killing 3, losing 6.",
+    "timestamp": "2016-03-24T17:22:18.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "India (gcochard) occupied Middle East with 13 troops.",
+    "timestamp": "2016-03-24T17:22:19.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Middle East (gcochard) attacked East Africa (johnsgill3) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-03-24T17:22:26.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Middle East (gcochard) occupied East Africa with 12 troops.",
+    "timestamp": "2016-03-24T17:22:27.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "East Africa (gcochard) attacked North Africa (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-24T17:22:31.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "East Africa (gcochard) occupied North Africa with 11 troops.",
+    "timestamp": "2016-03-24T17:22:32.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "North Africa (gcochard) attacked Western Europe (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-24T17:22:38.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "North Africa (gcochard) occupied Western Europe with 1 troop.",
+    "timestamp": "2016-03-24T17:22:42.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "North Africa (gcochard) attacked Brazil (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-24T17:22:45.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "North Africa (gcochard) occupied Brazil with 9 troops.",
+    "timestamp": "2016-03-24T17:22:47.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Brazil (gcochard) attacked Venezuela (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-24T17:22:53.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Brazil (gcochard) occupied Venezuela with 8 troops.",
+    "timestamp": "2016-03-24T17:22:54.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Venezuela (gcochard) attacked Peru (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-24T17:22:58.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Venezuela (gcochard) occupied Peru with 7 troops.",
+    "timestamp": "2016-03-24T17:23:00.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Peru (gcochard) attacked Argentina (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-24T17:23:06.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Peru (gcochard) occupied Argentina with 5 troops.",
+    "timestamp": "2016-03-24T17:23:07.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Brazil (gcochard) was fortified from Argentina (gcochard) with 4 troops.",
+    "timestamp": "2016-03-24T17:23:13.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-24T17:23:13.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-24T17:23:13.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-24T19:29:25.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 6 troops for 19 territories.",
+    "timestamp": "2016-03-24T19:29:26.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Ukraine (johnsgill3) was reinforced by johnsgill3 with 6 troops.",
+    "timestamp": "2016-03-24T19:29:28.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Southern Europe (johnsgill3) attacked Western Europe (gcochard) killing 0, losing 4.",
+    "timestamp": "2016-03-24T19:29:42.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Egypt (johnsgill3) attacked North Africa (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-24T19:29:51.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Egypt (johnsgill3) occupied North Africa with 4 troops.",
+    "timestamp": "2016-03-24T19:29:53.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "North Africa (johnsgill3) attacked Western Europe (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-24T19:29:56.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "North Africa (johnsgill3) occupied Western Europe with 1 troop.",
+    "timestamp": "2016-03-24T19:30:00.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "North Africa (johnsgill3) attacked East Africa (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-24T19:30:04.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "North Africa (johnsgill3) occupied East Africa with 1 troop.",
+    "timestamp": "2016-03-24T19:30:07.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Ukraine (johnsgill3) attacked Kazakhstan (Kyla) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-03-24T19:30:15.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Ukraine (johnsgill3) occupied Kazakhstan with 1 troop.",
+    "timestamp": "2016-03-24T19:30:20.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Ukraine (johnsgill3) attacked Ural (Kyla) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-03-24T19:30:22.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Ukraine (johnsgill3) occupied Ural with 10 troops.",
+    "timestamp": "2016-03-24T19:30:26.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Ural (johnsgill3) attacked Siberia (Kyla) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-03-24T19:30:36.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Ural (johnsgill3) occupied Siberia with 6 troops.",
+    "timestamp": "2016-03-24T19:30:40.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Siberia (johnsgill3) attacked Irkutsk (Kyla) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-24T19:31:06.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Siberia (johnsgill3) occupied Irkutsk with 1 troop.",
+    "timestamp": "2016-03-24T19:31:10.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Siberia (johnsgill3) attacked Yakutsk (Kyla) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-24T19:31:13.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Siberia (johnsgill3) occupied Yakutsk with 1 troop.",
+    "timestamp": "2016-03-24T19:31:16.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Japan (johnsgill3) attacked Kamchatka (Kyla) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-24T19:31:20.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Japan (johnsgill3) occupied Kamchatka with 2 troops.",
+    "timestamp": "2016-03-24T19:31:23.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Kamchatka (johnsgill3) attacked Alaska (Kyla) killing 0, losing 1.",
+    "timestamp": "2016-03-24T19:31:26.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Iceland (johnsgill3) was fortified from Siberia (johnsgill3) with 2 troops.",
+    "timestamp": "2016-03-24T19:32:27.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-24T19:32:27.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-24T19:32:27.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Kyla started the turn.",
+    "timestamp": "2016-03-25T03:35:55.000Z",
+    "player": "Kyla",
+    "round": 6
+  },
+  {
+    "message": "Kyla received 3 troops for 1 territory.",
+    "timestamp": "2016-03-25T03:35:55.000Z",
+    "player": "Kyla",
+    "round": 6
+  },
+  {
+    "message": "Alaska (Kyla) was reinforced by Kyla with 3 troops.",
+    "timestamp": "2016-03-25T03:36:20.000Z",
+    "player": "Kyla",
+    "round": 6
+  },
+  {
+    "message": "Alaska (Kyla) attacked Kamchatka (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T03:36:45.000Z",
+    "player": "Kyla",
+    "round": 6
+  },
+  {
+    "message": "Alaska (Kyla) occupied Kamchatka with 3 troops.",
+    "timestamp": "2016-03-25T03:36:49.000Z",
+    "player": "Kyla",
+    "round": 6
+  },
+  {
+    "message": "Kamchatka (Kyla) attacked Irkutsk (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T03:36:53.000Z",
+    "player": "Kyla",
+    "round": 6
+  },
+  {
+    "message": "Kamchatka (Kyla) occupied Irkutsk with 2 troops.",
+    "timestamp": "2016-03-25T03:36:58.000Z",
+    "player": "Kyla",
+    "round": 6
+  },
+  {
+    "message": "Irkutsk (Kyla) attacked Yakutsk (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T03:37:02.000Z",
+    "player": "Kyla",
+    "round": 6
+  },
+  {
+    "message": "Kyla received a card.",
+    "timestamp": "2016-03-25T03:37:16.000Z",
+    "player": "Kyla",
+    "round": 6
+  },
+  {
+    "message": "Kyla ended the turn.",
+    "timestamp": "2016-03-25T03:37:16.000Z",
+    "player": "Kyla",
+    "round": 6
+  },
+  {
+    "message": "Round 7 started.",
+    "timestamp": "2016-03-25T03:37:16.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-25T15:50:46.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 4 troops for 13 territories.",
+    "timestamp": "2016-03-25T15:50:46.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 2 troops for holding South America.",
+    "timestamp": "2016-03-25T15:50:46.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 2 troops for holding Australia.",
+    "timestamp": "2016-03-25T15:50:46.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Mongolia (gcochard) was reinforced by gcochard with 8 troops.",
+    "timestamp": "2016-03-25T15:50:51.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Mongolia (gcochard) attacked Irkutsk (Kyla) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T15:50:55.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Mongolia (gcochard) occupied Irkutsk with 10 troops.",
+    "timestamp": "2016-03-25T15:50:57.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Irkutsk (gcochard) attacked Yakutsk (Kyla) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T15:51:00.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Irkutsk (gcochard) occupied Yakutsk with 9 troops.",
+    "timestamp": "2016-03-25T15:51:01.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Yakutsk (gcochard) attacked Kamchatka (Kyla) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T15:51:05.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Yakutsk (gcochard) occupied Kamchatka with 8 troops.",
+    "timestamp": "2016-03-25T15:51:07.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Kamchatka (gcochard) attacked Alaska (Kyla) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-25T15:51:12.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Kyla was defeated by gcochard.",
+    "timestamp": "2016-03-25T15:51:12.000Z",
+    "player": "Kyla",
+    "round": 7
+  },
+  {
+    "message": "Kamchatka (gcochard) occupied Alaska with 6 troops.",
+    "timestamp": "2016-03-25T15:51:14.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Northwest Territory, Kazakhstan, and Siberia.",
+    "timestamp": "2016-03-25T15:51:20.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Middle East (gcochard) was reinforced by gcochard with 8 troops.",
+    "timestamp": "2016-03-25T15:51:50.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Middle East (gcochard) attacked Egypt (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T15:51:54.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Middle East (gcochard) occupied Egypt with 8 troops.",
+    "timestamp": "2016-03-25T15:51:55.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Egypt (gcochard) attacked Southern Europe (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T15:51:59.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Egypt (gcochard) occupied Southern Europe with 2 troops.",
+    "timestamp": "2016-03-25T15:52:04.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Egypt (gcochard) attacked North Africa (johnsgill3) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-03-25T15:52:12.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Egypt (gcochard) occupied North Africa with 4 troops.",
+    "timestamp": "2016-03-25T15:52:13.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Alaska (gcochard) attacked Alberta (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T15:52:29.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Alaska (gcochard) occupied Alberta with 5 troops.",
+    "timestamp": "2016-03-25T15:52:31.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Alberta (gcochard) attacked Western United States (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-25T15:52:41.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Alberta (gcochard) occupied Western United States with 3 troops.",
+    "timestamp": "2016-03-25T15:52:42.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Western United States (gcochard) attacked Central America (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-03-25T15:52:58.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Southern Europe (gcochard) attacked Ukraine (johnsgill3) killing 0, losing 1.",
+    "timestamp": "2016-03-25T15:53:03.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Venezuela (gcochard) was fortified from Brazil (gcochard) with 4 troops.",
+    "timestamp": "2016-03-25T15:53:15.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-25T15:53:15.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-25T15:53:15.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-25T16:01:41.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 6 troops for 20 territories.",
+    "timestamp": "2016-03-25T16:01:42.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Central America (johnsgill3) was reinforced by johnsgill3 with 6 troops.",
+    "timestamp": "2016-03-25T16:01:44.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Central America (johnsgill3) attacked Venezuela (gcochard) conquering it, killing 5, losing 3.",
+    "timestamp": "2016-03-25T16:01:56.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Central America (johnsgill3) occupied Venezuela with 1 troop.",
+    "timestamp": "2016-03-25T16:02:00.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Greenland (johnsgill3) was fortified from Central America (johnsgill3) with 2 troops.",
+    "timestamp": "2016-03-25T16:02:28.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-25T16:02:28.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-25T16:02:28.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Round 8 started.",
+    "timestamp": "2016-03-25T16:02:28.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-25T17:21:55.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 7 troops for 21 territories.",
+    "timestamp": "2016-03-25T17:21:55.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 2 troops for holding Australia.",
+    "timestamp": "2016-03-25T17:21:55.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 2 troops on Western United States",
+    "timestamp": "2016-03-25T17:22:00.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 2 troops on Brazil",
+    "timestamp": "2016-03-25T17:22:00.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Western United States, Brazil, and Ukraine.",
+    "timestamp": "2016-03-25T17:22:00.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "North Africa (gcochard) was reinforced by gcochard with 8 troops.",
+    "timestamp": "2016-03-25T17:22:18.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Brazil (gcochard) was reinforced by gcochard with 9 troops.",
+    "timestamp": "2016-03-25T17:22:22.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Brazil (gcochard) attacked Venezuela (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:22:26.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Brazil (gcochard) occupied Venezuela with 11 troops.",
+    "timestamp": "2016-03-25T17:22:27.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Venezuela (gcochard) attacked Central America (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:22:30.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Venezuela (gcochard) occupied Central America with 10 troops.",
+    "timestamp": "2016-03-25T17:22:32.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Western United States (gcochard) attacked Ontario (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-03-25T17:22:37.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "North Africa (gcochard) attacked Congo (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:22:44.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "North Africa (gcochard) occupied Congo with 6 troops.",
+    "timestamp": "2016-03-25T17:22:52.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Congo (gcochard) attacked South Africa (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-25T17:22:56.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Congo (gcochard) occupied South Africa with 4 troops.",
+    "timestamp": "2016-03-25T17:22:58.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "South Africa (gcochard) attacked Madagascar (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:23:01.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "South Africa (gcochard) occupied Madagascar with 3 troops.",
+    "timestamp": "2016-03-25T17:23:02.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Madagascar (gcochard) attacked East Africa (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-03-25T17:23:06.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "North Africa (gcochard) attacked East Africa (johnsgill3) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-03-25T17:23:14.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "North Africa (gcochard) occupied East Africa with 1 troop.",
+    "timestamp": "2016-03-25T17:23:16.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Central America (gcochard) attacked Eastern United States (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:23:26.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Central America (gcochard) occupied Eastern United States with 9 troops.",
+    "timestamp": "2016-03-25T17:23:28.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Eastern United States (gcochard) attacked Ontario (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:23:31.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Eastern United States (gcochard) occupied Ontario with 8 troops.",
+    "timestamp": "2016-03-25T17:23:33.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Ontario (gcochard) attacked Northwest Territory (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:23:37.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Ontario (gcochard) occupied Northwest Territory with 7 troops.",
+    "timestamp": "2016-03-25T17:23:38.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Northwest Territory (gcochard) attacked Greenland (johnsgill3) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-03-25T17:25:17.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Northwest Territory (gcochard) occupied Greenland with 4 troops.",
+    "timestamp": "2016-03-25T17:25:20.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Greenland (gcochard) attacked Quebec (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-25T17:25:25.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Greenland (gcochard) occupied Quebec with 1 troop.",
+    "timestamp": "2016-03-25T17:25:28.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Greenland (gcochard) was fortified from Indonesia (gcochard) with 2 troops.",
+    "timestamp": "2016-03-25T17:25:37.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-25T17:25:37.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-25T17:25:37.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-25T17:38:34.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 10 territories.",
+    "timestamp": "2016-03-25T17:38:34.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Iceland (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-03-25T17:38:35.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Iceland (johnsgill3) attacked Greenland (gcochard) killing 2, losing 5.",
+    "timestamp": "2016-03-25T17:38:52.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-25T17:39:05.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Round 9 started.",
+    "timestamp": "2016-03-25T17:39:05.000Z",
+    "player": "unknown",
+    "round": 9
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-25T17:42:27.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 10 troops for 32 territories.",
+    "timestamp": "2016-03-25T17:42:27.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 2 troops for holding Australia.",
+    "timestamp": "2016-03-25T17:42:27.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 2 troops for holding South America.",
+    "timestamp": "2016-03-25T17:42:27.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 3 troops for holding Africa.",
+    "timestamp": "2016-03-25T17:42:27.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 5 troops for holding North America.",
+    "timestamp": "2016-03-25T17:42:27.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Kamchatka (gcochard) was reinforced by gcochard with 5 troops.",
+    "timestamp": "2016-03-25T17:42:37.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "North Africa (gcochard) was reinforced by gcochard with 17 troops.",
+    "timestamp": "2016-03-25T17:42:42.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Kamchatka (gcochard) attacked Japan (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-25T17:42:47.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Kamchatka (gcochard) occupied Japan with 4 troops.",
+    "timestamp": "2016-03-25T17:42:50.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "North Africa (gcochard) attacked Western Europe (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-25T17:42:56.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "North Africa (gcochard) occupied Western Europe with 18 troops.",
+    "timestamp": "2016-03-25T17:42:58.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Western Europe (gcochard) attacked Britain (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:43:04.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Western Europe (gcochard) occupied Britain with 17 troops.",
+    "timestamp": "2016-03-25T17:43:06.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Greenland (gcochard) attacked Iceland (johnsgill3) killing 0, losing 1.",
+    "timestamp": "2016-03-25T17:43:08.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Britain (gcochard) attacked Iceland (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:43:12.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Britain (gcochard) occupied Iceland with 16 troops.",
+    "timestamp": "2016-03-25T17:43:14.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Iceland (gcochard) attacked Scandinavia (johnsgill3) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-03-25T17:44:37.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Iceland (gcochard) occupied Scandinavia with 13 troops.",
+    "timestamp": "2016-03-25T17:44:48.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Scandinavia (gcochard) attacked Northern Europe (johnsgill3) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-03-25T17:45:28.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Scandinavia (gcochard) occupied Northern Europe with 10 troops.",
+    "timestamp": "2016-03-25T17:45:33.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Northern Europe (gcochard) attacked Ukraine (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:45:40.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Northern Europe (gcochard) occupied Ukraine with 9 troops.",
+    "timestamp": "2016-03-25T17:45:52.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Ukraine (gcochard) attacked Ural (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:46:08.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Ukraine (gcochard) occupied Ural with 1 troop.",
+    "timestamp": "2016-03-25T17:46:17.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Ukraine (gcochard) attacked Kazakhstan (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:46:22.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Ukraine (gcochard) occupied Kazakhstan with 1 troop.",
+    "timestamp": "2016-03-25T17:46:33.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Kamchatka (gcochard) was fortified from Japan (gcochard) with 3 troops.",
+    "timestamp": "2016-03-25T17:48:03.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-25T17:48:05.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-25T17:48:05.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-25T17:50:54.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 1 territory.",
+    "timestamp": "2016-03-25T17:50:54.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Siberia (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-03-25T17:50:58.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Siberia (johnsgill3) attacked China (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-25T17:51:16.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Siberia (johnsgill3) occupied China with 1 troop.",
+    "timestamp": "2016-03-25T17:51:24.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Siberia (johnsgill3) attacked Ural (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-03-25T17:51:31.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-25T17:52:01.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-25T17:52:01.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Round 10 started.",
+    "timestamp": "2016-03-25T17:52:01.000Z",
+    "player": "unknown",
+    "round": 10
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-25T17:52:10.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 13 troops for 40 territories.",
+    "timestamp": "2016-03-25T17:52:10.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 2 troops for holding Australia.",
+    "timestamp": "2016-03-25T17:52:10.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 2 troops for holding South America.",
+    "timestamp": "2016-03-25T17:52:10.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 3 troops for holding Africa.",
+    "timestamp": "2016-03-25T17:52:10.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 5 troops for holding North America.",
+    "timestamp": "2016-03-25T17:52:10.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 5 troops for holding Europe.",
+    "timestamp": "2016-03-25T17:52:10.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Mongolia (gcochard) was reinforced by gcochard with 9 troops.",
+    "timestamp": "2016-03-25T17:52:32.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "India (gcochard) was reinforced by gcochard with 9 troops.",
+    "timestamp": "2016-03-25T17:52:37.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Kazakhstan (gcochard) was reinforced by gcochard with 9 troops.",
+    "timestamp": "2016-03-25T17:52:54.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Ural (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-03-25T17:52:57.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Ural (gcochard) attacked Siberia (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:53:01.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Ural (gcochard) occupied Siberia with 3 troops.",
+    "timestamp": "2016-03-25T17:53:05.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Ural (gcochard) was fortified from Ukraine (gcochard) with 6 troops.",
+    "timestamp": "2016-03-25T17:53:11.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-25T17:53:11.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-25T17:53:12.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-25T17:53:22.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 1 territory.",
+    "timestamp": "2016-03-25T17:53:22.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 8 troops for turning in cards Britain, Kamchatka, and Ural.",
+    "timestamp": "2016-03-25T17:53:26.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "China (johnsgill3) was reinforced by johnsgill3 with 11 troops.",
+    "timestamp": "2016-03-25T17:53:31.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "China (johnsgill3) attacked Siberia (gcochard) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-03-25T17:54:34.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "China (johnsgill3) occupied Siberia with 8 troops.",
+    "timestamp": "2016-03-25T17:54:38.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Siberia (johnsgill3) attacked Yakutsk (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-25T17:54:47.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Siberia (johnsgill3) occupied Yakutsk with 6 troops.",
+    "timestamp": "2016-03-25T17:54:52.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Yakutsk (johnsgill3) attacked Kamchatka (gcochard) conquering it, killing 4, losing 3.",
+    "timestamp": "2016-03-25T17:55:06.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Yakutsk (johnsgill3) occupied Kamchatka with 2 troops.",
+    "timestamp": "2016-03-25T17:55:08.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Kamchatka (johnsgill3) attacked Alaska (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:55:11.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-03-25T17:55:20.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-25T17:55:20.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Round 11 started.",
+    "timestamp": "2016-03-25T17:55:20.000Z",
+    "player": "unknown",
+    "round": 11
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-25T17:55:26.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 12 troops for 37 territories.",
+    "timestamp": "2016-03-25T17:55:26.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 2 troops for holding Australia.",
+    "timestamp": "2016-03-25T17:55:26.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 2 troops for holding South America.",
+    "timestamp": "2016-03-25T17:55:26.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 3 troops for holding Africa.",
+    "timestamp": "2016-03-25T17:55:26.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 5 troops for holding Europe.",
+    "timestamp": "2016-03-25T17:55:26.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Kazakhstan (gcochard) was reinforced by gcochard with 24 troops.",
+    "timestamp": "2016-03-25T17:55:37.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Kazakhstan (gcochard) attacked China (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-25T17:55:43.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Kazakhstan (gcochard) occupied China with 32 troops.",
+    "timestamp": "2016-03-25T17:55:45.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "China (gcochard) attacked Siberia (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:55:48.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "China (gcochard) occupied Siberia with 31 troops.",
+    "timestamp": "2016-03-25T17:55:49.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Siberia (gcochard) attacked Yakutsk (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-03-25T17:55:52.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Siberia (gcochard) occupied Yakutsk with 30 troops.",
+    "timestamp": "2016-03-25T17:55:54.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Yakutsk (gcochard) attacked Kamchatka (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-03-25T17:55:59.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Yakutsk (gcochard) occupied Kamchatka with 28 troops.",
+    "timestamp": "2016-03-25T17:56:01.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Iceland (gcochard) was fortified from Kamchatka (gcochard) with 13 troops.",
+    "timestamp": "2016-03-25T17:56:23.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-03-25T17:56:24.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-03-25T17:56:24.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-03-25T17:56:54.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 1 territory.",
+    "timestamp": "2016-03-25T17:56:54.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Alaska (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-03-25T17:57:14.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-03-25T17:57:18.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Round 12 started.",
+    "timestamp": "2016-03-25T17:57:18.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-03-25T17:57:27.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 13 troops for 41 territories.",
+    "timestamp": "2016-03-25T17:57:27.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 2 troops for holding Australia.",
+    "timestamp": "2016-03-25T17:57:27.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 2 troops for holding South America.",
+    "timestamp": "2016-03-25T17:57:27.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 3 troops for holding Africa.",
+    "timestamp": "2016-03-25T17:57:27.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 5 troops for holding Europe.",
+    "timestamp": "2016-03-25T17:57:27.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 7 troops for holding Asia.",
+    "timestamp": "2016-03-25T17:57:27.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Northwest Territory (gcochard) was reinforced by gcochard with 32 troops.",
+    "timestamp": "2016-03-25T17:57:32.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Northwest Territory (gcochard) attacked Alaska (johnsgill3) conquering it, killing 4, losing 3.",
+    "timestamp": "2016-03-25T17:57:44.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 was defeated by gcochard.",
+    "timestamp": "2016-03-25T17:57:44.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-03-25T17:57:44.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "gcochard won the game.",
+    "timestamp": "2016-03-25T17:57:44.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 41 rating.",
+    "timestamp": "2016-03-25T17:57:44.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 15 tokens.",
+    "timestamp": "2016-03-25T17:57:44.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 lost 24 rating.",
+    "timestamp": "2016-03-25T17:57:44.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 received 20 tokens.",
+    "timestamp": "2016-03-25T17:57:44.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Kyla lost 17 rating.",
+    "timestamp": "2016-03-25T17:57:44.000Z",
+    "player": "Kyla",
+    "round": 12
+  },
+  {
+    "message": "Kyla received 20 tokens.",
+    "timestamp": "2016-03-25T17:57:44.000Z",
+    "player": "Kyla",
+    "round": 12
+  }
+]
