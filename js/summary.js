@@ -1,5 +1,91 @@
-var isNaN = function(value) {
-    return Number.isNaN(Number(value));
+var headers = {
+    'ntroops' : 'Number of Troops (round end)',
+    'nterritories' : 'Number of Territories (round start)',
+    'tdelta' : 'Territory Delta',
+    'bonus' : 'Total Troop Bonus (round start)',
+    'cbonus' : 'Card Bonuses',
+    'areas' : 'Number of Areas (round start)'
+};
+
+function getTeamColor(name) {
+    if(name in users) {
+        return users[name];
+    } else {
+        return '#959595';
+    }
+}
+
+function drawLineCharts(gdata) {
+    var margin = {top: 20, right: 5, bottom: 30, left: 25},
+        width = (window.innerWidth*0.25) - margin.left - margin.right,
+        height = (width*0.7) - margin.top - margin.bottom,
+        attrGraphW = ((width+margin.left+margin.right)*2);
+    var x = d3.scale.linear().range([0, width]);
+    var y = d3.scale.linear().range([height, 0]);
+    var xAxis = d3.svg.axis().scale(x).orient("bottom");
+    var yAxis = d3.svg.axis().scale(y).orient("left").outerTickSize(0);
+    var line = d3.svg.line()
+        .interpolate("linear")
+        .x(function(d) { return x(d.x); })
+        .y(function(d) { return y(d.y); });
+
+    d3.selectAll('#attrGraph svg').remove();
+
+    d3.select('#attrGraph')
+        .style('width', attrGraphW+'px');
+    d3.select('#focusBar')
+        .style('width', (window.innerWidth - attrGraphW)+'px')
+
+    for(var k in gdata) {
+    // k = 'ntroops';
+        x.domain([0, d3.max(gdata[k], function(d) { return d.values.length; })]);
+        xAxis.ticks(x.domain()[1]);
+        y.domain([
+            d3.min(gdata[k], function(p) { return d3.min(p.values, function(s) { return s.y; }); }),
+            d3.max(gdata[k], function(p) { return d3.max(p.values, function(s) { return s.y; }); }),
+        ]);
+        var svg = d3.select("#attrGraph")
+            .append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .attr('id', k)
+            .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+        svg.append("text")
+            .attr("x", (width / 2))
+            .attr("y", 0 - (margin.top / 2))
+            .attr("text-anchor", "middle")
+            .style("font-size", "14px")
+            .style("text-decoration", "underline")
+            .text(headers[k]);
+
+        svg.append("g")
+            .attr("class", "x axis")
+            .attr("transform", "translate(0," + height + ")")
+            .call(xAxis);
+
+        svg.append("g")
+            .attr("class", "y axis")
+            .call(yAxis)
+            .append("text")
+            .attr("transform", "rotate(-90)")
+            .attr("y", 6)
+            .attr("dy", ".71em")
+            .style("text-anchor", "end");
+            // .text("Temperature (ºF)");
+
+        var lines = svg.selectAll(".line-"+k)
+            .data(gdata[k])
+            .enter()
+            .append("g")
+            .attr("class", 'line-'+k);
+
+        lines.append("path")
+            .attr("class", "line")
+            .attr("d", function(d) { return line(d.values); })
+            .style("stroke", function(d) { return getTeamColor(d.key); });
+    }
 }
 
 function getPlayerIdx(p, vals) {
@@ -21,7 +107,9 @@ function calcTroops(d, gd) {
                 if(d.round == 1) {
                     e.values.ntroops = (3 * d.nterritories) + d.ntroops;
                 } else {
-                    e.values.ntroops += d.ntroops;
+                    pvals = gd[d.round-2].values,
+                    pe = pvals[getPlayerIdx(d.player, pvals)];
+                    e.values.ntroops += (pe.values.ntroops + d.ntroops);
                 }
                 break;
             case 'holding':
@@ -32,7 +120,7 @@ function calcTroops(d, gd) {
             case 'attack':
                 e.values.ntroops -= d.lost;
                 if(d.conquer) {
-                    e.values.tdelta += 1;
+                    // e.values.tdelta += 1;
                 }
                 var eD = vals[getPlayerIdx(d.dplayer, vals)];
                 if(eD != undefined) {
@@ -41,7 +129,7 @@ function calcTroops(d, gd) {
                     }
                     eD.values.ntroops -= d.killed;
                     if(d.conquer) {
-                        eD.values.tdelta -= 1;
+                        // eD.values.tdelta -= 1;
                     }
                 }
                 break;
@@ -89,11 +177,11 @@ function drawSummaryGraphs(gameId, gdata) {
                 // Number of territories at beginning of round
                 'nterritories' : d3.sum(l.filter(function(d) { return d.type == 'territory'; }), function (d) { return d.nterritories; }),
                 // Number of territories won/lost in round
-                'tdelta' : 0,
+                // 'tdelta' : 0,
                 // Total Troop Bonus at beginning of round
                 'bonus' : d3.sum(l.filter(function(d) { return d.type == 'territory' || d.type == 'holding'; }), function (d) { return d.ntroops; }),
                 // All Card Bonuses in the round
-                'cbonus' : d3.sum(l.filter(function(d) { return d.type == 'cardsT' || d.type == 'cardsP'; }), function (d) { return d.ntroops; }),
+                // 'cbonus' : d3.sum(l.filter(function(d) { return d.type == 'cardsT' || d.type == 'cardsP'; }), function (d) { return d.ntroops; }),
                 // Number of areas held at the beginning of a round
                 'areas' : l.filter(function (d) { return d.type == 'holding'; }).length
             };
@@ -102,7 +190,37 @@ function drawSummaryGraphs(gameId, gdata) {
 
     calcTroops(gdata, g_gdata);
 
-    console.log(g_gdata)
+    // Pivot the data to organize by stat type
+    var gstats = {};
+    for(var s in g_gdata[0].values[0].values) {
+        gstats[s] = []
+        for(var p = 0; p < g_gdata[0].values.length; p++) {
+            gstats[s].push({
+                key : g_gdata[0].values[p].key,
+                values : []
+            });
+        }
+    }
+
+    // Stat_Type -> { player: <name>, values: [<by round>]}
+    for(var r = 0; r < g_gdata.length; r++) {
+        var rvals = g_gdata[r].values;
+        for(var p = 0; p < rvals.length; p++) {
+            var pdata = rvals[p];
+            for(s in gstats) {
+                gstats[s][getPlayerIdx(pdata.key, gstats[s])].values.push({
+                    x:r,
+                    y:pdata.values[s]
+                });
+            }
+        }
+    }
+    console.log(gstats);
+    drawLineCharts(gstats);
 }
 
-d3.json('https://hubot-gregcochard.rhcloud.com/hubot/dice', function (d) { setGameIds(d, drawSummaryGraphs); getGameData(drawSummaryGraphs); });
+getGD = true;
+d3.json('https://hubot-gregcochard.rhcloud.com/hubot/dice', function (d) {
+    setGameIds(d, 'Select Game', drawSummaryGraphs);
+    getGameData(drawSummaryGraphs);
+});

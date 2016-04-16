@@ -99,7 +99,7 @@ function getTeamColor(name) {
     if(name in users_tc) {
         return users_tc[name];
     } else {
-        return 'tc-0';
+        return users_tc['Neutral'];
     }
 }
 
