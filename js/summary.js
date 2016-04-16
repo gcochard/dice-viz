@@ -1,11 +1,16 @@
 var headers = {
     'ntroops' : 'Number of Troops (round end)',
-    'nterritories' : 'Number of Territories (round start)',
+    'nterritories' : 'Number of Territories (turn start)',
     'tdelta' : 'Territory Delta',
-    'bonus' : 'Total Troop Bonus (round start)',
+    'bonus' : 'Total Troop Bonus (turn start)',
     'cbonus' : 'Card Bonuses',
-    'areas' : 'Number of Areas (round start)'
+    'areas' : 'Number of Areas (turn start)'
 };
+
+var gstats, nTurn;
+var bmargin = {top: 20, right: 5, bottom: 30, left: 25},
+    bwidth = (window.innerWidth*0.46) - bmargin.left - bmargin.right,
+    bheight = (bwidth*0.75) - bmargin.top - bmargin.bottom;
 
 function getTeamColor(name) {
     if(name in users) {
@@ -15,11 +20,139 @@ function getTeamColor(name) {
     }
 }
 
-function drawLineCharts(gdata) {
+function pivotType(sdata) {
+    var bdata = []
+    for(var t = 0; t < nTurn; t++) {
+        bdata.push([]);
+        for(var p = 0; p < sdata.length; p++) {
+            if(sdata[p].values.length > t) {
+                bdata[t].push({
+                    key : sdata[p].key,
+                    y : sdata[p].values[t].y
+                });
+            }
+        }
+    }
+    return bdata;
+}
+
+function updateBarChart(dtype) {
+    if(d3.select('text.title').data()[0] == dtype) {
+        return;
+    }
+    var round = 0;
+    var x = d3.scale.ordinal()
+        .domain(gstats[dtype].map(function (d) { return d.key; }))
+        .rangeRoundBands([0, bwidth], .2);
+    var y = d3.scale.linear().range([bheight, 0]);
+    var xAxis = d3.svg.axis().scale(x).orient("bottom");
+    var yAxis = d3.svg.axis().scale(y).orient("left").outerTickSize(0);
+    var svg = d3.select('#focusBar svg g');
+
+    var bdata = pivotType(gstats[dtype]);
+
+    y.domain([0, Math.max(1, d3.max(bdata[0], function (d) { return d.y; }))])
+
+    svg.select('.y.axis').call(yAxis)
+
+    svg.select('.x.axis').call(xAxis)
+
+    svg.select("text.title")
+        .data([dtype])
+        .text(headers[dtype]);
+
+    var bars = svg.selectAll('.bars')
+        .data(bdata[round], function(d, i) {
+            return d.key+'|'+i+'|'+d.y;
+        });
+
+    bars.exit().remove();
+
+    bars.enter().append("g")
+        .attr("class", "bars")
+        .attr("transform", function(d) {
+            return "translate(" + x(d.key) + ",0)";
+        })
+        .append('rect')
+        .attr('width', x.rangeBand())
+        .attr('y', function(d) {
+            return y(d.y)-1;
+        })
+        .attr('height', function(d) {
+            return bheight - y(d.y);
+        })
+        .style('fill', function(d) {
+            return getTeamColor(d.key);
+        })
+}
+
+function drawBarChart(sdata, dtype) {
+    var x = d3.scale.ordinal()
+        .domain(sdata.map(function (d) { return d.key; }))
+        .rangeRoundBands([0, bwidth], .2);
+    var y = d3.scale.linear().range([bheight, 0]);
+    var xAxis = d3.svg.axis().scale(x).orient("bottom");
+    var yAxis = d3.svg.axis().scale(y).orient("left").outerTickSize(0);
+    nTurn = d3.max(sdata, function (d) {  return d.values.length; });
+    bdata = pivotType(sdata);
+
+    y.domain([0, Math.max(1, d3.max(bdata[0], function (d) { return d.y; }))]);
+
+    d3.selectAll('#focusBar svg').remove();
+
+    var svg = d3.select("#focusBar")
+        .append("svg")
+        .attr("width", bwidth + bmargin.left + bmargin.right)
+        .attr("height", bheight + bmargin.top + bmargin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + bmargin.left + "," + bmargin.top + ")");
+
+    svg.append("text")
+        .data([dtype])
+        .attr('class', 'title')
+        .attr("x", (bwidth / 2))
+        .attr("y", 0 - (bmargin.top / 2))
+        .attr("text-anchor", "middle")
+        .style("font-size", "14px")
+        .style("font-weight", "bold")
+        .text(headers[dtype]);
+
+    svg.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + bheight + ")")
+        .call(xAxis);
+
+    svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis);
+
+    svg.selectAll('.bars')
+        .data(bdata[0])
+        .enter()
+        .append("g")
+        .attr("class", "bars")
+        .attr("transform", function(d) {
+            return "translate(" + x(d.key) + ",0)";
+        })
+        .append('rect')
+        .attr('width', x.rangeBand())
+        .attr('y', function(d) {
+            return y(d.y)-1;
+        })
+        .attr('height', function(d) {
+            return bheight - y(d.y);
+        })
+        .style('fill', function(d) {
+            return getTeamColor(d.key);
+        })
+        // .on('mouseover', tip.show)
+        // .on('mouseout', tip.hide)
+}
+
+function drawLineCharts() {
     var margin = {top: 20, right: 5, bottom: 30, left: 25},
-        width = (window.innerWidth*0.25) - margin.left - margin.right,
-        height = (width*0.7) - margin.top - margin.bottom,
-        attrGraphW = ((width+margin.left+margin.right)*2);
+        width = ((window.innerWidth*0.46)*0.5) - margin.left - margin.right,
+        height = (width*0.72) - margin.top - margin.bottom;
     var x = d3.scale.linear().range([0, width]);
     var y = d3.scale.linear().range([height, 0]);
     var xAxis = d3.svg.axis().scale(x).orient("bottom");
@@ -31,18 +164,13 @@ function drawLineCharts(gdata) {
 
     d3.selectAll('#attrGraph svg').remove();
 
-    d3.select('#attrGraph')
-        .style('width', attrGraphW+'px');
-    d3.select('#focusBar')
-        .style('width', (window.innerWidth - attrGraphW)+'px')
-
-    for(var k in gdata) {
+    for(var k in gstats) {
     // k = 'ntroops';
-        x.domain([0, d3.max(gdata[k], function(d) { return d.values.length; })]);
+        x.domain([0, d3.max(gstats[k], function(d) { return d.values.length; })]);
         xAxis.ticks(x.domain()[1]);
         y.domain([
-            d3.min(gdata[k], function(p) { return d3.min(p.values, function(s) { return s.y; }); }),
-            d3.max(gdata[k], function(p) { return d3.max(p.values, function(s) { return s.y; }); }),
+            d3.min(gstats[k], function(p) { return d3.min(p.values, function(s) { return s.y; }); }),
+            d3.max(gstats[k], function(p) { return d3.max(p.values, function(s) { return s.y; }); }),
         ]);
         var svg = d3.select("#attrGraph")
             .append("svg")
@@ -53,12 +181,17 @@ function drawLineCharts(gdata) {
             .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
         svg.append("text")
+            .data([k])
             .attr("x", (width / 2))
             .attr("y", 0 - (margin.top / 2))
             .attr("text-anchor", "middle")
+            .attr('class', 'ltitle')
             .style("font-size", "14px")
             .style("text-decoration", "underline")
-            .text(headers[k]);
+            .text(headers[k])
+            .on('click', function (d) {
+                updateBarChart(d);
+            });
 
         svg.append("g")
             .attr("class", "x axis")
@@ -76,7 +209,7 @@ function drawLineCharts(gdata) {
             // .text("Temperature (ºF)");
 
         var lines = svg.selectAll(".line-"+k)
-            .data(gdata[k])
+            .data(gstats[k])
             .enter()
             .append("g")
             .attr("class", 'line-'+k);
@@ -191,7 +324,7 @@ function drawSummaryGraphs(gameId, gdata) {
     calcTroops(gdata, g_gdata);
 
     // Pivot the data to organize by stat type
-    var gstats = {};
+    gstats = {};
     for(var s in g_gdata[0].values[0].values) {
         gstats[s] = []
         for(var p = 0; p < g_gdata[0].values.length; p++) {
@@ -216,7 +349,8 @@ function drawSummaryGraphs(gameId, gdata) {
         }
     }
     console.log(gstats);
-    drawLineCharts(gstats);
+    drawLineCharts();
+    drawBarChart(gstats['ntroops'], 'ntroops');
 }
 
 getGD = true;

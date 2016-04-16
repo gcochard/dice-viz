@@ -5,6 +5,9 @@
     <meta charset="utf-8">
     <title>D12 Game Summary Data</title>
     <style>
+    body {
+        margin: 5px;
+    }
     .axis text {
         font: 10px sans-serif;
     }
@@ -14,17 +17,18 @@
         stroke: #000;
         shape-rendering: crispEdges;
     }
-
     .line {
         fill: none;
         stroke: steelblue;
         stroke-width: 1.5px;
     }
-
-    #attrGraph {
+    #attrGraph, #focusBar {
         margin-top: 5px;
-        float: right;
-        position: fixed;
+        display: inline-block;
+        width: 49%;
+    }
+    text.ltitle {
+        cursor: pointer;
     }
     </style>
     <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.2.min.js" integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI=" crossorigin="anonymous"></script>
