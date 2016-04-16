@@ -53,6 +53,7 @@ function updateBarChart(dtype, round) {
     by.domain([0, Math.max(1, d3.max(bdata[round], function (d) { return d.y; }))])
     bx.domain(bdata[round].map(function (d) { return d.key; }));
     xAxis.scale(bx);
+    xAxis.tickValues(null);
     yAxis.scale(by);
 
     svg.select('.y.axis')
@@ -114,9 +115,13 @@ function drawBarChart(sdata, dtype) {
     nTurn = d3.max(sdata, function (d) {  return d.values.length; });
     bdata = pivotType(sdata);
 
-    by.domain([0, Math.max(1, d3.max(bdata[0], function (d) { return d.y; }))]);
+    by.domain([
+        Math.min(0, d3.min(bdata[0], function (d) { return d.y; })),
+        Math.max(1, d3.max(bdata[0], function (d) { return d.y; }))
+    ]);
     bx.domain(bdata[0].map(function (d) { return d.key; }));
     xAxis.scale(bx);
+    xAxis.tickValues(null);
     yAxis.scale(by);
 
     d3.selectAll('#focusBar svg').remove();
@@ -214,6 +219,7 @@ function drawLineCharts() {
     for(var k in gstats) {
     // k = 'ntroops';
         x.domain([0, d3.max(gstats[k], function(d) { return d.values.length; })]);
+        xAxis.tickValues(d3.range(1, x.domain()[1]+1));
         y.domain([
             d3.min(gstats[k], function(p) { return d3.min(p.values, function(s) { return s.y; }); }),
             d3.max(gstats[k], function(p) { return d3.max(p.values, function(s) { return s.y; }); }),
