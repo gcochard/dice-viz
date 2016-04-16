@@ -8,12 +8,21 @@ var headers = {
 };
 
 var gstats, nTurn;
+
+// Bar Chart variables
 var bmargin = {top: 20, right: 5, bottom: 30, left: 25},
     bwidth = (window.innerWidth*0.46) - bmargin.left - bmargin.right,
     bheight = (bwidth*0.75) - bmargin.top - bmargin.bottom;
 var by = d3.scale.linear().range([bheight, 0]);
 var bx = d3.scale.ordinal().rangeRoundBands([0, bwidth], .2);
-var xAxis = d3.svg.axis().orient("bottom");
+
+// Line Chart variables
+var lmargin = {top: 20, right: 5, bottom: 30, left: 25},
+    lwidth = ((window.innerWidth*0.46)*0.5) - lmargin.left - lmargin.right,
+    lheight = (lwidth*0.72) - lmargin.top - lmargin.bottom;
+var lx = d3.scale.linear().range([0, lwidth]);
+var ly = d3.scale.linear().range([lheight, 0]);
+var xAxis = d3.svg.axis().orient("bottom").outerTickSize(0);
 var yAxis = d3.svg.axis().orient("left").outerTickSize(0);
 
 function getTeamColor(name) {
@@ -41,11 +50,7 @@ function pivotType(sdata) {
 }
 
 function updateBarChart(dtype, round) {
-    // if(d3.select('text.title').data()[0] == dtype) {
-    //     return;
-    // }
-    // var round = 0;
-    round -= 1;
+    round -= 1; // Rounds are 0 indexed, but passed as 1 based
     var svg = d3.select('#focusBar svg g');
 
     var bdata = pivotType(gstats[dtype]);
@@ -106,9 +111,20 @@ function updateBarChart(dtype, round) {
         .attr('height', function(d) {
             return bheight - by(d.y);
         })
-        // .on('mouseover', tip.show)
-        // .on('mouseout', tip.hide)
     $("#slider").slider('value', round);
+
+    for(var k in gstats) {
+        lx.domain([0, d3.max(gstats[k], function(d) { return d.values.length; })]);
+        ly.domain([
+            d3.min(gstats[k], function(p) { return d3.min(p.values, function(s) { return s.y; }); }),
+            d3.max(gstats[k], function(p) { return d3.max(p.values, function(s) { return s.y; }); }),
+        ]);
+        d3.select('#rl-'+k)
+            .attr("y1", ly(ly.domain()[0]))
+            .attr("y2", ly(ly.domain()[1]))
+            .attr("x1", lx(round))
+            .attr("x2", lx(round))
+    }
 }
 
 function drawBarChart(sdata, dtype) {
@@ -172,8 +188,6 @@ function drawBarChart(sdata, dtype) {
         .style('fill', function(d) {
             return getTeamColor(d.key);
         })
-        // .on('mouseover', tip.show)
-        // .on('mouseout', tip.hide)
 
     var slider = d3.select("#focusBar").append('div').attr('id', 'slider');
     var sval = slider.append('span').attr('id', 'sval');
@@ -202,40 +216,33 @@ function drawBarChart(sdata, dtype) {
 }
 
 function drawLineCharts() {
-    var margin = {top: 20, right: 5, bottom: 30, left: 25},
-        width = ((window.innerWidth*0.46)*0.5) - margin.left - margin.right,
-        height = (width*0.72) - margin.top - margin.bottom;
-    var x = d3.scale.linear().range([0, width]);
-    var y = d3.scale.linear().range([height, 0]);
-    xAxis.scale(x);
-    yAxis.scale(y);
+    xAxis.scale(lx);
+    yAxis.scale(ly);
     var line = d3.svg.line()
         .interpolate("linear")
-        .x(function(d) { return x(d.x); })
-        .y(function(d) { return y(d.y); });
+        .x(function(d) { return lx(d.x); })
+        .y(function(d) { return ly(d.y); });
 
     d3.selectAll('#attrGraph svg').remove();
 
     for(var k in gstats) {
-    // k = 'ntroops';
-        x.domain([0, d3.max(gstats[k], function(d) { return d.values.length; })]);
-        xAxis.tickValues(d3.range(1, x.domain()[1]+1));
-        y.domain([
+        lx.domain([1, d3.max(gstats[k], function(d) { return d.values.length+1; })]);
+        ly.domain([
             d3.min(gstats[k], function(p) { return d3.min(p.values, function(s) { return s.y; }); }),
             d3.max(gstats[k], function(p) { return d3.max(p.values, function(s) { return s.y; }); }),
         ]);
         var svg = d3.select("#attrGraph")
             .append("svg")
-            .attr("width", width + margin.left + margin.right)
-            .attr("height", height + margin.top + margin.bottom)
+            .attr("width", lwidth + lmargin.left + lmargin.right)
+            .attr("height", lheight + lmargin.top + lmargin.bottom)
             .attr('id', k)
             .append("g")
-            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+            .attr("transform", "translate(" + lmargin.left + "," + lmargin.top + ")");
 
         svg.append("text")
             .data([k])
-            .attr("x", (width / 2))
-            .attr("y", 0 - (margin.top / 2))
+            .attr("x", (lwidth / 2))
+            .attr("y", 0 - (lmargin.top / 2))
             .attr("text-anchor", "middle")
             .attr('class', 'ltitle')
             .style("font-size", "14px")
@@ -247,7 +254,7 @@ function drawLineCharts() {
 
         svg.append("g")
             .attr("class", "x axis")
-            .attr("transform", "translate(0," + height + ")")
+            .attr("transform", "translate(0," + lheight + ")")
             .call(xAxis);
 
         svg.append("g")
@@ -258,7 +265,14 @@ function drawLineCharts() {
             .attr("y", 6)
             .attr("dy", ".71em")
             .style("text-anchor", "end");
-            // .text("Temperature (ºF)");
+
+        svg.append("line")
+            .attr('class', 'r-line')
+            .attr('id', 'rl-'+k)
+            .attr("y1", ly(ly.domain()[0]))
+            .attr("y2", ly(ly.domain()[1]))
+            .attr("x1", lx(1))
+            .attr("x2", lx(1))
 
         var lines = svg.selectAll(".line-"+k)
             .data(gstats[k])
@@ -394,7 +408,7 @@ function drawSummaryGraphs(gameId, gdata) {
             var pdata = rvals[p];
             for(s in gstats) {
                 gstats[s][getPlayerIdx(pdata.key, gstats[s])].values.push({
-                    x:r,
+                    x:r+1,
                     y:pdata.values[s]
                 });
             }
@@ -412,6 +426,5 @@ d3.json('https://hubot-gregcochard.rhcloud.com/hubot/dice', function (d) {
 
 
 /* TODO:
-    - Slider to select round
     - Vertical bar on line graphs to match Slider
 */
