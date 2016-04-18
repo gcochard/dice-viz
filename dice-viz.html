@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>D12 Dice Data</title>
+    <title>GBC: D12 Dice Data</title>
     <link rel="stylesheet" type="text/css" href="css/dice.css">
     <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.2.min.js" integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI=" crossorigin="anonymous"></script>
     <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    <h2>D12 Dice Roll Analysis</h2>
+    <h2>GBC: D12 Dice Data</h2>
     <div id="selectors">
         <select id="game"></select>
         <form id="dtype">
@@ -22,6 +22,76 @@
         </form>
     </div>
     <svg id="freqGraph"></svg>
+    <div id="odds_selectors">
+        <!-- <select id="o_game"></select> -->
+        <select id="players"></select>
+    </div>
+    <table id='odd_t'>
+        <thead>
+            <tr>
+                <th colspan="6">Battle Odds</th>
+            </tr>
+            <tr>
+                <th>Number Of Attackers</th>
+                <th>Number Of Defenders</th>
+                <th>Number Of Rolls</th>
+                <th>Attacker Wins All</th>
+                <th>Split</th>
+                <th>Defender Wins All</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id='3v2'>
+                <td class='num'>3</td>
+                <td class='num'>2</td>
+                <td id='total_3_2' class='num'></td>
+                <td id='a_win_3_2'></td>
+                <td id='split_3_2'></td>
+                <td id='d_win_3_2'></td>
+            </tr>
+            <tr id='3v1'>
+                <td class='num'>3</td>
+                <td class='num'>1</td>
+                <td id='total_3_1' class='num'></td>
+                <td id='a_win_3_1'></td>
+                <td id='split_3_1'></td>
+                <td id='d_win_3_1'></td>
+            </tr>
+            <tr id='2v2'>
+                <td class='num'>2</td>
+                <td class='num'>2</td>
+                <td id='total_2_2' class='num'></td>
+                <td id='a_win_2_2'></td>
+                <td id='split_2_2'></td>
+                <td id='d_win_2_2'></td>
+            </tr>
+            <tr id='2v1'>
+                <td class='num'>2</td>
+                <td class='num'>1</td>
+                <td id='total_2_1' class='num'></td>
+                <td id='a_win_2_1'></td>
+                <td id='split_2_1'></td>
+                <td id='d_win_2_1'></td>
+            </tr>
+            <tr id='1v2'>
+                <td class='num'>1</td>
+                <td class='num'>2</td>
+                <td id='total_1_2' class='num'></td>
+                <td id='a_win_1_2'></td>
+                <td id='split_1_2'></td>
+                <td id='d_win_1_2'></td>
+            </tr>
+            <tr id='1v1'>
+                <td class='num'>1</td>
+                <td class='num'>1</td>
+                <td id='total_1_1' class='num'></td>
+                <td id='a_win_1_1'></td>
+                <td id='split_1_1'></td>
+                <td id='d_win_1_1'></td>
+            </tr>
+        </tbody>
+    </table>
+    <script type="text/javascript" src="js/battle.js"></script>
     <script type="text/javascript" src="js/dice.js"></script>
 </body>
 

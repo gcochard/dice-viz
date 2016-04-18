@@ -1,3 +1,4 @@
+/* Styling for the Bar Graph */
 .bar {
     fill: steelblue;
 }
@@ -31,4 +32,38 @@ form {
 
 .label {
     font-weight: bold;
+}
+/* Styling for the Odds Table */
+table {
+    width: 80%;
+    margin: 5px;
+    border: 1px solid black;
+    font-size: 10pt;
+    font-family: sans-serif;
+}
+thead {
+    color: white;
+    background-color: black;
+    padding: 2px;
+}
+th, td {
+    border: 1px solid black;
+}
+td {
+    text-align: center;
+}
+.num {
+    background-color: #f0f0f0;
+}
+.win {
+    background-color: #bfffbf;
+    color: #000000;
+    padding-left: 2px;
+    padding-right:2px
+}
+.lose {
+    background-color: #ffbfbf;
+    color: #000000;
+    padding-left: 2px;
+    padding-right:2px
 }
