@@ -1,3 +1,33 @@
+var exp_prob = {
+    '3_2': {
+        a_win : 0.37,
+        d_win : 0.29,
+        split : 0.34
+    },
+    '3_1': {
+        a_win : 0.66,
+        d_win : 0.34
+    },
+    '2_2': {
+        a_win : 0.23,
+        d_win : 0.45,
+        split : 0.32
+    },
+    '2_1': {
+        a_win : 0.58,
+        d_win : 0.42
+    },
+    '1_2': {
+        a_win : 0.25,
+        d_win : 0.75
+    },
+    '1_1': {
+        a_win : 0.42,
+        d_win : 0.58
+    },
+
+}
+
 function calcDiceOdds(ddata, game, player) {
     var odds = {}
     for(var a = 3; a > 0; a--) {
@@ -67,7 +97,13 @@ function calcDiceOdds(ddata, game, player) {
         if('split' in odds[k]) {
             odds[k].split_p = ((odds[k].split / odds[k].total)*100).toFixed(2);
         }
+        for(var t in odds[k]) {
+            if(/_p$/.test(t) || t == 'total')
+                continue;
+            odds[k][t+'_e'] = Math.round(odds[k].total * exp_prob[k][t]);
+        }
     }
+    // console.log(odds);
     return odds;
 }
 
@@ -75,7 +111,9 @@ function updatePlayerList(players) {
     var options = d3.select('#players')
         .on('change', updateOdds)
         .selectAll('.player')
-        .data(players);
+        .data(players, function (d) {
+            return d;
+        });
 
     options.exit().remove();
 
@@ -107,14 +145,14 @@ function updateOdds() {
     dodds = calcDiceOdds(d3.entries(data).filter(function (d) { return d.key != 'undefined'; }), game_id, sel_player);
     for(var k in dodds) {
         for(var t in dodds[k]) {
-            if(/_p$/.test(t)) {
+            if(/_p$/.test(t) || /_e$/.test(t))
                 continue;
-            }
+
             d3.select('#'+t+'_'+k)
-                .text(dodds[k][t])
+                .text(dodds[k][t]+(t == 'total' ? '' : ' ('+dodds[k][t+'_e']+')'))
             d3.select('#'+t+'_'+k)
                 .append('br')
-            if(dodds[k][t] > 0) {
+            if(t+'_p' in dodds[k] && dodds[k][t] > 0) {
                 d3.select('#'+t+'_'+k)
                     .append('span')
                     .attr('class', function () {
