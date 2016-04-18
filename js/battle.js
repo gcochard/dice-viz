@@ -103,6 +103,7 @@ function updateOdds() {
         ['All'].concat(d3.set(data[game_id].map(function(d) { return d.player; })).values());
     updatePlayerList(players);
     var sel_player = d3.select('#players').property('value');
+
     dodds = calcDiceOdds(d3.entries(data).filter(function (d) { return d.key != 'undefined'; }), game_id, sel_player);
     for(var k in dodds) {
         for(var t in dodds[k]) {
@@ -135,15 +136,9 @@ function updateOdds() {
                     .text(dodds[k][t+'_p']);
             }
         }
-
     }
+
+    d3.selectAll('th')
+        .style('background-color', users[sel_player])
+        .style('color', sel_player == 'ryanbmilbourne' ? 'black' : 'white')
 }
-
-function vizBatteOdds(error, data) {
-    window.sessionStorage.setItem('diceData', JSON.stringify(data))
-    setGameIds(data, 'All', updateOdds);
-    updateOdds();
-
-}
-
-d3.json('https://hubot-gregcochard.rhcloud.com/hubot/dice', vizBatteOdds);

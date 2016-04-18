@@ -208,7 +208,7 @@ function updateDiceData() {
         .text(function(d) {
             return d.key;
         })
-        //.on('click', updateDiceData)
+    updateOdds();
 }
 
 function vizDiceData(error, data) {
@@ -278,7 +278,7 @@ function vizDiceData(error, data) {
         .text(function(d) {
             return d.key;
         })
-        //.on('click', updateDiceData)
+    updateOdds();
 }
 
 d3.json('https://hubot-gregcochard.rhcloud.com/hubot/dice', vizDiceData);
