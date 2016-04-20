@@ -42,8 +42,8 @@ table {
     font-family: sans-serif;
 }
 thead {
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: white;
     padding: 2px;
 }
 th, td {
