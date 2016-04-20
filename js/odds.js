@@ -182,5 +182,5 @@ function updateOdds() {
 
     d3.selectAll('th')
         .style('background-color', users[sel_player])
-        .style('color', sel_player == 'ryanbmilbourne' ? 'black' : 'white')
+        .style('color', ['ryanbmilbourne', 'All'].indexOf(sel_player) > -1 ? 'black' : 'white')
 }
