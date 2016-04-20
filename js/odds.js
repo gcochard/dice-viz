@@ -126,6 +126,7 @@ function updatePlayerList(players) {
 
 function updateOdds() {
     var data = JSON.parse(window.sessionStorage.getItem('diceData'));
+    var total_rolls = 0;
     if (window.location.search) {
         var parts = window.location.search.split('=');
         if (parts.length == 2) {
@@ -147,7 +148,7 @@ function updateOdds() {
         for(var t in dodds[k]) {
             if(/_p$/.test(t) || /_e$/.test(t))
                 continue;
-
+            total_rolls += dodds[k].total;
             d3.select('#'+t+'_'+k)
                 .text(dodds[k][t]+(t == 'total' ? '' : ' ('+dodds[k][t+'_e']+')'))
             d3.select('#'+t+'_'+k)
@@ -175,6 +176,9 @@ function updateOdds() {
             }
         }
     }
+
+    // Update the cell in the table
+    d3.select('#total_rolls').text(total_rolls);
 
     d3.selectAll('th')
         .style('background-color', users[sel_player])
