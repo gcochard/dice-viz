@@ -88,7 +88,15 @@ function updateBarChart(dtype, round) {
             return "translate(" + bx(d.key) + ",0)";
         })
     bars.selectAll('rect')
-        .attr('width', bx.rangeBand());
+        .attr('width', bx.rangeBand())
+        .transition()
+        .duration(500)
+        .attr('y', function(d) {
+            return by(d.y)-1;
+        })
+        .attr('height', function(d) {
+            return bheight - by(d.y);
+        })
 
     bars.enter()
         .append("g")
