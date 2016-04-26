@@ -4,6 +4,8 @@ var curState, curRound, curPlayer,
     intTime = 500,
     territorySize='large';
 
+var nplayers, nterritories, st_t_cnt, n_nuetral;
+
 function getTIDbyName(t, n) {
     for(var k in t) {
         if(t[k].name == n) {
@@ -15,28 +17,81 @@ function getTIDbyName(t, n) {
 
 function calcInitial(mdata, gdata) {
     var t = mdata.value.territories,
-        i, e, k;
+        i, e, k, t_t, s_t,
+        winners={}
     for(i = 0; i < gdata.length; i++) {
         e = gdata[i];
         switch(e.type) {
             case "win":
+                winners[e.player] = 0;
                 for(k in t) {
                     t[k].owner = e.player;
                     t[k].ntroops = 3;
+                    t[k].modified = false;
                 }
                 break;
             case "attack":
-                t[getTIDbyName(t,e.source_t)].owner = e.player;
-                t[getTIDbyName(t,e.target_t)].owner = e.dplayer;
+                s_t = getTIDbyName(t,e.source_t);
+                t[s_t].owner = e.player;
+                t[s_t].modified = true;
+
+                t_t = getTIDbyName(t,e.target_t);
+                t[t_t].owner = e.dplayer;
+                t[t_t].modified = true;
                 break;
             case 'deploy':
-                t[getTIDbyName(t,e.territory)].owner = e.player;
+                t_t = getTIDbyName(t,e.territory);
+                t[t_t].owner = e.tplayer;
+                t[t_t].modified = true;
                 break;
             case 'cardsP':
+                t_t = getTIDbyName(t,e.territory);
                 t[getTIDbyName(t,e.territory)].owner = e.player;
+                t[t_t].modified = true;
+                break;
+            case 'foritfy':
+                s_t = getTIDbyName(t,e.source_t),
+                t[s_t].owner = e.player;
+                t[s_t].modified = true;
+
+                t_t = getTIDbyName(t,e.target_t);
+                t[t_t].owner = e.tplayer;
+                t[t_t].modified = true;
                 break;
             default:
                 break;
+        }
+    }
+    /* If thre is an untouched territory in team game
+       need to make sure all playres start with correct
+       number of territories */
+    if(Object.keys(winners).length > 1) {
+        var p_add, p_sub;
+        for(k in t) {
+            if(t[k].owner in winners) {
+                winners[t[k].owner] += 1;
+            }
+        }
+        // TODO: Handle multiple winners with bad counts
+        // For now handle the simple case of just two
+        for(k in winners) {
+            if(winners[k] == st_t_cnt) {
+                delete winners[k];
+            } else if(winners[k] > st_t_cnt) {
+                p_sub = k;
+            } else { // Less than
+                p_add = k;
+            }
+        }
+        for(k in t) {
+            if(!t[k].modified) {
+                t[k].owner = p_add;
+                winners[p_sub] -= 1;
+                winners[p_add] += 1;
+            }
+            if(winners[p_sub] == winners[p_add]) { // Finall equalized
+                break;
+            }
         }
     }
 }
@@ -303,10 +358,12 @@ function drawGameData(gid, gdata, mdata) {
     d3.select('#static')
         .style('top', '0px');
 
-    var nplayers = turnOrder.length,
-        nterritories = d3.entries(mdata.value.territories).length;
+    nplayers = turnOrder.length;
+    nterritories = d3.entries(mdata.value.territories).length;
+    st_t_cnt = Math.floor(nterritories/nplayers);
+    n_nuetral = nterritories%nplayers;
 
-    console.log(Math.floor(nterritories/nplayers), nterritories%nplayers);
+    console.log(st_t_cnt, n_nuetral);
 
     gdata = gdata.filter(function (d) {
         // Include the game start message to attach initial board state

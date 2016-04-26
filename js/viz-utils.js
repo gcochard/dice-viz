@@ -59,8 +59,7 @@ function setGameIds(data, opt0, chg_cb) {
         .selectAll('option')
         .data([opt0].concat(d3.keys(data).filter(function(d) {
             if(getGD) {
-                return d != "undefined" && Number(d) >= 608220 &&
-                        (Number(d) != 622574 || Number(d) != 622960);
+                return d != "undefined" && Number(d) >= 608220 && Number(d) != 622574;
             } else {
                 return d != "undefined";
             }
@@ -191,15 +190,17 @@ function matchD12(e) {
             }
             e.ntroops = Number(caps[4]);
             e.territory = caps[1];
+            e.tplayer = caps[2];
             break;
         case fortifyPattern.test(e.message):
             var caps = e.message.match(fortifyPattern);
             e.type = 'foritfy';
-            if(e.player != caps[2]) {
-                console.log('ERROR - Mismatch user. Updating',e.player,'to',caps[2]);
-                e.player = caps[2];
+            if(e.player != caps[4]) {
+                console.log('ERROR - Mismatch user. Updating',e.player,'to',caps[4]);
+                e.player = caps[4];
             }
             e.source_t = caps[3];
+            e.tplayer = caps[2];
             e.target_t = caps[1];
             e.ntroops = Number(caps[5]);
             break;
