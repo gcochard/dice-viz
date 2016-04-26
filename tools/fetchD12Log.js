@@ -142,32 +142,48 @@ var fetchLog = function(gameId, cb){
     })
 }
 
-// Get the initial set of GameIds based on the Dice.
+// Get All GameIds
 // Call out to get all the maps
-request.get({
-    url: 'https://hubot-gregcochard.rhcloud.com/hubot/dice'
-}, function(err, res, body) {
-    if(err || res.statusCode !== 200){
-        console.dir(err || new Error('non-200 status code: '+res.statusCode))
+// request.get({
+//     url: 'https://hubot-gregcochard.rhcloud.com/hubot/dice'
+// }, function(err, res, body) {
+//     if(err || res.statusCode !== 200){
+//         console.dir(err || new Error('non-200 status code: '+res.statusCode))
+//         process.exit(1)
+//     }
+//     var data = JSON.parse(body);
+//     var gameIds = d3.keys(data).filter(function(d) {
+//         return d != "undefined" && d != '600989'
+//     });
+//     gameIds.forEach(function (d) {
+//         fetchLog(Number(d), function(err, data){
+//             if(err){
+//                 console.dir(err)
+//                 process.exit(1)
+//             }
+//             fs.writeFile("data/"+d+".json", JSON.stringify(data, null, 2), function(err) {
+//                 if(err) {
+//                     return console.log(err);
+//                 }
+//
+//                 console.log("File",d,"was saved!");
+//             });
+//         });
+//     });
+// });
+
+// Get Single Game
+var d = 622960
+fetchLog(Number(d), function(err, data){
+    if(err){
+        console.dir(err)
         process.exit(1)
     }
-    var data = JSON.parse(body);
-    var gameIds = d3.keys(data).filter(function(d) {
-        return d != "undefined" && d != '600989'
-    });
-    gameIds.forEach(function (d) {
-        fetchLog(Number(d), function(err, data){
-            if(err){
-                console.dir(err)
-                process.exit(1)
-            }
-            fs.writeFile("data/"+d+".json", JSON.stringify(data, null, 2), function(err) {
-                if(err) {
-                    return console.log(err);
-                }
+    fs.writeFile("data/"+d+".json", JSON.stringify(data, null, 2), function(err) {
+        if(err) {
+            return console.log(err);
+        }
 
-                console.log("File",d,"was saved!");
-            });
-        });
+        console.log("File",d,"was saved!");
     });
 });

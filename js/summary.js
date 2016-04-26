@@ -309,6 +309,15 @@ function calcTroops(d, gd) {
             console.log("ERROR -",d.type,"player mismatch",e, d);
         }
         switch(d.type) {
+            case 'win':
+                /* In team play can have multiple winners.
+                   Make sure that their data progresses to game end.*/
+                if(e.values.ntroops <= 0) {
+                    pvals = gd[d.round-2].values,
+                    pe = pvals[getPlayerIdx(d.player, pvals)];
+                    e.values = pe.values;
+                }
+                break;
             case 'territory':
                 // Initialize the number of troops for the first round
                 if(d.round == 1) {
@@ -340,6 +349,16 @@ function calcTroops(d, gd) {
                     }
                 }
                 break;
+            /* In team play can forify/deply to other teammates.
+               Adjust troop count for end of round to reflect that. */
+            case 'foritfy':
+            case 'deploy':
+                e.values.ntroops -= d.ntroops;
+                eT = vals[getPlayerIdx(d.tplayer, vals)];
+                if(eT != undefined) {
+                    eT.values.ntroops += d.ntroops;
+                }
+                break;
         }
     });
 }
@@ -358,7 +377,6 @@ function drawSummaryGraphs(gameId, gdata) {
            turnStartPattern.test(d.message) ||
            turnEndPattern.test(d.message) ||
            tokenRatingPattern.test(d.message) ||
-           winnerPattern.test(d.message) ||
            gameStartPattern.test(d.message)) {
             return false;
         }
