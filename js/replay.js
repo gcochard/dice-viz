@@ -310,6 +310,9 @@ function updateGame() {
         $('ul#r'+curRound+'-p-'+curPlayer).children('ul').show();
     }
 
+    // Update the hash for permalinking
+    window.location.hash = '#r'+curRound+'-p-'+curPlayer+'-e'+cturn.eventID;
+
     $('li.cturn').toggleClass('cturn');
     var curEvent = $('li#r'+curRound+'-p-'+curPlayer+'-e'+cturn.eventID)
     curEvent.toggleClass('cturn');
@@ -447,14 +450,32 @@ function drawGameData(gid, gdata, mdata) {
     });
 
     // Begin the updates
-    $('#stop-upd').prop("disabled",false);
-    $('#start-upd').prop("disabled",true);
-    intTime = $('form#speed input[type="radio"]:checked').val();
-    curState = 1;
-    curRound = 0;
-    curPlayer = '';
     gameState = gdata;
-    intID = setInterval(updateGame, intTime);
+    intTime = $('form#speed input[type="radio"]:checked').val();
+
+    // Load game from a specific hash point
+    if(window.location.hash) {
+        var hash = window.location.hash;
+        var caps = hash.match(/r(\d+)-p-(\w+)-e(\d+)/);
+        curRound = caps[1];
+        curPlayer = caps[2];
+        curState = caps[3];
+
+        // Toggle the display of the list
+        $('ul#r'+curRound).children('ul').show();
+        $('ul#r'+curRound+'-p-'+curPlayer).children('ul').show();
+
+        // Enable the correct play/stop buttons
+        stopUpdateGameBoard();
+        updateGame();
+    } else {
+        $('#stop-upd').prop("disabled",false);
+        $('#start-upd').prop("disabled",true);
+        curState = 1;
+        curRound = 0;
+        curPlayer = '';
+        intID = setInterval(updateGame, intTime);
+    }
 }
 
 getGD = true;
