@@ -8,18 +8,22 @@ var tip = d3.tip()
         var A = d.id.split('-')[0];
         var B = d.id.split('-')[1];
         var type = d3.select('input[name="atype"]:checked').property("value");
-        if(type == 'attacked')
-            return '<span class="label">'+A+'</span> has '+type+' <span class="label">'+B+'</span> '+d.weight+' times';
-        else if(type == 'lost')
-            return '<span class="label">'+A+'</span> has '+type+' '+d.weight+' troops to <span class="label">'+B+'</span>';
-        else
-            return '<span class="label">'+A+'</span> has '+type+' '+d.weight+' of <span class="label">'+B+'</span> troops';
-
+        var Apercent = ((d.weight/d.atotal)*100).toFixed(2);
+        var Bpercent = ((d.weight/d.btotal)*100).toFixed(2);
+        if(type == 'attacked') {
+            return '<span class="label">'+A+'</span> has attacked <span class="label">'+B+'</span> '+d.weight+' ('+Apercent+'%) times<br />'+
+                   '<span class="label">'+B+'</span> defends against <span class="label">'+A+'</span> '+Bpercent+'% of the time';
+        } else if(type == 'lost') {
+            return '<span class="label">'+A+'</span> has lost '+d.weight+' ('+Apercent+'%) troops to <span class="label">'+B+'</span>';
+        } else {
+            return '<span class="label">'+A+'</span> has killed '+d.weight+' ('+Apercent+'%) of <span class="label">'+B+'</span> troops';
+        }
     });
 
 function gridOver(d,i) {
     d3.selectAll("rect").style("stroke-width", function (p) {return p.x == d.x && p.y == d.y ? "3px" : "1px"});
-    tip.show(d, i);
+    if(d.weight > 0)
+        tip.show(d, i);
 }
 
 function gridOut(d,i) {
@@ -105,6 +109,10 @@ function vizAttackData(redrawSlider) {
             })
         }
     }
+    var p_totals = {};
+    for(p in u_nodes) {
+        p_totals[u_nodes[p].key] = { 'player': 0, 'dplayer': 0 };
+    }
 
     var edgeHash = {},
          // Have to use the sval as the slider has not finished update
@@ -112,9 +120,10 @@ function vizAttackData(redrawSlider) {
         max_r = Number($('#sval2').html());
     gData.forEach(function (e) {
         var id = e.player + "-" + e.dplayer;
-        if(game_id == 'All' || (min_r <= e.round && e.round <= max_r)) {
+        if((game_id == 'All' || (min_r <= e.round && e.round <= max_r)) &&
+            (u_nodes.some(function (d) { return d.key == e.player }) && u_nodes.some(function (d) { return d.key == e.dplayer }))) {
             if (edgeHash[id]) {
-                edgeHash[id].weight += (type == 'attacked' ? 1 : (type == 'killed' ? e.killed : e.lost))
+                edgeHash[id].weight += (type == 'attacked' ? 1 : (type == 'killed' ? e.killed : e.lost));
             } else {
                 edgeHash[id] = {
                     source: e.player,
@@ -122,10 +131,14 @@ function vizAttackData(redrawSlider) {
                     weight: (type == 'attacked' ? 1 : (type == 'killed' ? e.killed : e.lost))
                 };
             }
+            if(p_totals[e.player])
+                p_totals[e.player].player += (type == 'attacked' ? 1 : (type == 'killed' ? e.killed : e.lost))
+            if(p_totals[e.dplayer])
+                p_totals[e.dplayer].dplayer += (type == 'attacked' ? 1 : (type == 'killed' ? e.killed : e.lost))
         }
     });
-    matrix = [];
 
+    matrix = [];
     //create all possible edges
     for (a in u_nodes)
     {
@@ -135,6 +148,8 @@ function vizAttackData(redrawSlider) {
             if (edgeHash[grid.id])
             {
                 grid.weight = +edgeHash[grid.id].weight;
+                grid.atotal = p_totals[u_nodes[a].key].player;
+                grid.btotal = p_totals[u_nodes[b].key].dplayer;
             }
             matrix.push(grid);
         }
