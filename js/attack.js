@@ -29,7 +29,9 @@ function gridOut(d,i) {
 
 function vizAttackData(redrawSlider) {
     var boxWH = 75,
-        margins = {top: 80, left: 100, right: 30, bottom: 10};
+        margins = {top: 80, left: 100, right: 30, bottom: 60},
+        legendElementWidth = boxWH*0.5,
+        legendElementHeight = boxWH*0.25;
 
     var game_id = d3.select("#game").property("value");
     var type = d3.select('input[name="atype"]:checked').property("value");
@@ -138,10 +140,10 @@ function vizAttackData(redrawSlider) {
         }
     }
 
-    var colors = ['#a50026','#d73027','#f46d43','#fdae61','#fee08b','#ffffbf','#d9ef8b','#a6d96a','#66bd63','#1a9850','#006837'].reverse()
+    var m_weight = d3.max(matrix, function (d) { return d.weight; });
+    var colors = colorbrewer.YlOrRd[m_weight < 9 ? (m_weight < 3 ? 3 : m_weight) : 9];
     var colorScale = d3.scale.quantile()
-        .domain([d3.min(matrix, function (d) { return d.weight; }),
-                 d3.max(matrix, function (d) { return d.weight; })])
+        .domain([d3.min(matrix, function (d) { return d.weight; }), m_weight])
         .range(colors);
     var svg = d3.select("svg");
     svg.call(tip);
@@ -163,7 +165,9 @@ function vizAttackData(redrawSlider) {
         .attr("y", function(d) {return d.y * boxWH})
         .style("stroke", "black")
         .style("stroke-width", "1px")
-        .style("fill", function(d) { return d.weight == 0 ? "white" : colorScale(d.weight); })
+        .style("fill", function(d) {
+            return d.weight == 0 ? "white" : colorScale(d.weight);
+        })
         .on("mouseover", gridOver)
         .on('mouseout', gridOut)
 
@@ -181,11 +185,36 @@ function vizAttackData(redrawSlider) {
         .style("text-anchor", "start")
         .style("font-size", "80%")
         .attr("transform", "translate(0,-5) rotate(-45)");
+
     d3.select("#adjacencyG")
         .append("g")
         .call(yAxis)
         .selectAll("text")
         .style("font-size", "80%");
+
+    svg.selectAll('.legend').data([]).exit().remove()
+
+    var legend = svg.selectAll(".legend")
+        .data([0].concat(colorScale.quantiles()), function (d) { return d; });
+
+    legend.enter().append("g")
+        .attr("class", "legend")
+        .attr("transform", "translate(" + margins.left + ",18)");
+
+    legend.append("rect")
+        .attr("x", function (d, i) { return legendElementWidth * i; })
+        .attr("y", boxWH*u_nodes.length+margins.top)
+        .attr("width", legendElementWidth)
+        .attr("height", legendElementHeight)
+        .style("fill", function (d, i) { return colors[i]; })
+        .style("stroke", "black")
+        .style("stroke-width", "1");
+
+    legend.append("text")
+        .attr("class", "mono")
+        .text(function(d) { return "≥ " + Math.round(d); })
+        .attr("x", function(d, i) { return legendElementWidth * i; })
+        .attr("y", boxWH*u_nodes.length+margins.top+legendElementHeight*1.75);
 }
 
 function collectData(error, data, gid) {
