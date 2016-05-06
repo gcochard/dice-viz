@@ -1,0 +1,4892 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-01-14T21:37:20.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "mmacfreier joined the game.",
+    "timestamp": "2016-01-14T21:37:20.000Z",
+    "player": "mmacfreier",
+    "round": 0
+  },
+  {
+    "message": "jobratt joined the game.",
+    "timestamp": "2016-01-14T21:40:40.000Z",
+    "player": "jobratt",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne joined the game.",
+    "timestamp": "2016-01-14T21:41:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "kwren joined the game.",
+    "timestamp": "2016-01-14T21:48:14.000Z",
+    "player": "kwren",
+    "round": 0
+  },
+  {
+    "message": "gcochard joined the game.",
+    "timestamp": "2016-01-14T22:27:46.000Z",
+    "player": "gcochard",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-01-14T22:27:46.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-01-14T22:42:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 13 territories.",
+    "timestamp": "2016-01-14T22:42:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Rif Dimashq (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-01-14T22:42:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Rif Dimashq (ryanbmilbourne) attacked Lebanon (gcochard) killing 2, losing 6.",
+    "timestamp": "2016-01-14T22:43:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Rif Dimashq (ryanbmilbourne) was fortified from Adana (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-01-14T22:43:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-01-14T22:43:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-01-14T22:45:51.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 4 troops for 13 territories.",
+    "timestamp": "2016-01-14T22:45:51.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Aquitaine (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-01-14T22:46:42.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Aquitaine (gcochard) attacked Catalonia (jobratt) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-01-14T22:46:57.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Aquitaine (gcochard) occupied Catalonia with 2 troops.",
+    "timestamp": "2016-01-14T22:46:58.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Catalonia (gcochard) was fortified from Norte (gcochard) with 2 troops.",
+    "timestamp": "2016-01-14T22:47:18.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-01-14T22:47:18.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-01-14T22:47:18.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-14T23:02:24.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 4 troops for 13 territories.",
+    "timestamp": "2016-01-14T23:02:24.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 1 troop for holding Tunisia.",
+    "timestamp": "2016-01-14T23:02:24.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Kebili (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-01-14T23:02:29.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Siliana (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-01-14T23:02:34.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Kebili (kwren) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-01-14T23:02:41.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Antalya (kwren) attacked Adana (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-01-14T23:02:47.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Tokat (kwren) attacked Adana (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T23:02:50.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Tokat (kwren) occupied Adana with 1 troop.",
+    "timestamp": "2016-01-14T23:02:56.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Siliana (kwren) was fortified from Béchar (kwren) with 2 troops.",
+    "timestamp": "2016-01-14T23:03:17.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-14T23:03:17.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-14T23:03:17.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-14T23:24:31.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received 4 troops for 13 territories.",
+    "timestamp": "2016-01-14T23:24:31.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Jufra (mmacfreier) was reinforced by mmacfreier with 4 troops.",
+    "timestamp": "2016-01-14T23:25:08.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Jufra (mmacfreier) attacked Illizi (gcochard) killing 1, losing 6.",
+    "timestamp": "2016-01-14T23:25:15.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Morocco (mmacfreier) attacked Béchar (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T23:25:20.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Morocco (mmacfreier) occupied Béchar with 2 troops.",
+    "timestamp": "2016-01-14T23:25:22.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Jufra (mmacfreier) was fortified from Matruh (mmacfreier) with 2 troops.",
+    "timestamp": "2016-01-14T23:25:42.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-14T23:25:42.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-14T23:25:42.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-01-14T23:39:42.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received 4 troops for 12 territories.",
+    "timestamp": "2016-01-14T23:39:42.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Lorraine (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-01-14T23:39:45.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Lorraine (jobratt) attacked Picardie (ryanbmilbourne) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-01-14T23:40:06.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Lorraine (jobratt) occupied Picardie with 6 troops.",
+    "timestamp": "2016-01-14T23:40:13.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Centre (jobratt) was fortified from Milan (jobratt) with 2 troops.",
+    "timestamp": "2016-01-14T23:40:37.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-01-14T23:40:37.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-01-14T23:40:37.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-01-14T23:40:37.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-01-15T16:33:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 11 territories.",
+    "timestamp": "2016-01-15T16:33:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Rif Dimashq (ryanbmilbourne) was reinforced by ryanbmilbourne with 2 troops.",
+    "timestamp": "2016-01-15T16:33:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Extremadura (ryanbmilbourne) was reinforced by ryanbmilbourne with 1 troop.",
+    "timestamp": "2016-01-15T16:33:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Extremadura (ryanbmilbourne) attacked Norte (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T16:34:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Extremadura (ryanbmilbourne) occupied Norte with 3 troops.",
+    "timestamp": "2016-01-15T16:34:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Rif Dimashq (ryanbmilbourne) attacked Lebanon (gcochard) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-15T16:34:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Rif Dimashq (ryanbmilbourne) occupied Lebanon with 2 troops.",
+    "timestamp": "2016-01-15T16:34:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Lebanon (ryanbmilbourne) was fortified from Al-Hasakah (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-01-15T16:34:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-01-15T16:34:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-01-15T16:34:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-01-15T17:24:20.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 4 troops for 12 territories.",
+    "timestamp": "2016-01-15T17:24:20.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Palestine (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-01-15T17:24:30.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Palestine (gcochard) attacked Sinai (kwren) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-01-15T17:24:35.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Palestine (gcochard) occupied Sinai with 5 troops.",
+    "timestamp": "2016-01-15T17:24:38.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Sirte (gcochard) was fortified from Misratah (gcochard) with 2 troops.",
+    "timestamp": "2016-01-15T17:25:17.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-01-15T17:25:17.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-01-15T17:25:17.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-15T17:33:30.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 4 troops for 12 territories.",
+    "timestamp": "2016-01-15T17:33:30.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 1 troop for holding Tunisia.",
+    "timestamp": "2016-01-15T17:33:30.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Siliana (kwren) was reinforced by kwren with 5 troops.",
+    "timestamp": "2016-01-15T17:33:49.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Siliana (kwren) attacked Batna (ryanbmilbourne) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-01-15T17:33:57.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Siliana (kwren) occupied Batna with 7 troops.",
+    "timestamp": "2016-01-15T17:33:59.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Batna (kwren) attacked Tiaret (mmacfreier) killing 0, losing 4.",
+    "timestamp": "2016-01-15T17:34:04.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "El Bayadh (kwren) attacked Morocco (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T17:34:11.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "El Bayadh (kwren) occupied Morocco with 1 troop.",
+    "timestamp": "2016-01-15T17:34:16.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Siliana (kwren) was fortified from Sicily (kwren) with 2 troops.",
+    "timestamp": "2016-01-15T17:34:46.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-15T17:34:46.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-15T17:34:46.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-15T17:35:35.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 4 troops for 13 territories.",
+    "timestamp": "2016-01-15T17:35:35.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Jufra (mmacfreier) was reinforced by mmacfreier with 4 troops.",
+    "timestamp": "2016-01-15T17:35:40.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Jufra (mmacfreier) attacked Illizi (gcochard) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-01-15T17:35:46.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Jufra (mmacfreier) occupied Illizi with 4 troops.",
+    "timestamp": "2016-01-15T17:35:49.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Béchar (mmacfreier) was fortified from E. Kufrah (mmacfreier) with 2 troops.",
+    "timestamp": "2016-01-15T17:36:08.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-15T17:36:08.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-15T17:36:08.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-01-15T18:34:35.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received 4 troops for 13 territories.",
+    "timestamp": "2016-01-15T18:34:35.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Centre (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-01-15T18:34:38.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Centre (jobratt) attacked Brittany (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-01-15T18:34:44.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Centre (jobratt) occupied Brittany with 7 troops.",
+    "timestamp": "2016-01-15T18:34:51.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Brittany (jobratt) attacked Aquitaine (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T18:35:00.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Brittany (jobratt) occupied Aquitaine with 1 troop.",
+    "timestamp": "2016-01-15T18:35:17.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Centre (jobratt) was fortified from Picardie (jobratt) with 5 troops.",
+    "timestamp": "2016-01-15T18:35:26.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-01-15T18:35:26.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-01-15T18:35:26.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-01-15T18:35:26.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-01-15T18:44:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 11 territories.",
+    "timestamp": "2016-01-15T18:44:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Portugal.",
+    "timestamp": "2016-01-15T18:44:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Lebanon (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-01-15T18:44:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Lebanon (ryanbmilbourne) attacked Cyprus (jobratt) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-01-15T18:44:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Lebanon (ryanbmilbourne) occupied Cyprus with 1 troop.",
+    "timestamp": "2016-01-15T18:44:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Lebanon (ryanbmilbourne) attacked Palestine (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T18:45:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Lebanon (ryanbmilbourne) occupied Palestine with 1 troop.",
+    "timestamp": "2016-01-15T18:45:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Alentejo (ryanbmilbourne) attacked Morocco (kwren) killing 0, losing 1.",
+    "timestamp": "2016-01-15T18:45:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Western Sahara (ryanbmilbourne) attacked Morocco (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T18:45:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Western Sahara (ryanbmilbourne) occupied Morocco with 2 troops.",
+    "timestamp": "2016-01-15T18:45:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Rif Dimashq (ryanbmilbourne) was fortified from Lebanon (ryanbmilbourne) with 4 troops.",
+    "timestamp": "2016-01-15T18:46:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-01-15T18:46:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-01-15T18:46:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-01-15T18:52:11.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 3 troops for 10 territories.",
+    "timestamp": "2016-01-15T18:52:11.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Catalonia (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-01-15T18:52:17.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Catalonia (gcochard) attacked Valencia (mmacfreier) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-01-15T18:52:22.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Catalonia (gcochard) occupied Valencia with 1 troop.",
+    "timestamp": "2016-01-15T18:52:31.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Andalusia (gcochard) attacked Extremadura (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T18:52:35.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Andalusia (gcochard) occupied Extremadura with 2 troops.",
+    "timestamp": "2016-01-15T18:52:43.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Farafra (gcochard) was fortified from New Valley (gcochard) with 2 troops.",
+    "timestamp": "2016-01-15T18:53:05.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-01-15T18:53:05.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-01-15T18:53:05.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-15T19:02:22.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 4 troops for 13 territories.",
+    "timestamp": "2016-01-15T19:02:22.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 1 troop for holding Tunisia.",
+    "timestamp": "2016-01-15T19:02:22.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Batna (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-01-15T19:02:32.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Ouargla (kwren) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-01-15T19:02:38.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Batna (kwren) attacked Tiaret (mmacfreier) killing 0, losing 6.",
+    "timestamp": "2016-01-15T19:02:44.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "W. Murzuq (kwren) attacked Jufra (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T19:02:51.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "W. Murzuq (kwren) occupied Jufra with 1 troop.",
+    "timestamp": "2016-01-15T19:03:03.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Batna (kwren) was fortified from W. Murzuq (kwren) with 1 troop.",
+    "timestamp": "2016-01-15T19:03:13.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-15T19:03:13.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-15T19:03:13.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-15T19:03:31.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 4 troops for 12 territories.",
+    "timestamp": "2016-01-15T19:03:31.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Algeria.",
+    "timestamp": "2016-01-15T19:03:31.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Tiaret (mmacfreier) was reinforced by mmacfreier with 7 troops.",
+    "timestamp": "2016-01-15T19:04:01.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Tiaret (mmacfreier) attacked Batna (kwren) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-01-15T19:04:05.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Tiaret (mmacfreier) occupied Batna with 9 troops.",
+    "timestamp": "2016-01-15T19:04:07.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Batna (mmacfreier) attacked Ouargla (kwren) conquering it, killing 4, losing 5.",
+    "timestamp": "2016-01-15T19:04:19.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Batna (mmacfreier) occupied Ouargla with 3 troops.",
+    "timestamp": "2016-01-15T19:04:22.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Illizi (mmacfreier) was fortified from Tamanrasset (mmacfreier) with 2 troops.",
+    "timestamp": "2016-01-15T19:04:37.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-15T19:04:37.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-15T19:04:37.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-01-15T19:22:55.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 4 troops for 14 territories.",
+    "timestamp": "2016-01-15T19:22:55.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 3 troops for holding North France.",
+    "timestamp": "2016-01-15T19:22:55.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Burgundy (jobratt) was reinforced by jobratt with 7 troops.",
+    "timestamp": "2016-01-15T19:23:41.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Burgundy (jobratt) attacked Auvergne (mmacfreier) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-01-15T19:23:58.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Burgundy (jobratt) occupied Auvergne with 1 troop.",
+    "timestamp": "2016-01-15T19:24:15.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Aquitaine (jobratt) was fortified from Burgundy (jobratt) with 3 troops.",
+    "timestamp": "2016-01-15T19:24:49.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-01-15T19:24:49.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-01-15T19:24:49.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-01-15T19:24:49.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-01-15T19:26:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 13 territories.",
+    "timestamp": "2016-01-15T19:26:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding East Region.",
+    "timestamp": "2016-01-15T19:26:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Morocco.",
+    "timestamp": "2016-01-15T19:26:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Portugal.",
+    "timestamp": "2016-01-15T19:26:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Al-Hasakah (ryanbmilbourne) was reinforced by ryanbmilbourne with 9 troops.",
+    "timestamp": "2016-01-15T19:27:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Al-Hasakah (ryanbmilbourne) attacked Adana (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-15T19:27:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Al-Hasakah (ryanbmilbourne) occupied Adana with 1 troop.",
+    "timestamp": "2016-01-15T19:27:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Corsica (ryanbmilbourne) attacked Milan (jobratt) killing 0, losing 1.",
+    "timestamp": "2016-01-15T19:27:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Morocco (ryanbmilbourne) was fortified from Norte (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-01-15T19:28:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-01-15T19:28:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-01-15T19:28:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-01-15T19:28:12.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 4 troops for 12 territories.",
+    "timestamp": "2016-01-15T19:28:12.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 3 troops for holding Spain.",
+    "timestamp": "2016-01-15T19:28:12.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Bosnia (gcochard) was reinforced by gcochard with 7 troops.",
+    "timestamp": "2016-01-15T19:28:36.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Bosnia (gcochard) attacked Croatia (kwren) killing 0, losing 9.",
+    "timestamp": "2016-01-15T19:28:45.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Sirte (gcochard) attacked Jufra (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T19:29:01.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Sirte (gcochard) occupied Jufra with 4 troops.",
+    "timestamp": "2016-01-15T19:29:04.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Farafra (gcochard) attacked Matruh (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T19:35:54.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Farafra (gcochard) occupied Matruh with 4 troops.",
+    "timestamp": "2016-01-15T19:36:06.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Catalonia (gcochard) was fortified from Extremadura (gcochard) with 1 troop.",
+    "timestamp": "2016-01-15T19:36:22.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-01-15T19:36:22.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-01-15T19:36:22.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-15T19:37:24.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-01-15T19:37:24.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 1 troop for holding Tunisia.",
+    "timestamp": "2016-01-15T19:37:24.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Kebili (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-01-15T19:37:28.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Kebili (kwren) attacked Ouargla (mmacfreier) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-01-15T19:37:37.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Kebili (kwren) occupied Ouargla with 5 troops.",
+    "timestamp": "2016-01-15T19:37:39.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Ouargla (kwren) attacked Batna (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T19:37:43.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Ouargla (kwren) occupied Batna with 4 troops.",
+    "timestamp": "2016-01-15T19:37:45.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Batna (kwren) attacked Tiaret (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T19:37:48.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Batna (kwren) occupied Tiaret with 1 troop.",
+    "timestamp": "2016-01-15T19:37:55.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Kebili (kwren) was fortified from Batna (kwren) with 2 troops.",
+    "timestamp": "2016-01-15T19:38:02.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-15T19:38:02.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-15T19:38:02.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-15T19:38:31.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 3 troops for 9 territories.",
+    "timestamp": "2016-01-15T19:38:31.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Algeria.",
+    "timestamp": "2016-01-15T19:38:31.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Darnah (mmacfreier) was reinforced by mmacfreier with 6 troops.",
+    "timestamp": "2016-01-15T19:38:40.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Darnah (mmacfreier) attacked Jufra (gcochard) conquering it, killing 4, losing 1.",
+    "timestamp": "2016-01-15T19:38:51.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Darnah (mmacfreier) occupied Jufra with 7 troops.",
+    "timestamp": "2016-01-15T19:38:53.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Jufra (mmacfreier) attacked Sirte (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T19:38:58.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Jufra (mmacfreier) occupied Sirte with 1 troop.",
+    "timestamp": "2016-01-15T19:39:00.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Jufra (mmacfreier) attacked Misratah (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T19:39:03.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Jufra (mmacfreier) occupied Misratah with 1 troop.",
+    "timestamp": "2016-01-15T19:39:07.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Darnah (mmacfreier) was fortified from Jufra (mmacfreier) with 4 troops.",
+    "timestamp": "2016-01-15T19:39:29.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-15T19:39:29.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-15T19:39:29.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-01-15T19:49:02.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 5 troops for 15 territories.",
+    "timestamp": "2016-01-15T19:49:02.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 3 troops for holding North France.",
+    "timestamp": "2016-01-15T19:49:02.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 1 troop for holding South France.",
+    "timestamp": "2016-01-15T19:49:02.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "E. Murzuq (jobratt) was reinforced by jobratt with 9 troops.",
+    "timestamp": "2016-01-15T19:51:17.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "E. Murzuq (jobratt) attacked Jufra (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-15T19:51:22.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "E. Murzuq (jobratt) occupied Jufra with 10 troops.",
+    "timestamp": "2016-01-15T19:52:05.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Jufra (jobratt) attacked Ouargla (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-15T19:52:10.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Jufra (jobratt) occupied Ouargla with 1 troop.",
+    "timestamp": "2016-01-15T19:53:16.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Jufra (jobratt) attacked Misratah (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T19:53:33.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Jufra (jobratt) occupied Misratah with 7 troops.",
+    "timestamp": "2016-01-15T19:53:34.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Rhône-Alpes (jobratt) was fortified from Burgundy (jobratt) with 2 troops.",
+    "timestamp": "2016-01-15T19:53:50.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-01-15T19:53:50.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-01-15T19:53:50.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-01-15T19:53:50.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-01-15T21:09:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 14 territories.",
+    "timestamp": "2016-01-15T21:09:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding East Region.",
+    "timestamp": "2016-01-15T21:09:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Morocco.",
+    "timestamp": "2016-01-15T21:09:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Portugal.",
+    "timestamp": "2016-01-15T21:09:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Corsica (ryanbmilbourne) was reinforced by ryanbmilbourne with 1 troop.",
+    "timestamp": "2016-01-15T21:10:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Adana (ryanbmilbourne) was reinforced by ryanbmilbourne with 8 troops.",
+    "timestamp": "2016-01-15T21:10:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Corsica (ryanbmilbourne) attacked Milan (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-15T21:10:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Adana (ryanbmilbourne) attacked Antalya (kwren) killing 0, losing 1.",
+    "timestamp": "2016-01-15T21:10:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Adana (ryanbmilbourne) attacked Tokat (kwren) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-01-15T21:10:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Adana (ryanbmilbourne) occupied Tokat with 1 troop.",
+    "timestamp": "2016-01-15T21:11:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Adana (ryanbmilbourne) attacked Antalya (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-15T21:11:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Adana (ryanbmilbourne) occupied Antalya with 1 troop.",
+    "timestamp": "2016-01-15T21:11:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Al-Hasakah (ryanbmilbourne) was fortified from Rif Dimashq (ryanbmilbourne) with 4 troops.",
+    "timestamp": "2016-01-15T21:11:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-01-15T21:11:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-01-15T21:11:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-01-15T21:14:21.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for 11 territories.",
+    "timestamp": "2016-01-15T21:14:21.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for holding Spain.",
+    "timestamp": "2016-01-15T21:14:21.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Sinai (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-01-15T21:14:38.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Sinai (gcochard) attacked Suez (jobratt) conquering it, killing 3, losing 5.",
+    "timestamp": "2016-01-15T21:14:45.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Sinai (gcochard) occupied Suez with 5 troops.",
+    "timestamp": "2016-01-15T21:14:47.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Suez (gcochard) attacked Minya (jobratt) killing 2, losing 0.",
+    "timestamp": "2016-01-15T21:15:08.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Matruh (gcochard) attacked Minya (jobratt) killing 0, losing 3.",
+    "timestamp": "2016-01-15T21:15:16.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Suez (gcochard) attacked Minya (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T21:15:20.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Suez (gcochard) occupied Minya with 1 troop.",
+    "timestamp": "2016-01-15T21:15:23.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Matruh (gcochard) was fortified from Suez (gcochard) with 3 troops.",
+    "timestamp": "2016-01-15T21:15:32.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-01-15T21:15:32.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-01-15T21:15:32.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-15T21:46:13.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-01-15T21:46:13.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 1 troop for holding Tunisia.",
+    "timestamp": "2016-01-15T21:46:13.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Siliana (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-01-15T21:46:21.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Siliana (kwren) attacked Ouargla (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T21:46:26.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Siliana (kwren) occupied Ouargla with 6 troops.",
+    "timestamp": "2016-01-15T21:46:27.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Ouargla (kwren) attacked Jufra (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-15T21:46:32.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Ouargla (kwren) occupied Jufra with 1 troop.",
+    "timestamp": "2016-01-15T21:46:43.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Croatia (kwren) attacked Bosnia (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-01-15T21:47:30.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-15T21:47:37.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-15T21:47:37.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-15T22:02:48.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 3 troops for 10 territories.",
+    "timestamp": "2016-01-15T22:02:48.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Algeria.",
+    "timestamp": "2016-01-15T22:02:48.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Darnah (mmacfreier) was reinforced by mmacfreier with 6 troops.",
+    "timestamp": "2016-01-15T22:03:20.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Darnah (mmacfreier) attacked E. Murzuq (jobratt) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-15T22:03:27.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Darnah (mmacfreier) occupied E. Murzuq with 8 troops.",
+    "timestamp": "2016-01-15T22:03:29.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "E. Murzuq (mmacfreier) attacked W. Kufrah (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-01-15T22:03:33.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "E. Murzuq (mmacfreier) occupied W. Kufrah with 1 troop.",
+    "timestamp": "2016-01-15T22:03:35.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "E. Murzuq (mmacfreier) attacked W. Murzuq (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T22:03:39.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "E. Murzuq (mmacfreier) occupied W. Murzuq with 5 troops.",
+    "timestamp": "2016-01-15T22:03:44.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "W. Murzuq (mmacfreier) attacked Jufra (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T22:03:47.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "W. Murzuq (mmacfreier) occupied Jufra with 4 troops.",
+    "timestamp": "2016-01-15T22:03:49.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-15T22:04:11.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-15T22:04:11.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-01-15T22:11:01.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 4 troops for 12 territories.",
+    "timestamp": "2016-01-15T22:11:01.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 3 troops for holding North France.",
+    "timestamp": "2016-01-15T22:11:01.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 1 troop for holding South France.",
+    "timestamp": "2016-01-15T22:11:01.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Rhône-Alpes (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-01-15T22:11:35.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Kirklareli (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-01-15T22:11:38.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Rhône-Alpes (jobratt) attacked Milan (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T22:11:44.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Rhône-Alpes (jobratt) occupied Milan with 8 troops.",
+    "timestamp": "2016-01-15T22:11:49.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Kirklareli (jobratt) attacked Tokat (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T22:11:54.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Kirklareli (jobratt) occupied Tokat with 1 troop.",
+    "timestamp": "2016-01-15T22:12:01.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Misratah (jobratt) attacked Sirte (mmacfreier) killing 0, losing 1.",
+    "timestamp": "2016-01-15T22:20:19.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Milan (jobratt) was fortified from Centre (jobratt) with 5 troops.",
+    "timestamp": "2016-01-15T22:20:38.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-01-15T22:20:38.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-01-15T22:20:38.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-01-15T22:20:38.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-01-15T22:21:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 14 territories.",
+    "timestamp": "2016-01-15T22:21:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding East Region.",
+    "timestamp": "2016-01-15T22:21:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Morocco.",
+    "timestamp": "2016-01-15T22:21:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Portugal.",
+    "timestamp": "2016-01-15T22:21:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Al-Hasakah (ryanbmilbourne) was reinforced by ryanbmilbourne with 9 troops.",
+    "timestamp": "2016-01-15T22:21:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Al-Hasakah (ryanbmilbourne) attacked Mardin (Neutral) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-01-15T22:22:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Al-Hasakah (ryanbmilbourne) occupied Mardin with 20 troops.",
+    "timestamp": "2016-01-15T22:22:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Mardin (ryanbmilbourne) attacked Van (gcochard) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-01-15T22:22:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Mardin (ryanbmilbourne) occupied Van with 19 troops.",
+    "timestamp": "2016-01-15T22:22:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Van (ryanbmilbourne) attacked Erzurum (kwren) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-01-15T22:22:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Van (ryanbmilbourne) occupied Erzurum with 17 troops.",
+    "timestamp": "2016-01-15T22:22:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Erzurum (ryanbmilbourne) attacked Tokat (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-15T22:22:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Erzurum (ryanbmilbourne) occupied Tokat with 15 troops.",
+    "timestamp": "2016-01-15T22:22:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Tokat (ryanbmilbourne) attacked Kirklareli (jobratt) conquering it, killing 6, losing 1.",
+    "timestamp": "2016-01-15T22:22:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Tokat (ryanbmilbourne) occupied Kirklareli with 13 troops.",
+    "timestamp": "2016-01-15T22:22:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Kirklareli (ryanbmilbourne) attacked Greece (jobratt) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-01-15T22:22:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Kirklareli (ryanbmilbourne) occupied Greece with 9 troops.",
+    "timestamp": "2016-01-15T22:22:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Adana (ryanbmilbourne) attacked Izmir (gcochard) killing 1, losing 4.",
+    "timestamp": "2016-01-15T22:22:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Greece (ryanbmilbourne) attacked Izmir (gcochard) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-01-15T22:23:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Greece (ryanbmilbourne) occupied Izmir with 1 troop.",
+    "timestamp": "2016-01-15T22:23:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Greece (ryanbmilbourne) was fortified from Albania (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-01-15T22:23:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-01-15T22:23:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-01-15T22:23:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-01-15T22:23:39.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 3 troops for 11 territories.",
+    "timestamp": "2016-01-15T22:23:39.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 2 troops for holding North Egypt.",
+    "timestamp": "2016-01-15T22:23:39.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 3 troops for holding Spain.",
+    "timestamp": "2016-01-15T22:23:39.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 2 troops on Minya",
+    "timestamp": "2016-01-15T22:24:07.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Bosnia (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-01-15T22:24:18.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Minya (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-01-15T22:24:24.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Minya (gcochard) attacked Red Sea (jobratt) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-01-15T22:24:30.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Minya (gcochard) occupied Red Sea with 8 troops.",
+    "timestamp": "2016-01-15T22:24:31.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Red Sea (gcochard) attacked Kharga (mmacfreier) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-01-15T22:24:39.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Red Sea (gcochard) occupied Kharga with 3 troops.",
+    "timestamp": "2016-01-15T22:24:41.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Bosnia (gcochard) attacked Croatia (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-15T22:25:11.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Bosnia (gcochard) occupied Croatia with 4 troops.",
+    "timestamp": "2016-01-15T22:25:13.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Croatia (gcochard) attacked Slovenia (mmacfreier) killing 0, losing 3.",
+    "timestamp": "2016-01-15T22:25:32.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Farafra (gcochard) was fortified from Kharga (gcochard) with 2 troops.",
+    "timestamp": "2016-01-15T22:25:55.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-01-15T22:25:55.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-01-15T22:25:55.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-15T22:41:52.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for 8 territories.",
+    "timestamp": "2016-01-15T22:41:52.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 1 troop for holding Tunisia.",
+    "timestamp": "2016-01-15T22:41:52.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for holding North Algeria.",
+    "timestamp": "2016-01-15T22:41:52.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "El Bayadh (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-01-15T22:42:20.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Ouargla (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-01-15T22:42:24.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Kebili (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-01-15T22:42:28.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Sicily (kwren) was reinforced by kwren with 6 troops.",
+    "timestamp": "2016-01-15T22:42:31.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Sicily (kwren) attacked Naples (mmacfreier) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-01-15T22:42:35.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Sicily (kwren) occupied Naples with 1 troop.",
+    "timestamp": "2016-01-15T22:42:47.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Sicily (kwren) was fortified from Sardinia (kwren) with 2 troops.",
+    "timestamp": "2016-01-15T22:42:55.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-15T22:42:55.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-15T22:42:55.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-15T22:48:03.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 4 troops for 12 territories.",
+    "timestamp": "2016-01-15T22:48:03.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Libya.",
+    "timestamp": "2016-01-15T22:48:03.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Algeria.",
+    "timestamp": "2016-01-15T22:48:03.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops on Sirte",
+    "timestamp": "2016-01-15T22:48:17.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "E. Kufrah (mmacfreier) was reinforced by mmacfreier with 6 troops.",
+    "timestamp": "2016-01-15T22:48:34.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Jufra (mmacfreier) was reinforced by mmacfreier with 12 troops.",
+    "timestamp": "2016-01-15T22:48:37.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Jufra (mmacfreier) attacked Misratah (jobratt) conquering it, killing 6, losing 7.",
+    "timestamp": "2016-01-15T22:48:47.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Jufra (mmacfreier) occupied Misratah with 1 troop.",
+    "timestamp": "2016-01-15T22:48:50.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Darnah (mmacfreier) was fortified from Jufra (mmacfreier) with 7 troops.",
+    "timestamp": "2016-01-15T22:48:56.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-15T22:48:56.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-15T22:48:56.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-01-15T22:52:48.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 3 troops for 9 territories.",
+    "timestamp": "2016-01-15T22:52:48.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 3 troops for holding North France.",
+    "timestamp": "2016-01-15T22:52:48.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 1 troop for holding South France.",
+    "timestamp": "2016-01-15T22:52:48.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Milan (jobratt) was reinforced by jobratt with 15 troops.",
+    "timestamp": "2016-01-15T22:53:17.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Milan (jobratt) attacked Corsica (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T22:53:25.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Milan (jobratt) occupied Corsica with 16 troops.",
+    "timestamp": "2016-01-15T22:53:55.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Corsica (jobratt) attacked Sardinia (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T22:53:58.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Corsica (jobratt) occupied Sardinia with 15 troops.",
+    "timestamp": "2016-01-15T22:54:00.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Sardinia (jobratt) attacked Naples (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T22:54:03.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Sardinia (jobratt) occupied Naples with 14 troops.",
+    "timestamp": "2016-01-15T22:54:12.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Naples (jobratt) attacked Greece (ryanbmilbourne) killing 2, losing 8.",
+    "timestamp": "2016-01-15T22:57:46.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Naples (jobratt) was fortified from Milan (jobratt) with 4 troops.",
+    "timestamp": "2016-01-15T22:58:31.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-01-15T22:58:31.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-01-15T22:58:31.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Round 7 started.",
+    "timestamp": "2016-01-15T22:58:31.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-01-15T22:58:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 6 troops for 20 territories.",
+    "timestamp": "2016-01-15T22:58:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Montenegro-Albania-Greece.",
+    "timestamp": "2016-01-15T22:58:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding West Turkey.",
+    "timestamp": "2016-01-15T22:58:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding East Turkey.",
+    "timestamp": "2016-01-15T22:58:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding East Region.",
+    "timestamp": "2016-01-15T22:58:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Morocco.",
+    "timestamp": "2016-01-15T22:58:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Portugal.",
+    "timestamp": "2016-01-15T22:58:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Tokat",
+    "timestamp": "2016-01-15T22:58:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Western Sahara",
+    "timestamp": "2016-01-15T22:58:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Greece (ryanbmilbourne) was reinforced by ryanbmilbourne with 25 troops.",
+    "timestamp": "2016-01-15T22:59:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Greece (ryanbmilbourne) attacked Naples (jobratt) conquering it, killing 10, losing 5.",
+    "timestamp": "2016-01-15T22:59:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Greece (ryanbmilbourne) occupied Naples with 26 troops.",
+    "timestamp": "2016-01-15T22:59:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Naples (ryanbmilbourne) attacked Sardinia (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T22:59:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Naples (ryanbmilbourne) occupied Sardinia with 25 troops.",
+    "timestamp": "2016-01-15T22:59:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Sardinia (ryanbmilbourne) attacked Corsica (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T22:59:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Sardinia (ryanbmilbourne) occupied Corsica with 24 troops.",
+    "timestamp": "2016-01-15T22:59:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Corsica (ryanbmilbourne) attacked Milan (jobratt) conquering it, killing 8, losing 8.",
+    "timestamp": "2016-01-15T22:59:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Corsica (ryanbmilbourne) occupied Milan with 15 troops.",
+    "timestamp": "2016-01-15T23:00:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Milan (ryanbmilbourne) attacked Rhône-Alpes (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:00:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Milan (ryanbmilbourne) occupied Rhône-Alpes with 14 troops.",
+    "timestamp": "2016-01-15T23:00:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Rhône-Alpes (ryanbmilbourne) attacked Burgundy (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:00:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Rhône-Alpes (ryanbmilbourne) occupied Burgundy with 1 troop.",
+    "timestamp": "2016-01-15T23:00:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Greece (ryanbmilbourne) was fortified from Rhône-Alpes (ryanbmilbourne) with 12 troops.",
+    "timestamp": "2016-01-15T23:00:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-01-15T23:00:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-01-15T23:00:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-01-15T23:04:31.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 4 troops for 14 territories.",
+    "timestamp": "2016-01-15T23:04:31.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 2 troops for holding North Egypt.",
+    "timestamp": "2016-01-15T23:04:31.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 3 troops for holding South Egypt.",
+    "timestamp": "2016-01-15T23:04:31.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 3 troops for holding Spain.",
+    "timestamp": "2016-01-15T23:04:31.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Croatia (gcochard) was reinforced by gcochard with 12 troops.",
+    "timestamp": "2016-01-15T23:04:35.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Croatia (gcochard) attacked Slovenia (mmacfreier) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-01-15T23:04:40.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Croatia (gcochard) occupied Slovenia with 12 troops.",
+    "timestamp": "2016-01-15T23:04:41.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Slovenia (gcochard) attacked Milan (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:06:22.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Slovenia (gcochard) occupied Milan with 11 troops.",
+    "timestamp": "2016-01-15T23:06:24.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Milan (gcochard) attacked Rhône-Alpes (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-15T23:06:30.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Milan (gcochard) occupied Rhône-Alpes with 9 troops.",
+    "timestamp": "2016-01-15T23:06:32.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Rhône-Alpes (gcochard) attacked Auvergne (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-15T23:06:36.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Rhône-Alpes (gcochard) occupied Auvergne with 7 troops.",
+    "timestamp": "2016-01-15T23:06:38.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Auvergne (gcochard) attacked Centre (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:06:42.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Auvergne (gcochard) occupied Centre with 6 troops.",
+    "timestamp": "2016-01-15T23:06:44.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Centre (gcochard) attacked Brittany (jobratt) killing 4, losing 5.",
+    "timestamp": "2016-01-15T23:06:55.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "New Valley (gcochard) was fortified from Matruh (gcochard) with 3 troops.",
+    "timestamp": "2016-01-15T23:07:13.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-01-15T23:07:13.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-01-15T23:07:13.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-15T23:08:18.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-01-15T23:08:18.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 1 troop for holding Tunisia.",
+    "timestamp": "2016-01-15T23:08:18.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for holding North Algeria.",
+    "timestamp": "2016-01-15T23:08:18.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "El Bayadh (kwren) was reinforced by kwren with 15 troops.",
+    "timestamp": "2016-01-15T23:08:25.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "El Bayadh (kwren) attacked Morocco (ryanbmilbourne) conquering it, killing 4, losing 7.",
+    "timestamp": "2016-01-15T23:08:34.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "El Bayadh (kwren) occupied Morocco with 11 troops.",
+    "timestamp": "2016-01-15T23:08:39.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Morocco (kwren) attacked Western Sahara (ryanbmilbourne) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-01-15T23:08:44.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Morocco (kwren) occupied Western Sahara with 1 troop.",
+    "timestamp": "2016-01-15T23:08:49.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Morocco (kwren) attacked Alentejo (ryanbmilbourne) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-01-15T23:08:53.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Morocco (kwren) occupied Alentejo with 1 troop.",
+    "timestamp": "2016-01-15T23:08:57.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Morocco (kwren) attacked Andalusia (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:09:00.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Morocco (kwren) occupied Andalusia with 8 troops.",
+    "timestamp": "2016-01-15T23:09:05.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Andalusia (kwren) attacked Valencia (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:09:08.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Andalusia (kwren) occupied Valencia with 1 troop.",
+    "timestamp": "2016-01-15T23:09:15.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Andalusia (kwren) attacked Extremadura (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:09:18.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Andalusia (kwren) occupied Extremadura with 6 troops.",
+    "timestamp": "2016-01-15T23:09:19.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Extremadura (kwren) attacked Norte (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:09:22.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Extremadura (kwren) occupied Norte with 5 troops.",
+    "timestamp": "2016-01-15T23:09:24.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "El Bayadh (kwren) was fortified from Norte (kwren) with 4 troops.",
+    "timestamp": "2016-01-15T23:09:37.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-15T23:09:37.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-15T23:09:37.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-15T23:12:08.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 4 troops for 12 territories.",
+    "timestamp": "2016-01-15T23:12:08.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Libya.",
+    "timestamp": "2016-01-15T23:12:08.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Algeria.",
+    "timestamp": "2016-01-15T23:12:08.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding North Libya.",
+    "timestamp": "2016-01-15T23:12:08.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Adrar (mmacfreier) was reinforced by mmacfreier with 10 troops.",
+    "timestamp": "2016-01-15T23:12:36.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "E. Kufrah (mmacfreier) was reinforced by mmacfreier with 11 troops.",
+    "timestamp": "2016-01-15T23:12:41.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Adrar (mmacfreier) attacked Western Sahara (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:12:46.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Adrar (mmacfreier) occupied Western Sahara with 12 troops.",
+    "timestamp": "2016-01-15T23:12:48.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Western Sahara (mmacfreier) attacked Morocco (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:12:51.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Western Sahara (mmacfreier) occupied Morocco with 11 troops.",
+    "timestamp": "2016-01-15T23:12:53.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "E. Kufrah (mmacfreier) attacked Matruh (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:13:00.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "E. Kufrah (mmacfreier) occupied Matruh with 1 troop.",
+    "timestamp": "2016-01-15T23:13:03.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "E. Kufrah (mmacfreier) attacked New Valley (gcochard) conquering it, killing 4, losing 0.",
+    "timestamp": "2016-01-15T23:13:07.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "E. Kufrah (mmacfreier) occupied New Valley with 1 troop.",
+    "timestamp": "2016-01-15T23:13:25.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "E. Kufrah (mmacfreier) attacked Farafra (gcochard) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-01-15T23:13:29.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "E. Kufrah (mmacfreier) occupied Farafra with 10 troops.",
+    "timestamp": "2016-01-15T23:13:38.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Farafra (mmacfreier) attacked Kharga (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:13:40.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Farafra (mmacfreier) occupied Kharga with 9 troops.",
+    "timestamp": "2016-01-15T23:13:42.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Kharga (mmacfreier) attacked Red Sea (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:13:45.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Kharga (mmacfreier) occupied Red Sea with 8 troops.",
+    "timestamp": "2016-01-15T23:13:47.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Red Sea (mmacfreier) attacked Minya (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:13:49.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Red Sea (mmacfreier) occupied Minya with 7 troops.",
+    "timestamp": "2016-01-15T23:13:51.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Minya (mmacfreier) attacked Suez (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:13:53.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Minya (mmacfreier) occupied Suez with 6 troops.",
+    "timestamp": "2016-01-15T23:13:55.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Suez (mmacfreier) attacked Sinai (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:13:58.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Suez (mmacfreier) occupied Sinai with 5 troops.",
+    "timestamp": "2016-01-15T23:14:00.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Darnah (mmacfreier) was fortified from Sirte (mmacfreier) with 2 troops.",
+    "timestamp": "2016-01-15T23:14:24.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-15T23:14:24.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-15T23:14:24.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-01-15T23:25:37.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 3 troops for 4 territories.",
+    "timestamp": "2016-01-15T23:25:37.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Aquitaine (jobratt) was reinforced by jobratt with 11 troops.",
+    "timestamp": "2016-01-15T23:25:57.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Aquitaine (jobratt) attacked Centre (gcochard) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-15T23:26:02.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Aquitaine (jobratt) occupied Centre with 12 troops.",
+    "timestamp": "2016-01-15T23:26:03.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Centre (jobratt) attacked Burgundy (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:26:05.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Centre (jobratt) occupied Burgundy with 11 troops.",
+    "timestamp": "2016-01-15T23:26:08.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Burgundy (jobratt) attacked Rhône-Alpes (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:26:10.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Burgundy (jobratt) occupied Rhône-Alpes with 10 troops.",
+    "timestamp": "2016-01-15T23:26:14.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Rhône-Alpes (jobratt) attacked Auvergne (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:26:17.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Rhône-Alpes (jobratt) occupied Auvergne with 1 troop.",
+    "timestamp": "2016-01-15T23:26:24.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Aquitaine (jobratt) was fortified from Brittany (jobratt) with 1 troop.",
+    "timestamp": "2016-01-15T23:26:29.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-01-15T23:26:29.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-01-15T23:26:29.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Round 8 started.",
+    "timestamp": "2016-01-15T23:26:29.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-01-15T23:26:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 6 troops for 19 territories.",
+    "timestamp": "2016-01-15T23:26:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Montenegro-Albania-Greece.",
+    "timestamp": "2016-01-15T23:26:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding West Turkey.",
+    "timestamp": "2016-01-15T23:26:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding East Turkey.",
+    "timestamp": "2016-01-15T23:26:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding East Region.",
+    "timestamp": "2016-01-15T23:26:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Greece (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-01-15T23:29:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Montenegro (ryanbmilbourne) was reinforced by ryanbmilbourne with 11 troops.",
+    "timestamp": "2016-01-15T23:29:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Montenegro (ryanbmilbourne) attacked Bosnia (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-15T23:29:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Montenegro (ryanbmilbourne) occupied Bosnia with 12 troops.",
+    "timestamp": "2016-01-15T23:29:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Bosnia (ryanbmilbourne) attacked Croatia (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:29:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Bosnia (ryanbmilbourne) occupied Croatia with 11 troops.",
+    "timestamp": "2016-01-15T23:29:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Croatia (ryanbmilbourne) attacked Slovenia (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:29:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Croatia (ryanbmilbourne) occupied Slovenia with 10 troops.",
+    "timestamp": "2016-01-15T23:29:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-01-15T23:29:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-01-15T23:29:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-01-15T23:43:43.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 3 troops for 2 territories.",
+    "timestamp": "2016-01-15T23:43:44.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Catalonia (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-01-15T23:43:54.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Catalonia (gcochard) attacked Valencia (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:43:58.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Catalonia (gcochard) occupied Valencia with 9 troops.",
+    "timestamp": "2016-01-15T23:44:00.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Valencia (gcochard) attacked Extremadura (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-15T23:44:07.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Valencia (gcochard) occupied Extremadura with 7 troops.",
+    "timestamp": "2016-01-15T23:44:08.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Extremadura (gcochard) attacked Norte (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:44:13.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Extremadura (gcochard) occupied Norte with 1 troop.",
+    "timestamp": "2016-01-15T23:44:16.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Extremadura (gcochard) attacked Alentejo (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:44:21.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Extremadura (gcochard) occupied Alentejo with 1 troop.",
+    "timestamp": "2016-01-15T23:44:25.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Extremadura (gcochard) attacked Andalusia (kwren) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-01-15T23:44:33.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-01-15T23:44:51.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-01-15T23:44:51.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-15T23:45:12.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-01-15T23:45:12.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 1 troop for holding Tunisia.",
+    "timestamp": "2016-01-15T23:45:12.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 3 troops for holding North Algeria.",
+    "timestamp": "2016-01-15T23:45:12.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Sicily (kwren) was reinforced by kwren with 7 troops.",
+    "timestamp": "2016-01-15T23:45:21.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Sicily (kwren) attacked Naples (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:45:26.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Sicily (kwren) occupied Naples with 5 troops.",
+    "timestamp": "2016-01-15T23:45:38.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Naples (kwren) attacked Milan (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:45:41.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Naples (kwren) occupied Milan with 4 troops.",
+    "timestamp": "2016-01-15T23:45:51.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Sicily (kwren) was fortified from Ouargla (kwren) with 5 troops.",
+    "timestamp": "2016-01-15T23:46:03.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-15T23:46:03.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-15T23:46:03.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-15T23:46:35.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 7 troops for 22 territories.",
+    "timestamp": "2016-01-15T23:46:35.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Libya.",
+    "timestamp": "2016-01-15T23:46:35.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Algeria.",
+    "timestamp": "2016-01-15T23:46:35.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding North Libya.",
+    "timestamp": "2016-01-15T23:46:35.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Morocco.",
+    "timestamp": "2016-01-15T23:46:35.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Egypt.",
+    "timestamp": "2016-01-15T23:46:35.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding North Egypt.",
+    "timestamp": "2016-01-15T23:46:35.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Sinai (mmacfreier) was reinforced by mmacfreier with 5 troops.",
+    "timestamp": "2016-01-15T23:46:53.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Morocco (mmacfreier) was reinforced by mmacfreier with 17 troops.",
+    "timestamp": "2016-01-15T23:46:57.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Morocco (mmacfreier) attacked Andalusia (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-15T23:47:01.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Morocco (mmacfreier) occupied Andalusia with 26 troops.",
+    "timestamp": "2016-01-15T23:47:03.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Andalusia (mmacfreier) attacked Extremadura (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:47:08.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Andalusia (mmacfreier) occupied Extremadura with 25 troops.",
+    "timestamp": "2016-01-15T23:47:11.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Extremadura (mmacfreier) attacked Alentejo (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:47:15.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Extremadura (mmacfreier) occupied Alentejo with 1 troop.",
+    "timestamp": "2016-01-15T23:47:18.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Extremadura (mmacfreier) attacked Norte (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-15T23:47:24.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Extremadura (mmacfreier) occupied Norte with 1 troop.",
+    "timestamp": "2016-01-15T23:47:28.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Extremadura (mmacfreier) attacked Valencia (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:47:31.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Extremadura (mmacfreier) occupied Valencia with 1 troop.",
+    "timestamp": "2016-01-15T23:47:35.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Extremadura (mmacfreier) attacked Catalonia (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:47:39.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "gcochard was defeated by mmacfreier.",
+    "timestamp": "2016-01-15T23:47:39.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Extremadura (mmacfreier) occupied Catalonia with 20 troops.",
+    "timestamp": "2016-01-15T23:47:41.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 2 troops on Kharga",
+    "timestamp": "2016-01-15T23:48:34.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 2 troops on Darnah",
+    "timestamp": "2016-01-15T23:48:34.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Morocco (mmacfreier) was reinforced by mmacfreier with 5 troops.",
+    "timestamp": "2016-01-15T23:48:58.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Darnah (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-01-15T23:49:06.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Catalonia (mmacfreier) attacked Aquitaine (jobratt) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-01-15T23:49:22.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Catalonia (mmacfreier) occupied Aquitaine with 19 troops.",
+    "timestamp": "2016-01-15T23:49:24.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Aquitaine (mmacfreier) attacked Brittany (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:49:27.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Aquitaine (mmacfreier) occupied Brittany with 18 troops.",
+    "timestamp": "2016-01-15T23:49:28.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Brittany (mmacfreier) attacked Centre (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:49:31.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Brittany (mmacfreier) occupied Centre with 17 troops.",
+    "timestamp": "2016-01-15T23:49:33.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Centre (mmacfreier) attacked Picardie (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:49:36.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Centre (mmacfreier) occupied Picardie with 1 troop.",
+    "timestamp": "2016-01-15T23:49:40.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Centre (mmacfreier) attacked Auvergne (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:49:42.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Centre (mmacfreier) occupied Auvergne with 15 troops.",
+    "timestamp": "2016-01-15T23:49:46.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Auvergne (mmacfreier) attacked Burgundy (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:49:49.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Auvergne (mmacfreier) occupied Burgundy with 14 troops.",
+    "timestamp": "2016-01-15T23:49:51.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Burgundy (mmacfreier) attacked Lorraine (jobratt) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-15T23:49:56.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Burgundy (mmacfreier) occupied Lorraine with 1 troop.",
+    "timestamp": "2016-01-15T23:49:59.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Burgundy (mmacfreier) attacked Rhône-Alpes (jobratt) killing 8, losing 10.",
+    "timestamp": "2016-01-15T23:50:12.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Jufra (mmacfreier) was fortified from E. Kufrah (mmacfreier) with 5 troops.",
+    "timestamp": "2016-01-15T23:50:42.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-15T23:50:42.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-15T23:50:42.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-01-15T23:52:17.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 3 troops for 1 territory.",
+    "timestamp": "2016-01-15T23:52:17.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Rhône-Alpes (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-01-15T23:52:31.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Rhône-Alpes (jobratt) attacked Burgundy (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-15T23:52:34.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Rhône-Alpes (jobratt) occupied Burgundy with 1 troop.",
+    "timestamp": "2016-01-15T23:52:37.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-01-15T23:52:41.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-01-15T23:52:41.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Round 9 started.",
+    "timestamp": "2016-01-15T23:52:41.000Z",
+    "player": "unknown",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-01-15T23:53:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 7 troops for 21 territories.",
+    "timestamp": "2016-01-15T23:53:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Montenegro-Albania-Greece.",
+    "timestamp": "2016-01-15T23:53:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding West Turkey.",
+    "timestamp": "2016-01-15T23:53:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding East Turkey.",
+    "timestamp": "2016-01-15T23:53:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding East Region.",
+    "timestamp": "2016-01-15T23:53:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Slovenia-Croatia-Bosnia.",
+    "timestamp": "2016-01-15T23:53:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Palestine (ryanbmilbourne) was reinforced by ryanbmilbourne with 16 troops.",
+    "timestamp": "2016-01-15T23:53:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Greece (ryanbmilbourne) was reinforced by ryanbmilbourne with 1 troop.",
+    "timestamp": "2016-01-15T23:53:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Greece (ryanbmilbourne) attacked Naples (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-15T23:53:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Greece (ryanbmilbourne) occupied Naples with 1 troop.",
+    "timestamp": "2016-01-15T23:54:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Greece (ryanbmilbourne) was fortified from Tokat (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-01-15T23:54:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-01-15T23:54:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-01-15T23:54:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-16T00:01:27.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 3 troops for 8 territories.",
+    "timestamp": "2016-01-16T00:01:27.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 1 troop for holding Tunisia.",
+    "timestamp": "2016-01-16T00:01:27.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 3 troops for holding North Algeria.",
+    "timestamp": "2016-01-16T00:01:27.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Milan (kwren) was reinforced by kwren with 7 troops.",
+    "timestamp": "2016-01-16T00:01:36.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Milan (kwren) attacked Rhône-Alpes (jobratt) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-01-16T00:01:42.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Milan (kwren) occupied Rhône-Alpes with 6 troops.",
+    "timestamp": "2016-01-16T00:01:51.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Rhône-Alpes (kwren) attacked Burgundy (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-16T00:01:55.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "jobratt was defeated by kwren.",
+    "timestamp": "2016-01-16T00:01:55.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Rhône-Alpes (kwren) occupied Burgundy with 1 troop.",
+    "timestamp": "2016-01-16T00:02:14.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Sicily (kwren) was reinforced by kwren with 8 troops.",
+    "timestamp": "2016-01-16T00:02:46.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Sicily (kwren) attacked Naples (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:02:50.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Sicily (kwren) occupied Naples with 1 troop.",
+    "timestamp": "2016-01-16T00:02:55.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Sicily (kwren) was fortified from Rhône-Alpes (kwren) with 3 troops.",
+    "timestamp": "2016-01-16T00:03:01.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-16T00:03:01.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-16T00:03:01.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-16T00:15:04.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 11 troops for 34 territories.",
+    "timestamp": "2016-01-16T00:15:04.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Libya.",
+    "timestamp": "2016-01-16T00:15:04.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Algeria.",
+    "timestamp": "2016-01-16T00:15:04.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding North Libya.",
+    "timestamp": "2016-01-16T00:15:04.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Morocco.",
+    "timestamp": "2016-01-16T00:15:04.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Egypt.",
+    "timestamp": "2016-01-16T00:15:04.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding North Egypt.",
+    "timestamp": "2016-01-16T00:15:04.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Portugal.",
+    "timestamp": "2016-01-16T00:15:04.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Spain.",
+    "timestamp": "2016-01-16T00:15:04.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 2 troops on Tamanrasset",
+    "timestamp": "2016-01-16T00:15:12.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Misratah (mmacfreier) was reinforced by mmacfreier with 6 troops.",
+    "timestamp": "2016-01-16T00:15:36.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Darnah (mmacfreier) was reinforced by mmacfreier with 10 troops.",
+    "timestamp": "2016-01-16T00:15:44.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Sinai (mmacfreier) was reinforced by mmacfreier with 22 troops.",
+    "timestamp": "2016-01-16T00:15:47.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Sinai (mmacfreier) attacked Palestine (ryanbmilbourne) conquering it, killing 17, losing 10.",
+    "timestamp": "2016-01-16T00:16:04.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Sinai (mmacfreier) occupied Palestine with 21 troops.",
+    "timestamp": "2016-01-16T00:16:05.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Palestine (mmacfreier) attacked Lebanon (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:16:08.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Palestine (mmacfreier) occupied Lebanon with 20 troops.",
+    "timestamp": "2016-01-16T00:16:09.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Lebanon (mmacfreier) attacked Cyprus (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-16T00:16:14.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Lebanon (mmacfreier) occupied Cyprus with 1 troop.",
+    "timestamp": "2016-01-16T00:16:17.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Lebanon (mmacfreier) attacked Rif Dimashq (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-16T00:16:21.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Lebanon (mmacfreier) occupied Rif Dimashq with 15 troops.",
+    "timestamp": "2016-01-16T00:16:22.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Rif Dimashq (mmacfreier) attacked Al-Hasakah (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:16:25.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Rif Dimashq (mmacfreier) occupied Al-Hasakah with 14 troops.",
+    "timestamp": "2016-01-16T00:16:26.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Al-Hasakah (mmacfreier) attacked Mardin (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:16:29.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Al-Hasakah (mmacfreier) occupied Mardin with 13 troops.",
+    "timestamp": "2016-01-16T00:16:31.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Mardin (mmacfreier) attacked Van (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:16:33.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Mardin (mmacfreier) occupied Van with 12 troops.",
+    "timestamp": "2016-01-16T00:16:38.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Van (mmacfreier) attacked Erzurum (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:16:40.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Van (mmacfreier) occupied Erzurum with 11 troops.",
+    "timestamp": "2016-01-16T00:16:42.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Erzurum (mmacfreier) attacked Tokat (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-16T00:16:48.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Erzurum (mmacfreier) occupied Tokat with 9 troops.",
+    "timestamp": "2016-01-16T00:16:49.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Tokat (mmacfreier) attacked Adana (ryanbmilbourne) conquering it, killing 1, losing 4.",
+    "timestamp": "2016-01-16T00:16:57.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Tokat (mmacfreier) occupied Adana with 4 troops.",
+    "timestamp": "2016-01-16T00:16:59.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Darnah (mmacfreier) attacked Greece (ryanbmilbourne) conquering it, killing 17, losing 11.",
+    "timestamp": "2016-01-16T00:17:23.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Darnah (mmacfreier) occupied Greece with 13 troops.",
+    "timestamp": "2016-01-16T00:17:25.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Adana (mmacfreier) attacked Antalya (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:17:29.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Adana (mmacfreier) occupied Antalya with 3 troops.",
+    "timestamp": "2016-01-16T00:17:32.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Antalya (mmacfreier) attacked Izmir (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-16T00:17:37.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Greece (mmacfreier) attacked Kirklareli (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:17:44.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Greece (mmacfreier) occupied Kirklareli with 1 troop.",
+    "timestamp": "2016-01-16T00:17:46.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Greece (mmacfreier) attacked Albania (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:17:49.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Greece (mmacfreier) occupied Albania with 11 troops.",
+    "timestamp": "2016-01-16T00:17:51.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Albania (mmacfreier) attacked Montenegro (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:17:54.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Albania (mmacfreier) occupied Montenegro with 10 troops.",
+    "timestamp": "2016-01-16T00:17:55.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Montenegro (mmacfreier) attacked Bosnia (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-16T00:18:00.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Montenegro (mmacfreier) occupied Bosnia with 8 troops.",
+    "timestamp": "2016-01-16T00:18:02.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Bosnia (mmacfreier) attacked Croatia (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:18:04.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Bosnia (mmacfreier) occupied Croatia with 7 troops.",
+    "timestamp": "2016-01-16T00:18:06.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Greece (mmacfreier) was fortified from Kharga (mmacfreier) with 2 troops.",
+    "timestamp": "2016-01-16T00:18:42.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-16T00:18:42.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-16T00:18:42.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Round 10 started.",
+    "timestamp": "2016-01-16T00:18:42.000Z",
+    "player": "unknown",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-01-16T00:19:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 3 territories.",
+    "timestamp": "2016-01-16T00:19:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Slovenia (ryanbmilbourne) was reinforced by ryanbmilbourne with 11 troops.",
+    "timestamp": "2016-01-16T00:19:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Slovenia (ryanbmilbourne) attacked Milan (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-16T00:19:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Slovenia (ryanbmilbourne) occupied Milan with 18 troops.",
+    "timestamp": "2016-01-16T00:19:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Sardinia (ryanbmilbourne) was fortified from Milan (ryanbmilbourne) with 17 troops.",
+    "timestamp": "2016-01-16T00:19:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-01-16T00:19:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-01-16T00:19:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-16T00:22:03.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-01-16T00:22:03.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 1 troop for holding Tunisia.",
+    "timestamp": "2016-01-16T00:22:03.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 3 troops for holding North Algeria.",
+    "timestamp": "2016-01-16T00:22:03.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Burgundy (kwren) was reinforced by kwren with 7 troops.",
+    "timestamp": "2016-01-16T00:22:19.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Burgundy (kwren) attacked Auvergne (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-16T00:22:24.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Burgundy (kwren) occupied Auvergne with 6 troops.",
+    "timestamp": "2016-01-16T00:22:25.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Auvergne (kwren) attacked Aquitaine (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:22:28.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Auvergne (kwren) occupied Aquitaine with 5 troops.",
+    "timestamp": "2016-01-16T00:22:29.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Aquitaine (kwren) attacked Catalonia (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:22:32.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Aquitaine (kwren) occupied Catalonia with 4 troops.",
+    "timestamp": "2016-01-16T00:22:33.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Catalonia (kwren) attacked Norte (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:22:37.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Catalonia (kwren) occupied Norte with 3 troops.",
+    "timestamp": "2016-01-16T00:22:39.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Sicily (kwren) was fortified from Kebili (kwren) with 5 troops.",
+    "timestamp": "2016-01-16T00:22:49.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-16T00:22:49.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-16T00:22:49.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-16T00:24:33.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 16 troops for 48 territories.",
+    "timestamp": "2016-01-16T00:24:33.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Libya.",
+    "timestamp": "2016-01-16T00:24:33.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Algeria.",
+    "timestamp": "2016-01-16T00:24:33.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding North Libya.",
+    "timestamp": "2016-01-16T00:24:33.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Morocco.",
+    "timestamp": "2016-01-16T00:24:33.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Egypt.",
+    "timestamp": "2016-01-16T00:24:33.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding North Egypt.",
+    "timestamp": "2016-01-16T00:24:33.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding East Region.",
+    "timestamp": "2016-01-16T00:24:33.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding East Turkey.",
+    "timestamp": "2016-01-16T00:24:33.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding West Turkey.",
+    "timestamp": "2016-01-16T00:24:33.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Montenegro-Albania-Greece.",
+    "timestamp": "2016-01-16T00:24:33.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Croatia (mmacfreier) was reinforced by mmacfreier with 40 troops.",
+    "timestamp": "2016-01-16T00:24:38.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Croatia (mmacfreier) attacked Slovenia (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-16T00:24:43.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Croatia (mmacfreier) occupied Slovenia with 45 troops.",
+    "timestamp": "2016-01-16T00:24:45.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Slovenia (mmacfreier) attacked Milan (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-16T00:24:51.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Slovenia (mmacfreier) occupied Milan with 42 troops.",
+    "timestamp": "2016-01-16T00:24:58.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Milan (mmacfreier) attacked Corsica (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:25:10.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Milan (mmacfreier) occupied Corsica with 30 troops.",
+    "timestamp": "2016-01-16T00:25:33.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Corsica (mmacfreier) attacked Sardinia (ryanbmilbourne) conquering it, killing 18, losing 8.",
+    "timestamp": "2016-01-16T00:25:50.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne was defeated by mmacfreier.",
+    "timestamp": "2016-01-16T00:25:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Corsica (mmacfreier) occupied Sardinia with 21 troops.",
+    "timestamp": "2016-01-16T00:25:52.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 2 troops on W. Murzuq",
+    "timestamp": "2016-01-16T00:26:06.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 2 troops on Extremadura",
+    "timestamp": "2016-01-16T00:26:06.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 2 troops on Mardin",
+    "timestamp": "2016-01-16T00:26:06.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Milan (mmacfreier) was reinforced by mmacfreier with 8 troops.",
+    "timestamp": "2016-01-16T00:26:12.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Milan (mmacfreier) attacked Rhône-Alpes (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-16T00:26:21.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Milan (mmacfreier) occupied Rhône-Alpes with 17 troops.",
+    "timestamp": "2016-01-16T00:26:23.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Rhône-Alpes (mmacfreier) attacked Burgundy (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:26:26.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Rhône-Alpes (mmacfreier) occupied Burgundy with 1 troop.",
+    "timestamp": "2016-01-16T00:26:30.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Rhône-Alpes (mmacfreier) attacked Auvergne (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-16T00:26:35.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Rhône-Alpes (mmacfreier) occupied Auvergne with 14 troops.",
+    "timestamp": "2016-01-16T00:26:37.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Auvergne (mmacfreier) attacked Aquitaine (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:26:40.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Auvergne (mmacfreier) occupied Aquitaine with 13 troops.",
+    "timestamp": "2016-01-16T00:26:41.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Aquitaine (mmacfreier) attacked Catalonia (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:26:45.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Aquitaine (mmacfreier) occupied Catalonia with 12 troops.",
+    "timestamp": "2016-01-16T00:26:47.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Extremadura (mmacfreier) attacked Norte (kwren) killing 1, losing 2.",
+    "timestamp": "2016-01-16T00:26:51.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Catalonia (mmacfreier) attacked Norte (kwren) conquering it, killing 2, losing 5.",
+    "timestamp": "2016-01-16T00:27:01.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Catalonia (mmacfreier) occupied Norte with 6 troops.",
+    "timestamp": "2016-01-16T00:27:03.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Sardinia (mmacfreier) attacked Naples (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:27:06.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Sardinia (mmacfreier) occupied Naples with 20 troops.",
+    "timestamp": "2016-01-16T00:27:12.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Naples (mmacfreier) attacked Sicily (kwren) killing 22, losing 19.",
+    "timestamp": "2016-01-16T00:28:07.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Naples (mmacfreier) was fortified from Norte (mmacfreier) with 5 troops.",
+    "timestamp": "2016-01-16T00:28:22.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-16T00:28:22.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-16T00:28:22.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Round 11 started.",
+    "timestamp": "2016-01-16T00:28:22.000Z",
+    "player": "unknown",
+    "round": 11
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-16T00:28:31.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-01-16T00:28:31.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 1 troop for holding Tunisia.",
+    "timestamp": "2016-01-16T00:28:31.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 3 troops for holding North Algeria.",
+    "timestamp": "2016-01-16T00:28:31.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Sicily (kwren) was reinforced by kwren with 7 troops.",
+    "timestamp": "2016-01-16T00:28:34.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Sicily (kwren) attacked Naples (mmacfreier) conquering it, killing 6, losing 7.",
+    "timestamp": "2016-01-16T00:28:39.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Sicily (kwren) occupied Naples with 7 troops.",
+    "timestamp": "2016-01-16T00:28:45.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Naples (kwren) attacked Greece (mmacfreier) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-01-16T00:28:53.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Naples (kwren) occupied Greece with 5 troops.",
+    "timestamp": "2016-01-16T00:28:55.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Greece (kwren) attacked Izmir (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:28:58.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Greece (kwren) occupied Izmir with 4 troops.",
+    "timestamp": "2016-01-16T00:28:59.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Izmir (kwren) attacked Adana (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:29:02.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Izmir (kwren) occupied Adana with 3 troops.",
+    "timestamp": "2016-01-16T00:29:04.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Adana (kwren) attacked Tokat (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-16T00:29:10.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "El Bayadh (kwren) attacked Béchar (mmacfreier) killing 0, losing 4.",
+    "timestamp": "2016-01-16T00:29:16.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-16T00:29:27.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-16T00:29:27.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-16T00:29:40.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 18 troops for 54 territories.",
+    "timestamp": "2016-01-16T00:29:40.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Libya.",
+    "timestamp": "2016-01-16T00:29:40.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Algeria.",
+    "timestamp": "2016-01-16T00:29:40.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding North Libya.",
+    "timestamp": "2016-01-16T00:29:40.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Morocco.",
+    "timestamp": "2016-01-16T00:29:40.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding South Egypt.",
+    "timestamp": "2016-01-16T00:29:40.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding North Egypt.",
+    "timestamp": "2016-01-16T00:29:40.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding East Region.",
+    "timestamp": "2016-01-16T00:29:40.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Slovenia-Croatia-Bosnia.",
+    "timestamp": "2016-01-16T00:29:40.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding North France.",
+    "timestamp": "2016-01-16T00:29:40.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding South France.",
+    "timestamp": "2016-01-16T00:29:40.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Spain.",
+    "timestamp": "2016-01-16T00:29:40.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Portugal.",
+    "timestamp": "2016-01-16T00:29:40.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Mardin (mmacfreier) was reinforced by mmacfreier with 45 troops.",
+    "timestamp": "2016-01-16T00:29:47.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Mardin (mmacfreier) attacked Tokat (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:29:50.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Mardin (mmacfreier) occupied Tokat with 47 troops.",
+    "timestamp": "2016-01-16T00:29:53.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Tokat (mmacfreier) attacked Adana (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-16T00:30:00.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Tokat (mmacfreier) occupied Adana with 45 troops.",
+    "timestamp": "2016-01-16T00:30:02.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Adana (mmacfreier) attacked Izmir (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-16T00:30:07.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Adana (mmacfreier) occupied Izmir with 43 troops.",
+    "timestamp": "2016-01-16T00:30:08.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Izmir (mmacfreier) attacked Greece (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:30:12.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Izmir (mmacfreier) occupied Greece with 42 troops.",
+    "timestamp": "2016-01-16T00:30:14.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Greece (mmacfreier) attacked Naples (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:30:17.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Greece (mmacfreier) occupied Naples with 41 troops.",
+    "timestamp": "2016-01-16T00:30:19.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Naples (mmacfreier) attacked Sicily (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:30:22.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Naples (mmacfreier) occupied Sicily with 40 troops.",
+    "timestamp": "2016-01-16T00:30:24.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Sicily (mmacfreier) attacked Siliana (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:30:27.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Sicily (mmacfreier) occupied Siliana with 39 troops.",
+    "timestamp": "2016-01-16T00:30:28.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Siliana (mmacfreier) attacked Batna (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:30:32.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Siliana (mmacfreier) occupied Batna with 38 troops.",
+    "timestamp": "2016-01-16T00:30:34.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Batna (mmacfreier) attacked Tiaret (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:30:37.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Batna (mmacfreier) occupied Tiaret with 37 troops.",
+    "timestamp": "2016-01-16T00:30:39.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Tiaret (mmacfreier) attacked El Bayadh (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-16T00:30:43.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Tiaret (mmacfreier) occupied El Bayadh with 36 troops.",
+    "timestamp": "2016-01-16T00:30:45.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "El Bayadh (mmacfreier) attacked Ouargla (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-16T00:30:49.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "El Bayadh (mmacfreier) occupied Ouargla with 34 troops.",
+    "timestamp": "2016-01-16T00:30:51.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Ouargla (mmacfreier) attacked Kebili (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-16T00:30:56.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "kwren was defeated by mmacfreier.",
+    "timestamp": "2016-01-16T00:30:56.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-01-16T00:30:56.000Z",
+    "player": "unknown",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne lost 17 rating.",
+    "timestamp": "2016-01-16T00:30:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 20 tokens.",
+    "timestamp": "2016-01-16T00:30:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "gcochard lost 14 rating.",
+    "timestamp": "2016-01-16T00:30:56.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 20 tokens.",
+    "timestamp": "2016-01-16T00:30:56.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "kwren lost 17 rating.",
+    "timestamp": "2016-01-16T00:30:57.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 20 tokens.",
+    "timestamp": "2016-01-16T00:30:57.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier won the game.",
+    "timestamp": "2016-01-16T00:30:57.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 75 rating.",
+    "timestamp": "2016-01-16T00:30:57.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 20 tokens.",
+    "timestamp": "2016-01-16T00:30:57.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "jobratt lost 27 rating.",
+    "timestamp": "2016-01-16T00:30:57.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 20 tokens.",
+    "timestamp": "2016-01-16T00:30:57.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 4 troops for turning in cards Al-Hasakah, Minya, and Tiaret.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "kwren received 6 troops for turning in cards Antalya, Matruh, and Jufra.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Auvergne, Rif Dimashq, and Sirte.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards E. Murzuq, Adrar, and Alentejo.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Corsica, Tokat, and Western Sahara.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Lorraine, Kirklareli, and Catalonia.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Van, Lebanon, and Slovenia.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards Sardinia, Erzurum, and Sinai.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Kharga, Darnah, and Adana.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Valencia, Izmir, and Andalusia.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Tamanrasset, Sicily, and Burgundy.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Rhône-Alpes, Albania, and Bosnia.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards W. Murzuq, Extremadura, and Mardin.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  }
+]

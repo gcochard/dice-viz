@@ -153,7 +153,7 @@ var fetchLog = function(gameId, cb){
 //     }
 //     var data = JSON.parse(body);
 //     var gameIds = d3.keys(data).filter(function(d) {
-//         return d != "undefined" && d != '600989'
+//         return d != "undefined"
 //     });
 //     gameIds.forEach(function (d) {
 //         fetchLog(Number(d), function(err, data){

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>D12 Game Attack Data</title>
+    <!-- <link href="http://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet"> -->
+    <link rel="stylesheet" type="text/css" href="//code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+    <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.6.7/d3-tip.js"></script>
+    <script type="text/javascript" src="js/viz-utils.js"></script>
+    <style>
+        body {
+            font-family: "futura-pt", sans-serif;
+        }
+        .tick line {
+            shape-rendering: crispEdges;
+            stroke: #000;
+        }
+        path.domain {
+            fill: none;
+            stroke: black;
+        }
+        .d3-tip {
+            line-height: 1;
+            padding: 12px;
+            background: rgba(0, 0, 0, 0.8);
+            color: #fff;
+            border-radius: 2px;
+            z-index: 5;
+        }
+
+        .label {
+            font-weight: bold;
+        }
+        form {
+            display: inline
+        }
+        .a-input {
+            padding: 3px;
+        }
+
+        /* Slider Styles */
+        .ui-slider .ui-slider-handle {
+            height: 0.6em;
+        }
+        #rselect {
+            display: inline-block;
+        }
+        #rslider {
+            margin-bottom: 50px;
+        }
+        #rslider a {
+            text-decoration: none;
+            outline: none;
+        }
+        #sval1, #sval2 {
+            width: 50px;
+            text-align: center;
+            color: black;
+            text-decoration: none;
+            font: 14px sans-serif;
+            padding-left: 8px;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>D12 Game Attack Targets</h2>
+    <div id="selectors">
+        <select id="game"></select>
+        <form id="dtype">
+            <input name="atype" type="radio" value="attacked" checked><span class="a-input" title="The raw number of times that player A has attacked player B.">Num Attack</span>
+            <input name="atype" type="radio" value="killed"><span class="a-input" title="The number of troops that player A has killed when attacking player B.">Killed</span>
+            <input name="atype" type="radio" value="lost"><span class="a-input" title="The number of troops that player A has lost when attacking player B.">Lost</span>
+        </form>
+    </div>
+    <svg id="attacks"></svg>
+    <div id="rselect">
+        <div id="rslider"></div>
+        <span id="sval1"></span>
+        <span id="sval2"></span>
+    </div>
+    <script type="text/javascript" src="js/attack.js"></script>
+    <script>
+        $("input[name='atype']").click(function () { vizAttackData(true); });
+    </script>
+</body>
+
+</html>
