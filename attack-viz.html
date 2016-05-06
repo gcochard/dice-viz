@@ -11,6 +11,7 @@
     <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.6.7/d3-tip.js"></script>
     <script type="text/javascript" src="js/viz-utils.js"></script>
+    <script type="text/javascript" src="js/colorbrewer.js"></script>
     <style>
         body {
             font-family: "futura-pt", sans-serif;
@@ -46,11 +47,11 @@
         .ui-slider .ui-slider-handle {
             height: 0.6em;
         }
-        #rselect {
+        #rselect, #adjacentyViz {
             display: inline-block;
         }
         #rslider {
-            margin-bottom: 50px;
+            margin-bottom: 85px;
         }
         #rslider a {
             text-decoration: none;
@@ -63,6 +64,13 @@
             text-decoration: none;
             font: 14px sans-serif;
             padding-left: 8px;
+        }
+
+        /* Legend Styles */
+        text.mono {
+            font-size: 9pt;
+            font-family: Consolas, courier;
+            fill: #aaa;
         }
     </style>
 </head>
@@ -77,7 +85,9 @@
             <input name="atype" type="radio" value="lost"><span class="a-input" title="The number of troops that player A has lost when attacking player B.">Lost</span>
         </form>
     </div>
-    <svg id="attacks"></svg>
+    <div id="adjacentyViz">
+        <svg id="attacks"></svg>
+    </div>
     <div id="rselect">
         <div id="rslider"></div>
         <span id="sval1"></span>
