@@ -64,7 +64,7 @@ function setGameIds(data, opt0, chg_cb) {
             } else {
                 return d != "undefined";
             }
-        }).sort()))
+        }).sort().reverse()))
         .enter().append('option')
         .attr('value', function(d) {
             return d
