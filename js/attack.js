@@ -28,18 +28,20 @@ function gridOut(d,i) {
 }
 
 
-function vizAttackData() {
+function vizAttackData(redrawSlider) {
     var boxWH = 75,
         margins = {top: 80, left: 100, right: 30, bottom: 10};
 
     var game_id = d3.select("#game").property("value");
     var type = d3.select('input[name="atype"]:checked').property("value");
-    var gData = [];
+    var gData = [], nTurn;
     if(game_id == 'All') {
         gameIds.forEach(function (g) { gData = gData.concat(allGameData[g]); });
         u_nodes = d3.entries(users);
+        nTurn = 0;
     } else {
         gData = allGameData[game_id];
+        nTurn = d3.max(gData, function (d) { return d.round; });
         // This is some really kludgy code to create a dictionary similar to the
         // users dictionary based on the specific players in the game.
         u_nodes = d3.set(gData.map(function (d) {
@@ -52,17 +54,65 @@ function vizAttackData() {
     }
     u_nodes.sort(function (a, b) { return a.key.localeCompare(b.key); });
 
-    var edgeHash = {};
+    if(!redrawSlider) {
+        if($('#rslider a').length) {
+            $('#sval1').html('').appendTo('#rselect');
+            $('#sval2').html('').appendTo('#rselect');
+            $('#rslider').slider("destroy");
+        }
+
+        if(game_id != 'All') {
+            $('#rslider').slider( {
+                range: true,
+                min: 1,
+                max: nTurn,
+                values: [0, nTurn],
+                orientation:"vertical",
+                create: function() {
+                    $('#sval1').appendTo($('#rslider a').get(0));
+                    $('#sval2').appendTo($('#rslider a').get(1));
+                },
+                slide : function (event, ui) {
+                    $(ui.handle).find('#sval1').html(ui.values[0]);
+                    $(ui.handle).find('#sval2').html(ui.values[1]);
+                    vizAttackData(true);
+                },
+                change : function (event, ui) {
+                    $(ui.handle).find('#sval1').html(ui.values[0]);
+                    $(ui.handle).find('#sval2').html(ui.values[1]);
+                }
+            });
+            d3.select('#rslider').style('height', boxWH*(u_nodes.length-1)+'px');
+            $("#sval1").html($("#rslider").slider('values')[0]).position({
+                my: 'left center',
+                at: 'right center',
+                of: $('#rslider a:eq(0)')
+            });
+            $("#sval2").html($("#rslider").slider('values')[1]).position({
+                my: 'left center',
+                at: 'right center',
+                of: $('#rslider a:eq(1)'),
+                collision: 'none none'
+            });
+        }
+    }
+
+    var edgeHash = {},
+         // Have to use the sval as the slider has not finished update
+        min_r = Number($('#sval1').html()),
+        max_r = Number($('#sval2').html());
     gData.forEach(function (e) {
         var id = e.player + "-" + e.dplayer;
-        if (edgeHash[id]) {
-            edgeHash[id].weight += (type == 'attacked' ? 1 : (type == 'killed' ? e.killed : e.lost))
-        } else {
-            edgeHash[id] = {
-                source: e.player,
-                target: e.dplayer,
-                weight: (type == 'attacked' ? 1 : (type == 'killed' ? e.killed : e.lost))
-            };
+        if(game_id == 'All' || (min_r <= e.round && e.round <= max_r)) {
+            if (edgeHash[id]) {
+                edgeHash[id].weight += (type == 'attacked' ? 1 : (type == 'killed' ? e.killed : e.lost))
+            } else {
+                edgeHash[id] = {
+                    source: e.player,
+                    target: e.dplayer,
+                    weight: (type == 'attacked' ? 1 : (type == 'killed' ? e.killed : e.lost))
+                };
+            }
         }
     });
     matrix = [];
@@ -156,7 +206,7 @@ function collectData(error, data, gid) {
     var done = true;
     gameIds.forEach(function (d) { done = done && (allGameData[d] !== null && allGameData[d] != 1); });
     if(done) {
-        vizAttackData();
+        vizAttackData(false);
         // The initial display has been loaded, go ahead and allow user to change it
         d3.select('#game').attr('disabled', null);
     }
@@ -176,7 +226,7 @@ function getAllGameData(error, data) {
     }
     // Modify the on change action, also disable changing until all data has been loaded
     d3.select('#game')
-        .on('change', vizAttackData)
+        .on('change', function () { vizAttackData(false); })
         .attr('disabled', '');
 
     // Get the list of gameIds we found to process all the files
