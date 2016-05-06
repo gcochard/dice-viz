@@ -56,7 +56,7 @@ function vizAttackData() {
     gData.forEach(function (e) {
         var id = e.player + "-" + e.dplayer;
         if (edgeHash[id]) {
-            edgeHash[id].weight += 1;
+            edgeHash[id].weight += (type == 'attacked' ? 1 : (type == 'killed' ? e.killed : e.lost))
         } else {
             edgeHash[id] = {
                 source: e.player,
@@ -81,7 +81,6 @@ function vizAttackData() {
         }
     }
 
-    // var colors = ["#ffffd9","#edf8b1","#c7e9b4","#7fcdbb","#41b6c4","#1d91c0","#225ea8","#253494","#081d58"]; // alternatively colorbrewer.YlGnBu[9]
     var colors = ['#a50026','#d73027','#f46d43','#fdae61','#fee08b','#ffffbf','#d9ef8b','#a6d96a','#66bd63','#1a9850','#006837'].reverse()
     var colorScale = d3.scale.quantile()
         .domain([d3.min(matrix, function (d) { return d.weight; }),
@@ -90,7 +89,7 @@ function vizAttackData() {
         .range(colors);
     var svg = d3.select("svg");
     svg.call(tip);
-    svg.select('#adjacencyG').remove();
+    svg.select('#adjacencyG').remove(); // Clear out any existing adjacenty matrix
     svg.attr('width', boxWH*u_nodes.length+margins.left+margins.right)
        .attr('height', boxWH*u_nodes.length+margins.top+margins.bottom)
 
