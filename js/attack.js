@@ -27,7 +27,6 @@ function gridOut(d,i) {
     tip.hide();
 }
 
-
 function vizAttackData(redrawSlider) {
     var boxWH = 75,
         margins = {top: 80, left: 100, right: 30, bottom: 10};
@@ -59,6 +58,7 @@ function vizAttackData(redrawSlider) {
             $('#sval1').html('').appendTo('#rselect');
             $('#sval2').html('').appendTo('#rselect');
             $('#rslider').slider("destroy");
+            $('#slabel').hide();
         }
 
         if(game_id != 'All') {
@@ -86,7 +86,8 @@ function vizAttackData(redrawSlider) {
             $("#sval1").html($("#rslider").slider('values')[0]).position({
                 my: 'left center',
                 at: 'right center',
-                of: $('#rslider a:eq(0)')
+                of: $('#rslider a:eq(0)'),
+                collision: 'none none'
             });
             $("#sval2").html($("#rslider").slider('values')[1]).position({
                 my: 'left center',
@@ -94,6 +95,12 @@ function vizAttackData(redrawSlider) {
                 of: $('#rslider a:eq(1)'),
                 collision: 'none none'
             });
+            $('#slabel').show().position({
+                my: 'left center',
+                at: 'right center',
+                of: $('#rslider'),
+                collision: 'none none'
+            })
         }
     }
 
