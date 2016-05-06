@@ -1,0 +1,5822 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-01-12T19:23:47.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-01-13T04:02:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 4 territories.",
+    "timestamp": "2016-01-13T04:02:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "Wayrest (ryanbmilbourne) was reinforced by ryanbmilbourne with 8 troops.",
+    "timestamp": "2016-01-13T04:03:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "Camlorn (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-01-13T04:03:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "Camlorn (ryanbmilbourne) attacked Daggerfall (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T04:03:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "Camlorn (ryanbmilbourne) occupied Daggerfall with 3 troops.",
+    "timestamp": "2016-01-13T04:03:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "Wayrest (ryanbmilbourne) attacked Jehanna (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-13T04:03:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "Wayrest (ryanbmilbourne) occupied Jehanna with 9 troops.",
+    "timestamp": "2016-01-13T04:03:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "Daggerfall (ryanbmilbourne) was fortified from Jehanna (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-01-13T04:04:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-01-13T04:04:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-01-13T04:04:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "Round 8 started.",
+    "timestamp": "2016-01-13T04:04:10.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-01-13T04:19:17.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 3 troops for 2 territories.",
+    "timestamp": "2016-01-13T04:19:17.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Hegathe (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-01-13T04:19:23.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Hegathe (gcochard) attacked Gilane (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T04:19:32.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Hegathe (gcochard) occupied Gilane with 10 troops.",
+    "timestamp": "2016-01-13T04:19:36.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-01-13T04:19:44.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-01-13T04:19:44.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-13T04:20:05.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 5 troops for 16 territories.",
+    "timestamp": "2016-01-13T04:20:05.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 3 troops for holding Summerset Isles.",
+    "timestamp": "2016-01-13T04:20:05.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 3 troops for holding Argonia.",
+    "timestamp": "2016-01-13T04:20:05.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Cheydinhal (kwren) was reinforced by kwren with 11 troops.",
+    "timestamp": "2016-01-13T04:20:15.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Cheydinhal (kwren) attacked Riften (mmacfreier) killing 2, losing 11.",
+    "timestamp": "2016-01-13T04:20:45.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Lillandril (kwren) attacked Hegathe (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-13T04:20:56.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Lillandril (kwren) occupied Hegathe with 1 troop.",
+    "timestamp": "2016-01-13T04:21:00.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-13T04:21:28.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-13T04:21:28.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Round 9 started.",
+    "timestamp": "2016-01-13T04:21:28.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-01-13T04:22:24.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received 3 troops for 2 territories.",
+    "timestamp": "2016-01-13T04:22:24.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Taneth (jobratt) was reinforced by jobratt with 11 troops.",
+    "timestamp": "2016-01-13T04:22:44.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Taneth (jobratt) attacked Sentinel (ryanbmilbourne) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-01-13T04:23:51.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Taneth (jobratt) occupied Sentinel with 12 troops.",
+    "timestamp": "2016-01-13T04:23:57.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Sentinel (jobratt) attacked Dragonstar (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T04:24:12.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Sentinel (jobratt) occupied Dragonstar with 11 troops.",
+    "timestamp": "2016-01-13T04:24:16.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Dragonstar (jobratt) attacked Wayrest (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T04:24:20.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Dragonstar (jobratt) occupied Wayrest with 1 troop.",
+    "timestamp": "2016-01-13T04:24:32.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Dragonstar (jobratt) attacked Skaven (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-13T04:24:40.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Dragonstar (jobratt) occupied Skaven with 8 troops.",
+    "timestamp": "2016-01-13T04:24:41.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-01-13T04:24:47.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-01-13T04:24:47.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-01-13T04:36:56.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 6 troops for 18 territories.",
+    "timestamp": "2016-01-13T04:36:56.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Valenwood.",
+    "timestamp": "2016-01-13T04:36:56.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Elsweyr.",
+    "timestamp": "2016-01-13T04:36:56.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Woodhearth",
+    "timestamp": "2016-01-13T04:37:03.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Rimmen",
+    "timestamp": "2016-01-13T04:37:03.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Skingrad (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-01-13T04:37:19.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Woodhearth (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-01-13T04:37:34.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Rimmen (tanleach1001) was reinforced by tanleach1001 with 1 troop.",
+    "timestamp": "2016-01-13T04:37:42.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Anvil (tanleach1001) was reinforced by tanleach1001 with 12 troops.",
+    "timestamp": "2016-01-13T04:37:48.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Anvil (tanleach1001) attacked Firsthold (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T04:37:54.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Anvil (tanleach1001) occupied Firsthold with 1 troop.",
+    "timestamp": "2016-01-13T04:37:58.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Anvil (tanleach1001) attacked Kwatch (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T04:38:02.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Anvil (tanleach1001) occupied Kwatch with 1 troop.",
+    "timestamp": "2016-01-13T04:38:05.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Woodhearth (tanleach1001) attacked Skywatch (kwren) conquering it, killing 4, losing 4.",
+    "timestamp": "2016-01-13T04:38:27.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Woodhearth (tanleach1001) occupied Skywatch with 1 troop.",
+    "timestamp": "2016-01-13T04:38:36.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Skingrad (tanleach1001) was fortified from Anvil (tanleach1001) with 6 troops.",
+    "timestamp": "2016-01-13T04:39:18.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-01-13T04:39:19.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-01-13T04:39:19.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-13T04:39:51.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 6 troops for 18 territories.",
+    "timestamp": "2016-01-13T04:39:51.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Morrowind.",
+    "timestamp": "2016-01-13T04:39:51.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 5 troops for holding Skyrim.",
+    "timestamp": "2016-01-13T04:39:51.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Riften (mmacfreier) was reinforced by mmacfreier with 5 troops.",
+    "timestamp": "2016-01-13T04:40:18.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Falkreath (mmacfreier) was reinforced by mmacfreier with 4 troops.",
+    "timestamp": "2016-01-13T04:40:30.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Markarth (mmacfreier) was reinforced by mmacfreier with 6 troops.",
+    "timestamp": "2016-01-13T04:40:57.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Falkreath (mmacfreier) attacked Bruma (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-13T04:41:14.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Falkreath (mmacfreier) occupied Bruma with 1 troop.",
+    "timestamp": "2016-01-13T04:41:19.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Markarth (mmacfreier) was fortified from Solitude (mmacfreier) with 1 troop.",
+    "timestamp": "2016-01-13T04:41:26.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-13T04:41:27.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-13T04:41:27.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-01-13T04:43:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 4 territories.",
+    "timestamp": "2016-01-13T04:43:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Jehanna (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-01-13T04:43:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Jehanna (ryanbmilbourne) attacked Wayrest (jobratt) conquering it, killing 1, losing 7.",
+    "timestamp": "2016-01-13T04:44:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Jehanna (ryanbmilbourne) occupied Wayrest with 1 troop.",
+    "timestamp": "2016-01-13T04:44:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-01-13T05:43:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne ran out of time.",
+    "timestamp": "2016-01-13T05:43:47.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-01-13T17:00:46.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 3 troops for 1 territory.",
+    "timestamp": "2016-01-13T17:00:47.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Gilane (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-01-13T17:00:52.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Gilane (gcochard) attacked Hegathe (kwren) conquering it, killing 1, losing 4.",
+    "timestamp": "2016-01-13T17:04:59.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Gilane (gcochard) occupied Hegathe with 8 troops.",
+    "timestamp": "2016-01-13T17:05:03.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Hegathe (gcochard) attacked Lillandril (kwren) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-01-13T17:05:47.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Hegathe (gcochard) occupied Lillandril with 5 troops.",
+    "timestamp": "2016-01-13T17:05:50.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Lillandril (gcochard) attacked Firsthold (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T17:06:14.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Lillandril (gcochard) occupied Firsthold with 1 troop.",
+    "timestamp": "2016-01-13T17:06:21.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-01-13T17:07:03.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-01-13T17:07:03.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-13T17:39:17.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 4 troops for 13 territories.",
+    "timestamp": "2016-01-13T17:39:17.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 3 troops for holding Argonia.",
+    "timestamp": "2016-01-13T17:39:17.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Cloudrest (kwren) was reinforced by kwren with 7 troops.",
+    "timestamp": "2016-01-13T17:39:28.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Cloudrest (kwren) attacked Skywatch (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T17:39:32.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Cloudrest (kwren) occupied Skywatch with 7 troops.",
+    "timestamp": "2016-01-13T17:39:35.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Skywatch (kwren) attacked Firsthold (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-13T17:39:39.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Skywatch (kwren) occupied Firsthold with 5 troops.",
+    "timestamp": "2016-01-13T17:39:42.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Shimmerene (kwren) was fortified from Firsthold (kwren) with 4 troops.",
+    "timestamp": "2016-01-13T17:39:51.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-13T17:39:51.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-13T17:39:51.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Round 10 started.",
+    "timestamp": "2016-01-13T17:39:51.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-01-13T19:08:08.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 3 troops for 5 territories.",
+    "timestamp": "2016-01-13T19:08:08.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Dragonstar (jobratt) was reinforced by jobratt with 11 troops.",
+    "timestamp": "2016-01-13T19:08:46.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Dragonstar (jobratt) attacked Wayrest (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-13T19:08:54.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Dragonstar (jobratt) occupied Wayrest with 9 troops.",
+    "timestamp": "2016-01-13T19:09:10.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Wayrest (jobratt) was fortified from Skaven (jobratt) with 7 troops.",
+    "timestamp": "2016-01-13T19:09:42.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-01-13T19:09:42.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-01-13T19:09:42.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-01-13T19:33:01.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 6 troops for 19 territories.",
+    "timestamp": "2016-01-13T19:33:01.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Valenwood.",
+    "timestamp": "2016-01-13T19:33:01.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Elsweyr.",
+    "timestamp": "2016-01-13T19:33:01.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Anvil (tanleach1001) was reinforced by tanleach1001 with 14 troops.",
+    "timestamp": "2016-01-13T19:33:24.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Anvil (tanleach1001) attacked Firsthold (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T19:33:30.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Anvil (tanleach1001) occupied Firsthold with 20 troops.",
+    "timestamp": "2016-01-13T19:33:37.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Firsthold (tanleach1001) attacked Skywatch (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T19:33:41.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Firsthold (tanleach1001) occupied Skywatch with 19 troops.",
+    "timestamp": "2016-01-13T19:33:59.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Skywatch (tanleach1001) attacked Shimmerene (kwren) conquering it, killing 5, losing 0.",
+    "timestamp": "2016-01-13T19:34:05.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Skywatch (tanleach1001) occupied Shimmerene with 18 troops.",
+    "timestamp": "2016-01-13T19:34:08.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Shimmerene (tanleach1001) attacked Dusk (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T19:34:13.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Shimmerene (tanleach1001) occupied Dusk with 1 troop.",
+    "timestamp": "2016-01-13T19:34:54.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Shimmerene (tanleach1001) attacked Alinor (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T19:34:58.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Shimmerene (tanleach1001) occupied Alinor with 1 troop.",
+    "timestamp": "2016-01-13T19:35:10.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Shimmerene (tanleach1001) attacked Cloudrest (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-13T19:35:17.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Shimmerene (tanleach1001) occupied Cloudrest with 14 troops.",
+    "timestamp": "2016-01-13T19:35:20.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Cloudrest (tanleach1001) attacked Lillandril (gcochard) conquering it, killing 4, losing 0.",
+    "timestamp": "2016-01-13T19:35:27.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Cloudrest (tanleach1001) occupied Lillandril with 13 troops.",
+    "timestamp": "2016-01-13T19:36:39.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Firsthold (tanleach1001) was fortified from Woodhearth (tanleach1001) with 7 troops.",
+    "timestamp": "2016-01-13T19:37:26.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-01-13T19:37:26.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-01-13T19:37:26.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-13T19:39:17.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 6 troops for 19 territories.",
+    "timestamp": "2016-01-13T19:39:17.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Morrowind.",
+    "timestamp": "2016-01-13T19:39:17.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 5 troops for holding Skyrim.",
+    "timestamp": "2016-01-13T19:39:17.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Tear (mmacfreier) was reinforced by mmacfreier with 7 troops.",
+    "timestamp": "2016-01-13T19:39:34.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Markarth (mmacfreier) was reinforced by mmacfreier with 16 troops.",
+    "timestamp": "2016-01-13T19:39:43.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Markarth (mmacfreier) attacked Jehanna (ryanbmilbourne) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-01-13T19:39:48.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Markarth (mmacfreier) occupied Jehanna with 26 troops.",
+    "timestamp": "2016-01-13T19:39:50.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Jehanna (mmacfreier) attacked Wayrest (jobratt) conquering it, killing 16, losing 14.",
+    "timestamp": "2016-01-13T19:40:10.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Jehanna (mmacfreier) occupied Wayrest with 11 troops.",
+    "timestamp": "2016-01-13T19:40:12.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Wayrest (mmacfreier) attacked Northpoint (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-13T19:40:17.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Wayrest (mmacfreier) occupied Northpoint with 1 troop.",
+    "timestamp": "2016-01-13T19:40:19.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Wayrest (mmacfreier) attacked Camlorn (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-13T19:40:24.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Wayrest (mmacfreier) occupied Camlorn with 6 troops.",
+    "timestamp": "2016-01-13T19:40:26.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Camlorn (mmacfreier) attacked Daggerfall (ryanbmilbourne) conquering it, killing 5, losing 0.",
+    "timestamp": "2016-01-13T19:40:33.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne was defeated by mmacfreier.",
+    "timestamp": "2016-01-13T19:40:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Camlorn (mmacfreier) occupied Daggerfall with 5 troops.",
+    "timestamp": "2016-01-13T19:40:37.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 2 troops on Mournhold",
+    "timestamp": "2016-01-13T19:40:42.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 2 troops on Bruma",
+    "timestamp": "2016-01-13T19:40:42.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Jehanna (mmacfreier) was reinforced by mmacfreier with 8 troops.",
+    "timestamp": "2016-01-13T19:40:55.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Jehanna (mmacfreier) attacked Dragonstar (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-13T19:41:03.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Jehanna (mmacfreier) occupied Dragonstar with 7 troops.",
+    "timestamp": "2016-01-13T19:41:05.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Markarth (mmacfreier) was fortified from Dragonstar (mmacfreier) with 6 troops.",
+    "timestamp": "2016-01-13T19:41:32.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-13T19:41:32.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-13T19:41:32.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-01-13T19:42:52.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 3 troops for 2 territories.",
+    "timestamp": "2016-01-13T19:42:52.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Gilane (gcochard) was reinforced by gcochard with 11 troops.",
+    "timestamp": "2016-01-13T19:43:11.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Gilane (gcochard) attacked Taneth (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T19:43:18.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Gilane (gcochard) occupied Taneth with 11 troops.",
+    "timestamp": "2016-01-13T19:43:27.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Taneth (gcochard) attacked Rihad (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T19:43:32.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Taneth (gcochard) occupied Rihad with 10 troops.",
+    "timestamp": "2016-01-13T19:43:35.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Rihad (gcochard) attacked Elinhir (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T19:43:39.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Rihad (gcochard) occupied Elinhir with 9 troops.",
+    "timestamp": "2016-01-13T19:43:41.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Elinhir (gcochard) attacked Skaven (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T19:43:45.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Elinhir (gcochard) occupied Skaven with 8 troops.",
+    "timestamp": "2016-01-13T19:43:47.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Skaven (gcochard) attacked Sentinel (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T19:43:52.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "jobratt was defeated by gcochard.",
+    "timestamp": "2016-01-13T19:43:52.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Skaven (gcochard) occupied Sentinel with 7 troops.",
+    "timestamp": "2016-01-13T19:43:54.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Sentinel (gcochard) attacked Dragonstar (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-13T19:43:59.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Sentinel (gcochard) occupied Dragonstar with 1 troop.",
+    "timestamp": "2016-01-13T19:44:04.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Taneth (gcochard) was fortified from Sentinel (gcochard) with 4 troops.",
+    "timestamp": "2016-01-13T19:44:19.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-01-13T19:44:19.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-01-13T19:44:19.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-13T19:44:32.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 3 troops for 9 territories.",
+    "timestamp": "2016-01-13T19:44:32.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 3 troops for holding Argonia.",
+    "timestamp": "2016-01-13T19:44:32.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 2 troops on Blackrose",
+    "timestamp": "2016-01-13T19:44:38.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Cheydinhal (kwren) was reinforced by kwren with 14 troops.",
+    "timestamp": "2016-01-13T19:44:45.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Cheydinhal (kwren) attacked Riften (mmacfreier) conquering it, killing 6, losing 2.",
+    "timestamp": "2016-01-13T19:44:55.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Cheydinhal (kwren) occupied Riften with 1 troop.",
+    "timestamp": "2016-01-13T19:45:06.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Cheydinhal (kwren) attacked Chorrol (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T19:45:11.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Cheydinhal (kwren) occupied Chorrol with 1 troop.",
+    "timestamp": "2016-01-13T19:45:16.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Helstrom (kwren) was fortified from Cheydinhal (kwren) with 10 troops.",
+    "timestamp": "2016-01-13T19:45:28.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-13T19:45:28.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-13T19:45:28.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Round 11 started.",
+    "timestamp": "2016-01-13T19:45:28.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-01-13T19:53:00.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 8 troops for 25 territories.",
+    "timestamp": "2016-01-13T19:53:00.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Valenwood.",
+    "timestamp": "2016-01-13T19:53:00.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Elsweyr.",
+    "timestamp": "2016-01-13T19:53:00.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Summerset Isles.",
+    "timestamp": "2016-01-13T19:53:00.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Lillandril (tanleach1001) was reinforced by tanleach1001 with 19 troops.",
+    "timestamp": "2016-01-13T19:53:10.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Lillandril (tanleach1001) attacked Daggerfall (mmacfreier) conquering it, killing 5, losing 5.",
+    "timestamp": "2016-01-13T19:53:32.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Lillandril (tanleach1001) occupied Daggerfall with 26 troops.",
+    "timestamp": "2016-01-13T19:53:33.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Daggerfall (tanleach1001) attacked Camlorn (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T19:53:41.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Daggerfall (tanleach1001) occupied Camlorn with 25 troops.",
+    "timestamp": "2016-01-13T19:53:43.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Camlorn (tanleach1001) attacked Northpoint (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T19:53:48.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Camlorn (tanleach1001) occupied Northpoint with 24 troops.",
+    "timestamp": "2016-01-13T19:53:54.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Northpoint (tanleach1001) attacked Wayrest (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T19:54:00.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Northpoint (tanleach1001) occupied Wayrest with 23 troops.",
+    "timestamp": "2016-01-13T19:54:03.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Wayrest (tanleach1001) attacked Jehanna (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T19:54:07.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Wayrest (tanleach1001) occupied Jehanna with 22 troops.",
+    "timestamp": "2016-01-13T19:54:33.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Wayrest (tanleach1001) was fortified from Firsthold (tanleach1001) with 7 troops.",
+    "timestamp": "2016-01-13T19:55:22.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-01-13T19:55:22.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-01-13T19:55:22.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-13T19:55:34.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 5 troops for 17 territories.",
+    "timestamp": "2016-01-13T19:55:34.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Morrowind.",
+    "timestamp": "2016-01-13T19:55:34.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Windhelm (mmacfreier) was reinforced by mmacfreier with 9 troops.",
+    "timestamp": "2016-01-13T19:55:46.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Windhelm (mmacfreier) attacked Riften (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-13T19:55:52.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Windhelm (mmacfreier) occupied Riften with 7 troops.",
+    "timestamp": "2016-01-13T19:55:53.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Riften (mmacfreier) was fortified from Bruma (mmacfreier) with 2 troops.",
+    "timestamp": "2016-01-13T19:56:00.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-13T19:56:00.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-13T19:56:00.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-01-13T19:57:21.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 3 troops for 8 territories.",
+    "timestamp": "2016-01-13T19:57:21.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 4 troops for holding Hammerfell.",
+    "timestamp": "2016-01-13T19:57:21.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Elinhir (gcochard) was reinforced by gcochard with 7 troops.",
+    "timestamp": "2016-01-13T19:57:37.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Elinhir (gcochard) attacked Bruma (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-13T19:57:43.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Elinhir (gcochard) occupied Bruma with 6 troops.",
+    "timestamp": "2016-01-13T19:57:47.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Taneth (gcochard) was fortified from Bruma (gcochard) with 5 troops.",
+    "timestamp": "2016-01-13T19:57:55.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-01-13T19:57:56.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-01-13T19:57:56.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-13T19:58:07.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-01-13T19:58:07.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 3 troops for holding Argonia.",
+    "timestamp": "2016-01-13T19:58:07.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Chorrol (kwren) was reinforced by kwren with 6 troops.",
+    "timestamp": "2016-01-13T19:58:14.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Chorrol (kwren) attacked Bruma (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-13T19:58:18.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Chorrol (kwren) occupied Bruma with 6 troops.",
+    "timestamp": "2016-01-13T19:58:22.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Bruma (kwren) attacked Falkreath (mmacfreier) conquering it, killing 6, losing 1.",
+    "timestamp": "2016-01-13T19:58:31.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Bruma (kwren) occupied Falkreath with 1 troop.",
+    "timestamp": "2016-01-13T19:58:36.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Helstrom (kwren) was fortified from Bruma (kwren) with 3 troops.",
+    "timestamp": "2016-01-13T19:58:51.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-13T19:58:51.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-13T19:58:51.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Round 12 started.",
+    "timestamp": "2016-01-13T19:58:51.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-01-14T00:26:33.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 10 troops for 30 territories.",
+    "timestamp": "2016-01-14T00:26:33.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding High Rock.",
+    "timestamp": "2016-01-14T00:26:33.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Summerset Isles.",
+    "timestamp": "2016-01-14T00:26:33.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Valenwood.",
+    "timestamp": "2016-01-14T00:26:33.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Elsweyr.",
+    "timestamp": "2016-01-14T00:26:33.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Wayrest (tanleach1001) was reinforced by tanleach1001 with 24 troops.",
+    "timestamp": "2016-01-14T00:26:44.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Wayrest (tanleach1001) attacked Dragonstar (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T00:27:06.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Wayrest (tanleach1001) occupied Dragonstar with 31 troops.",
+    "timestamp": "2016-01-14T00:27:12.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Dragonstar (tanleach1001) attacked Sentinel (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T00:27:36.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Dragonstar (tanleach1001) occupied Sentinel with 30 troops.",
+    "timestamp": "2016-01-14T00:27:38.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Sentinel (tanleach1001) attacked Hegathe (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T00:27:49.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Sentinel (tanleach1001) occupied Hegathe with 28 troops.",
+    "timestamp": "2016-01-14T00:27:51.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Hegathe (tanleach1001) attacked Gilane (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T00:28:00.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Hegathe (tanleach1001) occupied Gilane with 26 troops.",
+    "timestamp": "2016-01-14T00:28:05.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Gilane (tanleach1001) attacked Taneth (gcochard) conquering it, killing 10, losing 5.",
+    "timestamp": "2016-01-14T00:28:34.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Gilane (tanleach1001) occupied Taneth with 20 troops.",
+    "timestamp": "2016-01-14T00:28:43.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Taneth (tanleach1001) attacked Rihad (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T00:28:53.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Taneth (tanleach1001) occupied Rihad with 19 troops.",
+    "timestamp": "2016-01-14T00:28:56.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Rihad (tanleach1001) attacked Elinhir (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T00:29:08.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Rihad (tanleach1001) occupied Elinhir with 17 troops.",
+    "timestamp": "2016-01-14T00:29:12.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Elinhir (tanleach1001) attacked Skaven (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T00:29:16.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "gcochard was defeated by tanleach1001.",
+    "timestamp": "2016-01-14T00:29:16.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Elinhir (tanleach1001) occupied Skaven with 1 troop.",
+    "timestamp": "2016-01-14T00:29:52.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Arenthia",
+    "timestamp": "2016-01-14T00:30:05.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Hegathe",
+    "timestamp": "2016-01-14T00:30:05.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Rihad",
+    "timestamp": "2016-01-14T00:30:13.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Jehanna (tanleach1001) was reinforced by tanleach1001 with 16 troops.",
+    "timestamp": "2016-01-14T00:30:22.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Jehanna (tanleach1001) attacked Markarth (mmacfreier) conquering it, killing 7, losing 9.",
+    "timestamp": "2016-01-14T00:30:48.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Jehanna (tanleach1001) occupied Markarth with 28 troops.",
+    "timestamp": "2016-01-14T00:30:59.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Markarth (tanleach1001) attacked Solitude (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T00:31:08.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Markarth (tanleach1001) occupied Solitude with 1 troop.",
+    "timestamp": "2016-01-14T01:09:31.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Markarth (tanleach1001) attacked Morthal (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T01:09:35.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Markarth (tanleach1001) occupied Morthal with 1 troop.",
+    "timestamp": "2016-01-14T01:09:44.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Markarth (tanleach1001) attacked Whiterun (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T01:09:51.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Markarth (tanleach1001) occupied Whiterun with 25 troops.",
+    "timestamp": "2016-01-14T01:09:53.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Whiterun (tanleach1001) attacked Riften (mmacfreier) conquering it, killing 9, losing 7.",
+    "timestamp": "2016-01-14T01:10:12.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Whiterun (tanleach1001) occupied Riften with 1 troop.",
+    "timestamp": "2016-01-14T01:10:20.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Whiterun (tanleach1001) attacked Dawnstar (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T01:10:24.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Whiterun (tanleach1001) occupied Dawnstar with 4 troops.",
+    "timestamp": "2016-01-14T01:10:37.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Whiterun (tanleach1001) attacked Windhelm (mmacfreier) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T01:10:43.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Whiterun (tanleach1001) occupied Windhelm with 1 troop.",
+    "timestamp": "2016-01-14T01:10:50.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Dawnstar (tanleach1001) attacked Winterhold (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T01:10:54.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Dawnstar (tanleach1001) occupied Winterhold with 3 troops.",
+    "timestamp": "2016-01-14T01:11:02.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Whiterun (tanleach1001) attacked Falkreath (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T01:11:05.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Whiterun (tanleach1001) occupied Falkreath with 9 troops.",
+    "timestamp": "2016-01-14T01:11:07.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Markarth (tanleach1001) was fortified from Elinhir (tanleach1001) with 7 troops.",
+    "timestamp": "2016-01-14T01:11:42.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-01-14T01:11:42.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-01-14T01:11:42.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-14T17:11:59.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 3 troops for 8 territories.",
+    "timestamp": "2016-01-14T17:11:59.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Morrowind.",
+    "timestamp": "2016-01-14T17:11:59.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Blacklight (mmacfreier) was reinforced by mmacfreier with 7 troops.",
+    "timestamp": "2016-01-14T17:12:31.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Blacklight (mmacfreier) attacked Riften (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T17:12:39.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Blacklight (mmacfreier) occupied Riften with 16 troops.",
+    "timestamp": "2016-01-14T17:12:47.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Riften (mmacfreier) attacked Cheydinhal (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T17:12:58.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Riften (mmacfreier) occupied Cheydinhal with 13 troops.",
+    "timestamp": "2016-01-14T17:13:00.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Cheydinhal (mmacfreier) attacked Bravil (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T17:13:03.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Cheydinhal (mmacfreier) occupied Bravil with 12 troops.",
+    "timestamp": "2016-01-14T17:13:06.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Bravil (mmacfreier) attacked Rimmen (tanleach1001) killing 6, losing 8.",
+    "timestamp": "2016-01-14T17:13:16.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Blacklight (mmacfreier) was fortified from Bravil (mmacfreier) with 3 troops.",
+    "timestamp": "2016-01-14T17:13:30.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-14T17:13:30.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-14T17:13:30.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-14T17:31:04.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 3 troops for 9 territories.",
+    "timestamp": "2016-01-14T17:31:04.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 3 troops for holding Argonia.",
+    "timestamp": "2016-01-14T17:31:04.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Stormhold (kwren) was reinforced by kwren with 6 troops.",
+    "timestamp": "2016-01-14T17:31:08.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Stormhold (kwren) attacked Bravil (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T17:31:12.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Stormhold (kwren) occupied Bravil with 17 troops.",
+    "timestamp": "2016-01-14T17:31:14.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Bravil (kwren) attacked Rimmen (tanleach1001) conquering it, killing 4, losing 4.",
+    "timestamp": "2016-01-14T17:31:33.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Bravil (kwren) occupied Rimmen with 12 troops.",
+    "timestamp": "2016-01-14T17:31:35.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Rimmen (kwren) attacked Orcrest (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T17:31:40.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Rimmen (kwren) occupied Orcrest with 11 troops.",
+    "timestamp": "2016-01-14T17:31:42.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Orcrest (kwren) attacked Dune (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T17:31:45.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Orcrest (kwren) occupied Dune with 10 troops.",
+    "timestamp": "2016-01-14T17:31:47.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Dune (kwren) attacked Silvenar (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T17:31:51.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Dune (kwren) occupied Silvenar with 9 troops.",
+    "timestamp": "2016-01-14T17:31:52.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Silvenar (kwren) attacked Woodhearth (tanleach1001) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-01-14T17:31:58.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Silvenar (kwren) occupied Woodhearth with 5 troops.",
+    "timestamp": "2016-01-14T17:32:00.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Woodhearth (kwren) attacked Skywatch (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T17:32:04.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Woodhearth (kwren) occupied Skywatch with 4 troops.",
+    "timestamp": "2016-01-14T17:32:07.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Skywatch (kwren) attacked Cloudrest (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T17:32:11.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Skywatch (kwren) occupied Cloudrest with 3 troops.",
+    "timestamp": "2016-01-14T17:32:12.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Cloudrest (kwren) attacked Lillandril (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T17:32:15.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Cloudrest (kwren) occupied Lillandril with 2 troops.",
+    "timestamp": "2016-01-14T17:32:17.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Lillandril (kwren) attacked Daggerfall (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-01-14T17:32:20.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Stormhold (kwren) was fortified from Helstrom (kwren) with 13 troops.",
+    "timestamp": "2016-01-14T17:33:31.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-14T17:33:31.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-14T17:33:31.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Round 13 started.",
+    "timestamp": "2016-01-14T17:33:31.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-01-14T17:37:34.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 12 troops for 38 territories.",
+    "timestamp": "2016-01-14T17:37:34.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Hammerfell.",
+    "timestamp": "2016-01-14T17:37:34.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding High Rock.",
+    "timestamp": "2016-01-14T17:37:34.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Winterhold",
+    "timestamp": "2016-01-14T17:37:39.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Sentinel",
+    "timestamp": "2016-01-14T17:37:39.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Hegathe (tanleach1001) was reinforced by tanleach1001 with 17 troops.",
+    "timestamp": "2016-01-14T17:38:02.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Falkreath (tanleach1001) was reinforced by tanleach1001 with 10 troops.",
+    "timestamp": "2016-01-14T17:38:12.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Hegathe (tanleach1001) attacked Lillandril (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T17:38:21.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Hegathe (tanleach1001) occupied Lillandril with 18 troops.",
+    "timestamp": "2016-01-14T17:38:23.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Lillandril (tanleach1001) attacked Cloudrest (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T17:38:26.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Lillandril (tanleach1001) occupied Cloudrest with 17 troops.",
+    "timestamp": "2016-01-14T17:38:28.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Cloudrest (tanleach1001) attacked Skywatch (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T17:38:31.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Cloudrest (tanleach1001) occupied Skywatch with 16 troops.",
+    "timestamp": "2016-01-14T17:38:34.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Skywatch (tanleach1001) attacked Woodhearth (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T17:38:39.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Skywatch (tanleach1001) occupied Woodhearth with 14 troops.",
+    "timestamp": "2016-01-14T17:38:41.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Woodhearth (tanleach1001) attacked Silvenar (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T17:38:44.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Woodhearth (tanleach1001) occupied Silvenar with 13 troops.",
+    "timestamp": "2016-01-14T17:38:46.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Silvenar (tanleach1001) attacked Dune (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T17:38:50.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Silvenar (tanleach1001) occupied Dune with 12 troops.",
+    "timestamp": "2016-01-14T17:38:51.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Dune (tanleach1001) attacked Orcrest (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T17:38:59.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Dune (tanleach1001) occupied Orcrest with 9 troops.",
+    "timestamp": "2016-01-14T17:39:02.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Orcrest (tanleach1001) attacked Rimmen (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T17:39:07.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Orcrest (tanleach1001) occupied Rimmen with 7 troops.",
+    "timestamp": "2016-01-14T17:39:10.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Falkreath (tanleach1001) attacked Riften (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T17:48:49.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Falkreath (tanleach1001) occupied Riften with 18 troops.",
+    "timestamp": "2016-01-14T17:48:50.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Riften (tanleach1001) attacked Blacklight (mmacfreier) conquering it, killing 4, losing 6.",
+    "timestamp": "2016-01-14T17:49:00.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Riften (tanleach1001) occupied Blacklight with 11 troops.",
+    "timestamp": "2016-01-14T17:51:09.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Skingrad (tanleach1001) attacked Chorrol (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T17:51:33.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Skingrad (tanleach1001) occupied Chorrol with 11 troops.",
+    "timestamp": "2016-01-14T17:51:35.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Chorrol (tanleach1001) attacked Bruma (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T17:51:39.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Chorrol (tanleach1001) occupied Bruma with 9 troops.",
+    "timestamp": "2016-01-14T17:51:41.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Bruma (tanleach1001) attacked Cheydinhal (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T17:51:44.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Bruma (tanleach1001) occupied Cheydinhal with 8 troops.",
+    "timestamp": "2016-01-14T17:51:46.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Cheydinhal (tanleach1001) was fortified from Elinhir (tanleach1001) with 8 troops.",
+    "timestamp": "2016-01-14T17:52:03.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-01-14T17:52:03.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-01-14T17:52:03.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-14T18:11:24.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 3 troops for 7 territories.",
+    "timestamp": "2016-01-14T18:11:24.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Mournhold (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-01-14T18:11:39.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Narsis (mmacfreier) attacked Bravil (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:12:07.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Narsis (mmacfreier) occupied Bravil with 1 troop.",
+    "timestamp": "2016-01-14T18:12:11.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Mournhold (mmacfreier) attacked Cheydinhal (tanleach1001) killing 9, losing 12.",
+    "timestamp": "2016-01-14T18:12:26.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Mournhold (mmacfreier) was fortified from Tear (mmacfreier) with 7 troops.",
+    "timestamp": "2016-01-14T18:12:32.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-14T18:12:32.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-14T18:12:32.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-14T18:13:24.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-01-14T18:13:24.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for holding Argonia.",
+    "timestamp": "2016-01-14T18:13:24.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Stormhold (kwren) was reinforced by kwren with 14 troops.",
+    "timestamp": "2016-01-14T18:13:30.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Stormhold (kwren) attacked Bravil (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:13:33.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Stormhold (kwren) occupied Bravil with 27 troops.",
+    "timestamp": "2016-01-14T18:13:34.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Bravil (kwren) attacked Cheydinhal (tanleach1001) conquering it, killing 7, losing 3.",
+    "timestamp": "2016-01-14T18:13:41.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Bravil (kwren) occupied Cheydinhal with 6 troops.",
+    "timestamp": "2016-01-14T18:13:46.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Cheydinhal (kwren) attacked Riften (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:13:49.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Cheydinhal (kwren) occupied Riften with 5 troops.",
+    "timestamp": "2016-01-14T18:13:50.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Riften (kwren) attacked Whiterun (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:13:53.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Riften (kwren) occupied Whiterun with 4 troops.",
+    "timestamp": "2016-01-14T18:13:55.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Whiterun (kwren) attacked Falkreath (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:13:58.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Whiterun (kwren) occupied Falkreath with 3 troops.",
+    "timestamp": "2016-01-14T18:13:59.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Falkreath (kwren) attacked Dragonstar (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:14:02.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Falkreath (kwren) occupied Dragonstar with 2 troops.",
+    "timestamp": "2016-01-14T18:14:04.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Dragonstar (kwren) attacked Jehanna (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:14:07.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Bravil (kwren) attacked Rimmen (tanleach1001) conquering it, killing 7, losing 2.",
+    "timestamp": "2016-01-14T18:14:14.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Bravil (kwren) occupied Rimmen with 15 troops.",
+    "timestamp": "2016-01-14T18:14:16.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Rimmen (kwren) attacked Riverhold (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:14:19.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Rimmen (kwren) occupied Riverhold with 14 troops.",
+    "timestamp": "2016-01-14T18:14:21.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Riverhold (kwren) attacked Arenthia (tanleach1001) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-01-14T18:14:27.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Riverhold (kwren) occupied Arenthia with 11 troops.",
+    "timestamp": "2016-01-14T18:14:29.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Arenthia (kwren) attacked Silvenar (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:14:33.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Arenthia (kwren) occupied Silvenar with 10 troops.",
+    "timestamp": "2016-01-14T18:14:34.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Silvenar (kwren) attacked Woodhearth (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:14:37.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Silvenar (kwren) occupied Woodhearth with 9 troops.",
+    "timestamp": "2016-01-14T18:14:39.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Woodhearth (kwren) attacked Skywatch (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:14:43.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Woodhearth (kwren) occupied Skywatch with 1 troop.",
+    "timestamp": "2016-01-14T18:14:50.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Stormhold (kwren) was fortified from Woodhearth (kwren) with 7 troops.",
+    "timestamp": "2016-01-14T18:15:03.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-14T18:15:03.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-14T18:15:03.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Round 14 started.",
+    "timestamp": "2016-01-14T18:15:03.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-01-14T18:16:12.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 13 troops for 39 territories.",
+    "timestamp": "2016-01-14T18:16:13.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Blacklight (tanleach1001) was reinforced by tanleach1001 with 13 troops.",
+    "timestamp": "2016-01-14T18:17:41.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Blacklight (tanleach1001) attacked Mournhold (mmacfreier) conquering it, killing 8, losing 4.",
+    "timestamp": "2016-01-14T18:17:50.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Blacklight (tanleach1001) occupied Mournhold with 19 troops.",
+    "timestamp": "2016-01-14T18:18:12.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Mournhold (tanleach1001) attacked Narsis (mmacfreier) killing 6, losing 18.",
+    "timestamp": "2016-01-14T18:18:32.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Markarth (tanleach1001) attacked Jehanna (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T18:19:39.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Markarth (tanleach1001) occupied Jehanna with 6 troops.",
+    "timestamp": "2016-01-14T18:19:43.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Falinesti (tanleach1001) attacked Woodhearth (kwren) killing 0, losing 2.",
+    "timestamp": "2016-01-14T18:19:49.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Sentinel (tanleach1001) attacked Dragonstar (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:20:00.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Sentinel (tanleach1001) occupied Dragonstar with 2 troops.",
+    "timestamp": "2016-01-14T18:20:03.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Lillandril (tanleach1001) was fortified from Winterhold (tanleach1001) with 4 troops.",
+    "timestamp": "2016-01-14T18:20:48.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-01-14T18:20:48.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-01-14T18:20:48.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-14T18:22:31.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 3 troops for 6 territories.",
+    "timestamp": "2016-01-14T18:22:31.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Tear (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-01-14T18:22:38.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Tear (mmacfreier) attacked Mournhold (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:22:41.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Tear (mmacfreier) occupied Mournhold with 3 troops.",
+    "timestamp": "2016-01-14T18:22:43.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Mournhold (mmacfreier) attacked Blacklight (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:22:49.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Mournhold (mmacfreier) occupied Blacklight with 2 troops.",
+    "timestamp": "2016-01-14T18:22:52.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-14T18:22:58.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-14T18:22:58.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-14T18:24:43.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 6 troops for 18 territories.",
+    "timestamp": "2016-01-14T18:24:43.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for holding Argonia.",
+    "timestamp": "2016-01-14T18:24:43.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Falkreath (kwren) was reinforced by kwren with 9 troops.",
+    "timestamp": "2016-01-14T18:25:09.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Falkreath (kwren) attacked Elinhir (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:25:12.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Falkreath (kwren) occupied Elinhir with 9 troops.",
+    "timestamp": "2016-01-14T18:25:14.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Elinhir (kwren) attacked Kwatch (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T18:25:19.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Elinhir (kwren) occupied Kwatch with 6 troops.",
+    "timestamp": "2016-01-14T18:25:20.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Kwatch (kwren) attacked Skingrad (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:25:27.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Kwatch (kwren) occupied Skingrad with 5 troops.",
+    "timestamp": "2016-01-14T18:25:29.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Skingrad (kwren) attacked Imperial City (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:26:12.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Skingrad (kwren) occupied Imperial City with 1 troop.",
+    "timestamp": "2016-01-14T18:26:28.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Rimmen (kwren) was fortified from Skingrad (kwren) with 3 troops.",
+    "timestamp": "2016-01-14T18:26:45.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-14T18:26:45.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-14T18:26:45.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Round 15 started.",
+    "timestamp": "2016-01-14T18:26:45.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-01-14T18:26:50.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 12 troops for 36 territories.",
+    "timestamp": "2016-01-14T18:26:50.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding High Rock.",
+    "timestamp": "2016-01-14T18:26:50.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Rihad (tanleach1001) was reinforced by tanleach1001 with 15 troops.",
+    "timestamp": "2016-01-14T18:28:52.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Rihad (tanleach1001) attacked Elinhir (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T18:28:59.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Rihad (tanleach1001) occupied Elinhir with 16 troops.",
+    "timestamp": "2016-01-14T18:29:02.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Elinhir (tanleach1001) attacked Falkreath (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:29:10.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Elinhir (tanleach1001) occupied Falkreath with 15 troops.",
+    "timestamp": "2016-01-14T18:29:12.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Falkreath (tanleach1001) attacked Whiterun (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:29:15.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Falkreath (tanleach1001) occupied Whiterun with 14 troops.",
+    "timestamp": "2016-01-14T18:29:16.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Whiterun (tanleach1001) attacked Riften (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T18:29:25.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Whiterun (tanleach1001) occupied Riften with 11 troops.",
+    "timestamp": "2016-01-14T18:29:33.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Elinhir (tanleach1001) was fortified from Jehanna (tanleach1001) with 5 troops.",
+    "timestamp": "2016-01-14T18:30:15.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-01-14T18:30:15.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-01-14T18:30:15.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-14T18:31:30.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 3 troops for 8 territories.",
+    "timestamp": "2016-01-14T18:31:30.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Morrowind.",
+    "timestamp": "2016-01-14T18:31:30.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 2 troops on Narsis",
+    "timestamp": "2016-01-14T18:31:52.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Blacklight (mmacfreier) was reinforced by mmacfreier with 15 troops.",
+    "timestamp": "2016-01-14T18:32:03.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Blacklight (mmacfreier) attacked Windhelm (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:32:07.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Blacklight (mmacfreier) occupied Windhelm with 1 troop.",
+    "timestamp": "2016-01-14T18:32:11.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Blacklight (mmacfreier) attacked Riften (tanleach1001) conquering it, killing 11, losing 5.",
+    "timestamp": "2016-01-14T18:32:22.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Blacklight (mmacfreier) occupied Riften with 1 troop.",
+    "timestamp": "2016-01-14T18:32:27.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Mournhold (mmacfreier) was fortified from Blacklight (mmacfreier) with 3 troops.",
+    "timestamp": "2016-01-14T18:32:40.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-14T18:32:40.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-14T18:32:40.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-14T18:32:53.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 6 troops for 18 territories.",
+    "timestamp": "2016-01-14T18:32:53.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 3 troops for holding Argonia.",
+    "timestamp": "2016-01-14T18:32:53.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Rimmen (kwren) was reinforced by kwren with 9 troops.",
+    "timestamp": "2016-01-14T18:32:58.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Rimmen (kwren) attacked Corinthe (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T18:33:06.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Rimmen (kwren) occupied Corinthe with 10 troops.",
+    "timestamp": "2016-01-14T18:33:10.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Corinthe (kwren) attacked Orcrest (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:33:14.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Corinthe (kwren) occupied Orcrest with 1 troop.",
+    "timestamp": "2016-01-14T18:33:17.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Corinthe (kwren) attacked Senchal (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:33:20.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Corinthe (kwren) occupied Senchal with 8 troops.",
+    "timestamp": "2016-01-14T18:33:22.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Senchal (kwren) attacked Torval (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:33:27.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Senchal (kwren) occupied Torval with 7 troops.",
+    "timestamp": "2016-01-14T18:33:28.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Torval (kwren) attacked Dune (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T18:33:37.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Torval (kwren) occupied Dune with 5 troops.",
+    "timestamp": "2016-01-14T18:33:39.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Dune (kwren) attacked Haven (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:33:45.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Dune (kwren) occupied Haven with 4 troops.",
+    "timestamp": "2016-01-14T18:33:48.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Haven (kwren) attacked Elden Root (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:33:52.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Haven (kwren) occupied Elden Root with 3 troops.",
+    "timestamp": "2016-01-14T18:33:54.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Elden Root (kwren) attacked Southpoint (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-01-14T18:33:58.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Skywatch (kwren) was fortified from Thorn (kwren) with 7 troops.",
+    "timestamp": "2016-01-14T18:34:21.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-14T18:34:21.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-14T18:34:21.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Round 16 started.",
+    "timestamp": "2016-01-14T18:34:21.000Z",
+    "player": "unknown",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-01-14T18:36:46.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 10 troops for 31 territories.",
+    "timestamp": "2016-01-14T18:36:46.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding High Rock.",
+    "timestamp": "2016-01-14T18:36:46.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Hammerfell.",
+    "timestamp": "2016-01-14T18:36:46.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Firsthold (tanleach1001) was reinforced by tanleach1001 with 17 troops.",
+    "timestamp": "2016-01-14T18:37:06.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Firsthold (tanleach1001) attacked Skywatch (kwren) conquering it, killing 8, losing 0.",
+    "timestamp": "2016-01-14T18:37:13.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Firsthold (tanleach1001) occupied Skywatch with 17 troops.",
+    "timestamp": "2016-01-14T18:37:15.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Skywatch (tanleach1001) attacked Woodhearth (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T18:38:46.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Skywatch (tanleach1001) occupied Woodhearth with 14 troops.",
+    "timestamp": "2016-01-14T18:38:49.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Woodhearth (tanleach1001) attacked Elden Root (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T18:39:00.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Woodhearth (tanleach1001) occupied Elden Root with 12 troops.",
+    "timestamp": "2016-01-14T18:39:02.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Elden Root (tanleach1001) attacked Haven (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:39:06.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Elden Root (tanleach1001) occupied Haven with 1 troop.",
+    "timestamp": "2016-01-14T18:39:10.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Elden Root (tanleach1001) attacked Silvenar (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:39:14.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Elden Root (tanleach1001) occupied Silvenar with 6 troops.",
+    "timestamp": "2016-01-14T18:39:29.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Silvenar (tanleach1001) attacked Arenthia (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:39:33.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Silvenar (tanleach1001) occupied Arenthia with 3 troops.",
+    "timestamp": "2016-01-14T18:40:12.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Elinhir (tanleach1001) attacked Kwatch (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:40:48.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Elinhir (tanleach1001) occupied Kwatch with 5 troops.",
+    "timestamp": "2016-01-14T18:40:50.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Kwatch (tanleach1001) attacked Skingrad (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:41:05.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Kwatch (tanleach1001) occupied Skingrad with 4 troops.",
+    "timestamp": "2016-01-14T18:41:07.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Skingrad (tanleach1001) attacked Riverhold (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:41:10.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Skingrad (tanleach1001) occupied Riverhold with 1 troop.",
+    "timestamp": "2016-01-14T18:41:17.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Markarth (tanleach1001) was fortified from Lillandril (tanleach1001) with 4 troops.",
+    "timestamp": "2016-01-14T18:41:42.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-01-14T18:41:42.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-01-14T18:41:42.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-14T18:42:30.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 3 troops for 10 territories.",
+    "timestamp": "2016-01-14T18:42:30.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Morrowind.",
+    "timestamp": "2016-01-14T18:42:30.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Mournhold (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-01-14T18:42:45.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Blacklight (mmacfreier) was reinforced by mmacfreier with 4 troops.",
+    "timestamp": "2016-01-14T18:42:47.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Mournhold (mmacfreier) attacked Cheydinhal (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:43:05.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Mournhold (mmacfreier) occupied Cheydinhal with 1 troop.",
+    "timestamp": "2016-01-14T18:43:13.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Narsis (mmacfreier) was fortified from Blacklight (mmacfreier) with 3 troops.",
+    "timestamp": "2016-01-14T18:43:27.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-14T18:43:27.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-14T18:43:27.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-14T18:44:33.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 5 troops for 15 territories.",
+    "timestamp": "2016-01-14T18:44:33.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 3 troops for holding Argonia.",
+    "timestamp": "2016-01-14T18:44:33.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Orcrest (kwren) was reinforced by kwren with 16 troops.",
+    "timestamp": "2016-01-14T18:44:42.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Orcrest (kwren) attacked Riverhold (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T18:44:46.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Orcrest (kwren) occupied Riverhold with 15 troops.",
+    "timestamp": "2016-01-14T18:44:47.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Riverhold (kwren) attacked Skingrad (tanleach1001) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-01-14T18:44:51.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Riverhold (kwren) occupied Skingrad with 1 troop.",
+    "timestamp": "2016-01-14T18:44:53.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Riverhold (kwren) attacked Arenthia (tanleach1001) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-01-14T18:44:59.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Riverhold (kwren) occupied Arenthia with 9 troops.",
+    "timestamp": "2016-01-14T18:45:00.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Arenthia (kwren) attacked Falinesti (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T18:45:10.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Arenthia (kwren) occupied Falinesti with 7 troops.",
+    "timestamp": "2016-01-14T18:45:11.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Falinesti (kwren) attacked Woodhearth (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T18:45:16.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Falinesti (kwren) occupied Woodhearth with 4 troops.",
+    "timestamp": "2016-01-14T18:45:18.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Woodhearth (kwren) attacked Skywatch (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:45:20.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Woodhearth (kwren) occupied Skywatch with 1 troop.",
+    "timestamp": "2016-01-14T18:45:26.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Dune (kwren) was fortified from Woodhearth (kwren) with 2 troops.",
+    "timestamp": "2016-01-14T18:45:32.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-14T18:45:32.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-14T18:45:32.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Round 17 started.",
+    "timestamp": "2016-01-14T18:45:32.000Z",
+    "player": "unknown",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-01-14T18:45:41.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 11 troops for 34 territories.",
+    "timestamp": "2016-01-14T18:45:41.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding High Rock.",
+    "timestamp": "2016-01-14T18:45:41.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Hammerfell.",
+    "timestamp": "2016-01-14T18:45:41.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Lillandril",
+    "timestamp": "2016-01-14T18:45:45.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Silvenar (tanleach1001) was reinforced by tanleach1001 with 17 troops.",
+    "timestamp": "2016-01-14T18:50:17.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Winterhold (tanleach1001) was reinforced by tanleach1001 with 9 troops.",
+    "timestamp": "2016-01-14T18:50:21.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Winterhold (tanleach1001) attacked Windhelm (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:50:24.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Winterhold (tanleach1001) occupied Windhelm with 9 troops.",
+    "timestamp": "2016-01-14T18:50:26.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Windhelm (tanleach1001) attacked Riften (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:50:29.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Windhelm (tanleach1001) occupied Riften with 8 troops.",
+    "timestamp": "2016-01-14T18:50:31.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Silvenar (tanleach1001) attacked Dune (kwren) conquering it, killing 3, losing 6.",
+    "timestamp": "2016-01-14T18:50:45.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Silvenar (tanleach1001) occupied Dune with 1 troop.",
+    "timestamp": "2016-01-14T18:50:51.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Silvenar (tanleach1001) attacked Arenthia (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T18:51:00.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Silvenar (tanleach1001) occupied Arenthia with 1 troop.",
+    "timestamp": "2016-01-14T18:51:03.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Silvenar (tanleach1001) attacked Falinesti (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T18:51:25.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Silvenar (tanleach1001) occupied Falinesti with 1 troop.",
+    "timestamp": "2016-01-14T18:51:32.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Silvenar (tanleach1001) attacked Woodhearth (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:51:36.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Silvenar (tanleach1001) occupied Woodhearth with 4 troops.",
+    "timestamp": "2016-01-14T18:51:41.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Woodhearth (tanleach1001) attacked Skywatch (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:51:46.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Woodhearth (tanleach1001) occupied Skywatch with 1 troop.",
+    "timestamp": "2016-01-14T18:51:50.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Arenthia (tanleach1001) was fortified from Markarth (tanleach1001) with 4 troops.",
+    "timestamp": "2016-01-14T18:52:25.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-01-14T18:52:25.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-01-14T18:52:25.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-14T18:54:19.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 3 troops for 9 territories.",
+    "timestamp": "2016-01-14T18:54:19.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Morrowind.",
+    "timestamp": "2016-01-14T18:54:19.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Blacklight (mmacfreier) was reinforced by mmacfreier with 15 troops.",
+    "timestamp": "2016-01-14T18:57:04.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Blacklight (mmacfreier) attacked Riften (tanleach1001) conquering it, killing 8, losing 8.",
+    "timestamp": "2016-01-14T18:57:14.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Blacklight (mmacfreier) occupied Riften with 14 troops.",
+    "timestamp": "2016-01-14T18:57:16.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Riften (mmacfreier) attacked Falkreath (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:57:20.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Riften (mmacfreier) occupied Falkreath with 13 troops.",
+    "timestamp": "2016-01-14T18:57:22.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Falkreath (mmacfreier) attacked Dragonstar (tanleach1001) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-01-14T18:57:25.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Falkreath (mmacfreier) occupied Dragonstar with 12 troops.",
+    "timestamp": "2016-01-14T18:57:27.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Dragonstar (mmacfreier) attacked Jehanna (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:57:31.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Dragonstar (mmacfreier) occupied Jehanna with 11 troops.",
+    "timestamp": "2016-01-14T18:57:37.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Jehanna (mmacfreier) attacked Northpoint (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:57:42.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Jehanna (mmacfreier) occupied Northpoint with 10 troops.",
+    "timestamp": "2016-01-14T18:57:44.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Northpoint (mmacfreier) attacked Wayrest (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:57:47.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Northpoint (mmacfreier) occupied Wayrest with 9 troops.",
+    "timestamp": "2016-01-14T18:57:49.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Wayrest (mmacfreier) attacked Camlorn (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:57:52.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Wayrest (mmacfreier) occupied Camlorn with 8 troops.",
+    "timestamp": "2016-01-14T18:57:54.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Camlorn (mmacfreier) attacked Daggerfall (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T18:57:57.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Camlorn (mmacfreier) occupied Daggerfall with 7 troops.",
+    "timestamp": "2016-01-14T18:58:03.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Blacklight (mmacfreier) was fortified from Daggerfall (mmacfreier) with 6 troops.",
+    "timestamp": "2016-01-14T18:58:15.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-14T18:58:15.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-14T18:58:15.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-14T18:58:26.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 5 troops for 16 territories.",
+    "timestamp": "2016-01-14T18:58:26.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 3 troops for holding Argonia.",
+    "timestamp": "2016-01-14T18:58:26.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Torval (kwren) was reinforced by kwren with 8 troops.",
+    "timestamp": "2016-01-14T18:58:32.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Torval (kwren) attacked Dune (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T18:58:37.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Torval (kwren) occupied Dune with 7 troops.",
+    "timestamp": "2016-01-14T18:58:40.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Dune (kwren) attacked Haven (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T18:59:18.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Dune (kwren) occupied Haven with 1 troop.",
+    "timestamp": "2016-01-14T18:59:21.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Riverhold (kwren) was fortified from Blackrose (kwren) with 2 troops.",
+    "timestamp": "2016-01-14T18:59:31.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-14T18:59:31.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-14T18:59:31.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Round 18 started.",
+    "timestamp": "2016-01-14T18:59:31.000Z",
+    "player": "unknown",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-01-14T18:59:42.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 10 troops for 31 territories.",
+    "timestamp": "2016-01-14T18:59:42.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Summerset Isles.",
+    "timestamp": "2016-01-14T18:59:42.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Elinhir (tanleach1001) was reinforced by tanleach1001 with 9 troops.",
+    "timestamp": "2016-01-14T19:00:41.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Elden Root (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-01-14T19:01:04.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Elden Root (tanleach1001) attacked Haven (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:01:08.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Elden Root (tanleach1001) occupied Haven with 5 troops.",
+    "timestamp": "2016-01-14T19:01:23.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Haven (tanleach1001) attacked Torval (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:01:27.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Haven (tanleach1001) occupied Torval with 1 troop.",
+    "timestamp": "2016-01-14T19:01:34.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Elinhir (tanleach1001) attacked Dragonstar (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:01:43.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Elinhir (tanleach1001) occupied Dragonstar with 5 troops.",
+    "timestamp": "2016-01-14T19:01:53.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Dragonstar (tanleach1001) attacked Jehanna (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:01:59.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Dragonstar (tanleach1001) occupied Jehanna with 1 troop.",
+    "timestamp": "2016-01-14T19:02:02.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Lillandril (tanleach1001) was fortified from Woodhearth (tanleach1001) with 2 troops.",
+    "timestamp": "2016-01-14T19:02:33.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-01-14T19:02:34.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-01-14T19:02:34.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-14T19:02:45.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 5 troops for 15 territories.",
+    "timestamp": "2016-01-14T19:02:45.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Morrowind.",
+    "timestamp": "2016-01-14T19:02:45.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Daggerfall (mmacfreier) was reinforced by mmacfreier with 9 troops.",
+    "timestamp": "2016-01-14T19:02:59.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Daggerfall (mmacfreier) attacked Sentinel (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:03:03.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Daggerfall (mmacfreier) occupied Sentinel with 1 troop.",
+    "timestamp": "2016-01-14T19:03:08.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Daggerfall (mmacfreier) attacked Lillandril (tanleach1001) conquering it, killing 5, losing 6.",
+    "timestamp": "2016-01-14T19:03:18.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Daggerfall (mmacfreier) occupied Lillandril with 1 troop.",
+    "timestamp": "2016-01-14T19:03:25.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-14T19:03:32.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-14T19:03:32.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-14T19:03:46.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 5 troops for 16 territories.",
+    "timestamp": "2016-01-14T19:03:46.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 3 troops for holding Argonia.",
+    "timestamp": "2016-01-14T19:03:46.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Dune (kwren) was reinforced by kwren with 8 troops.",
+    "timestamp": "2016-01-14T19:03:54.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Dune (kwren) attacked Haven (tanleach1001) conquering it, killing 4, losing 4.",
+    "timestamp": "2016-01-14T19:04:03.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Dune (kwren) occupied Haven with 1 troop.",
+    "timestamp": "2016-01-14T19:04:06.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Dune (kwren) attacked Torval (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:04:10.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Dune (kwren) occupied Torval with 1 troop.",
+    "timestamp": "2016-01-14T19:04:14.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Dune (kwren) was fortified from Gideon (kwren) with 4 troops.",
+    "timestamp": "2016-01-14T19:04:30.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-14T19:04:30.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-14T19:04:30.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Round 19 started.",
+    "timestamp": "2016-01-14T19:04:30.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-01-14T19:05:33.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 10 troops for 31 territories.",
+    "timestamp": "2016-01-14T19:05:33.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Bruma",
+    "timestamp": "2016-01-14T19:05:38.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Arenthia (tanleach1001) was reinforced by tanleach1001 with 15 troops.",
+    "timestamp": "2016-01-14T19:05:59.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Cloudrest (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-01-14T19:06:04.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Cloudrest (tanleach1001) attacked Lillandril (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:06:07.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Cloudrest (tanleach1001) occupied Lillandril with 3 troops.",
+    "timestamp": "2016-01-14T19:06:09.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Arenthia (tanleach1001) attacked Dune (kwren) conquering it, killing 10, losing 4.",
+    "timestamp": "2016-01-14T19:06:24.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Arenthia (tanleach1001) occupied Dune with 8 troops.",
+    "timestamp": "2016-01-14T19:07:30.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Dune (tanleach1001) attacked Haven (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:07:38.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Dune (tanleach1001) occupied Haven with 6 troops.",
+    "timestamp": "2016-01-14T19:08:08.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Lillandril (tanleach1001) was fortified from Elinhir (tanleach1001) with 2 troops.",
+    "timestamp": "2016-01-14T19:09:13.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-01-14T19:09:13.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-01-14T19:09:13.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-14T19:15:24.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier received 5 troops for 16 territories.",
+    "timestamp": "2016-01-14T19:15:24.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Morrowind.",
+    "timestamp": "2016-01-14T19:15:24.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Riften (mmacfreier) was reinforced by mmacfreier with 17 troops.",
+    "timestamp": "2016-01-14T19:15:41.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Riften (mmacfreier) attacked Windhelm (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T19:15:47.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Riften (mmacfreier) occupied Windhelm with 11 troops.",
+    "timestamp": "2016-01-14T19:15:54.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Windhelm (mmacfreier) attacked Winterhold (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:15:57.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Windhelm (mmacfreier) occupied Winterhold with 10 troops.",
+    "timestamp": "2016-01-14T19:15:58.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Winterhold (mmacfreier) attacked Dawnstar (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:16:02.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Winterhold (mmacfreier) occupied Dawnstar with 9 troops.",
+    "timestamp": "2016-01-14T19:16:04.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Dawnstar (mmacfreier) attacked Morthal (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:16:09.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Dawnstar (mmacfreier) occupied Morthal with 8 troops.",
+    "timestamp": "2016-01-14T19:16:11.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Morthal (mmacfreier) attacked Whiterun (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:16:14.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Morthal (mmacfreier) occupied Whiterun with 1 troop.",
+    "timestamp": "2016-01-14T19:16:17.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Morthal (mmacfreier) attacked Solitude (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T19:16:24.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Morthal (mmacfreier) occupied Solitude with 4 troops.",
+    "timestamp": "2016-01-14T19:16:26.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Solitude (mmacfreier) attacked Markarth (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:16:28.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Solitude (mmacfreier) occupied Markarth with 3 troops.",
+    "timestamp": "2016-01-14T19:16:30.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Markarth (mmacfreier) attacked Jehanna (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:16:49.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Markarth (mmacfreier) occupied Jehanna with 1 troop.",
+    "timestamp": "2016-01-14T19:16:53.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Falkreath (mmacfreier) was fortified from Narsis (mmacfreier) with 2 troops.",
+    "timestamp": "2016-01-14T19:17:10.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-14T19:17:10.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-14T19:17:10.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-14T19:17:26.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 5 troops for 16 territories.",
+    "timestamp": "2016-01-14T19:17:26.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 3 troops for holding Argonia.",
+    "timestamp": "2016-01-14T19:17:26.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 2 troops on Bravil",
+    "timestamp": "2016-01-14T19:17:29.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 2 troops on Imperial City",
+    "timestamp": "2016-01-14T19:17:29.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Imperial City (kwren) was reinforced by kwren with 16 troops.",
+    "timestamp": "2016-01-14T19:17:36.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Imperial City (kwren) attacked Chorrol (tanleach1001) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-01-14T19:17:42.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Imperial City (kwren) occupied Chorrol with 15 troops.",
+    "timestamp": "2016-01-14T19:17:44.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Chorrol (kwren) attacked Kwatch (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T19:17:49.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Chorrol (kwren) occupied Kwatch with 12 troops.",
+    "timestamp": "2016-01-14T19:17:51.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Kwatch (kwren) attacked Elinhir (tanleach1001) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-01-14T19:17:58.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Kwatch (kwren) occupied Elinhir with 1 troop.",
+    "timestamp": "2016-01-14T19:18:02.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Kwatch (kwren) attacked Anvil (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:18:05.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Kwatch (kwren) occupied Anvil with 6 troops.",
+    "timestamp": "2016-01-14T19:18:06.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Anvil (kwren) attacked Firsthold (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:18:11.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Anvil (kwren) occupied Firsthold with 4 troops.",
+    "timestamp": "2016-01-14T19:18:13.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Firsthold (kwren) attacked Skywatch (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:18:17.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Firsthold (kwren) occupied Skywatch with 2 troops.",
+    "timestamp": "2016-01-14T19:18:19.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Skywatch (kwren) attacked Woodhearth (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:18:22.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Riverhold (kwren) attacked Dune (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-01-14T19:18:30.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Gideon (kwren) was fortified from Bravil (kwren) with 2 troops.",
+    "timestamp": "2016-01-14T19:18:39.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-14T19:18:39.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-14T19:18:39.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Round 20 started.",
+    "timestamp": "2016-01-14T19:18:39.000Z",
+    "player": "unknown",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-01-14T19:18:55.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received 6 troops for 19 territories.",
+    "timestamp": "2016-01-14T19:18:55.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Cloudrest (tanleach1001) was reinforced by tanleach1001 with 6 troops.",
+    "timestamp": "2016-01-14T19:21:23.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Cloudrest (tanleach1001) attacked Skywatch (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:21:32.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Cloudrest (tanleach1001) occupied Skywatch with 6 troops.",
+    "timestamp": "2016-01-14T19:21:36.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Skywatch (tanleach1001) attacked Woodhearth (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:21:46.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Skywatch (tanleach1001) occupied Woodhearth with 1 troop.",
+    "timestamp": "2016-01-14T19:21:49.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Skywatch (tanleach1001) attacked Firsthold (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:21:52.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Skywatch (tanleach1001) occupied Firsthold with 4 troops.",
+    "timestamp": "2016-01-14T19:21:53.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Lillandril (tanleach1001) was fortified from Dragonstar (tanleach1001) with 3 troops.",
+    "timestamp": "2016-01-14T19:22:16.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-01-14T19:22:16.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-01-14T19:22:16.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-14T19:25:35.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "mmacfreier received 8 troops for 24 territories.",
+    "timestamp": "2016-01-14T19:25:35.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Morrowind.",
+    "timestamp": "2016-01-14T19:25:35.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "mmacfreier received 5 troops for holding Skyrim.",
+    "timestamp": "2016-01-14T19:25:35.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding High Rock.",
+    "timestamp": "2016-01-14T19:25:35.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Falkreath (mmacfreier) was reinforced by mmacfreier with 20 troops.",
+    "timestamp": "2016-01-14T19:25:58.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Falkreath (mmacfreier) attacked Bruma (tanleach1001) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-01-14T19:26:02.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Falkreath (mmacfreier) occupied Bruma with 21 troops.",
+    "timestamp": "2016-01-14T19:26:04.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Bruma (mmacfreier) attacked Elinhir (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:26:07.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Bruma (mmacfreier) occupied Elinhir with 20 troops.",
+    "timestamp": "2016-01-14T19:26:08.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Elinhir (mmacfreier) attacked Rihad (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:26:14.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Elinhir (mmacfreier) occupied Rihad with 1 troop.",
+    "timestamp": "2016-01-14T19:26:17.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Elinhir (mmacfreier) attacked Dragonstar (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:26:21.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Elinhir (mmacfreier) occupied Dragonstar with 16 troops.",
+    "timestamp": "2016-01-14T19:26:23.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Dragonstar (mmacfreier) attacked Skaven (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:26:26.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Dragonstar (mmacfreier) occupied Skaven with 15 troops.",
+    "timestamp": "2016-01-14T19:26:27.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Skaven (mmacfreier) attacked Taneth (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:26:32.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Skaven (mmacfreier) occupied Taneth with 13 troops.",
+    "timestamp": "2016-01-14T19:26:33.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Taneth (mmacfreier) attacked Gilane (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:26:36.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Taneth (mmacfreier) occupied Gilane with 12 troops.",
+    "timestamp": "2016-01-14T19:26:38.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Gilane (mmacfreier) attacked Hegathe (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T19:26:44.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Gilane (mmacfreier) occupied Hegathe with 9 troops.",
+    "timestamp": "2016-01-14T19:26:45.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "Falkreath (mmacfreier) was fortified from Markarth (mmacfreier) with 1 troop.",
+    "timestamp": "2016-01-14T19:27:01.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-14T19:27:01.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-14T19:27:01.000Z",
+    "player": "mmacfreier",
+    "round": 13
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-14T19:33:47.000Z",
+    "player": "kwren",
+    "round": 13
+  },
+  {
+    "message": "kwren received 6 troops for 19 territories.",
+    "timestamp": "2016-01-14T19:33:47.000Z",
+    "player": "kwren",
+    "round": 13
+  },
+  {
+    "message": "kwren received 3 troops for holding Argonia.",
+    "timestamp": "2016-01-14T19:33:47.000Z",
+    "player": "kwren",
+    "round": 13
+  },
+  {
+    "message": "Riverhold (kwren) was reinforced by kwren with 9 troops.",
+    "timestamp": "2016-01-14T19:33:58.000Z",
+    "player": "kwren",
+    "round": 13
+  },
+  {
+    "message": "Riverhold (kwren) attacked Dune (tanleach1001) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-01-14T19:34:04.000Z",
+    "player": "kwren",
+    "round": 13
+  },
+  {
+    "message": "Riverhold (kwren) occupied Dune with 6 troops.",
+    "timestamp": "2016-01-14T19:34:05.000Z",
+    "player": "kwren",
+    "round": 13
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-14T19:34:13.000Z",
+    "player": "kwren",
+    "round": 13
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-14T19:34:13.000Z",
+    "player": "kwren",
+    "round": 13
+  },
+  {
+    "message": "Round 21 started.",
+    "timestamp": "2016-01-14T19:34:13.000Z",
+    "player": "unknown",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-01-14T19:34:19.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received 4 troops for 14 territories.",
+    "timestamp": "2016-01-14T19:34:19.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Valenwood.",
+    "timestamp": "2016-01-14T19:34:19.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Summerset Isles.",
+    "timestamp": "2016-01-14T19:34:19.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Lillandril (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-01-14T19:36:06.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Arenthia (tanleach1001) was reinforced by tanleach1001 with 6 troops.",
+    "timestamp": "2016-01-14T19:36:23.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Firsthold (tanleach1001) was reinforced by tanleach1001 with 1 troop.",
+    "timestamp": "2016-01-14T19:36:26.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Arenthia (tanleach1001) attacked Dune (kwren) conquering it, killing 6, losing 9.",
+    "timestamp": "2016-01-14T19:36:37.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Arenthia (tanleach1001) occupied Dune with 1 troop.",
+    "timestamp": "2016-01-14T19:36:40.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Lillandril (tanleach1001) attacked Daggerfall (mmacfreier) killing 0, losing 4.",
+    "timestamp": "2016-01-14T19:36:46.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Lillandril (tanleach1001) was fortified from Elden Root (tanleach1001) with 3 troops.",
+    "timestamp": "2016-01-14T19:37:02.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-01-14T19:37:02.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-01-14T19:37:02.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-14T19:37:12.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "mmacfreier received 10 troops for 32 territories.",
+    "timestamp": "2016-01-14T19:37:12.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Morrowind.",
+    "timestamp": "2016-01-14T19:37:12.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "mmacfreier received 5 troops for holding Skyrim.",
+    "timestamp": "2016-01-14T19:37:12.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding High Rock.",
+    "timestamp": "2016-01-14T19:37:12.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Hammerfell.",
+    "timestamp": "2016-01-14T19:37:12.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Hegathe (mmacfreier) was reinforced by mmacfreier with 26 troops.",
+    "timestamp": "2016-01-14T19:37:19.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Hegathe (mmacfreier) attacked Lillandril (tanleach1001) conquering it, killing 11, losing 6.",
+    "timestamp": "2016-01-14T19:37:32.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Hegathe (mmacfreier) occupied Lillandril with 28 troops.",
+    "timestamp": "2016-01-14T19:37:41.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Lillandril (mmacfreier) attacked Cloudrest (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T19:37:55.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Lillandril (mmacfreier) occupied Cloudrest with 25 troops.",
+    "timestamp": "2016-01-14T19:37:57.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Cloudrest (mmacfreier) attacked Shimmerene (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:38:00.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Cloudrest (mmacfreier) occupied Shimmerene with 24 troops.",
+    "timestamp": "2016-01-14T19:38:02.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Shimmerene (mmacfreier) attacked Alinor (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:38:04.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Shimmerene (mmacfreier) occupied Alinor with 1 troop.",
+    "timestamp": "2016-01-14T19:38:09.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Shimmerene (mmacfreier) attacked Dusk (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:38:12.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Shimmerene (mmacfreier) occupied Dusk with 1 troop.",
+    "timestamp": "2016-01-14T19:38:16.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Shimmerene (mmacfreier) attacked Skywatch (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:38:19.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Shimmerene (mmacfreier) occupied Skywatch with 21 troops.",
+    "timestamp": "2016-01-14T19:38:22.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Skywatch (mmacfreier) attacked Firsthold (tanleach1001) conquering it, killing 5, losing 1.",
+    "timestamp": "2016-01-14T19:38:30.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Skywatch (mmacfreier) occupied Firsthold with 1 troop.",
+    "timestamp": "2016-01-14T19:38:33.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Skywatch (mmacfreier) attacked Woodhearth (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:38:38.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Skywatch (mmacfreier) occupied Woodhearth with 17 troops.",
+    "timestamp": "2016-01-14T19:38:40.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Woodhearth (mmacfreier) attacked Falinesti (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:38:50.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Woodhearth (mmacfreier) occupied Falinesti with 1 troop.",
+    "timestamp": "2016-01-14T19:38:55.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Woodhearth (mmacfreier) attacked Elden Root (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:39:00.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Woodhearth (mmacfreier) occupied Elden Root with 14 troops.",
+    "timestamp": "2016-01-14T19:39:09.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Elden Root (mmacfreier) attacked Silvenar (tanleach1001) conquering it, killing 5, losing 1.",
+    "timestamp": "2016-01-14T19:39:16.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Elden Root (mmacfreier) occupied Silvenar with 1 troop.",
+    "timestamp": "2016-01-14T19:39:28.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Elden Root (mmacfreier) attacked Haven (tanleach1001) killing 3, losing 7.",
+    "timestamp": "2016-01-14T19:39:36.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "Elinhir (mmacfreier) was fortified from Elden Root (mmacfreier) with 4 troops.",
+    "timestamp": "2016-01-14T19:39:49.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-14T19:39:49.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-14T19:39:49.000Z",
+    "player": "mmacfreier",
+    "round": 14
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-14T19:40:18.000Z",
+    "player": "kwren",
+    "round": 14
+  },
+  {
+    "message": "kwren received 6 troops for 19 territories.",
+    "timestamp": "2016-01-14T19:40:18.000Z",
+    "player": "kwren",
+    "round": 14
+  },
+  {
+    "message": "kwren received 3 troops for holding Argonia.",
+    "timestamp": "2016-01-14T19:40:18.000Z",
+    "player": "kwren",
+    "round": 14
+  },
+  {
+    "message": "Stormhold (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-01-14T19:40:24.000Z",
+    "player": "kwren",
+    "round": 14
+  },
+  {
+    "message": "Anvil (kwren) was reinforced by kwren with 7 troops.",
+    "timestamp": "2016-01-14T19:40:38.000Z",
+    "player": "kwren",
+    "round": 14
+  },
+  {
+    "message": "Anvil (kwren) attacked Firsthold (mmacfreier) conquering it, killing 1, losing 6.",
+    "timestamp": "2016-01-14T19:40:47.000Z",
+    "player": "kwren",
+    "round": 14
+  },
+  {
+    "message": "Riverhold (kwren) was fortified from Gideon (kwren) with 9 troops.",
+    "timestamp": "2016-01-14T19:40:59.000Z",
+    "player": "kwren",
+    "round": 14
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-14T19:40:59.000Z",
+    "player": "kwren",
+    "round": 14
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-14T19:40:59.000Z",
+    "player": "kwren",
+    "round": 14
+  },
+  {
+    "message": "Round 22 started.",
+    "timestamp": "2016-01-14T19:40:59.000Z",
+    "player": "unknown",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-01-14T19:41:05.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 4 territories.",
+    "timestamp": "2016-01-14T19:41:05.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Arenthia (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-01-14T19:42:12.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Arenthia (tanleach1001) attacked Falinesti (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:42:15.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Arenthia (tanleach1001) occupied Falinesti with 6 troops.",
+    "timestamp": "2016-01-14T19:42:17.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Falinesti (tanleach1001) attacked Woodhearth (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:42:20.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Falinesti (tanleach1001) occupied Woodhearth with 5 troops.",
+    "timestamp": "2016-01-14T19:42:21.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Woodhearth (tanleach1001) attacked Skywatch (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:42:26.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Woodhearth (tanleach1001) occupied Skywatch with 3 troops.",
+    "timestamp": "2016-01-14T19:42:28.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Skywatch (tanleach1001) attacked Cloudrest (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:44:08.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Skywatch (tanleach1001) occupied Cloudrest with 2 troops.",
+    "timestamp": "2016-01-14T19:44:09.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Cloudrest (tanleach1001) attacked Lillandril (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:44:13.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-01-14T19:44:29.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-01-14T19:44:29.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-14T19:47:02.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "mmacfreier received 12 troops for 37 territories.",
+    "timestamp": "2016-01-14T19:47:02.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Morrowind.",
+    "timestamp": "2016-01-14T19:47:02.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "mmacfreier received 5 troops for holding Skyrim.",
+    "timestamp": "2016-01-14T19:47:02.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding High Rock.",
+    "timestamp": "2016-01-14T19:47:02.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Hammerfell.",
+    "timestamp": "2016-01-14T19:47:02.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Daggerfall (mmacfreier) was reinforced by mmacfreier with 28 troops.",
+    "timestamp": "2016-01-14T19:47:12.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Daggerfall (mmacfreier) attacked Lillandril (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:47:15.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Daggerfall (mmacfreier) occupied Lillandril with 29 troops.",
+    "timestamp": "2016-01-14T19:47:17.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Lillandril (mmacfreier) attacked Cloudrest (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:47:22.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Lillandril (mmacfreier) occupied Cloudrest with 1 troop.",
+    "timestamp": "2016-01-14T19:47:26.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Lillandril (mmacfreier) attacked Firsthold (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:47:51.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Lillandril (mmacfreier) occupied Firsthold with 26 troops.",
+    "timestamp": "2016-01-14T19:47:54.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Firsthold (mmacfreier) attacked Skywatch (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:47:59.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Firsthold (mmacfreier) occupied Skywatch with 24 troops.",
+    "timestamp": "2016-01-14T19:48:01.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Skywatch (mmacfreier) attacked Woodhearth (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:48:04.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Skywatch (mmacfreier) occupied Woodhearth with 23 troops.",
+    "timestamp": "2016-01-14T19:48:06.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Woodhearth (mmacfreier) attacked Falinesti (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:48:10.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Woodhearth (mmacfreier) occupied Falinesti with 21 troops.",
+    "timestamp": "2016-01-14T19:48:13.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Falinesti (mmacfreier) attacked Arenthia (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:48:18.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Falinesti (mmacfreier) occupied Arenthia with 20 troops.",
+    "timestamp": "2016-01-14T19:48:20.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Arenthia (mmacfreier) attacked Dune (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:48:23.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Arenthia (mmacfreier) occupied Dune with 19 troops.",
+    "timestamp": "2016-01-14T19:48:25.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Dune (mmacfreier) attacked Haven (tanleach1001) conquering it, killing 3, losing 5.",
+    "timestamp": "2016-01-14T19:48:33.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Dune (mmacfreier) occupied Haven with 13 troops.",
+    "timestamp": "2016-01-14T19:48:35.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Haven (mmacfreier) attacked Southpoint (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:48:37.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 was defeated by mmacfreier.",
+    "timestamp": "2016-01-14T19:48:38.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Haven (mmacfreier) occupied Southpoint with 1 troop.",
+    "timestamp": "2016-01-14T19:48:40.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "mmacfreier received 2 troops on Tear",
+    "timestamp": "2016-01-14T19:49:06.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "mmacfreier received 2 troops on Alinor",
+    "timestamp": "2016-01-14T19:49:06.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "mmacfreier received 2 troops on Dune",
+    "timestamp": "2016-01-14T19:49:06.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "mmacfreier received 2 troops on Windhelm",
+    "timestamp": "2016-01-14T19:49:12.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "mmacfreier received 2 troops on Mournhold",
+    "timestamp": "2016-01-14T19:49:12.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Elinhir (mmacfreier) was reinforced by mmacfreier with 16 troops.",
+    "timestamp": "2016-01-14T19:49:23.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Elinhir (mmacfreier) attacked Kwatch (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:49:28.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Elinhir (mmacfreier) occupied Kwatch with 19 troops.",
+    "timestamp": "2016-01-14T19:49:29.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Kwatch (mmacfreier) attacked Anvil (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:49:33.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Kwatch (mmacfreier) occupied Anvil with 1 troop.",
+    "timestamp": "2016-01-14T19:49:36.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Kwatch (mmacfreier) attacked Chorrol (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:49:40.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Kwatch (mmacfreier) occupied Chorrol with 15 troops.",
+    "timestamp": "2016-01-14T19:49:42.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Chorrol (mmacfreier) attacked Imperial City (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:49:45.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Chorrol (mmacfreier) occupied Imperial City with 1 troop.",
+    "timestamp": "2016-01-14T19:49:49.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Chorrol (mmacfreier) attacked Skingrad (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:49:54.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Chorrol (mmacfreier) occupied Skingrad with 12 troops.",
+    "timestamp": "2016-01-14T19:49:56.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Skingrad (mmacfreier) attacked Riverhold (kwren) conquering it, killing 10, losing 8.",
+    "timestamp": "2016-01-14T19:50:06.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Skingrad (mmacfreier) occupied Riverhold with 3 troops.",
+    "timestamp": "2016-01-14T19:50:08.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Dune (mmacfreier) attacked Orcrest (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:50:17.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Haven (mmacfreier) attacked Torval (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T19:50:23.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Haven (mmacfreier) occupied Torval with 9 troops.",
+    "timestamp": "2016-01-14T19:50:25.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Torval (mmacfreier) attacked Senchal (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:50:28.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Torval (mmacfreier) occupied Senchal with 1 troop.",
+    "timestamp": "2016-01-14T19:50:31.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Torval (mmacfreier) attacked Corinthe (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:50:34.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Torval (mmacfreier) occupied Corinthe with 7 troops.",
+    "timestamp": "2016-01-14T19:50:35.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Corinthe (mmacfreier) attacked Rimmen (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:50:39.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Corinthe (mmacfreier) occupied Rimmen with 6 troops.",
+    "timestamp": "2016-01-14T19:50:42.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Rimmen (mmacfreier) attacked Leyawiin (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:50:47.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Rimmen (mmacfreier) occupied Leyawiin with 5 troops.",
+    "timestamp": "2016-01-14T19:50:49.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Leyawiin (mmacfreier) attacked Gideon (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:50:54.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Leyawiin (mmacfreier) occupied Gideon with 1 troop.",
+    "timestamp": "2016-01-14T19:50:59.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Leyawiin (mmacfreier) attacked Bravil (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:51:03.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "Bravil (mmacfreier) was fortified from Riften (mmacfreier) with 4 troops.",
+    "timestamp": "2016-01-14T19:51:20.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-01-14T19:51:20.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-01-14T19:51:20.000Z",
+    "player": "mmacfreier",
+    "round": 15
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-01-14T19:57:48.000Z",
+    "player": "kwren",
+    "round": 15
+  },
+  {
+    "message": "kwren received 3 troops for 5 territories.",
+    "timestamp": "2016-01-14T19:57:48.000Z",
+    "player": "kwren",
+    "round": 15
+  },
+  {
+    "message": "Stormhold (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-01-14T19:57:53.000Z",
+    "player": "kwren",
+    "round": 15
+  },
+  {
+    "message": "Stormhold (kwren) attacked Narsis (mmacfreier) conquering it, killing 4, losing 2.",
+    "timestamp": "2016-01-14T19:57:59.000Z",
+    "player": "kwren",
+    "round": 15
+  },
+  {
+    "message": "Stormhold (kwren) occupied Narsis with 10 troops.",
+    "timestamp": "2016-01-14T19:58:06.000Z",
+    "player": "kwren",
+    "round": 15
+  },
+  {
+    "message": "Narsis (kwren) attacked Bravil (mmacfreier) conquering it, killing 5, losing 4.",
+    "timestamp": "2016-01-14T19:58:10.000Z",
+    "player": "kwren",
+    "round": 15
+  },
+  {
+    "message": "Narsis (kwren) occupied Bravil with 5 troops.",
+    "timestamp": "2016-01-14T19:58:12.000Z",
+    "player": "kwren",
+    "round": 15
+  },
+  {
+    "message": "Bravil (kwren) attacked Rimmen (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:58:14.000Z",
+    "player": "kwren",
+    "round": 15
+  },
+  {
+    "message": "Bravil (kwren) occupied Rimmen with 4 troops.",
+    "timestamp": "2016-01-14T19:58:16.000Z",
+    "player": "kwren",
+    "round": 15
+  },
+  {
+    "message": "Rimmen (kwren) attacked Orcrest (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T19:58:18.000Z",
+    "player": "kwren",
+    "round": 15
+  },
+  {
+    "message": "Rimmen (kwren) occupied Orcrest with 3 troops.",
+    "timestamp": "2016-01-14T19:58:20.000Z",
+    "player": "kwren",
+    "round": 15
+  },
+  {
+    "message": "Orcrest (kwren) attacked Dune (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T19:58:26.000Z",
+    "player": "kwren",
+    "round": 15
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-01-14T19:58:30.000Z",
+    "player": "kwren",
+    "round": 15
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-01-14T19:58:30.000Z",
+    "player": "kwren",
+    "round": 15
+  },
+  {
+    "message": "Round 23 started.",
+    "timestamp": "2016-01-14T19:58:30.000Z",
+    "player": "unknown",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-01-14T21:13:00.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 18 troops for 56 territories.",
+    "timestamp": "2016-01-14T21:13:01.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 5 troops for holding Skyrim.",
+    "timestamp": "2016-01-14T21:13:01.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Hammerfell.",
+    "timestamp": "2016-01-14T21:13:01.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding High Rock.",
+    "timestamp": "2016-01-14T21:13:01.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Summerset Isles.",
+    "timestamp": "2016-01-14T21:13:01.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Valenwood.",
+    "timestamp": "2016-01-14T21:13:01.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Riverhold (mmacfreier) was reinforced by mmacfreier with 37 troops.",
+    "timestamp": "2016-01-14T21:13:08.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Riverhold (mmacfreier) attacked Dune (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T21:13:12.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Riverhold (mmacfreier) occupied Dune with 39 troops.",
+    "timestamp": "2016-01-14T21:13:13.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Dune (mmacfreier) attacked Orcrest (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T21:13:17.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Dune (mmacfreier) occupied Orcrest with 38 troops.",
+    "timestamp": "2016-01-14T21:13:18.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Orcrest (mmacfreier) attacked Rimmen (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T21:13:23.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Orcrest (mmacfreier) occupied Rimmen with 36 troops.",
+    "timestamp": "2016-01-14T21:13:25.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Rimmen (mmacfreier) attacked Bravil (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T21:13:28.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Rimmen (mmacfreier) occupied Bravil with 35 troops.",
+    "timestamp": "2016-01-14T21:13:30.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Bravil (mmacfreier) attacked Stormhold (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T21:13:35.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Bravil (mmacfreier) occupied Stormhold with 34 troops.",
+    "timestamp": "2016-01-14T21:13:36.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Mournhold (mmacfreier) attacked Narsis (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T21:13:40.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Mournhold (mmacfreier) occupied Narsis with 6 troops.",
+    "timestamp": "2016-01-14T21:13:42.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Narsis (mmacfreier) attacked Thorn (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T21:13:45.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Narsis (mmacfreier) occupied Thorn with 5 troops.",
+    "timestamp": "2016-01-14T21:13:46.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Thorn (mmacfreier) attacked Archon (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-01-14T21:13:53.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Thorn (mmacfreier) occupied Archon with 2 troops.",
+    "timestamp": "2016-01-14T21:13:54.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Stormhold (mmacfreier) attacked Helstrom (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-01-14T21:13:57.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Stormhold (mmacfreier) occupied Helstrom with 33 troops.",
+    "timestamp": "2016-01-14T21:13:59.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "Helstrom (mmacfreier) attacked Blackrose (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "kwren was defeated by mmacfreier.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "kwren",
+    "round": 16
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "unknown",
+    "round": 16
+  },
+  {
+    "message": "jobratt lost 28 rating.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "jobratt received 20 tokens.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 lost 19 rating.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 20 tokens.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier won the game.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 97 rating.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 20 tokens.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne lost 18 rating.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 20 tokens.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "gcochard lost 14 rating.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "gcochard received 20 tokens.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "kwren lost 18 rating.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "kwren",
+    "round": 16
+  },
+  {
+    "message": "kwren received 20 tokens.",
+    "timestamp": "2016-01-14T21:14:04.000Z",
+    "player": "kwren",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Daggerfall, Ald’ Ruhn, and Cheydinhal.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards Jehanna, Firsthold, and Senchal.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Woodhearth, Rimmen, and Solitude.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards Northpoint, Alinor, and Whiterun.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Dune, Orcrest, and Chorrol.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Mournhold, Bruma, and Kwatch.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Shimmerene, Archon, and Bravil.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Riverhold, Blackrose, and Skingrad.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "kwren",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Vivec, Arenthia, and Hegathe.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Tear, Blacklight, and Rihad.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Thorn, Winterhold, and Sentinel.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Cloudrest, Torval, and Markarth.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "kwren",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Narsis, Taneth, and Solitude.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Skaven, Dragonstar, and Necrom.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "kwren",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Lillandril, Gideon, and Rimmen.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Skywatch, Anvil, and Blackrose.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Sentinel, Bruma, and Balmora.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Skingrad, Firsthold, and Shimmerene.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Bravil, Woodhearth, and Imperial City.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "kwren",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Tear, Alinor, and Dune.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Kwatch, Windhelm, and Mournhold.",
+    "timestamp": "2016-01-29T10:51:35.000Z",
+    "player": "mmacfreier",
+    "round": 16
+  }
+]

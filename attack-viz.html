@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>D12 Game Attack Data</title>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.2.min.js"></script>
+    <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.6.7/d3-tip.js"></script>
+    <script type="text/javascript" src="js/viz-utils.js"></script>
+    <style>
+        body {
+            font-family: "futura-pt", sans-serif;
+        }
+        .tick line {
+            shape-rendering: crispEdges;
+            stroke: #000;
+        }
+        path.domain {
+            fill: none;
+            stroke: black;
+        }
+        .d3-tip {
+            line-height: 1;
+            padding: 12px;
+            background: rgba(0, 0, 0, 0.8);
+            color: #fff;
+            border-radius: 2px;
+        }
+
+        .label {
+            font-weight: bold;
+        }
+        form {
+            display: inline
+        }
+        .a-input {
+            padding: 3px;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>D12 Game Attack Targets</h2>
+    <div id="selectors">
+        <select id="game"></select>
+        <form id="dtype">
+            <input name="atype" type="radio" value="attacked" onclick="vizAttackData()" checked><span class="a-input">Num Attack</span>
+            <input name="atype" type="radio" value="killed" onclick="vizAttackData()"><span class="a-input">Killed</span>
+            <input name="atype" type="radio" value="lost" onclick="vizAttackData()"><span class="a-input">Lost</span>
+        </form>
+    </div>
+    <svg id="attacks"></svg>
+    <script type="text/javascript" src="js/attack.js"></script>
+</body>
+
+</html>
