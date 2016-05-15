@@ -1,9 +1,9 @@
 {
   "1": {
     "gid": [
+      "624350",
       "607443",
-      "625217",
-      "624350"
+      "625217"
     ],
     "url": "https://dominating12.com/assets/img/maps/1.large.jpg",
     "territories": {
@@ -3633,7 +3633,8 @@
   },
   "40": {
     "gid": [
-      "616553"
+      "616553",
+      "640737"
     ],
     "url": "https://dominating12.com/assets/img/maps/40.large.jpg",
     "territories": {
@@ -5162,8 +5163,8 @@
   "56": {
     "gid": [
       "622574",
-      "622960",
       "629530",
+      "622960",
       "612846"
     ],
     "url": "https://dominating12.com/assets/img/maps/56.large.jpg",
