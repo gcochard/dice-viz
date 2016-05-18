@@ -5,7 +5,8 @@ var users = {
     jobratt: '#D90909',
     mmacfreier: '#0E12B8',
     tanleach1001: '#06DBEE',
-    johnsgill3: '#131313'
+    johnsgill3: '#131313',
+    terryjbates: '#FF8000'
 };
 
 var users_tc = {
@@ -16,7 +17,8 @@ var users_tc = {
     jobratt: 'tc-3',
     mmacfreier: 'tc-2',
     tanleach1001: 'tc-9',
-    johnsgill3: 'tc-7'
+    johnsgill3: 'tc-7',
+    terryjbates: 'tc-6'
 };
 
 var turnOrder;
