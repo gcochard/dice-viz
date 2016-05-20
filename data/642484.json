@@ -1,0 +1,5684 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-05-17T16:23:44.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "gcochard joined the game.",
+    "timestamp": "2016-05-17T16:23:44.000Z",
+    "player": "gcochard",
+    "round": 0
+  },
+  {
+    "message": "johnsgill3 joined the game.",
+    "timestamp": "2016-05-17T16:25:09.000Z",
+    "player": "johnsgill3",
+    "round": 0
+  },
+  {
+    "message": "tanleach1001 joined the game.",
+    "timestamp": "2016-05-17T16:25:26.000Z",
+    "player": "tanleach1001",
+    "round": 0
+  },
+  {
+    "message": "kwren joined the game.",
+    "timestamp": "2016-05-17T16:25:44.000Z",
+    "player": "kwren",
+    "round": 0
+  },
+  {
+    "message": "jobratt joined the game.",
+    "timestamp": "2016-05-17T16:25:57.000Z",
+    "player": "jobratt",
+    "round": 0
+  },
+  {
+    "message": "mmacfreier joined the game.",
+    "timestamp": "2016-05-17T17:45:19.000Z",
+    "player": "mmacfreier",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-05-17T17:45:19.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-17T17:54:41.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received 6 troops for 18 territories.",
+    "timestamp": "2016-05-17T17:54:41.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received 1 troop for holding Beaumont.",
+    "timestamp": "2016-05-17T17:54:41.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Sabine (jobratt) was reinforced by jobratt with 7 troops.",
+    "timestamp": "2016-05-17T17:54:49.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Sabine (jobratt) attacked Jasper (tanleach1001) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-17T17:54:54.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Sabine (jobratt) occupied Jasper with 1 troop.",
+    "timestamp": "2016-05-17T17:55:08.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Sabine (jobratt) attacked Polk (gcochard) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-05-17T17:55:14.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Sabine (jobratt) occupied Polk with 1 troop.",
+    "timestamp": "2016-05-17T17:55:20.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Hardin (jobratt) was fortified from Jefferson (jobratt) with 2 troops.",
+    "timestamp": "2016-05-17T17:55:34.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-17T17:55:34.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-17T17:59:27.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received 5 troops for 17 territories.",
+    "timestamp": "2016-05-17T17:59:27.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding North Panhandle.",
+    "timestamp": "2016-05-17T17:59:27.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Roberts (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-05-17T17:59:37.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Van Horn (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-05-17T17:59:40.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Roberts (tanleach1001) attacked Dallam (gcochard) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-05-17T17:59:48.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Roberts (tanleach1001) occupied Dallam with 1 troop.",
+    "timestamp": "2016-05-17T17:59:53.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Van Horn (tanleach1001) attacked Hudspeth (johnsgill3) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-17T18:00:11.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Van Horn (tanleach1001) occupied Hudspeth with 1 troop.",
+    "timestamp": "2016-05-17T18:01:19.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Floyd (kwren) was fortified from Crosby (tanleach1001) with 2 troops.",
+    "timestamp": "2016-05-17T18:02:10.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-17T18:02:10.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-17T18:23:06.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 5 troops for 16 territories.",
+    "timestamp": "2016-05-17T18:23:06.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Bexar (gcochard) was reinforced by gcochard with 5 troops.",
+    "timestamp": "2016-05-17T18:23:10.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Bexar (gcochard) attacked Kleberg (kwren) conquering it, killing 3, losing 5.",
+    "timestamp": "2016-05-17T18:23:21.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Bexar (gcochard) occupied Kleberg with 2 troops.",
+    "timestamp": "2016-05-17T18:23:28.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Kleberg (gcochard) was fortified from Nueces (gcochard) with 2 troops.",
+    "timestamp": "2016-05-17T18:23:48.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-17T18:23:48.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-17T18:30:13.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received 6 troops for 18 territories.",
+    "timestamp": "2016-05-17T18:30:13.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Colorado (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-17T18:30:34.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Brazoria (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-17T18:30:37.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Colorado (mmacfreier) attacked Calhoun (tanleach1001) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-05-17T18:30:47.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Colorado (mmacfreier) occupied Calhoun with 2 troops.",
+    "timestamp": "2016-05-17T18:30:51.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "McAllen (mmacfreier) was fortified from Starr (mmacfreier) with 2 troops.",
+    "timestamp": "2016-05-17T18:31:11.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-17T18:31:11.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-17T18:33:23.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 5 troops for 17 territories.",
+    "timestamp": "2016-05-17T18:33:23.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "La Salle (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-05-17T18:33:32.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Amarillo (tanleach1001) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-05-17T18:34:01.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "La Salle (kwren) attacked Zavala (jobratt) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-05-17T18:34:08.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "La Salle (kwren) occupied Zavala with 3 troops.",
+    "timestamp": "2016-05-17T18:34:09.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Medina (kwren) attacked Bexar (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-05-17T18:34:14.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Zavala (kwren) attacked Bexar (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-17T18:34:21.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Floyd (kwren) attacked Deaf Smith (jobratt) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-05-17T18:34:36.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Floyd (kwren) occupied Deaf Smith with 1 troop.",
+    "timestamp": "2016-05-17T18:34:42.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Ft. Worth (kwren) attacked Denton (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-05-17T18:34:51.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Galveston (kwren) attacked Houston (johnsgill3) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-17T18:35:50.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Floyd (kwren) was fortified from Lynn (kwren) with 2 troops.",
+    "timestamp": "2016-05-17T18:37:51.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-17T18:37:51.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-17T18:43:44.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 16 territories.",
+    "timestamp": "2016-05-17T18:43:44.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Webb (johnsgill3) was reinforced by johnsgill3 with 5 troops.",
+    "timestamp": "2016-05-17T18:44:10.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Webb (johnsgill3) attacked Zapata (kwren) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-05-17T18:44:17.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Webb (johnsgill3) occupied Zapata with 1 troop.",
+    "timestamp": "2016-05-17T18:44:29.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Webb (johnsgill3) attacked La Salle (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-17T18:44:33.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Webb (johnsgill3) occupied La Salle with 2 troops.",
+    "timestamp": "2016-05-17T18:44:36.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Kenedy (johnsgill3) attacked Starr (mmacfreier) killing 0, losing 1.",
+    "timestamp": "2016-05-17T18:44:41.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Duval (johnsgill3) attacked Starr (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T18:44:45.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Duval (johnsgill3) occupied Starr with 2 troops.",
+    "timestamp": "2016-05-17T18:44:48.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Kenedy (johnsgill3) was fortified from Cameron (johnsgill3) with 2 troops.",
+    "timestamp": "2016-05-17T18:45:07.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-17T18:45:07.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-05-17T18:45:07.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-17T18:46:52.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received 6 troops for 18 territories.",
+    "timestamp": "2016-05-17T18:46:52.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received 2 troops for holding Piney Woods.",
+    "timestamp": "2016-05-17T18:46:52.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received 1 troop for holding Beaumont.",
+    "timestamp": "2016-05-17T18:46:52.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Travis (jobratt) was reinforced by jobratt with 6 troops.",
+    "timestamp": "2016-05-17T18:46:57.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Cherokee (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-05-17T18:47:01.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Travis (jobratt) attacked Guadalupe (johnsgill3) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-05-17T18:47:16.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Travis (jobratt) occupied Guadalupe with 3 troops.",
+    "timestamp": "2016-05-17T18:47:36.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Sabine (jobratt) attacked Shelby (johnsgill3) killing 1, losing 1.",
+    "timestamp": "2016-05-17T18:48:08.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Cherokee (jobratt) attacked Shelby (johnsgill3) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-05-17T18:48:13.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Cherokee (jobratt) occupied Shelby with 1 troop.",
+    "timestamp": "2016-05-17T18:48:20.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Shelby (jobratt) was fortified from Sabine (jobratt) with 4 troops.",
+    "timestamp": "2016-05-17T18:49:17.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-17T18:49:17.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-17T19:38:17.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 6 troops for 18 territories.",
+    "timestamp": "2016-05-17T19:38:17.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding Dalhart.",
+    "timestamp": "2016-05-17T19:38:17.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding North Panhandle.",
+    "timestamp": "2016-05-17T19:38:17.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Pecos Valley.",
+    "timestamp": "2016-05-17T19:38:17.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Amarillo (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-05-17T19:43:17.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Roberts (tanleach1001) was reinforced by tanleach1001 with 8 troops.",
+    "timestamp": "2016-05-17T19:43:20.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Roberts (tanleach1001) attacked Wheeler (mmacfreier) conquering it, killing 3, losing 6.",
+    "timestamp": "2016-05-17T19:43:27.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Roberts (tanleach1001) occupied Wheeler with 7 troops.",
+    "timestamp": "2016-05-17T19:43:29.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Wheeler (tanleach1001) attacked Randall (mmacfreier) killing 2, losing 2.",
+    "timestamp": "2016-05-17T19:43:35.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Donley (tanleach1001) attacked Randall (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T19:43:42.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Donley (tanleach1001) occupied Randall with 2 troops.",
+    "timestamp": "2016-05-17T19:43:45.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Randall (tanleach1001) attacked Deaf Smith (kwren) killing 0, losing 1.",
+    "timestamp": "2016-05-17T19:44:01.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Amarillo (tanleach1001) attacked Deaf Smith (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T19:44:06.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Amarillo (tanleach1001) occupied Deaf Smith with 1 troop.",
+    "timestamp": "2016-05-17T19:44:10.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Lynn (kwren) was fortified from Borden (tanleach1001) with 2 troops.",
+    "timestamp": "2016-05-17T19:46:28.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-17T19:46:28.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-17T19:46:59.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 5 troops for 16 territories.",
+    "timestamp": "2016-05-17T19:46:59.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 1 troop for holding Corpus Christi.",
+    "timestamp": "2016-05-17T19:46:59.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Starr (johnsgill3) was reinforced by gcochard with 1 troop.",
+    "timestamp": "2016-05-17T19:47:12.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Gonzales (gcochard) was reinforced by gcochard with 1 troop.",
+    "timestamp": "2016-05-17T19:47:31.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Real (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-05-17T19:47:47.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Real (gcochard) attacked Medina (kwren) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-05-17T19:47:54.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Real (gcochard) occupied Medina with 4 troops.",
+    "timestamp": "2016-05-17T19:47:56.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Medina (gcochard) attacked Bexar (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T19:48:00.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Medina (gcochard) occupied Bexar with 3 troops.",
+    "timestamp": "2016-05-17T19:48:03.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Gonzales (gcochard) attacked Colorado (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-17T19:48:24.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Gonzales (gcochard) occupied Colorado with 1 troop.",
+    "timestamp": "2016-05-17T19:48:29.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Jeff Davis (gcochard) attacked Van Horn (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-05-17T19:49:45.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Johnson (gcochard) attacked Ft. Worth (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-17T19:50:20.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Denton (gcochard) attacked McAllen (mmacfreier) killing 1, losing 2.",
+    "timestamp": "2016-05-17T19:50:36.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Goliad (gcochard) was fortified from Bexar (gcochard) with 2 troops.",
+    "timestamp": "2016-05-17T19:52:45.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-17T19:52:45.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-17T19:56:54.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 5 troops for 15 territories.",
+    "timestamp": "2016-05-17T19:56:54.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Padre.",
+    "timestamp": "2016-05-17T19:56:54.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Calhoun (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-17T19:57:06.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Brazoria (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-17T19:57:12.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Brazoria (mmacfreier) attacked Galveston (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T19:57:15.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Brazoria (mmacfreier) occupied Galveston with 5 troops.",
+    "timestamp": "2016-05-17T19:57:26.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Galveston (mmacfreier) attacked Houston (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-17T19:57:31.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Galveston (mmacfreier) occupied Houston with 1 troop.",
+    "timestamp": "2016-05-17T19:57:33.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Houston (mmacfreier) was fortified from McAllen (mmacfreier) with 3 troops.",
+    "timestamp": "2016-05-17T19:57:41.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-17T19:57:41.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-17T19:58:03.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 4 troops for 13 territories.",
+    "timestamp": "2016-05-17T19:58:03.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Floyd (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-05-17T19:58:26.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Floyd (kwren) attacked Cottle (jobratt) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-17T19:58:33.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Floyd (kwren) occupied Cottle with 8 troops.",
+    "timestamp": "2016-05-17T19:58:35.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Cottle (kwren) attacked Crosby (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-05-17T19:58:45.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Lynn (kwren) attacked Crosby (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-05-17T19:58:52.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Cottle (kwren) attacked Crosby (tanleach1001) conquering it, killing 1, losing 5.",
+    "timestamp": "2016-05-17T19:59:07.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Coke (kwren) attacked Scurry (johnsgill3) killing 2, losing 2.",
+    "timestamp": "2016-05-17T19:59:41.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Alpine (kwren) attacked Jeff Davis (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-05-17T19:59:55.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Culberson (kwren) attacked Jeff Davis (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-17T20:00:02.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Maverick (kwren) attacked Dimmit (johnsgill3) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-05-17T20:01:12.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Maverick (kwren) occupied Dimmit with 2 troops.",
+    "timestamp": "2016-05-17T20:01:15.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Hunt (kwren) attacked Denton (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-17T20:01:26.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Coke (kwren) was fortified from Irion (kwren) with 2 troops.",
+    "timestamp": "2016-05-17T20:01:42.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-17T20:01:42.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-17T20:02:24.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 16 territories.",
+    "timestamp": "2016-05-17T20:02:24.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "La Salle (johnsgill3) was reinforced by johnsgill3 with 4 troops.",
+    "timestamp": "2016-05-17T20:02:47.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Kleberg (gcochard) was reinforced by johnsgill3 with 1 troop.",
+    "timestamp": "2016-05-17T20:02:50.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Kenedy (johnsgill3) attacked McAllen (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T20:02:56.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Kenedy (johnsgill3) occupied McAllen with 3 troops.",
+    "timestamp": "2016-05-17T20:02:57.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "La Salle (johnsgill3) attacked Dimmit (kwren) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-05-17T20:03:00.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "La Salle (johnsgill3) occupied Dimmit with 3 troops.",
+    "timestamp": "2016-05-17T20:03:07.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "McAllen (johnsgill3) was fortified from Starr (johnsgill3) with 2 troops.",
+    "timestamp": "2016-05-17T20:03:17.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-17T20:03:17.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-05-17T20:03:17.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-17T20:22:48.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 6 troops for 19 territories.",
+    "timestamp": "2016-05-17T20:22:48.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 2 troops for holding Piney Woods.",
+    "timestamp": "2016-05-17T20:22:48.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 1 troop for holding Beaumont.",
+    "timestamp": "2016-05-17T20:22:48.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 2 troops for holding Longhorn.",
+    "timestamp": "2016-05-17T20:22:48.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Cherokee (jobratt) was reinforced by jobratt with 2 troops.",
+    "timestamp": "2016-05-17T20:22:52.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Shelby (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-05-17T20:22:57.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Guadalupe (jobratt) was reinforced by jobratt with 2 troops.",
+    "timestamp": "2016-05-17T20:23:10.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Lee (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-05-17T20:23:15.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Lee (jobratt) attacked Gonzales (gcochard) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-05-17T20:23:39.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Lee (jobratt) occupied Gonzales with 5 troops.",
+    "timestamp": "2016-05-17T20:23:42.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Gonzales (jobratt) attacked Colorado (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T20:23:46.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Gonzales (jobratt) occupied Colorado with 1 troop.",
+    "timestamp": "2016-05-17T20:23:49.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Shelby (jobratt) attacked Rusk (johnsgill3) killing 0, losing 4.",
+    "timestamp": "2016-05-17T20:23:57.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Cherokee (jobratt) attacked Gregg (tanleach1001) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-05-17T20:24:05.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Cherokee (jobratt) occupied Gregg with 1 troop.",
+    "timestamp": "2016-05-17T20:24:10.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Cherokee (jobratt) attacked Rusk (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-05-17T20:24:12.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Houston (mmacfreier) was fortified from Hardin (jobratt) with 4 troops.",
+    "timestamp": "2016-05-17T20:24:36.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-17T20:24:36.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-17T20:26:17.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 6 troops for 19 territories.",
+    "timestamp": "2016-05-17T20:26:17.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding Dalhart.",
+    "timestamp": "2016-05-17T20:26:17.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding North Panhandle.",
+    "timestamp": "2016-05-17T20:26:17.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Panhandle.",
+    "timestamp": "2016-05-17T20:26:17.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Pecos Valley.",
+    "timestamp": "2016-05-17T20:26:17.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "El Paso (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-05-17T20:26:25.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Cottle (kwren) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-05-17T20:26:33.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "El Paso (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-05-17T20:27:03.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Wheeler (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-05-17T20:27:05.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Wheeler (tanleach1001) attacked Knox (gcochard) killing 1, losing 7.",
+    "timestamp": "2016-05-17T20:27:12.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Wichita (tanleach1001) attacked Knox (gcochard) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-05-17T20:27:27.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Wichita (tanleach1001) occupied Knox with 2 troops.",
+    "timestamp": "2016-05-17T20:27:30.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Knox (tanleach1001) was fortified from Wheeler (tanleach1001) with 2 troops.",
+    "timestamp": "2016-05-17T20:28:35.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-17T20:28:35.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-17T20:28:43.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 5 troops for 15 territories.",
+    "timestamp": "2016-05-17T20:28:43.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 1 troop for holding Corpus Christi.",
+    "timestamp": "2016-05-17T20:28:43.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Kleberg (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-05-17T20:28:56.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Kleberg (gcochard) attacked Zavala (kwren) conquering it, killing 1, losing 4.",
+    "timestamp": "2016-05-17T20:29:29.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Kleberg (gcochard) occupied Zavala with 6 troops.",
+    "timestamp": "2016-05-17T20:29:36.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Zavala (gcochard) attacked Maverick (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-05-17T20:29:50.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Zavala (gcochard) occupied Maverick with 2 troops.",
+    "timestamp": "2016-05-17T20:30:02.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "San Saba (gcochard) attacked Irion (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-17T20:31:37.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Medina (gcochard) was fortified from Zavala (gcochard) with 1 troop.",
+    "timestamp": "2016-05-17T20:31:57.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-17T20:31:57.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-17T20:33:16.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 5 troops for 16 territories.",
+    "timestamp": "2016-05-17T20:33:16.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Padre.",
+    "timestamp": "2016-05-17T20:33:16.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Galveston (mmacfreier) was reinforced by mmacfreier with 1 troop.",
+    "timestamp": "2016-05-17T20:33:21.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Houston (mmacfreier) was reinforced by mmacfreier with 5 troops.",
+    "timestamp": "2016-05-17T20:33:26.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Houston (mmacfreier) attacked Montgomery (johnsgill3) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-17T20:33:33.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Houston (mmacfreier) occupied Montgomery with 5 troops.",
+    "timestamp": "2016-05-17T20:33:41.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Pecos (mmacfreier) was fortified from Reeves (mmacfreier) with 2 troops.",
+    "timestamp": "2016-05-17T20:34:43.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-17T20:34:43.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-17T21:18:33.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 4 troops for 14 territories.",
+    "timestamp": "2016-05-17T21:18:33.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 2 troops for holding Edwards Plateau.",
+    "timestamp": "2016-05-17T21:18:33.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Lynn (kwren) was reinforced by kwren with 6 troops.",
+    "timestamp": "2016-05-17T21:19:02.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Lynn (kwren) attacked Scurry (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-17T21:19:07.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Lynn (kwren) occupied Scurry with 5 troops.",
+    "timestamp": "2016-05-17T21:19:09.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Scurry (kwren) attacked Borden (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T21:19:12.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Scurry (kwren) occupied Borden with 4 troops.",
+    "timestamp": "2016-05-17T21:19:13.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Borden (kwren) attacked Gaines (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-05-17T21:19:20.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Cottle (kwren) attacked Stephens (gcochard) killing 1, losing 1.",
+    "timestamp": "2016-05-17T21:19:28.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Cass (kwren) attacked Gregg (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T21:19:33.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Cass (kwren) occupied Gregg with 1 troop.",
+    "timestamp": "2016-05-17T21:19:41.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Lynn (kwren) was fortified from Cottle (kwren) with 2 troops.",
+    "timestamp": "2016-05-17T21:20:31.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-17T21:20:31.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-17T21:28:57.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 16 territories.",
+    "timestamp": "2016-05-17T21:28:57.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding The Valley.",
+    "timestamp": "2016-05-17T21:28:57.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received 1 troop for holding South Texas.",
+    "timestamp": "2016-05-17T21:28:57.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Medina (gcochard) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-05-17T21:29:14.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Goliad (gcochard) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-05-17T21:29:24.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "McAllen (johnsgill3) was reinforced by johnsgill3 with 4 troops.",
+    "timestamp": "2016-05-17T21:29:33.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Clay (johnsgill3) attacked Denton (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T21:29:46.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Clay (johnsgill3) occupied Denton with 2 troops.",
+    "timestamp": "2016-05-17T21:29:48.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-17T21:29:54.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-05-17T21:29:54.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-17T21:49:43.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 7 troops for 21 territories.",
+    "timestamp": "2016-05-17T21:49:43.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 2 troops for holding Piney Woods.",
+    "timestamp": "2016-05-17T21:49:43.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 1 troop for holding Beaumont.",
+    "timestamp": "2016-05-17T21:49:43.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 2 troops for holding Longhorn.",
+    "timestamp": "2016-05-17T21:49:43.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 1 troop for holding Shiner.",
+    "timestamp": "2016-05-17T21:49:43.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Gonzales (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-05-17T21:49:53.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Cherokee (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-05-17T21:50:23.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Travis (jobratt) was reinforced by jobratt with 2 troops.",
+    "timestamp": "2016-05-17T21:50:57.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Shelby (jobratt) was reinforced by jobratt with 5 troops.",
+    "timestamp": "2016-05-17T21:51:02.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Shelby (jobratt) attacked Rusk (johnsgill3) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-17T21:51:09.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Shelby (jobratt) occupied Rusk with 6 troops.",
+    "timestamp": "2016-05-17T21:51:10.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Rusk (jobratt) attacked Gregg (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T21:51:18.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Rusk (jobratt) occupied Gregg with 5 troops.",
+    "timestamp": "2016-05-17T21:51:20.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Gregg (jobratt) was fortified from Cherokee (jobratt) with 1 troop.",
+    "timestamp": "2016-05-17T21:53:26.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-17T21:53:26.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-17T21:53:42.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 6 troops for 19 territories.",
+    "timestamp": "2016-05-17T21:53:42.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding Dalhart.",
+    "timestamp": "2016-05-17T21:53:42.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding North Panhandle.",
+    "timestamp": "2016-05-17T21:53:42.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Panhandle.",
+    "timestamp": "2016-05-17T21:53:42.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Pecos Valley.",
+    "timestamp": "2016-05-17T21:53:42.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Amarillo (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-05-17T21:53:51.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Lamb (tanleach1001) was reinforced by tanleach1001 with 9 troops.",
+    "timestamp": "2016-05-17T21:54:00.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Lamb (tanleach1001) attacked Gaines (johnsgill3) killing 2, losing 8.",
+    "timestamp": "2016-05-17T21:54:08.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Yoakum (tanleach1001) attacked Gaines (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-17T21:54:20.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Knox (tanleach1001) attacked Stephens (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-05-17T21:54:31.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Borden (kwren) was fortified from Lamb (tanleach1001) with 3 troops.",
+    "timestamp": "2016-05-17T21:55:46.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-17T21:55:46.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-17T22:23:06.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 6 troops for 18 territories.",
+    "timestamp": "2016-05-17T22:23:06.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 3 troops for holding San Antonio.",
+    "timestamp": "2016-05-17T22:23:06.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 1 troop for holding Corpus Christi.",
+    "timestamp": "2016-05-17T22:23:06.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Stephens (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-05-17T22:25:57.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Real (gcochard) was reinforced by gcochard with 7 troops.",
+    "timestamp": "2016-05-17T22:26:08.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Stephens (gcochard) attacked Cottle (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T22:26:14.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Stephens (gcochard) occupied Cottle with 4 troops.",
+    "timestamp": "2016-05-17T22:26:20.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Cottle (gcochard) attacked Wheeler (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T22:26:26.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Cottle (gcochard) occupied Wheeler with 1 troop.",
+    "timestamp": "2016-05-17T22:26:28.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Cottle (gcochard) attacked Scurry (kwren) killing 0, losing 2.",
+    "timestamp": "2016-05-17T22:26:34.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Real (gcochard) attacked Edwards (kwren) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-05-17T22:26:59.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Real (gcochard) occupied Edwards with 1 troop.",
+    "timestamp": "2016-05-17T22:27:04.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Real (gcochard) attacked Bandera (tanleach1001) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-17T22:27:11.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Real (gcochard) occupied Bandera with 1 troop.",
+    "timestamp": "2016-05-17T22:27:14.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Leon (gcochard) attacked Milam (jobratt) killing 1, losing 2.",
+    "timestamp": "2016-05-17T22:33:07.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Red River (johnsgill3) was fortified from Lamar (gcochard) with 2 troops.",
+    "timestamp": "2016-05-17T22:35:54.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-17T22:35:54.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-17T22:37:51.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 5 troops for 17 territories.",
+    "timestamp": "2016-05-17T22:37:51.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Texan.",
+    "timestamp": "2016-05-17T22:37:51.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Padre.",
+    "timestamp": "2016-05-17T22:37:51.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Montgomery (mmacfreier) was reinforced by mmacfreier with 8 troops.",
+    "timestamp": "2016-05-17T22:38:11.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Montgomery (mmacfreier) attacked Grimes (johnsgill3) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-17T22:38:16.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Montgomery (mmacfreier) occupied Grimes with 11 troops.",
+    "timestamp": "2016-05-17T22:38:18.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Grimes (mmacfreier) attacked Milam (jobratt) conquering it, killing 2, losing 3.",
+    "timestamp": "2016-05-17T22:38:23.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Grimes (mmacfreier) occupied Milam with 7 troops.",
+    "timestamp": "2016-05-17T22:38:25.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Milam (mmacfreier) attacked Leon (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-17T22:38:29.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Milam (mmacfreier) occupied Leon with 5 troops.",
+    "timestamp": "2016-05-17T22:38:33.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Houston (mmacfreier) was fortified from Galveston (mmacfreier) with 3 troops.",
+    "timestamp": "2016-05-17T22:38:38.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-17T22:38:38.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-17T22:39:07.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 4 troops for 13 territories.",
+    "timestamp": "2016-05-17T22:39:07.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 2 troops for holding Prickly Pear.",
+    "timestamp": "2016-05-17T22:39:07.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Amarillo (tanleach1001) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-05-17T22:40:44.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Lynn (kwren) was reinforced by kwren with 5 troops.",
+    "timestamp": "2016-05-17T22:40:48.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Lynn (kwren) attacked Cottle (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T22:40:51.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Lynn (kwren) occupied Cottle with 7 troops.",
+    "timestamp": "2016-05-17T22:40:52.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Cottle (kwren) attacked Stephens (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-17T22:40:57.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Cottle (kwren) occupied Stephens with 1 troop.",
+    "timestamp": "2016-05-17T22:41:02.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Ellis (kwren) attacked Johnson (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-17T22:41:07.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "McLennan (kwren) attacked Falls (mmacfreier) killing 0, losing 2.",
+    "timestamp": "2016-05-17T22:41:21.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-17T22:41:36.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-17T22:52:38.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 14 territories.",
+    "timestamp": "2016-05-17T22:52:38.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding The Valley.",
+    "timestamp": "2016-05-17T22:52:38.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 1 troop for holding South Texas.",
+    "timestamp": "2016-05-17T22:52:38.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Wheeler (gcochard) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-05-17T22:52:45.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Goliad (gcochard) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-05-17T22:52:51.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "McAllen (johnsgill3) was reinforced by johnsgill3 with 1 troop.",
+    "timestamp": "2016-05-17T22:52:57.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Crockett (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-05-17T22:53:20.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Crockett (johnsgill3) attacked Val Verde (mmacfreier) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-17T22:53:25.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Crockett (johnsgill3) occupied Val Verde with 4 troops.",
+    "timestamp": "2016-05-17T22:53:28.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Red River (johnsgill3) attacked Lamar (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-17T22:53:32.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Red River (johnsgill3) occupied Lamar with 3 troops.",
+    "timestamp": "2016-05-17T22:53:35.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Lamar (johnsgill3) attacked Hunt (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-17T22:53:41.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Maverick (gcochard) was fortified from Dimmit (johnsgill3) with 2 troops.",
+    "timestamp": "2016-05-17T22:53:53.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-17T22:53:53.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-05-17T22:53:53.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-17T22:59:23.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 7 troops for 22 territories.",
+    "timestamp": "2016-05-17T22:59:23.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 2 troops for holding Taylor.",
+    "timestamp": "2016-05-17T22:59:23.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 2 troops for holding Piney Woods.",
+    "timestamp": "2016-05-17T22:59:23.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 1 troop for holding Beaumont.",
+    "timestamp": "2016-05-17T22:59:23.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 2 troops for holding Longhorn.",
+    "timestamp": "2016-05-17T22:59:23.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 1 troop for holding Shiner.",
+    "timestamp": "2016-05-17T22:59:23.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Cherokee (jobratt) was reinforced by jobratt with 7 troops.",
+    "timestamp": "2016-05-17T22:59:32.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Gregg (jobratt) was reinforced by jobratt with 8 troops.",
+    "timestamp": "2016-05-17T22:59:35.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Gregg (jobratt) attacked Cass (kwren) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-05-17T22:59:39.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Gregg (jobratt) occupied Cass with 12 troops.",
+    "timestamp": "2016-05-17T22:59:41.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Cass (jobratt) attacked Red River (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T22:59:46.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Cass (jobratt) occupied Red River with 11 troops.",
+    "timestamp": "2016-05-17T22:59:48.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Red River (jobratt) attacked Lamar (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T22:59:56.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Red River (jobratt) occupied Lamar with 10 troops.",
+    "timestamp": "2016-05-17T22:59:57.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Cherokee (jobratt) attacked Hunt (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-17T23:00:00.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Cherokee (jobratt) occupied Hunt with 12 troops.",
+    "timestamp": "2016-05-17T23:00:01.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Fannin (jobratt) was fortified from Lamar (jobratt) with 9 troops.",
+    "timestamp": "2016-05-17T23:00:33.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-17T23:00:33.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-17T23:04:14.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 6 troops for 18 territories.",
+    "timestamp": "2016-05-17T23:04:14.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding Dalhart.",
+    "timestamp": "2016-05-17T23:04:14.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding North Panhandle.",
+    "timestamp": "2016-05-17T23:04:14.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Pecos Valley.",
+    "timestamp": "2016-05-17T23:04:14.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Knox (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-05-17T23:04:18.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Amarillo (tanleach1001) was reinforced by tanleach1001 with 6 troops.",
+    "timestamp": "2016-05-17T23:04:21.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Knox (tanleach1001) attacked Wheeler (gcochard) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-17T23:04:25.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Knox (tanleach1001) occupied Wheeler with 1 troop.",
+    "timestamp": "2016-05-17T23:04:31.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Amarillo (tanleach1001) attacked McAllen (johnsgill3) conquering it, killing 10, losing 11.",
+    "timestamp": "2016-05-17T23:04:48.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Amarillo (tanleach1001) occupied McAllen with 1 troop.",
+    "timestamp": "2016-05-17T23:05:11.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Gaines (tanleach1001) was fortified from Loving (tanleach1001) with 2 troops.",
+    "timestamp": "2016-05-17T23:06:18.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-17T23:06:18.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-17T23:13:48.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 5 troops for 16 territories.",
+    "timestamp": "2016-05-17T23:13:48.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for holding San Antonio.",
+    "timestamp": "2016-05-17T23:13:48.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 1 troop for holding Corpus Christi.",
+    "timestamp": "2016-05-17T23:13:48.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Val Verde (johnsgill3) was reinforced by gcochard with 2 troops.",
+    "timestamp": "2016-05-17T23:13:57.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Bandera (gcochard) was reinforced by gcochard with 7 troops.",
+    "timestamp": "2016-05-17T23:14:00.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Bandera (gcochard) attacked Guadalupe (jobratt) conquering it, killing 5, losing 6.",
+    "timestamp": "2016-05-17T23:17:00.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Real (gcochard) was fortified from Maverick (gcochard) with 3 troops.",
+    "timestamp": "2016-05-17T23:17:32.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-17T23:17:32.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-18T00:17:04.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 6 troops for 19 territories.",
+    "timestamp": "2016-05-18T00:17:04.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Sam Houston.",
+    "timestamp": "2016-05-18T00:17:04.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Texan.",
+    "timestamp": "2016-05-18T00:17:04.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Padre.",
+    "timestamp": "2016-05-18T00:17:04.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Houston (mmacfreier) was reinforced by mmacfreier with 6 troops.",
+    "timestamp": "2016-05-18T00:18:05.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Pecos (mmacfreier) was reinforced by mmacfreier with 5 troops.",
+    "timestamp": "2016-05-18T00:18:14.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Pecos (mmacfreier) attacked Alpine (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T00:18:22.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Pecos (mmacfreier) occupied Alpine with 9 troops.",
+    "timestamp": "2016-05-18T00:18:24.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Alpine (mmacfreier) attacked Terrell (tanleach1001) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-05-18T00:18:33.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Alpine (mmacfreier) occupied Terrell with 1 troop.",
+    "timestamp": "2016-05-18T00:18:35.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Houston (mmacfreier) attacked McAllen (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T00:18:40.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Houston (mmacfreier) occupied McAllen with 6 troops.",
+    "timestamp": "2016-05-18T00:18:45.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "McAllen (mmacfreier) attacked Kenedy (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T00:18:50.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "McAllen (mmacfreier) occupied Kenedy with 5 troops.",
+    "timestamp": "2016-05-18T00:18:53.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Kenedy (mmacfreier) attacked Starr (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T00:18:59.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Kenedy (mmacfreier) occupied Starr with 4 troops.",
+    "timestamp": "2016-05-18T00:19:00.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Starr (mmacfreier) attacked Kleberg (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-18T00:19:05.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Starr (mmacfreier) occupied Kleberg with 2 troops.",
+    "timestamp": "2016-05-18T00:19:07.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Kleberg (mmacfreier) attacked Zavala (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T00:19:10.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Gonzales (jobratt) was fortified from Calhoun (mmacfreier) with 4 troops.",
+    "timestamp": "2016-05-18T00:19:22.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-18T00:19:22.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-18T15:57:23.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 4 troops for 13 territories.",
+    "timestamp": "2016-05-18T15:57:23.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 2 troops for holding Edwards Plateau.",
+    "timestamp": "2016-05-18T15:57:23.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 2 troops for holding Prickly Pear.",
+    "timestamp": "2016-05-18T15:57:23.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Culberson (kwren) was reinforced by kwren with 8 troops.",
+    "timestamp": "2016-05-18T15:57:43.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Culberson (kwren) attacked Reeves (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-18T15:57:47.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Culberson (kwren) occupied Reeves with 7 troops.",
+    "timestamp": "2016-05-18T15:57:49.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Reeves (kwren) attacked Ward (jobratt) conquering it, killing 3, losing 5.",
+    "timestamp": "2016-05-18T15:57:58.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-18T15:58:03.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-18T16:09:57.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 11 territories.",
+    "timestamp": "2016-05-18T16:09:57.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Zapata (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-05-18T16:10:02.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Zapata (johnsgill3) attacked Starr (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T16:10:07.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Zapata (johnsgill3) occupied Starr with 3 troops.",
+    "timestamp": "2016-05-18T16:10:08.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Denton (johnsgill3) attacked McAllen (mmacfreier) killing 0, losing 1.",
+    "timestamp": "2016-05-18T16:10:19.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Val Verde (johnsgill3) attacked Terrell (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T16:10:37.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Val Verde (johnsgill3) occupied Terrell with 1 troop.",
+    "timestamp": "2016-05-18T16:10:43.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Duval (johnsgill3) was fortified from La Salle (johnsgill3) with 2 troops.",
+    "timestamp": "2016-05-18T16:11:52.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-18T16:11:52.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-05-18T16:11:52.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-18T16:26:01.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 8 troops for 24 territories.",
+    "timestamp": "2016-05-18T16:26:01.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 1 troop for holding Texarkana.",
+    "timestamp": "2016-05-18T16:26:01.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 2 troops for holding Taylor.",
+    "timestamp": "2016-05-18T16:26:01.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 2 troops for holding Piney Woods.",
+    "timestamp": "2016-05-18T16:26:01.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 1 troop for holding Beaumont.",
+    "timestamp": "2016-05-18T16:26:01.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 1 troop for holding Shiner.",
+    "timestamp": "2016-05-18T16:26:01.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Houston (mmacfreier) was reinforced by jobratt with 5 troops.",
+    "timestamp": "2016-05-18T16:26:06.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Gonzales (jobratt) was reinforced by jobratt with 5 troops.",
+    "timestamp": "2016-05-18T16:26:16.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Falls (mmacfreier) was reinforced by jobratt with 5 troops.",
+    "timestamp": "2016-05-18T16:26:33.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Gonzales (jobratt) attacked Guadalupe (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T16:26:38.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Gonzales (jobratt) occupied Guadalupe with 3 troops.",
+    "timestamp": "2016-05-18T16:26:58.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Fannin (jobratt) attacked Denton (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T16:27:11.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Fannin (jobratt) occupied Denton with 1 troop.",
+    "timestamp": "2016-05-18T16:27:18.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Hunt (jobratt) attacked Ellis (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T16:27:37.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Hunt (jobratt) occupied Ellis with 1 troop.",
+    "timestamp": "2016-05-18T16:27:46.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Kimble (jobratt) attacked San Saba (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T16:28:41.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Kimble (jobratt) occupied San Saba with 2 troops.",
+    "timestamp": "2016-05-18T16:28:49.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Midland (mmacfreier) was fortified from Reagan (jobratt) with 2 troops.",
+    "timestamp": "2016-05-18T16:29:10.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-18T16:29:10.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-18T16:32:31.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 6 troops for 18 territories.",
+    "timestamp": "2016-05-18T16:32:31.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding Dalhart.",
+    "timestamp": "2016-05-18T16:32:31.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding North Panhandle.",
+    "timestamp": "2016-05-18T16:32:31.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Panhandle.",
+    "timestamp": "2016-05-18T16:32:31.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Pecos Valley.",
+    "timestamp": "2016-05-18T16:32:31.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Amarillo (tanleach1001) was reinforced by tanleach1001 with 6 troops.",
+    "timestamp": "2016-05-18T16:32:46.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Knox (tanleach1001) was reinforced by tanleach1001 with 1 troop.",
+    "timestamp": "2016-05-18T16:32:54.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Gaines (tanleach1001) was reinforced by tanleach1001 with 6 troops.",
+    "timestamp": "2016-05-18T16:32:58.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Gaines (tanleach1001) attacked Midland (mmacfreier) killing 0, losing 2.",
+    "timestamp": "2016-05-18T16:33:00.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Gaines (tanleach1001) attacked Howard (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-05-18T16:33:03.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Roberts (tanleach1001) was fortified from Hansford (tanleach1001) with 2 troops.",
+    "timestamp": "2016-05-18T16:33:18.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-18T16:33:18.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-18T16:34:11.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 4 troops for 13 territories.",
+    "timestamp": "2016-05-18T16:34:11.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Medina (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-05-18T16:34:47.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Medina (gcochard) attacked Zavala (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-18T16:35:43.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Medina (gcochard) occupied Zavala with 7 troops.",
+    "timestamp": "2016-05-18T16:35:47.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Zavala (gcochard) attacked Kleberg (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T16:35:59.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Zavala (gcochard) occupied Kleberg with 6 troops.",
+    "timestamp": "2016-05-18T16:36:06.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Kleberg (gcochard) attacked Kenedy (mmacfreier) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-05-18T16:36:24.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Kleberg (gcochard) occupied Kenedy with 3 troops.",
+    "timestamp": "2016-05-18T16:36:27.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Kenedy (gcochard) attacked McAllen (mmacfreier) killing 0, losing 2.",
+    "timestamp": "2016-05-18T16:37:05.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Howard (gcochard) attacked Reagan (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-18T17:18:55.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Medina (gcochard) was fortified from Real (gcochard) with 4 troops.",
+    "timestamp": "2016-05-18T17:19:31.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-18T17:19:31.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-18T17:19:57.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 6 troops for 20 territories.",
+    "timestamp": "2016-05-18T17:19:57.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Sam Houston.",
+    "timestamp": "2016-05-18T17:19:57.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Texan.",
+    "timestamp": "2016-05-18T17:19:57.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Padre.",
+    "timestamp": "2016-05-18T17:19:57.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Midland (mmacfreier) was reinforced by mmacfreier with 11 troops.",
+    "timestamp": "2016-05-18T17:20:35.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Midland (mmacfreier) attacked Ward (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-18T17:20:40.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Midland (mmacfreier) occupied Ward with 14 troops.",
+    "timestamp": "2016-05-18T17:20:43.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Ward (mmacfreier) attacked Loving (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T17:20:47.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Ward (mmacfreier) occupied Loving with 13 troops.",
+    "timestamp": "2016-05-18T17:20:48.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Loving (mmacfreier) attacked Reeves (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T17:20:52.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Loving (mmacfreier) occupied Reeves with 12 troops.",
+    "timestamp": "2016-05-18T17:20:54.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Alpine (mmacfreier) attacked Terrell (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T17:20:57.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Alpine (mmacfreier) occupied Terrell with 3 troops.",
+    "timestamp": "2016-05-18T17:20:59.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Reeves (mmacfreier) attacked Jeff Davis (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T17:21:06.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Reeves (mmacfreier) occupied Jeff Davis with 11 troops.",
+    "timestamp": "2016-05-18T17:21:08.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Brewster (mmacfreier) attacked Presidio (tanleach1001) killing 1, losing 2.",
+    "timestamp": "2016-05-18T17:21:16.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Jeff Davis (mmacfreier) attacked Presidio (tanleach1001) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-05-18T17:21:20.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Jeff Davis (mmacfreier) occupied Presidio with 1 troop.",
+    "timestamp": "2016-05-18T17:21:23.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Jeff Davis (mmacfreier) attacked Culberson (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-18T17:21:29.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Jeff Davis (mmacfreier) occupied Culberson with 5 troops.",
+    "timestamp": "2016-05-18T17:21:38.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Hunt (jobratt) was fortified from Dallas (mmacfreier) with 2 troops.",
+    "timestamp": "2016-05-18T17:22:14.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-18T17:22:14.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-18T17:39:36.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-05-18T17:39:37.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 2 troops for holding Edwards Plateau.",
+    "timestamp": "2016-05-18T17:39:37.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 2 troops for holding Prickly Pear.",
+    "timestamp": "2016-05-18T17:39:37.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Coke (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-05-18T17:40:18.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Van Horn (tanleach1001) was reinforced by kwren with 5 troops.",
+    "timestamp": "2016-05-18T17:40:31.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Coke (kwren) attacked Irion (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T17:40:40.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Coke (kwren) occupied Irion with 1 troop.",
+    "timestamp": "2016-05-18T17:42:34.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Borden (kwren) attacked Howard (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T17:42:48.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Borden (kwren) occupied Howard with 4 troops.",
+    "timestamp": "2016-05-18T17:43:02.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Gaines (tanleach1001) was fortified from Howard (kwren) with 3 troops.",
+    "timestamp": "2016-05-18T17:43:31.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-18T17:43:32.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-18T17:54:27.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 11 territories.",
+    "timestamp": "2016-05-18T17:54:27.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding The Valley.",
+    "timestamp": "2016-05-18T17:54:27.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Starr (johnsgill3) was reinforced by johnsgill3 with 6 troops.",
+    "timestamp": "2016-05-18T17:54:30.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Starr (johnsgill3) attacked Kenedy (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T17:54:33.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Starr (johnsgill3) occupied Kenedy with 8 troops.",
+    "timestamp": "2016-05-18T17:54:36.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Kenedy (johnsgill3) attacked McAllen (mmacfreier) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-05-18T17:54:42.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Kenedy (johnsgill3) occupied McAllen with 5 troops.",
+    "timestamp": "2016-05-18T17:54:46.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Starr (johnsgill3) was fortified from Duval (johnsgill3) with 2 troops.",
+    "timestamp": "2016-05-18T17:55:01.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-18T17:55:01.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Round 7 started.",
+    "timestamp": "2016-05-18T17:55:01.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-18T18:15:41.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 9 troops for 27 territories.",
+    "timestamp": "2016-05-18T18:15:41.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 1 troop for holding Texarkana.",
+    "timestamp": "2016-05-18T18:15:41.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 2 troops for holding Taylor.",
+    "timestamp": "2016-05-18T18:15:41.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 2 troops for holding Piney Woods.",
+    "timestamp": "2016-05-18T18:15:41.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 1 troop for holding Beaumont.",
+    "timestamp": "2016-05-18T18:15:41.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 2 troops for holding Longhorn.",
+    "timestamp": "2016-05-18T18:15:41.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 1 troop for holding Shiner.",
+    "timestamp": "2016-05-18T18:15:41.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Houston (mmacfreier) was reinforced by jobratt with 5 troops.",
+    "timestamp": "2016-05-18T18:15:47.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Young (jobratt) was reinforced by jobratt with 7 troops.",
+    "timestamp": "2016-05-18T18:17:43.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Guadalupe (jobratt) was reinforced by jobratt with 6 troops.",
+    "timestamp": "2016-05-18T18:17:50.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Young (jobratt) attacked Stephens (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T18:17:54.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Young (jobratt) occupied Stephens with 9 troops.",
+    "timestamp": "2016-05-18T18:18:03.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Stephens (jobratt) attacked Scurry (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T18:18:24.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Stephens (jobratt) occupied Scurry with 8 troops.",
+    "timestamp": "2016-05-18T18:18:27.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Guadalupe (jobratt) attacked Bandera (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T18:18:32.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Guadalupe (jobratt) occupied Bandera with 8 troops.",
+    "timestamp": "2016-05-18T18:18:34.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Scurry (jobratt) attacked Lynn (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-05-18T18:18:45.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Scurry (jobratt) occupied Lynn with 5 troops.",
+    "timestamp": "2016-05-18T18:18:48.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Lynn (jobratt) attacked Lamb (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T18:18:51.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Lynn (jobratt) occupied Lamb with 4 troops.",
+    "timestamp": "2016-05-18T18:18:54.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Lamb (jobratt) attacked Deaf Smith (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T18:19:00.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Lamb (jobratt) occupied Deaf Smith with 3 troops.",
+    "timestamp": "2016-05-18T18:19:07.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Bandera (jobratt) attacked Medina (gcochard) conquering it, killing 5, losing 1.",
+    "timestamp": "2016-05-18T18:19:25.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Bandera (jobratt) occupied Medina with 6 troops.",
+    "timestamp": "2016-05-18T18:19:29.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Medina (jobratt) attacked Zavala (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T18:19:35.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Medina (jobratt) occupied Zavala with 5 troops.",
+    "timestamp": "2016-05-18T18:19:38.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Zavala (jobratt) attacked La Salle (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T18:19:42.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Zavala (jobratt) occupied La Salle with 4 troops.",
+    "timestamp": "2016-05-18T18:20:02.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Bandera (jobratt) was fortified from Mason (jobratt) with 2 troops.",
+    "timestamp": "2016-05-18T18:21:43.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-18T18:21:43.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-18T18:22:44.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 4 troops for 14 territories.",
+    "timestamp": "2016-05-18T18:22:45.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding Dalhart.",
+    "timestamp": "2016-05-18T18:22:45.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding North Panhandle.",
+    "timestamp": "2016-05-18T18:22:45.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Pecos Valley.",
+    "timestamp": "2016-05-18T18:22:45.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Van Horn (tanleach1001) was reinforced by tanleach1001 with 8 troops.",
+    "timestamp": "2016-05-18T18:23:03.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Van Horn (tanleach1001) attacked Culberson (mmacfreier) conquering it, killing 5, losing 9.",
+    "timestamp": "2016-05-18T18:24:12.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Van Horn (tanleach1001) occupied Culberson with 1 troop.",
+    "timestamp": "2016-05-18T18:24:22.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Gaines (tanleach1001) attacked Lamb (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T18:24:34.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Gaines (tanleach1001) occupied Lamb with 7 troops.",
+    "timestamp": "2016-05-18T18:24:42.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Lamb (tanleach1001) attacked Deaf Smith (jobratt) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-18T18:24:52.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Lamb (tanleach1001) occupied Deaf Smith with 1 troop.",
+    "timestamp": "2016-05-18T18:24:57.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "El Paso (tanleach1001) was fortified from Van Horn (tanleach1001) with 2 troops.",
+    "timestamp": "2016-05-18T18:27:31.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-18T18:27:32.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-18T18:31:47.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 3 troops for 11 territories.",
+    "timestamp": "2016-05-18T18:31:48.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 1 troop for holding Corpus Christi.",
+    "timestamp": "2016-05-18T18:31:48.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Dimmit (johnsgill3) was reinforced by gcochard with 1 troop.",
+    "timestamp": "2016-05-18T18:32:03.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Real (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-05-18T18:32:09.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Real (gcochard) attacked Medina (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T18:32:17.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Real (gcochard) occupied Medina with 6 troops.",
+    "timestamp": "2016-05-18T18:32:47.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Medina (gcochard) attacked Zavala (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T18:32:52.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Medina (gcochard) occupied Zavala with 5 troops.",
+    "timestamp": "2016-05-18T18:32:56.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Zavala (gcochard) attacked La Salle (jobratt) conquering it, killing 4, losing 2.",
+    "timestamp": "2016-05-18T18:33:09.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Zavala (gcochard) occupied La Salle with 1 troop.",
+    "timestamp": "2016-05-18T18:33:14.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Medina (gcochard) was fortified from Zavala (gcochard) with 1 troop.",
+    "timestamp": "2016-05-18T18:33:33.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-18T18:33:33.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-18T18:33:55.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 8 troops for 25 territories.",
+    "timestamp": "2016-05-18T18:33:55.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Sam Houston.",
+    "timestamp": "2016-05-18T18:33:55.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Texan.",
+    "timestamp": "2016-05-18T18:33:55.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Sandhills.",
+    "timestamp": "2016-05-18T18:33:55.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Padre.",
+    "timestamp": "2016-05-18T18:33:55.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Jeff Davis (mmacfreier) was reinforced by mmacfreier with 15 troops.",
+    "timestamp": "2016-05-18T18:34:16.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Jeff Davis (mmacfreier) attacked Culberson (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T18:34:21.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Jeff Davis (mmacfreier) occupied Culberson with 1 troop.",
+    "timestamp": "2016-05-18T18:34:24.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Jeff Davis (mmacfreier) attacked Van Horn (tanleach1001) conquering it, killing 3, losing 6.",
+    "timestamp": "2016-05-18T18:34:31.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Jeff Davis (mmacfreier) occupied Van Horn with 11 troops.",
+    "timestamp": "2016-05-18T18:34:34.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Van Horn (mmacfreier) attacked Hudspeth (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T18:34:39.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Van Horn (mmacfreier) occupied Hudspeth with 1 troop.",
+    "timestamp": "2016-05-18T18:34:43.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Van Horn (mmacfreier) attacked El Paso (tanleach1001) conquering it, killing 10, losing 4.",
+    "timestamp": "2016-05-18T18:34:55.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Van Horn (mmacfreier) occupied El Paso with 5 troops.",
+    "timestamp": "2016-05-18T18:34:56.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "El Paso (mmacfreier) was fortified from Houston (mmacfreier) with 5 troops.",
+    "timestamp": "2016-05-18T18:35:32.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-18T18:35:32.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-18T20:01:11.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for 9 territories.",
+    "timestamp": "2016-05-18T20:01:11.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Amarillo (tanleach1001) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-05-18T20:02:37.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Coke (kwren) attacked Scurry (jobratt) killing 0, losing 3.",
+    "timestamp": "2016-05-18T20:02:53.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Cottle (kwren) attacked Lynn (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T20:02:58.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Cottle (kwren) occupied Lynn with 1 troop.",
+    "timestamp": "2016-05-18T20:03:00.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Cottle (kwren) attacked Scurry (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T20:03:03.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Cottle (kwren) occupied Scurry with 1 troop.",
+    "timestamp": "2016-05-18T20:03:06.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-18T20:03:16.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-18T20:16:28.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 12 territories.",
+    "timestamp": "2016-05-18T20:16:28.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 1 troop for holding South Texas.",
+    "timestamp": "2016-05-18T20:16:28.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Dimmit (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-05-18T20:17:18.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Medina (gcochard) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-05-18T20:18:03.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Val Verde (johnsgill3) was reinforced by johnsgill3 with 1 troop.",
+    "timestamp": "2016-05-18T20:18:11.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Dimmit (johnsgill3) attacked La Salle (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T20:18:18.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Dimmit (johnsgill3) occupied La Salle with 1 troop.",
+    "timestamp": "2016-05-18T20:18:30.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "McAllen (johnsgill3) was fortified from Starr (johnsgill3) with 2 troops.",
+    "timestamp": "2016-05-18T20:19:08.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-18T20:19:09.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Round 8 started.",
+    "timestamp": "2016-05-18T20:19:09.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-18T20:22:26.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 9 troops for 29 territories.",
+    "timestamp": "2016-05-18T20:22:26.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 1 troop for holding Texarkana.",
+    "timestamp": "2016-05-18T20:22:26.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 2 troops for holding Taylor.",
+    "timestamp": "2016-05-18T20:22:26.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 2 troops for holding Piney Woods.",
+    "timestamp": "2016-05-18T20:22:26.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 1 troop for holding Beaumont.",
+    "timestamp": "2016-05-18T20:22:26.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 2 troops for holding Longhorn.",
+    "timestamp": "2016-05-18T20:22:26.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 1 troop for holding Shiner.",
+    "timestamp": "2016-05-18T20:22:26.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Houston (mmacfreier) was reinforced by jobratt with 5 troops.",
+    "timestamp": "2016-05-18T20:22:34.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Stephens (jobratt) was reinforced by jobratt with 7 troops.",
+    "timestamp": "2016-05-18T20:22:57.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Bandera (jobratt) was reinforced by jobratt with 6 troops.",
+    "timestamp": "2016-05-18T20:23:22.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Stephens (jobratt) attacked Scurry (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T20:23:30.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Stephens (jobratt) occupied Scurry with 7 troops.",
+    "timestamp": "2016-05-18T20:23:32.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Scurry (jobratt) attacked Lynn (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T20:23:42.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Scurry (jobratt) occupied Lynn with 6 troops.",
+    "timestamp": "2016-05-18T20:23:46.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Lynn (jobratt) attacked Floyd (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T20:23:50.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Lynn (jobratt) occupied Floyd with 5 troops.",
+    "timestamp": "2016-05-18T20:23:53.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Floyd (jobratt) attacked Randall (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T20:24:00.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Floyd (jobratt) occupied Randall with 4 troops.",
+    "timestamp": "2016-05-18T20:24:03.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Bandera (jobratt) attacked Real (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T20:24:10.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Bandera (jobratt) occupied Real with 8 troops.",
+    "timestamp": "2016-05-18T20:24:26.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Real (jobratt) attacked Maverick (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T20:24:37.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Real (jobratt) occupied Maverick with 7 troops.",
+    "timestamp": "2016-05-18T20:24:40.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Maverick (jobratt) attacked Zavala (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T20:24:45.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Maverick (jobratt) occupied Zavala with 6 troops.",
+    "timestamp": "2016-05-18T20:24:47.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Zavala (jobratt) attacked La Salle (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T20:24:51.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Zavala (jobratt) occupied La Salle with 5 troops.",
+    "timestamp": "2016-05-18T20:24:53.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "La Salle (jobratt) attacked Kleberg (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-18T20:25:09.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "La Salle (jobratt) occupied Kleberg with 3 troops.",
+    "timestamp": "2016-05-18T20:25:11.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Kleberg (jobratt) attacked Kenedy (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-05-18T20:25:16.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Randall (jobratt) attacked Donley (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T20:26:03.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Randall (jobratt) occupied Donley with 1 troop.",
+    "timestamp": "2016-05-18T20:26:09.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Leon (mmacfreier) was fortified from Limestone (jobratt) with 2 troops.",
+    "timestamp": "2016-05-18T20:26:45.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-18T20:26:46.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-18T20:27:52.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 11 territories.",
+    "timestamp": "2016-05-18T20:27:52.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding Dalhart.",
+    "timestamp": "2016-05-18T20:27:52.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding North Panhandle.",
+    "timestamp": "2016-05-18T20:27:52.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Roberts (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-05-18T20:28:13.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Roberts (tanleach1001) attacked Donley (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T20:28:32.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Roberts (tanleach1001) occupied Donley with 7 troops.",
+    "timestamp": "2016-05-18T20:28:42.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Donley (tanleach1001) attacked Randall (jobratt) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-18T20:29:03.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Donley (tanleach1001) occupied Randall with 5 troops.",
+    "timestamp": "2016-05-18T20:29:14.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Amarillo (tanleach1001) was fortified from Randall (tanleach1001) with 4 troops.",
+    "timestamp": "2016-05-18T20:29:33.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-18T20:29:34.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-18T21:15:47.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 3 troops for 9 territories.",
+    "timestamp": "2016-05-18T21:15:47.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Goliad (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-05-18T21:15:59.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Goliad (gcochard) attacked Kleberg (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T21:16:05.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Goliad (gcochard) occupied Kleberg with 11 troops.",
+    "timestamp": "2016-05-18T21:16:07.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Kleberg (gcochard) attacked La Salle (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-18T21:16:14.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Kleberg (gcochard) occupied La Salle with 1 troop.",
+    "timestamp": "2016-05-18T21:16:18.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Kleberg (gcochard) attacked Zavala (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T21:16:22.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Kleberg (gcochard) occupied Zavala with 4 troops.",
+    "timestamp": "2016-05-18T21:16:33.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Zavala (gcochard) attacked Maverick (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T21:16:36.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Zavala (gcochard) occupied Maverick with 3 troops.",
+    "timestamp": "2016-05-18T21:16:38.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Goliad (gcochard) was fortified from Kleberg (gcochard) with 4 troops.",
+    "timestamp": "2016-05-18T21:16:44.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-18T21:16:44.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-18T21:32:00.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 9 troops for 29 territories.",
+    "timestamp": "2016-05-18T21:32:00.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Sam Houston.",
+    "timestamp": "2016-05-18T21:32:00.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Texan.",
+    "timestamp": "2016-05-18T21:32:00.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Pecos Valley.",
+    "timestamp": "2016-05-18T21:32:00.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Big Bend.",
+    "timestamp": "2016-05-18T21:32:00.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Sandhills.",
+    "timestamp": "2016-05-18T21:32:00.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Padre.",
+    "timestamp": "2016-05-18T21:32:00.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Leon (mmacfreier) was reinforced by mmacfreier with 22 troops.",
+    "timestamp": "2016-05-18T21:32:41.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Leon (mmacfreier) attacked Limestone (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T21:32:46.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Leon (mmacfreier) occupied Limestone with 28 troops.",
+    "timestamp": "2016-05-18T21:32:50.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Falls (mmacfreier) attacked McLennan (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T21:32:55.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Falls (mmacfreier) occupied McLennan with 1 troop.",
+    "timestamp": "2016-05-18T21:32:59.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Limestone (mmacfreier) attacked Navarro (gcochard) conquering it, killing 3, losing 5.",
+    "timestamp": "2016-05-18T21:33:11.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Limestone (mmacfreier) occupied Navarro with 22 troops.",
+    "timestamp": "2016-05-18T21:33:13.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Navarro (mmacfreier) attacked Mills (johnsgill3) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-18T21:33:25.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Navarro (mmacfreier) occupied Mills with 14 troops.",
+    "timestamp": "2016-05-18T21:33:37.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Mills (mmacfreier) attacked Comanche (gcochard) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-05-18T21:33:46.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Mills (mmacfreier) occupied Comanche with 10 troops.",
+    "timestamp": "2016-05-18T21:33:48.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Comanche (mmacfreier) attacked Brown (jobratt) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-18T21:33:58.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Comanche (mmacfreier) occupied Brown with 7 troops.",
+    "timestamp": "2016-05-18T21:34:00.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Fannin (jobratt) was fortified from Cooke (mmacfreier) with 2 troops.",
+    "timestamp": "2016-05-18T21:34:30.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-18T21:34:30.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-18T21:44:55.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-05-18T21:44:55.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Johnson (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-05-18T21:46:00.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Johnson (kwren) attacked Callahan (mmacfreier) killing 2, losing 3.",
+    "timestamp": "2016-05-18T21:46:27.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Cottle (kwren) attacked Stephens (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T21:46:37.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Cottle (kwren) occupied Stephens with 2 troops.",
+    "timestamp": "2016-05-18T21:46:39.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Stephens (kwren) attacked Callahan (mmacfreier) killing 0, losing 1.",
+    "timestamp": "2016-05-18T21:46:43.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-18T21:46:56.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-18T21:48:25.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 11 territories.",
+    "timestamp": "2016-05-18T21:48:25.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 1 troop for holding South Texas.",
+    "timestamp": "2016-05-18T21:48:25.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Dimmit (johnsgill3) was reinforced by johnsgill3 with 1 troop.",
+    "timestamp": "2016-05-18T21:48:42.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Goliad (gcochard) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-05-18T21:48:47.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Dimmit (johnsgill3) attacked La Salle (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T21:48:49.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Dimmit (johnsgill3) occupied La Salle with 1 troop.",
+    "timestamp": "2016-05-18T21:48:52.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Maverick (gcochard) was fortified from Dimmit (johnsgill3) with 2 troops.",
+    "timestamp": "2016-05-18T21:49:01.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-18T21:49:01.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Round 9 started.",
+    "timestamp": "2016-05-18T21:49:01.000Z",
+    "player": "unknown",
+    "round": 9
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-18T21:57:00.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received 10 troops for 30 territories.",
+    "timestamp": "2016-05-18T21:57:00.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received 1 troop for holding Texarkana.",
+    "timestamp": "2016-05-18T21:57:00.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received 2 troops for holding Taylor.",
+    "timestamp": "2016-05-18T21:57:00.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received 2 troops for holding Piney Woods.",
+    "timestamp": "2016-05-18T21:57:00.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received 1 troop for holding Beaumont.",
+    "timestamp": "2016-05-18T21:57:00.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received 2 troops for holding Longhorn.",
+    "timestamp": "2016-05-18T21:57:00.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received 1 troop for holding Shiner.",
+    "timestamp": "2016-05-18T21:57:00.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Houston (mmacfreier) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-05-18T21:57:17.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Callahan (mmacfreier) was reinforced by jobratt with 5 troops.",
+    "timestamp": "2016-05-18T21:57:48.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Floyd (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-05-18T21:58:27.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Real (jobratt) was reinforced by jobratt with 7 troops.",
+    "timestamp": "2016-05-18T21:58:46.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Real (jobratt) attacked Medina (gcochard) conquering it, killing 4, losing 3.",
+    "timestamp": "2016-05-18T22:00:29.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Real (jobratt) occupied Medina with 4 troops.",
+    "timestamp": "2016-05-18T22:00:52.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Medina (jobratt) attacked Zavala (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T22:00:57.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Medina (jobratt) occupied Zavala with 3 troops.",
+    "timestamp": "2016-05-18T22:01:02.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Zavala (jobratt) attacked La Salle (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T22:01:09.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Zavala (jobratt) occupied La Salle with 2 troops.",
+    "timestamp": "2016-05-18T22:01:13.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "La Salle (jobratt) attacked Kleberg (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-05-18T22:01:19.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Fannin (jobratt) attacked Cooke (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T22:05:17.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Fannin (jobratt) occupied Cooke with 12 troops.",
+    "timestamp": "2016-05-18T22:05:52.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Hunt (jobratt) attacked Dallas (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T22:05:56.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Hunt (jobratt) occupied Dallas with 12 troops.",
+    "timestamp": "2016-05-18T22:05:57.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Dallas (jobratt) attacked Ft. Worth (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T22:06:00.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Dallas (jobratt) occupied Ft. Worth with 11 troops.",
+    "timestamp": "2016-05-18T22:06:01.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Ft. Worth (jobratt) attacked Johnson (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-18T22:06:14.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Ft. Worth (jobratt) occupied Johnson with 9 troops.",
+    "timestamp": "2016-05-18T22:06:16.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Cooke (jobratt) attacked Clay (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T22:06:18.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Cooke (jobratt) occupied Clay with 11 troops.",
+    "timestamp": "2016-05-18T22:06:20.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Denton (jobratt) was fortified from Clay (jobratt) with 9 troops.",
+    "timestamp": "2016-05-18T22:07:15.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-18T22:07:15.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-18T22:43:47.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 4 troops for 13 territories.",
+    "timestamp": "2016-05-18T22:43:47.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding Dalhart.",
+    "timestamp": "2016-05-18T22:43:47.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 1 troop for holding North Panhandle.",
+    "timestamp": "2016-05-18T22:43:47.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Panhandle.",
+    "timestamp": "2016-05-18T22:43:47.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Amarillo (tanleach1001) was reinforced by tanleach1001 with 9 troops.",
+    "timestamp": "2016-05-18T22:45:58.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Amarillo (tanleach1001) attacked Houston (mmacfreier) conquering it, killing 23, losing 22.",
+    "timestamp": "2016-05-18T22:46:29.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Amarillo (tanleach1001) occupied Houston with 3 troops.",
+    "timestamp": "2016-05-18T22:46:56.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Houston (tanleach1001) attacked Hardin (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T22:46:59.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Houston (tanleach1001) occupied Hardin with 2 troops.",
+    "timestamp": "2016-05-18T22:47:01.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Hardin (tanleach1001) attacked Polk (jobratt) killing 0, losing 1.",
+    "timestamp": "2016-05-18T22:47:03.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Cottle (kwren) was fortified from Knox (tanleach1001) with 4 troops.",
+    "timestamp": "2016-05-18T22:47:36.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-18T22:47:36.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-18T22:48:09.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-05-18T22:48:09.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 1 troop for holding Corpus Christi.",
+    "timestamp": "2016-05-18T22:48:09.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Maverick (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-05-18T22:48:17.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Maverick (gcochard) attacked Medina (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T22:48:21.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Maverick (gcochard) occupied Medina with 4 troops.",
+    "timestamp": "2016-05-18T22:48:30.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Maverick (gcochard) attacked Zavala (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T22:48:34.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Maverick (gcochard) occupied Zavala with 4 troops.",
+    "timestamp": "2016-05-18T22:48:36.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Zavala (gcochard) attacked La Salle (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T22:48:39.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Zavala (gcochard) occupied La Salle with 1 troop.",
+    "timestamp": "2016-05-18T22:48:43.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Maverick (gcochard) was fortified from Zavala (gcochard) with 2 troops.",
+    "timestamp": "2016-05-18T22:48:50.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-18T22:48:50.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-18T23:21:19.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 10 troops for 32 territories.",
+    "timestamp": "2016-05-18T23:21:19.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 5 troops for holding Bear.",
+    "timestamp": "2016-05-18T23:21:19.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Sam Houston.",
+    "timestamp": "2016-05-18T23:21:19.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Pecos Valley.",
+    "timestamp": "2016-05-18T23:21:19.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 4 troops for holding Big Bend.",
+    "timestamp": "2016-05-18T23:21:19.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Sandhills.",
+    "timestamp": "2016-05-18T23:21:19.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Padre.",
+    "timestamp": "2016-05-18T23:21:19.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "El Paso (mmacfreier) was reinforced by mmacfreier with 26 troops.",
+    "timestamp": "2016-05-18T23:21:38.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "El Paso (mmacfreier) attacked Houston (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T23:21:42.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "El Paso (mmacfreier) occupied Houston with 11 troops.",
+    "timestamp": "2016-05-18T23:21:49.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Houston (mmacfreier) attacked Hardin (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T23:21:52.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Houston (mmacfreier) occupied Hardin with 1 troop.",
+    "timestamp": "2016-05-18T23:21:57.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "El Paso (mmacfreier) attacked Amarillo (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T23:22:05.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "El Paso (mmacfreier) occupied Amarillo with 24 troops.",
+    "timestamp": "2016-05-18T23:22:07.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Amarillo (mmacfreier) attacked Dallam (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T23:22:10.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Amarillo (mmacfreier) occupied Dallam with 23 troops.",
+    "timestamp": "2016-05-18T23:22:12.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Dallam (mmacfreier) attacked Hansford (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T23:22:19.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Dallam (mmacfreier) occupied Hansford with 22 troops.",
+    "timestamp": "2016-05-18T23:22:21.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Hansford (mmacfreier) attacked Roberts (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T23:22:30.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Hansford (mmacfreier) occupied Roberts with 21 troops.",
+    "timestamp": "2016-05-18T23:22:32.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Roberts (mmacfreier) attacked Donley (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-18T23:22:52.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Roberts (mmacfreier) occupied Donley with 19 troops.",
+    "timestamp": "2016-05-18T23:22:53.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Donley (mmacfreier) attacked Wheeler (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T23:22:57.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Donley (mmacfreier) occupied Wheeler with 18 troops.",
+    "timestamp": "2016-05-18T23:22:59.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Wheeler (mmacfreier) attacked Knox (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T23:23:02.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Wheeler (mmacfreier) occupied Knox with 5 troops.",
+    "timestamp": "2016-05-18T23:23:10.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Knox (mmacfreier) attacked Wichita (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-18T23:23:15.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Knox (mmacfreier) occupied Wichita with 1 troop.",
+    "timestamp": "2016-05-18T23:23:17.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Wheeler (mmacfreier) attacked Randall (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-18T23:23:21.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Wheeler (mmacfreier) occupied Randall with 11 troops.",
+    "timestamp": "2016-05-18T23:23:23.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Randall (mmacfreier) attacked Deaf Smith (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-18T23:23:27.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Randall (mmacfreier) occupied Deaf Smith with 9 troops.",
+    "timestamp": "2016-05-18T23:23:28.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Deaf Smith (mmacfreier) attacked Lamb (tanleach1001) conquering it, killing 4, losing 3.",
+    "timestamp": "2016-05-18T23:23:35.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Deaf Smith (mmacfreier) occupied Lamb with 5 troops.",
+    "timestamp": "2016-05-18T23:23:37.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Lamb (mmacfreier) attacked Yoakum (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T23:23:41.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Lamb (mmacfreier) occupied Yoakum with 4 troops.",
+    "timestamp": "2016-05-18T23:23:43.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Yoakum (mmacfreier) attacked Gaines (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-18T23:23:47.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 was defeated by mmacfreier.",
+    "timestamp": "2016-05-18T23:23:47.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Yoakum (mmacfreier) occupied Gaines with 2 troops.",
+    "timestamp": "2016-05-18T23:23:49.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Gaines (mmacfreier) attacked Howard (kwren) killing 0, losing 1.",
+    "timestamp": "2016-05-18T23:23:55.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Young (jobratt) was fortified from Knox (mmacfreier) with 2 troops.",
+    "timestamp": "2016-05-18T23:24:39.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-18T23:24:39.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-18T23:25:38.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-05-18T23:25:38.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Cottle (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-05-18T23:25:44.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Cottle (kwren) attacked Scurry (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T23:25:49.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Cottle (kwren) occupied Scurry with 7 troops.",
+    "timestamp": "2016-05-18T23:25:50.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-18T23:25:53.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-18T23:26:10.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 10 territories.",
+    "timestamp": "2016-05-18T23:26:10.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received 1 troop for holding South Texas.",
+    "timestamp": "2016-05-18T23:26:10.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Dimmit (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-05-18T23:26:22.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Val Verde (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-05-18T23:26:30.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Dimmit (johnsgill3) attacked La Salle (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-05-18T23:26:34.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Val Verde (johnsgill3) attacked Terrell (mmacfreier) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-18T23:26:39.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Val Verde (johnsgill3) occupied Terrell with 6 troops.",
+    "timestamp": "2016-05-18T23:26:41.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Terrell (johnsgill3) attacked Pecos (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-18T23:26:44.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Terrell (johnsgill3) occupied Pecos with 5 troops.",
+    "timestamp": "2016-05-18T23:26:45.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Pecos (johnsgill3) attacked Reeves (mmacfreier) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-05-18T23:26:51.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Pecos (johnsgill3) occupied Reeves with 2 troops.",
+    "timestamp": "2016-05-18T23:26:52.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Reeves (johnsgill3) attacked Culberson (mmacfreier) killing 0, losing 1.",
+    "timestamp": "2016-05-18T23:27:15.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "McAllen (johnsgill3) attacked Amarillo (mmacfreier) killing 0, losing 1.",
+    "timestamp": "2016-05-18T23:27:38.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-18T23:27:46.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Round 10 started.",
+    "timestamp": "2016-05-18T23:27:46.000Z",
+    "player": "unknown",
+    "round": 10
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-19T00:15:25.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received 11 troops for 33 territories.",
+    "timestamp": "2016-05-19T00:15:25.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received 1 troop for holding North Texas.",
+    "timestamp": "2016-05-19T00:15:25.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received 4 troops for holding Cowboy.",
+    "timestamp": "2016-05-19T00:15:25.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received 1 troop for holding Texarkana.",
+    "timestamp": "2016-05-19T00:15:25.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received 2 troops for holding Taylor.",
+    "timestamp": "2016-05-19T00:15:25.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received 2 troops for holding Piney Woods.",
+    "timestamp": "2016-05-19T00:15:25.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received 2 troops for holding Longhorn.",
+    "timestamp": "2016-05-19T00:15:25.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received 1 troop for holding Shiner.",
+    "timestamp": "2016-05-19T00:15:25.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Real (jobratt) was reinforced by jobratt with 10 troops.",
+    "timestamp": "2016-05-19T00:16:19.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Denton (jobratt) was reinforced by jobratt with 14 troops.",
+    "timestamp": "2016-05-19T00:16:30.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Denton (jobratt) attacked McAllen (johnsgill3) conquering it, killing 6, losing 1.",
+    "timestamp": "2016-05-19T00:16:41.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Denton (jobratt) occupied McAllen with 22 troops.",
+    "timestamp": "2016-05-19T00:16:43.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "McAllen (jobratt) attacked Cameron (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T00:16:47.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "McAllen (jobratt) occupied Cameron with 1 troop.",
+    "timestamp": "2016-05-19T00:16:49.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "McAllen (jobratt) attacked Kenedy (johnsgill3) conquering it, killing 1, losing 4.",
+    "timestamp": "2016-05-19T00:16:56.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "McAllen (jobratt) occupied Kenedy with 1 troop.",
+    "timestamp": "2016-05-19T00:16:58.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "McAllen (jobratt) attacked Starr (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T00:17:01.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "McAllen (jobratt) occupied Starr with 14 troops.",
+    "timestamp": "2016-05-19T00:17:03.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Starr (jobratt) attacked Zapata (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T00:17:07.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Starr (jobratt) occupied Zapata with 13 troops.",
+    "timestamp": "2016-05-19T00:17:09.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Zapata (jobratt) attacked Webb (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T00:17:11.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Zapata (jobratt) occupied Webb with 12 troops.",
+    "timestamp": "2016-05-19T00:17:15.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Webb (jobratt) attacked Duval (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T00:17:17.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Webb (jobratt) occupied Duval with 11 troops.",
+    "timestamp": "2016-05-19T00:17:19.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Duval (jobratt) attacked La Salle (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T00:17:22.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Duval (jobratt) occupied La Salle with 10 troops.",
+    "timestamp": "2016-05-19T00:17:23.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "La Salle (jobratt) attacked Dimmit (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T00:17:26.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "La Salle (jobratt) occupied Dimmit with 9 troops.",
+    "timestamp": "2016-05-19T00:17:29.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Real (jobratt) attacked Val Verde (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T00:17:34.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Real (jobratt) occupied Val Verde with 9 troops.",
+    "timestamp": "2016-05-19T00:17:35.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Val Verde (jobratt) attacked Crockett (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T00:17:40.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Val Verde (jobratt) occupied Crockett with 1 troop.",
+    "timestamp": "2016-05-19T00:17:42.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Val Verde (jobratt) attacked Terrell (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T00:17:45.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Val Verde (jobratt) occupied Terrell with 7 troops.",
+    "timestamp": "2016-05-19T00:17:46.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Terrell (jobratt) attacked Pecos (johnsgill3) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-05-19T00:17:51.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Terrell (jobratt) occupied Pecos with 4 troops.",
+    "timestamp": "2016-05-19T00:17:52.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Pecos (jobratt) attacked Reeves (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T00:17:55.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 was defeated by jobratt.",
+    "timestamp": "2016-05-19T00:17:55.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Pecos (jobratt) occupied Reeves with 3 troops.",
+    "timestamp": "2016-05-19T00:17:59.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Dimmit (jobratt) attacked Zavala (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T00:18:14.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Dimmit (jobratt) occupied Zavala with 7 troops.",
+    "timestamp": "2016-05-19T00:18:16.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Gonzales (jobratt) attacked Goliad (gcochard) killing 2, losing 8.",
+    "timestamp": "2016-05-19T00:18:40.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Zavala (jobratt) attacked Kleberg (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T00:18:45.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Zavala (jobratt) occupied Kleberg with 6 troops.",
+    "timestamp": "2016-05-19T00:18:47.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Kleberg (jobratt) attacked Goliad (gcochard) killing 1, losing 5.",
+    "timestamp": "2016-05-19T00:18:53.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Gonzales (jobratt) attacked Goliad (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-05-19T00:18:56.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Denton (jobratt) was fortified from Johnson (jobratt) with 8 troops.",
+    "timestamp": "2016-05-19T00:20:02.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-19T00:20:02.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-19T00:20:08.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-05-19T00:20:08.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Goliad (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-05-19T00:20:15.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Medina (gcochard) attacked Zavala (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T00:20:46.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Medina (gcochard) occupied Zavala with 3 troops.",
+    "timestamp": "2016-05-19T00:20:49.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Zavala (gcochard) attacked Kleberg (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T00:25:45.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Bexar (gcochard) was fortified from Goliad (gcochard) with 7 troops.",
+    "timestamp": "2016-05-19T00:26:10.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-19T00:26:10.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-19T16:52:53.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 14 troops for 44 territories.",
+    "timestamp": "2016-05-19T16:52:53.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Dalhart.",
+    "timestamp": "2016-05-19T16:52:53.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding North Panhandle.",
+    "timestamp": "2016-05-19T16:52:53.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Panhandle.",
+    "timestamp": "2016-05-19T16:52:53.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 5 troops for holding Bear.",
+    "timestamp": "2016-05-19T16:52:53.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Sam Houston.",
+    "timestamp": "2016-05-19T16:52:53.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Texan.",
+    "timestamp": "2016-05-19T16:52:53.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Pecos Valley.",
+    "timestamp": "2016-05-19T16:52:53.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 1 troop for holding Padre.",
+    "timestamp": "2016-05-19T16:52:53.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Knox (mmacfreier) was reinforced by mmacfreier with 31 troops.",
+    "timestamp": "2016-05-19T16:53:14.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Knox (mmacfreier) attacked Cottle (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T16:53:17.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Knox (mmacfreier) occupied Cottle with 31 troops.",
+    "timestamp": "2016-05-19T16:53:19.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Cottle (mmacfreier) attacked Crosby (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T16:53:21.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Cottle (mmacfreier) occupied Crosby with 1 troop.",
+    "timestamp": "2016-05-19T16:53:25.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Cottle (mmacfreier) attacked Stephens (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T16:53:31.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Cottle (mmacfreier) occupied Stephens with 29 troops.",
+    "timestamp": "2016-05-19T16:53:32.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Stephens (mmacfreier) attacked Scurry (kwren) conquering it, killing 7, losing 5.",
+    "timestamp": "2016-05-19T16:53:51.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Stephens (mmacfreier) occupied Scurry with 23 troops.",
+    "timestamp": "2016-05-19T16:53:53.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Brown (mmacfreier) attacked Coke (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T16:54:03.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Brown (mmacfreier) occupied Coke with 1 troop.",
+    "timestamp": "2016-05-19T16:54:06.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Scurry (mmacfreier) attacked Borden (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T16:54:11.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Scurry (mmacfreier) occupied Borden with 21 troops.",
+    "timestamp": "2016-05-19T16:54:12.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Borden (mmacfreier) attacked Howard (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T16:54:15.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Borden (mmacfreier) occupied Howard with 20 troops.",
+    "timestamp": "2016-05-19T16:54:16.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Howard (mmacfreier) attacked Irion (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T16:54:29.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "kwren was defeated by mmacfreier.",
+    "timestamp": "2016-05-19T16:54:29.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Howard (mmacfreier) occupied Irion with 19 troops.",
+    "timestamp": "2016-05-19T16:54:31.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Irion (mmacfreier) attacked Reagan (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T16:54:34.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Irion (mmacfreier) occupied Reagan with 17 troops.",
+    "timestamp": "2016-05-19T16:54:37.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Sutton (mmacfreier) attacked Edwards (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-05-19T16:54:46.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Crockett (jobratt) was fortified from Reagan (mmacfreier) with 16 troops.",
+    "timestamp": "2016-05-19T16:55:00.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-19T16:55:01.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Round 11 started.",
+    "timestamp": "2016-05-19T16:55:01.000Z",
+    "player": "unknown",
+    "round": 11
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-19T17:10:13.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 15 troops for 47 territories.",
+    "timestamp": "2016-05-19T17:10:13.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 1 troop for holding North Texas.",
+    "timestamp": "2016-05-19T17:10:13.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 4 troops for holding Cowboy.",
+    "timestamp": "2016-05-19T17:10:13.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 1 troop for holding Texarkana.",
+    "timestamp": "2016-05-19T17:10:13.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 2 troops for holding Taylor.",
+    "timestamp": "2016-05-19T17:10:13.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 2 troops for holding Piney Woods.",
+    "timestamp": "2016-05-19T17:10:13.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 2 troops for holding Longhorn.",
+    "timestamp": "2016-05-19T17:10:13.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 1 troop for holding Shiner.",
+    "timestamp": "2016-05-19T17:10:13.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 3 troops for holding The Valley.",
+    "timestamp": "2016-05-19T17:10:13.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 1 troop for holding South Texas.",
+    "timestamp": "2016-05-19T17:10:13.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Real (jobratt) was reinforced by jobratt with 32 troops.",
+    "timestamp": "2016-05-19T17:10:37.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Real (jobratt) attacked Edwards (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T17:10:49.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Real (jobratt) occupied Edwards with 1 troop.",
+    "timestamp": "2016-05-19T17:10:54.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Real (jobratt) attacked Maverick (gcochard) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-19T17:10:59.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Real (jobratt) occupied Maverick with 29 troops.",
+    "timestamp": "2016-05-19T17:11:00.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Maverick (jobratt) attacked Medina (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T17:11:04.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Maverick (jobratt) occupied Medina with 28 troops.",
+    "timestamp": "2016-05-19T17:11:07.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Medina (jobratt) attacked Zavala (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T17:11:13.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Medina (jobratt) occupied Zavala with 26 troops.",
+    "timestamp": "2016-05-19T17:11:14.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Zavala (jobratt) attacked Kleberg (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T17:11:25.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Zavala (jobratt) occupied Kleberg with 25 troops.",
+    "timestamp": "2016-05-19T17:11:30.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Kleberg (jobratt) attacked Nueces (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T17:11:37.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Kleberg (jobratt) occupied Nueces with 1 troop.",
+    "timestamp": "2016-05-19T17:11:42.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Kleberg (jobratt) attacked Goliad (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T17:11:46.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Kleberg (jobratt) occupied Goliad with 22 troops.",
+    "timestamp": "2016-05-19T17:11:47.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Goliad (jobratt) attacked Bexar (gcochard) conquering it, killing 8, losing 9.",
+    "timestamp": "2016-05-19T17:12:37.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "gcochard was defeated by jobratt.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "unknown",
+    "round": 11
+  },
+  {
+    "message": "jobratt won the game.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 35 rating.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 20 tokens.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 lost 16 rating.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 20 tokens.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "gcochard lost 15 rating.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 20 tokens.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier won the game.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 35 rating.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 20 tokens.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "kwren lost 23 rating.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 20 tokens.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 lost 17 rating.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 received 20 tokens.",
+    "timestamp": "2016-05-19T17:12:38.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  }
+]
