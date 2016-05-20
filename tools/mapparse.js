@@ -93,8 +93,8 @@ request.get({
             url: 'https://dominating12.com/game/'+d
         }, function(err, res, body) {
             if(err || res.statusCode !== 200){
-                console.dir(err || new Error('non-200 status code: '+res.statusCode))
-                process.exit(1)
+                console.dir(err || 'non-200 status code: '+res.statusCode+'GameId: '+d);
+                //process.exit(1)
             }
             getGameMap(d, body, writeToFile);
         });

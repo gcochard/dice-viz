@@ -1,0 +1,4322 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-05-19T19:07:24.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "jobratt joined the game.",
+    "timestamp": "2016-05-19T19:07:24.000Z",
+    "player": "jobratt",
+    "round": 0
+  },
+  {
+    "message": "kwren joined the game.",
+    "timestamp": "2016-05-19T19:08:15.000Z",
+    "player": "kwren",
+    "round": 0
+  },
+  {
+    "message": "johnsgill3 joined the game.",
+    "timestamp": "2016-05-19T19:23:42.000Z",
+    "player": "johnsgill3",
+    "round": 0
+  },
+  {
+    "message": "mmacfreier joined the game.",
+    "timestamp": "2016-05-19T19:25:19.000Z",
+    "player": "mmacfreier",
+    "round": 0
+  },
+  {
+    "message": "tanleach1001 joined the game.",
+    "timestamp": "2016-05-19T19:47:39.000Z",
+    "player": "tanleach1001",
+    "round": 0
+  },
+  {
+    "message": "gcochard joined the game.",
+    "timestamp": "2016-05-19T20:40:31.000Z",
+    "player": "gcochard",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-05-19T20:40:31.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-19T20:56:21.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received 3 troops for 7 territories.",
+    "timestamp": "2016-05-19T20:56:21.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Veracruz (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-19T20:56:48.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Veracruz (mmacfreier) attacked Puebla (johnsgill3) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-19T20:56:59.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Veracruz (mmacfreier) occupied Puebla with 1 troop.",
+    "timestamp": "2016-05-19T20:57:04.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Veracruz (mmacfreier) was fortified from Nuevo León (mmacfreier) with 2 troops.",
+    "timestamp": "2016-05-19T20:57:14.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-19T20:57:14.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-19T20:57:14.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-19T20:59:00.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-05-19T20:59:00.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Santiago (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-05-19T20:59:16.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Coahuila (kwren) attacked Nuevo León (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T20:59:22.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Santiago (kwren) was fortified from Jamaica (kwren) with 2 troops.",
+    "timestamp": "2016-05-19T20:59:35.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-05-19T20:59:35.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-19T20:59:35.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-19T21:00:04.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 6 territories.",
+    "timestamp": "2016-05-19T21:00:04.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Leeward Islands (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-05-19T21:00:17.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Leeward Islands (johnsgill3) attacked Danish Antilles (kwren) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-05-19T21:00:35.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Leeward Islands (johnsgill3) occupied Danish Antilles with 3 troops.",
+    "timestamp": "2016-05-19T21:00:45.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-05-19T21:00:54.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-19T21:00:54.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-19T21:01:27.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-05-19T21:01:27.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "La Habana (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-05-19T21:01:31.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "La Habana (gcochard) attacked E. Florida (johnsgill3) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-19T21:01:39.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "La Habana (gcochard) occupied E. Florida with 3 troops.",
+    "timestamp": "2016-05-19T21:01:40.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Oaxaca (gcochard) attacked Chiapas (jobratt) killing 2, losing 2.",
+    "timestamp": "2016-05-19T21:18:47.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-05-19T21:19:18.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-19T21:19:18.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-19T21:25:28.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received 3 troops for 7 territories.",
+    "timestamp": "2016-05-19T21:25:28.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Costa Rica (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-05-19T21:26:11.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Costa Rica (jobratt) attacked El Salvador (mmacfreier) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-05-19T21:26:59.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Costa Rica (jobratt) occupied El Salvador with 1 troop.",
+    "timestamp": "2016-05-19T21:27:23.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Costa Rica (jobratt) was fortified from Nicaragua (jobratt) with 2 troops.",
+    "timestamp": "2016-05-19T21:28:32.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-19T21:28:33.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-19T21:28:33.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-19T21:29:49.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 7 territories.",
+    "timestamp": "2016-05-19T21:29:50.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Honduras (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-05-19T21:30:00.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Honduras (tanleach1001) attacked Nicaragua (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T21:30:19.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Honduras (tanleach1001) occupied Nicaragua with 4 troops.",
+    "timestamp": "2016-05-19T21:30:31.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Nicaragua (tanleach1001) attacked Jamaica (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T21:30:38.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Nicaragua (tanleach1001) occupied Jamaica with 3 troops.",
+    "timestamp": "2016-05-19T21:30:43.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Guatemala (tanleach1001) attacked Chiapas (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T21:31:29.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Guatemala (tanleach1001) occupied Chiapas with 2 troops.",
+    "timestamp": "2016-05-19T21:31:37.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Chiapas (tanleach1001) attacked Oaxaca (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-05-19T21:31:45.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Haiti (tanleach1001) was fortified from The Bahamas (tanleach1001) with 2 troops.",
+    "timestamp": "2016-05-19T21:32:10.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-19T21:32:11.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-19T21:32:12.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-05-19T21:32:12.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-19T21:35:20.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 3 troops for 6 territories.",
+    "timestamp": "2016-05-19T21:35:20.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Nuevo Santander (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-19T21:35:29.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Nuevo Santander (mmacfreier) attacked Nuevo León (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T21:35:41.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Nuevo Santander (mmacfreier) occupied Nuevo León with 4 troops.",
+    "timestamp": "2016-05-19T21:36:01.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Nuevo León (mmacfreier) was fortified from Veracruz (mmacfreier) with 4 troops.",
+    "timestamp": "2016-05-19T21:36:33.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-19T21:36:33.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-19T21:36:33.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-19T21:36:54.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 3 troops for 5 territories.",
+    "timestamp": "2016-05-19T21:36:54.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Santiago (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-05-19T21:37:07.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Santiago (kwren) attacked The Bahamas (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T21:37:11.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Santiago (kwren) occupied The Bahamas with 10 troops.",
+    "timestamp": "2016-05-19T21:37:12.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "The Bahamas (kwren) attacked E. Florida (gcochard) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-19T21:37:17.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "The Bahamas (kwren) occupied E. Florida with 7 troops.",
+    "timestamp": "2016-05-19T21:37:19.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "E. Florida (kwren) was fortified from Georgia (kwren) with 2 troops.",
+    "timestamp": "2016-05-19T21:37:28.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-05-19T21:37:28.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-19T21:37:28.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-19T22:42:42.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 6 territories.",
+    "timestamp": "2016-05-19T22:42:42.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Danish Antilles (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-05-19T22:42:45.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Danish Antilles (johnsgill3) attacked Puerto Rico (gcochard) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-05-19T22:42:52.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Danish Antilles (johnsgill3) occupied Puerto Rico with 4 troops.",
+    "timestamp": "2016-05-19T22:42:59.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Camagüey (johnsgill3) attacked Santiago (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T22:43:05.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Leeward Islands (johnsgill3) was fortified from Danish Antilles (johnsgill3) with 1 troop.",
+    "timestamp": "2016-05-19T22:43:19.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-05-19T22:43:19.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-19T22:43:19.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-19T22:43:46.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 3 troops for 6 territories.",
+    "timestamp": "2016-05-19T22:43:46.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Cauca (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-05-19T22:43:50.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Cauca (gcochard) attacked Boyacá (kwren) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-05-19T22:43:55.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Cauca (gcochard) occupied Boyacá with 5 troops.",
+    "timestamp": "2016-05-19T22:43:57.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Louisiana (gcochard) was fortified from Republic of Texas (gcochard) with 2 troops.",
+    "timestamp": "2016-05-19T22:44:05.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-05-19T22:44:06.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-19T22:44:06.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-19T22:44:36.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received 3 troops for 6 territories.",
+    "timestamp": "2016-05-19T22:44:36.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Yucatán (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-05-19T22:44:41.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Yucatán (jobratt) attacked Guatemala (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-05-19T22:44:46.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Costa Rica (jobratt) attacked Nicaragua (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T22:44:50.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Costa Rica (jobratt) occupied Nicaragua with 6 troops.",
+    "timestamp": "2016-05-19T22:44:53.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Yucatán (jobratt) attacked Guatemala (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T22:44:58.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Yucatán (jobratt) occupied Guatemala with 3 troops.",
+    "timestamp": "2016-05-19T22:44:59.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Nicaragua (jobratt) attacked Honduras (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T22:45:05.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Nicaragua (jobratt) occupied Honduras with 1 troop.",
+    "timestamp": "2016-05-19T22:45:14.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Costa Rica (jobratt) was fortified from Nicaragua (jobratt) with 4 troops.",
+    "timestamp": "2016-05-19T22:46:08.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-19T22:46:08.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-19T22:46:08.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-19T22:46:49.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 6 territories.",
+    "timestamp": "2016-05-19T22:46:49.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Haiti (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-05-19T22:46:57.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Haiti (tanleach1001) attacked Santiago (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T22:47:00.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Haiti (tanleach1001) occupied Santiago with 7 troops.",
+    "timestamp": "2016-05-19T22:47:07.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Santiago (tanleach1001) attacked Camagüey (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T22:47:11.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Santiago (tanleach1001) occupied Camagüey with 4 troops.",
+    "timestamp": "2016-05-19T22:47:32.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Camagüey (tanleach1001) attacked La Habana (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T22:47:35.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Camagüey (tanleach1001) occupied La Habana with 3 troops.",
+    "timestamp": "2016-05-19T22:47:36.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Santiago (tanleach1001) attacked The Bahamas (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T22:47:42.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Haiti (tanleach1001) was fortified from República Dominicana (tanleach1001) with 2 troops.",
+    "timestamp": "2016-05-19T22:48:00.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-19T22:48:01.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-19T22:48:01.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-05-19T22:48:01.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-19T22:55:35.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 3 troops for 7 territories.",
+    "timestamp": "2016-05-19T22:55:35.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Nuevo León (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-19T22:55:40.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "W. Florida (mmacfreier) attacked E. Florida (kwren) killing 0, losing 2.",
+    "timestamp": "2016-05-19T22:55:45.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Nuevo León (mmacfreier) attacked Coahuila (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T22:55:49.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Nuevo León (mmacfreier) occupied Coahuila with 10 troops.",
+    "timestamp": "2016-05-19T22:55:50.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Coahuila (mmacfreier) attacked San Luis Potosí (tanleach1001) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-19T22:55:56.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Coahuila (mmacfreier) occupied San Luis Potosí with 7 troops.",
+    "timestamp": "2016-05-19T22:55:58.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "San Luis Potosí (mmacfreier) attacked México (johnsgill3) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-19T22:56:08.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "San Luis Potosí (mmacfreier) occupied México with 4 troops.",
+    "timestamp": "2016-05-19T22:56:10.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Olmeca (mmacfreier) was fortified from México (mmacfreier) with 3 troops.",
+    "timestamp": "2016-05-19T22:56:17.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-19T22:56:17.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-19T22:56:17.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-19T22:56:51.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 3 troops for 3 territories.",
+    "timestamp": "2016-05-19T22:56:51.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "E. Florida (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-05-19T22:56:54.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "E. Florida (kwren) attacked W. Florida (mmacfreier) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-05-19T22:56:59.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "E. Florida (kwren) occupied W. Florida with 9 troops.",
+    "timestamp": "2016-05-19T22:57:00.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "W. Florida (kwren) attacked Louisiana (gcochard) conquering it, killing 5, losing 5.",
+    "timestamp": "2016-05-19T22:57:11.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "W. Florida (kwren) occupied Louisiana with 3 troops.",
+    "timestamp": "2016-05-19T22:57:13.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Louisiana (kwren) attacked Republic of Texas (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T22:57:17.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Louisiana (kwren) occupied Republic of Texas with 2 troops.",
+    "timestamp": "2016-05-19T22:57:21.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Republic of Texas (kwren) attacked Nuevo Santander (mmacfreier) killing 0, losing 1.",
+    "timestamp": "2016-05-19T22:57:24.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-05-19T22:57:45.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-19T22:57:45.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-19T22:57:59.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 5 territories.",
+    "timestamp": "2016-05-19T22:57:59.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Leeward Islands (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-05-19T22:58:03.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Leeward Islands (johnsgill3) attacked Windward Islands (tanleach1001) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-19T22:58:11.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Leeward Islands (johnsgill3) occupied Windward Islands with 4 troops.",
+    "timestamp": "2016-05-19T22:58:13.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Windward Islands (johnsgill3) was fortified from Puerto Rico (johnsgill3) with 2 troops.",
+    "timestamp": "2016-05-19T22:58:23.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-05-19T22:58:24.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-19T22:58:24.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-19T22:58:37.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 3 troops for 4 territories.",
+    "timestamp": "2016-05-19T22:58:37.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Bolívar (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-05-19T22:58:43.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Bolívar (gcochard) attacked Orinoco (kwren) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-19T22:58:50.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Bolívar (gcochard) occupied Orinoco with 3 troops.",
+    "timestamp": "2016-05-19T22:59:00.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Orinoco (gcochard) was fortified from Boyacá (gcochard) with 4 troops.",
+    "timestamp": "2016-05-19T22:59:07.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-05-19T22:59:07.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-19T22:59:07.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-19T23:13:32.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 3 troops for 9 territories.",
+    "timestamp": "2016-05-19T23:13:32.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 3 troops for holding Centroamérica.",
+    "timestamp": "2016-05-19T23:13:32.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Guatemala (jobratt) was reinforced by jobratt with 2 troops.",
+    "timestamp": "2016-05-19T23:13:45.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Magdalena (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-05-19T23:14:23.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Magdalena (jobratt) attacked Cauca (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T23:14:52.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Magdalena (jobratt) occupied Cauca with 6 troops.",
+    "timestamp": "2016-05-19T23:14:58.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Cauca (jobratt) attacked Panamá (johnsgill3) killing 1, losing 1.",
+    "timestamp": "2016-05-19T23:15:23.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Costa Rica (jobratt) attacked Panamá (johnsgill3) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-05-19T23:15:27.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Costa Rica (jobratt) occupied Panamá with 4 troops.",
+    "timestamp": "2016-05-19T23:15:33.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Apure (jobratt) attacked Bolívar (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T23:15:41.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Apure (jobratt) occupied Bolívar with 1 troop.",
+    "timestamp": "2016-05-19T23:15:51.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Cauca (jobratt) attacked Boyacá (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T23:16:24.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Cauca (jobratt) occupied Boyacá with 1 troop.",
+    "timestamp": "2016-05-19T23:16:29.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Cauca (jobratt) was fortified from Panamá (jobratt) with 3 troops.",
+    "timestamp": "2016-05-19T23:16:37.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-19T23:16:37.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-19T23:16:37.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-19T23:16:43.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 8 territories.",
+    "timestamp": "2016-05-19T23:16:43.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Greater Antilles.",
+    "timestamp": "2016-05-19T23:16:43.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "República Dominicana (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-05-19T23:16:51.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "La Habana (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-05-19T23:17:05.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "La Habana (tanleach1001) attacked Yucatán (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-19T23:17:09.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "La Habana (tanleach1001) occupied Yucatán with 1 troop.",
+    "timestamp": "2016-05-19T23:17:12.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-19T23:17:42.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-19T23:17:42.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-05-19T23:17:42.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-19T23:17:51.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 3 troops for 9 territories.",
+    "timestamp": "2016-05-19T23:17:51.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Olmeca (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-19T23:17:56.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Olmeca (mmacfreier) attacked Tabasco (johnsgill3) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-05-19T23:18:05.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Olmeca (mmacfreier) occupied Tabasco with 1 troop.",
+    "timestamp": "2016-05-19T23:18:20.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Olmeca (mmacfreier) attacked Oaxaca (gcochard) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-05-19T23:18:26.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Olmeca (mmacfreier) occupied Oaxaca with 5 troops.",
+    "timestamp": "2016-05-19T23:18:28.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-19T23:18:39.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-19T23:18:39.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-19T23:18:53.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 3 troops for 5 territories.",
+    "timestamp": "2016-05-19T23:18:53.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 3 troops for holding Gulf Coast.",
+    "timestamp": "2016-05-19T23:18:53.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "W. Florida (kwren) was reinforced by kwren with 6 troops.",
+    "timestamp": "2016-05-19T23:19:02.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-19T23:19:12.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-19T23:19:24.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 4 territories.",
+    "timestamp": "2016-05-19T23:19:24.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding Lesser Antilles.",
+    "timestamp": "2016-05-19T23:19:24.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Puerto Rico (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-05-19T23:19:32.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Windward Islands (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-05-19T23:19:34.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Windward Islands (johnsgill3) attacked Venezuela (mmacfreier) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-19T23:19:43.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Windward Islands (johnsgill3) occupied Venezuela with 1 troop.",
+    "timestamp": "2016-05-19T23:19:47.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Windward Islands (johnsgill3) was fortified from Puerto Rico (johnsgill3) with 1 troop.",
+    "timestamp": "2016-05-19T23:20:01.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-05-19T23:20:01.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-19T23:20:01.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-19T23:49:58.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 3 troops for 1 territory.",
+    "timestamp": "2016-05-19T23:49:58.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 2 troops on Orinoco",
+    "timestamp": "2016-05-19T23:50:03.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 4 troops for turning in cards Nuevo León, Orinoco, and República Dominicana.",
+    "timestamp": "2016-05-19T23:50:03.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Orinoco (gcochard) was reinforced by gcochard with 7 troops.",
+    "timestamp": "2016-05-19T23:50:06.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Orinoco (gcochard) attacked Bolívar (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T23:51:38.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Orinoco (gcochard) occupied Bolívar with 1 troop.",
+    "timestamp": "2016-05-19T23:51:42.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Orinoco (gcochard) attacked Venezuela (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T23:51:45.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Orinoco (gcochard) occupied Venezuela with 14 troops.",
+    "timestamp": "2016-05-19T23:51:49.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Venezuela (gcochard) attacked Apure (jobratt) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-05-19T23:52:02.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Venezuela (gcochard) occupied Apure with 12 troops.",
+    "timestamp": "2016-05-19T23:52:06.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Apure (gcochard) attacked Boyacá (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-19T23:52:10.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Apure (gcochard) occupied Boyacá with 11 troops.",
+    "timestamp": "2016-05-19T23:52:14.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Venezuela (gcochard) was fortified from Boyacá (gcochard) with 10 troops.",
+    "timestamp": "2016-05-19T23:52:20.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-05-19T23:52:20.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-19T23:52:20.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-20T00:13:17.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 3 troops for 9 territories.",
+    "timestamp": "2016-05-20T00:13:17.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 3 troops for holding Centroamérica.",
+    "timestamp": "2016-05-20T00:13:17.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Zulia (jobratt) was reinforced by jobratt with 6 troops.",
+    "timestamp": "2016-05-20T00:14:04.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Zulia (jobratt) attacked Venezuela (gcochard) killing 8, losing 8.",
+    "timestamp": "2016-05-20T00:14:27.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Cauca (jobratt) attacked Boyacá (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T00:14:33.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Cauca (jobratt) occupied Boyacá with 1 troop.",
+    "timestamp": "2016-05-20T00:14:38.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-20T00:14:47.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-20T00:14:47.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-20T01:25:43.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 9 territories.",
+    "timestamp": "2016-05-20T01:25:43.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Greater Antilles.",
+    "timestamp": "2016-05-20T01:25:43.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Yucatán (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-05-20T01:25:59.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "República Dominicana (tanleach1001) was reinforced by tanleach1001 with 1 troop.",
+    "timestamp": "2016-05-20T01:26:12.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "La Habana (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-05-20T01:26:17.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Yucatán (tanleach1001) attacked Tabasco (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T01:26:20.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Yucatán (tanleach1001) occupied Tabasco with 1 troop.",
+    "timestamp": "2016-05-20T01:26:25.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "República Dominicana (tanleach1001) was fortified from Haiti (tanleach1001) with 2 troops.",
+    "timestamp": "2016-05-20T01:26:40.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-20T01:26:40.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-20T01:26:40.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-05-20T01:26:40.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-20T16:23:47.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 3 troops for 9 territories.",
+    "timestamp": "2016-05-20T16:23:47.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 6 troops for turning in cards W. Florida, Bolívar, and Camagüey.",
+    "timestamp": "2016-05-20T16:23:57.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Oaxaca (mmacfreier) was reinforced by mmacfreier with 9 troops.",
+    "timestamp": "2016-05-20T16:24:06.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Oaxaca (mmacfreier) attacked Chiapas (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T16:24:18.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Oaxaca (mmacfreier) occupied Chiapas with 13 troops.",
+    "timestamp": "2016-05-20T16:24:22.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Chiapas (mmacfreier) attacked Tabasco (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T16:24:26.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Chiapas (mmacfreier) occupied Tabasco with 1 troop.",
+    "timestamp": "2016-05-20T16:24:29.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Chiapas (mmacfreier) attacked Yucatán (tanleach1001) conquering it, killing 4, losing 5.",
+    "timestamp": "2016-05-20T16:24:44.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Chiapas (mmacfreier) occupied Yucatán with 3 troops.",
+    "timestamp": "2016-05-20T16:24:52.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-20T16:25:02.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-20T16:25:02.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-20T16:33:41.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 3 troops for 5 territories.",
+    "timestamp": "2016-05-20T16:33:41.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 3 troops for holding Gulf Coast.",
+    "timestamp": "2016-05-20T16:33:41.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "E. Florida (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-05-20T16:34:07.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "W. Florida (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-05-20T16:34:10.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-20T16:34:16.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-20T16:49:14.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 4 territories.",
+    "timestamp": "2016-05-20T16:49:14.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding Lesser Antilles.",
+    "timestamp": "2016-05-20T16:49:14.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Windward Islands (johnsgill3) was reinforced by johnsgill3 with 5 troops.",
+    "timestamp": "2016-05-20T16:49:18.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Windward Islands (johnsgill3) attacked Venezuela (gcochard) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-20T16:49:29.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Windward Islands (johnsgill3) occupied Venezuela with 9 troops.",
+    "timestamp": "2016-05-20T16:49:32.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Venezuela (johnsgill3) attacked Apure (gcochard) killing 0, losing 3.",
+    "timestamp": "2016-05-20T16:49:41.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Venezuela (johnsgill3) attacked Orinoco (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T16:49:45.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Venezuela (johnsgill3) occupied Orinoco with 5 troops.",
+    "timestamp": "2016-05-20T16:49:48.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Orinoco (johnsgill3) attacked Bolívar (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T16:49:54.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Orinoco (johnsgill3) occupied Bolívar with 3 troops.",
+    "timestamp": "2016-05-20T16:49:57.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Bolívar (johnsgill3) attacked Apure (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-05-20T16:50:02.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Windward Islands (johnsgill3) was fortified from Puerto Rico (johnsgill3) with 2 troops.",
+    "timestamp": "2016-05-20T16:50:22.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-05-20T16:50:22.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-20T16:50:22.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-20T16:50:40.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for 1 territory.",
+    "timestamp": "2016-05-20T16:50:40.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Apure (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-05-20T16:50:48.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-20T16:51:35.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-20T17:25:00.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 3 troops for 10 territories.",
+    "timestamp": "2016-05-20T17:25:00.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 3 troops for holding Centroamérica.",
+    "timestamp": "2016-05-20T17:25:00.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Guatemala (jobratt) was reinforced by jobratt with 5 troops.",
+    "timestamp": "2016-05-20T17:25:49.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Cauca (jobratt) was reinforced by jobratt with 1 troop.",
+    "timestamp": "2016-05-20T17:25:51.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Guatemala (jobratt) attacked Chiapas (mmacfreier) conquering it, killing 4, losing 3.",
+    "timestamp": "2016-05-20T17:26:07.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Guatemala (jobratt) occupied Chiapas with 1 troop.",
+    "timestamp": "2016-05-20T17:28:02.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-20T17:28:12.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-20T17:28:12.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-20T17:29:21.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 7 territories.",
+    "timestamp": "2016-05-20T17:29:21.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Greater Antilles.",
+    "timestamp": "2016-05-20T17:29:21.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "República Dominicana (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-05-20T17:29:53.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "La Habana (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-05-20T17:29:55.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "La Habana (tanleach1001) attacked Yucatán (mmacfreier) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-20T17:30:08.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "La Habana (tanleach1001) occupied Yucatán with 1 troop.",
+    "timestamp": "2016-05-20T17:30:14.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "República Dominicana (tanleach1001) attacked Magdalena (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T17:30:19.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "República Dominicana (tanleach1001) occupied Magdalena with 1 troop.",
+    "timestamp": "2016-05-20T17:30:23.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-20T17:30:31.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-20T17:30:31.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-05-20T17:30:31.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-20T17:32:30.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 3 troops for 10 territories.",
+    "timestamp": "2016-05-20T17:32:30.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Oaxaca (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-20T17:32:34.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Oaxaca (mmacfreier) attacked Chiapas (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T17:32:37.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Oaxaca (mmacfreier) occupied Chiapas with 1 troop.",
+    "timestamp": "2016-05-20T17:32:42.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-20T17:32:46.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-20T17:32:46.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-20T17:33:04.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for 5 territories.",
+    "timestamp": "2016-05-20T17:33:04.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for holding Gulf Coast.",
+    "timestamp": "2016-05-20T17:33:04.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Danish Antilles, Windward Islands, and Haiti.",
+    "timestamp": "2016-05-20T17:33:19.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "E. Florida (kwren) was reinforced by kwren with 5 troops.",
+    "timestamp": "2016-05-20T17:33:25.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "W. Florida (kwren) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-05-20T17:33:28.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Louisiana (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-05-20T17:33:33.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Republic of Texas (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-05-20T17:33:38.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-20T17:33:49.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-20T17:33:53.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 7 territories.",
+    "timestamp": "2016-05-20T17:33:53.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding Lesser Antilles.",
+    "timestamp": "2016-05-20T17:33:53.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 8 troops for turning in cards E. Florida, Veracruz, and Puebla.",
+    "timestamp": "2016-05-20T17:33:57.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Puerto Rico (johnsgill3) was reinforced by johnsgill3 with 4 troops.",
+    "timestamp": "2016-05-20T17:34:14.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Venezuela (johnsgill3) was reinforced by johnsgill3 with 9 troops.",
+    "timestamp": "2016-05-20T17:34:20.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Venezuela (johnsgill3) attacked Apure (gcochard) conquering it, killing 4, losing 5.",
+    "timestamp": "2016-05-20T17:34:30.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "gcochard was defeated by johnsgill3.",
+    "timestamp": "2016-05-20T17:34:30.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Venezuela (johnsgill3) occupied Apure with 4 troops.",
+    "timestamp": "2016-05-20T17:34:37.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Windward Islands (johnsgill3) was fortified from Apure (johnsgill3) with 3 troops.",
+    "timestamp": "2016-05-20T17:34:50.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-05-20T17:34:50.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-20T17:34:50.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-20T17:35:32.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 3 troops for 9 territories.",
+    "timestamp": "2016-05-20T17:35:32.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 3 troops for holding Centroamérica.",
+    "timestamp": "2016-05-20T17:35:32.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 2 troops on Guatemala",
+    "timestamp": "2016-05-20T17:35:40.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards Guatemala, Jamaica, and Puerto Rico.",
+    "timestamp": "2016-05-20T17:35:40.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Cauca (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-05-20T17:35:48.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Boyacá (jobratt) was reinforced by jobratt with 10 troops.",
+    "timestamp": "2016-05-20T17:36:00.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Boyacá (jobratt) attacked Bolívar (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-05-20T17:36:04.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Boyacá (jobratt) attacked Apure (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T17:36:08.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Boyacá (jobratt) occupied Apure with 7 troops.",
+    "timestamp": "2016-05-20T17:36:09.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Apure (jobratt) attacked Venezuela (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T17:36:13.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Apure (jobratt) occupied Venezuela with 5 troops.",
+    "timestamp": "2016-05-20T17:36:17.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Cauca (jobratt) attacked Magdalena (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T17:36:23.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Cauca (jobratt) occupied Magdalena with 1 troop.",
+    "timestamp": "2016-05-20T17:36:31.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-20T17:40:21.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-20T17:40:21.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-20T17:40:44.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 8 territories.",
+    "timestamp": "2016-05-20T17:40:44.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Greater Antilles.",
+    "timestamp": "2016-05-20T17:40:44.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Cauca, Magdalena, and Panamá.",
+    "timestamp": "2016-05-20T17:40:50.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Yucatán (tanleach1001) was reinforced by tanleach1001 with 7 troops.",
+    "timestamp": "2016-05-20T17:41:01.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "La Habana (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-05-20T17:41:06.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "República Dominicana (tanleach1001) was reinforced by tanleach1001 with 6 troops.",
+    "timestamp": "2016-05-20T17:41:08.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "República Dominicana (tanleach1001) attacked Magdalena (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T17:41:15.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "República Dominicana (tanleach1001) occupied Magdalena with 1 troop.",
+    "timestamp": "2016-05-20T17:41:35.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Yucatán (tanleach1001) attacked Tabasco (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T17:41:42.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Yucatán (tanleach1001) occupied Tabasco with 1 troop.",
+    "timestamp": "2016-05-20T17:41:46.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Magdalena (tanleach1001) was fortified from Jamaica (tanleach1001) with 2 troops.",
+    "timestamp": "2016-05-20T17:41:55.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-20T17:41:55.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-20T17:41:55.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Round 7 started.",
+    "timestamp": "2016-05-20T17:41:55.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-20T17:42:07.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 3 troops for 10 territories.",
+    "timestamp": "2016-05-20T17:42:07.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Olmeca (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-20T17:42:20.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Olmeca (mmacfreier) attacked Tabasco (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T17:42:27.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Olmeca (mmacfreier) occupied Tabasco with 1 troop.",
+    "timestamp": "2016-05-20T17:42:31.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Oaxaca (mmacfreier) was fortified from Olmeca (mmacfreier) with 1 troop.",
+    "timestamp": "2016-05-20T17:42:36.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-20T17:42:36.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-20T17:42:36.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-20T17:45:46.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for 5 territories.",
+    "timestamp": "2016-05-20T17:45:46.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for holding Gulf Coast.",
+    "timestamp": "2016-05-20T17:45:46.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "E. Florida (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-05-20T17:45:49.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Louisiana (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-05-20T17:45:54.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "W. Florida (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-05-20T17:45:59.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-20T17:46:02.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-20T17:46:19.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 6 territories.",
+    "timestamp": "2016-05-20T17:46:19.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding Lesser Antilles.",
+    "timestamp": "2016-05-20T17:46:19.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Windward Islands (johnsgill3) was reinforced by johnsgill3 with 5 troops.",
+    "timestamp": "2016-05-20T17:46:31.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Windward Islands (johnsgill3) attacked Venezuela (jobratt) conquering it, killing 5, losing 8.",
+    "timestamp": "2016-05-20T17:47:00.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Windward Islands (johnsgill3) occupied Venezuela with 1 troop.",
+    "timestamp": "2016-05-20T17:47:04.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Windward Islands (johnsgill3) was fortified from Puerto Rico (johnsgill3) with 4 troops.",
+    "timestamp": "2016-05-20T17:47:09.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-05-20T17:47:09.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-20T17:47:09.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-20T17:59:43.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 3 troops for 10 territories.",
+    "timestamp": "2016-05-20T17:59:43.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 3 troops for holding Centroamérica.",
+    "timestamp": "2016-05-20T17:59:43.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 2 troops on Apure",
+    "timestamp": "2016-05-20T17:59:47.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards Louisiana, Olmeca, and Apure.",
+    "timestamp": "2016-05-20T17:59:47.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Cauca (jobratt) was reinforced by jobratt with 14 troops.",
+    "timestamp": "2016-05-20T18:02:46.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Cauca (jobratt) attacked Magdalena (tanleach1001) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-05-20T18:02:52.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Cauca (jobratt) occupied Magdalena with 1 troop.",
+    "timestamp": "2016-05-20T18:03:19.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Guatemala (jobratt) attacked Chiapas (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T18:03:24.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Guatemala (jobratt) occupied Chiapas with 1 troop.",
+    "timestamp": "2016-05-20T18:03:28.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Guatemala (jobratt) was fortified from Cauca (jobratt) with 8 troops.",
+    "timestamp": "2016-05-20T18:03:35.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-20T18:03:35.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-20T18:03:35.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-20T18:04:14.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 8 territories.",
+    "timestamp": "2016-05-20T18:04:14.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Greater Antilles.",
+    "timestamp": "2016-05-20T18:04:14.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "República Dominicana (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-05-20T18:04:28.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Yucatán (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-05-20T18:04:32.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "República Dominicana (tanleach1001) attacked Magdalena (jobratt) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-05-20T18:04:47.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "República Dominicana (tanleach1001) occupied Magdalena with 5 troops.",
+    "timestamp": "2016-05-20T18:04:57.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Magdalena (tanleach1001) attacked Boyacá (jobratt) killing 0, losing 1.",
+    "timestamp": "2016-05-20T18:05:03.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-20T18:05:08.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-20T18:05:08.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Round 8 started.",
+    "timestamp": "2016-05-20T18:05:08.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-20T18:51:18.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 3 troops for 10 territories.",
+    "timestamp": "2016-05-20T18:51:19.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Honduras, Nicaragua, and Costa Rica.",
+    "timestamp": "2016-05-20T18:51:35.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Oaxaca (mmacfreier) was reinforced by mmacfreier with 11 troops.",
+    "timestamp": "2016-05-20T18:51:50.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Oaxaca (mmacfreier) attacked Chiapas (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T18:51:55.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Oaxaca (mmacfreier) occupied Chiapas with 1 troop.",
+    "timestamp": "2016-05-20T18:52:00.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-20T18:52:11.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-20T18:52:11.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-20T18:54:59.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 3 troops for 5 territories.",
+    "timestamp": "2016-05-20T18:54:59.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 3 troops for holding Gulf Coast.",
+    "timestamp": "2016-05-20T18:54:59.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Louisiana (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-05-20T18:55:08.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "E. Florida (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-05-20T18:55:14.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Louisiana (kwren) was fortified from W. Florida (kwren) with 5 troops.",
+    "timestamp": "2016-05-20T18:55:31.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-20T18:55:31.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-20T18:55:48.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 7 territories.",
+    "timestamp": "2016-05-20T18:55:48.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding Lesser Antilles.",
+    "timestamp": "2016-05-20T18:55:48.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 8 troops for turning in cards Georgia, San Luis Potosí, and Zulia.",
+    "timestamp": "2016-05-20T18:56:56.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Venezuela (johnsgill3) was reinforced by johnsgill3 with 13 troops.",
+    "timestamp": "2016-05-20T18:57:15.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Venezuela (johnsgill3) attacked Apure (jobratt) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-20T18:57:19.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Venezuela (johnsgill3) occupied Apure with 12 troops.",
+    "timestamp": "2016-05-20T18:57:22.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Apure (johnsgill3) attacked Boyacá (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T18:57:27.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Apure (johnsgill3) occupied Boyacá with 1 troop.",
+    "timestamp": "2016-05-20T18:57:36.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Apure (johnsgill3) attacked Zulia (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T18:57:38.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Apure (johnsgill3) occupied Zulia with 1 troop.",
+    "timestamp": "2016-05-20T18:57:46.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Windward Islands (johnsgill3) was fortified from Apure (johnsgill3) with 8 troops.",
+    "timestamp": "2016-05-20T18:58:06.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-05-20T18:58:06.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-20T18:58:06.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-20T19:05:02.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 3 troops for 7 territories.",
+    "timestamp": "2016-05-20T19:05:02.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 3 troops for holding Centroamérica.",
+    "timestamp": "2016-05-20T19:05:02.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Guatemala (jobratt) was reinforced by jobratt with 6 troops.",
+    "timestamp": "2016-05-20T19:06:20.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Guatemala (jobratt) attacked Chiapas (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T19:06:24.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Guatemala (jobratt) occupied Chiapas with 1 troop.",
+    "timestamp": "2016-05-20T19:06:30.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Cauca (jobratt) attacked Boyacá (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T19:06:38.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Cauca (jobratt) occupied Boyacá with 1 troop.",
+    "timestamp": "2016-05-20T19:06:44.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-20T19:06:47.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-20T19:06:47.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-20T20:03:10.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 9 territories.",
+    "timestamp": "2016-05-20T20:03:11.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Greater Antilles.",
+    "timestamp": "2016-05-20T20:03:11.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Yucatán",
+    "timestamp": "2016-05-20T20:03:23.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 2 troops on The Bahamas",
+    "timestamp": "2016-05-20T20:03:23.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Republic of Texas, Yucatán, and The Bahamas.",
+    "timestamp": "2016-05-20T20:03:23.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "República Dominicana (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-05-20T20:03:47.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "La Habana (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-05-20T20:03:53.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Magdalena (tanleach1001) was reinforced by tanleach1001 with 7 troops.",
+    "timestamp": "2016-05-20T20:03:56.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Magdalena (tanleach1001) attacked Zulia (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T20:03:59.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Magdalena (tanleach1001) occupied Zulia with 9 troops.",
+    "timestamp": "2016-05-20T20:04:01.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Zulia (tanleach1001) attacked Venezuela (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T20:04:05.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Zulia (tanleach1001) occupied Venezuela with 1 troop.",
+    "timestamp": "2016-05-20T20:04:13.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Magdalena (tanleach1001) was fortified from Zulia (tanleach1001) with 7 troops.",
+    "timestamp": "2016-05-20T20:04:20.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-20T20:04:20.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-20T20:04:20.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Round 9 started.",
+    "timestamp": "2016-05-20T20:04:20.000Z",
+    "player": "unknown",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-20T20:08:45.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received 3 troops for 10 territories.",
+    "timestamp": "2016-05-20T20:08:45.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Oaxaca (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-20T20:08:50.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Oaxaca (mmacfreier) attacked Chiapas (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T20:08:53.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "Oaxaca (mmacfreier) occupied Chiapas with 1 troop.",
+    "timestamp": "2016-05-20T20:08:57.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-20T20:09:05.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-20T20:09:05.000Z",
+    "player": "mmacfreier",
+    "round": 9
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-20T20:26:16.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 3 troops for 5 territories.",
+    "timestamp": "2016-05-20T20:26:16.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 3 troops for holding Gulf Coast.",
+    "timestamp": "2016-05-20T20:26:16.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "E. Florida (kwren) was reinforced by kwren with 5 troops.",
+    "timestamp": "2016-05-20T20:26:27.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Louisiana (kwren) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-05-20T20:26:34.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Louisiana (kwren) was fortified from Republic of Texas (kwren) with 4 troops.",
+    "timestamp": "2016-05-20T20:26:41.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-20T20:26:41.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-20T20:26:52.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 7 territories.",
+    "timestamp": "2016-05-20T20:26:53.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding Lesser Antilles.",
+    "timestamp": "2016-05-20T20:26:53.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Windward Islands (johnsgill3) was reinforced by johnsgill3 with 5 troops.",
+    "timestamp": "2016-05-20T20:26:55.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Windward Islands (johnsgill3) attacked Venezuela (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T20:26:59.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Windward Islands (johnsgill3) occupied Venezuela with 17 troops.",
+    "timestamp": "2016-05-20T20:27:01.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Venezuela (johnsgill3) attacked Zulia (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T20:27:06.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Venezuela (johnsgill3) occupied Zulia with 16 troops.",
+    "timestamp": "2016-05-20T20:27:13.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Zulia (johnsgill3) attacked Boyacá (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T20:27:16.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Zulia (johnsgill3) occupied Boyacá with 15 troops.",
+    "timestamp": "2016-05-20T20:27:17.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Boyacá (johnsgill3) attacked Cauca (jobratt) conquering it, killing 9, losing 9.",
+    "timestamp": "2016-05-20T20:28:17.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Boyacá (johnsgill3) occupied Cauca with 5 troops.",
+    "timestamp": "2016-05-20T20:29:15.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Cauca (johnsgill3) attacked Panamá (jobratt) killing 0, losing 1.",
+    "timestamp": "2016-05-20T20:29:18.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Windward Islands (johnsgill3) was fortified from Cauca (johnsgill3) with 3 troops.",
+    "timestamp": "2016-05-20T20:29:22.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-05-20T20:29:22.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-20T20:29:22.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-20T20:40:33.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received 3 troops for 6 territories.",
+    "timestamp": "2016-05-20T20:40:33.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received 3 troops for holding Centroamérica.",
+    "timestamp": "2016-05-20T20:40:33.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Panamá (jobratt) was reinforced by jobratt with 6 troops.",
+    "timestamp": "2016-05-20T20:40:37.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Panamá (jobratt) attacked Cauca (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T20:40:45.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Panamá (jobratt) occupied Cauca with 1 troop.",
+    "timestamp": "2016-05-20T20:40:52.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Cauca (jobratt) was fortified from Guatemala (jobratt) with 6 troops.",
+    "timestamp": "2016-05-20T20:41:49.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-20T20:41:49.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-20T20:41:49.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-20T20:42:00.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 9 territories.",
+    "timestamp": "2016-05-20T20:42:00.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Greater Antilles.",
+    "timestamp": "2016-05-20T20:42:00.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Yucatán (tanleach1001) was reinforced by tanleach1001 with 7 troops.",
+    "timestamp": "2016-05-20T20:42:05.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Yucatán (tanleach1001) attacked Chiapas (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T20:42:10.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Yucatán (tanleach1001) occupied Chiapas with 1 troop.",
+    "timestamp": "2016-05-20T20:42:20.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Yucatán (tanleach1001) attacked Tabasco (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T20:43:03.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Yucatán (tanleach1001) occupied Tabasco with 1 troop.",
+    "timestamp": "2016-05-20T20:43:10.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Yucatán (tanleach1001) was fortified from Magdalena (tanleach1001) with 7 troops.",
+    "timestamp": "2016-05-20T20:43:17.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-20T20:43:17.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-20T20:43:17.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Round 10 started.",
+    "timestamp": "2016-05-20T20:43:17.000Z",
+    "player": "unknown",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-20T20:53:17.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 3 troops for 9 territories.",
+    "timestamp": "2016-05-20T20:53:17.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 2 troops on México",
+    "timestamp": "2016-05-20T20:53:22.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards México, El Salvador, and Venezuela.",
+    "timestamp": "2016-05-20T20:53:22.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Oaxaca (mmacfreier) was reinforced by mmacfreier with 11 troops.",
+    "timestamp": "2016-05-20T20:53:28.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Oaxaca (mmacfreier) attacked Chiapas (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T20:53:33.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Oaxaca (mmacfreier) occupied Chiapas with 26 troops.",
+    "timestamp": "2016-05-20T20:53:41.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Chiapas (mmacfreier) attacked Yucatán (tanleach1001) killing 18, losing 18.",
+    "timestamp": "2016-05-20T20:54:02.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "Chiapas (mmacfreier) was fortified from México (mmacfreier) with 2 troops.",
+    "timestamp": "2016-05-20T20:54:10.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-20T20:54:10.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-20T20:54:10.000Z",
+    "player": "mmacfreier",
+    "round": 10
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-20T20:54:24.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 3 troops for 5 territories.",
+    "timestamp": "2016-05-20T20:54:24.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 3 troops for holding Gulf Coast.",
+    "timestamp": "2016-05-20T20:54:24.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "E. Florida (kwren) was reinforced by kwren with 5 troops.",
+    "timestamp": "2016-05-20T20:54:33.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Louisiana (kwren) was reinforced by kwren with 1 troop.",
+    "timestamp": "2016-05-20T20:54:37.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "E. Florida (kwren) was fortified from W. Florida (kwren) with 5 troops.",
+    "timestamp": "2016-05-20T20:54:51.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-20T20:54:51.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-05-20T20:54:57.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 10 territories.",
+    "timestamp": "2016-05-20T20:54:57.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding Lesser Antilles.",
+    "timestamp": "2016-05-20T20:54:57.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Zulia (johnsgill3) was reinforced by johnsgill3 with 5 troops.",
+    "timestamp": "2016-05-20T20:54:59.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Zulia (johnsgill3) attacked Magdalena (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T20:55:03.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Zulia (johnsgill3) occupied Magdalena with 1 troop.",
+    "timestamp": "2016-05-20T20:55:08.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Windward Islands (johnsgill3) was fortified from Zulia (johnsgill3) with 3 troops.",
+    "timestamp": "2016-05-20T20:55:14.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-05-20T20:55:14.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-05-20T20:55:14.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-20T21:15:18.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received 3 troops for 7 territories.",
+    "timestamp": "2016-05-20T21:15:18.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received 3 troops for holding Centroamérica.",
+    "timestamp": "2016-05-20T21:15:18.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Guatemala (jobratt) was reinforced by jobratt with 6 troops.",
+    "timestamp": "2016-05-20T21:15:27.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Guatemala (jobratt) attacked Yucatán (tanleach1001) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-20T21:15:33.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Guatemala (jobratt) occupied Yucatán with 16 troops.",
+    "timestamp": "2016-05-20T21:18:42.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Cauca (jobratt) attacked Boyacá (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T21:18:49.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Cauca (jobratt) occupied Boyacá with 1 troop.",
+    "timestamp": "2016-05-20T21:18:54.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Yucatán (jobratt) attacked La Habana (tanleach1001) conquering it, killing 15, losing 11.",
+    "timestamp": "2016-05-20T21:19:19.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Yucatán (jobratt) occupied La Habana with 1 troop.",
+    "timestamp": "2016-05-20T21:20:14.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Guatemala (jobratt) was fortified from Yucatán (jobratt) with 3 troops.",
+    "timestamp": "2016-05-20T21:20:34.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-20T21:20:34.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-20T21:20:34.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-20T21:20:38.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 7 territories.",
+    "timestamp": "2016-05-20T21:20:38.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Tabasco (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-05-20T21:21:35.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Tabasco (tanleach1001) attacked Yucatán (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T21:21:44.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Tabasco (tanleach1001) occupied Yucatán with 1 troop.",
+    "timestamp": "2016-05-20T21:22:02.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Camagüey (tanleach1001) was fortified from The Bahamas (tanleach1001) with 2 troops.",
+    "timestamp": "2016-05-20T21:22:27.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-20T21:22:27.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-20T21:22:27.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Round 11 started.",
+    "timestamp": "2016-05-20T21:22:27.000Z",
+    "player": "unknown",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-20T21:34:28.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received 3 troops for 10 territories.",
+    "timestamp": "2016-05-20T21:34:28.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Chiapas (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-20T21:34:34.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Chiapas (mmacfreier) attacked Tabasco (tanleach1001) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-05-20T21:34:38.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "Chiapas (mmacfreier) occupied Tabasco with 1 troop.",
+    "timestamp": "2016-05-20T21:34:43.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-20T21:34:47.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-20T21:34:47.000Z",
+    "player": "mmacfreier",
+    "round": 11
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-20T21:39:11.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 3 troops for 5 territories.",
+    "timestamp": "2016-05-20T21:39:12.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 3 troops for holding Gulf Coast.",
+    "timestamp": "2016-05-20T21:39:12.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "E. Florida (kwren) was reinforced by kwren with 6 troops.",
+    "timestamp": "2016-05-20T21:39:14.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "E. Florida (kwren) attacked La Habana (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:39:17.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "E. Florida (kwren) occupied La Habana with 35 troops.",
+    "timestamp": "2016-05-20T21:39:19.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "La Habana (kwren) attacked Yucatán (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:39:22.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "La Habana (kwren) occupied Yucatán with 34 troops.",
+    "timestamp": "2016-05-20T21:39:24.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Yucatán (kwren) attacked Guatemala (jobratt) conquering it, killing 4, losing 2.",
+    "timestamp": "2016-05-20T21:39:33.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Yucatán (kwren) occupied Guatemala with 31 troops.",
+    "timestamp": "2016-05-20T21:39:34.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Guatemala (kwren) attacked Honduras (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:39:38.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Guatemala (kwren) occupied Honduras with 30 troops.",
+    "timestamp": "2016-05-20T21:39:40.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Honduras (kwren) attacked El Salvador (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:39:43.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Honduras (kwren) occupied El Salvador with 1 troop.",
+    "timestamp": "2016-05-20T21:39:48.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Honduras (kwren) attacked Nicaragua (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:39:51.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Honduras (kwren) occupied Nicaragua with 28 troops.",
+    "timestamp": "2016-05-20T21:39:53.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Nicaragua (kwren) attacked Costa Rica (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:39:57.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Nicaragua (kwren) occupied Costa Rica with 27 troops.",
+    "timestamp": "2016-05-20T21:39:59.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Costa Rica (kwren) attacked Panamá (jobratt) conquering it, killing 6, losing 3.",
+    "timestamp": "2016-05-20T21:40:08.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Costa Rica (kwren) occupied Panamá with 23 troops.",
+    "timestamp": "2016-05-20T21:40:10.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Panamá (kwren) attacked Cauca (jobratt) conquering it, killing 5, losing 2.",
+    "timestamp": "2016-05-20T21:40:16.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Panamá (kwren) occupied Cauca with 20 troops.",
+    "timestamp": "2016-05-20T21:40:17.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Cauca (kwren) attacked Boyacá (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:40:20.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "jobratt was defeated by kwren.",
+    "timestamp": "2016-05-20T21:40:20.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Cauca (kwren) occupied Boyacá with 19 troops.",
+    "timestamp": "2016-05-20T21:40:25.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 2 troops on Yucatán",
+    "timestamp": "2016-05-20T21:40:31.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Nuevo Santander, Tabasco, and Yucatán.",
+    "timestamp": "2016-05-20T21:40:31.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Boyacá (kwren) was reinforced by kwren with 8 troops.",
+    "timestamp": "2016-05-20T21:40:56.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Boyacá (kwren) attacked Magdalena (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:40:59.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Boyacá (kwren) occupied Magdalena with 26 troops.",
+    "timestamp": "2016-05-20T21:41:01.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Magdalena (kwren) attacked Zulia (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:41:06.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Magdalena (kwren) occupied Zulia with 25 troops.",
+    "timestamp": "2016-05-20T21:41:08.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Zulia (kwren) attacked Apure (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T21:41:11.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Zulia (kwren) occupied Apure with 23 troops.",
+    "timestamp": "2016-05-20T21:41:12.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Apure (kwren) attacked Bolívar (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:41:15.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Apure (kwren) occupied Bolívar with 22 troops.",
+    "timestamp": "2016-05-20T21:41:16.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Bolívar (kwren) attacked Venezuela (johnsgill3) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-05-20T21:41:21.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Bolívar (kwren) occupied Venezuela with 19 troops.",
+    "timestamp": "2016-05-20T21:41:22.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Venezuela (kwren) attacked Orinoco (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:41:26.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Venezuela (kwren) occupied Orinoco with 1 troop.",
+    "timestamp": "2016-05-20T21:41:29.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Venezuela (kwren) attacked Windward Islands (johnsgill3) conquering it, killing 7, losing 6.",
+    "timestamp": "2016-05-20T21:41:38.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Venezuela (kwren) occupied Windward Islands with 11 troops.",
+    "timestamp": "2016-05-20T21:41:39.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Windward Islands (kwren) attacked Leeward Islands (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:41:42.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Windward Islands (kwren) occupied Leeward Islands with 10 troops.",
+    "timestamp": "2016-05-20T21:41:43.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Leeward Islands (kwren) attacked Danish Antilles (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T21:41:47.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Leeward Islands (kwren) occupied Danish Antilles with 8 troops.",
+    "timestamp": "2016-05-20T21:41:48.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Danish Antilles (kwren) attacked Puerto Rico (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T21:41:53.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 was defeated by kwren.",
+    "timestamp": "2016-05-20T21:41:53.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Danish Antilles (kwren) occupied Puerto Rico with 1 troop.",
+    "timestamp": "2016-05-20T21:42:30.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 2 troops on Leeward Islands",
+    "timestamp": "2016-05-20T21:42:46.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 2 troops on Boyacá",
+    "timestamp": "2016-05-20T21:42:46.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 2 troops on La Habana",
+    "timestamp": "2016-05-20T21:42:46.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Leeward Islands, Boyacá, and La Habana.",
+    "timestamp": "2016-05-20T21:42:46.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Nicaragua (kwren) was reinforced by kwren with 8 troops.",
+    "timestamp": "2016-05-20T21:43:42.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Nicaragua (kwren) was fortified from Louisiana (kwren) with 20 troops.",
+    "timestamp": "2016-05-20T21:44:05.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-05-20T21:44:05.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-05-20T21:44:05.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-20T21:44:09.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 6 territories.",
+    "timestamp": "2016-05-20T21:44:09.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Camagüey (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-05-20T21:44:15.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Camagüey (tanleach1001) attacked La Habana (kwren) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-05-20T21:44:21.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Camagüey (tanleach1001) occupied La Habana with 2 troops.",
+    "timestamp": "2016-05-20T21:44:23.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "República Dominicana (tanleach1001) was fortified from La Habana (tanleach1001) with 1 troop.",
+    "timestamp": "2016-05-20T21:44:34.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-20T21:44:34.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-20T21:44:34.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Round 12 started.",
+    "timestamp": "2016-05-20T21:44:34.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-20T21:45:01.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier received 3 troops for 11 territories.",
+    "timestamp": "2016-05-20T21:45:01.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Chiapas (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-20T21:45:07.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Chiapas (mmacfreier) attacked Yucatán (kwren) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-20T21:45:14.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Chiapas (mmacfreier) occupied Yucatán with 7 troops.",
+    "timestamp": "2016-05-20T21:45:23.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-20T21:45:33.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-20T21:45:33.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-05-20T21:45:38.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 7 troops for 23 territories.",
+    "timestamp": "2016-05-20T21:45:38.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 3 troops for holding Gulf Coast.",
+    "timestamp": "2016-05-20T21:45:38.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 3 troops for holding Centroamérica.",
+    "timestamp": "2016-05-20T21:45:38.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 4 troops for holding Gran Colombia.",
+    "timestamp": "2016-05-20T21:45:38.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 2 troops for holding all 3 treasures.",
+    "timestamp": "2016-05-20T21:45:38.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 2 troops for holding Lesser Antilles.",
+    "timestamp": "2016-05-20T21:45:38.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 2 troops on Louisiana",
+    "timestamp": "2016-05-20T21:45:41.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Chiapas, Santiago, and Louisiana.",
+    "timestamp": "2016-05-20T21:45:41.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Magdalena (kwren) was reinforced by kwren with 29 troops.",
+    "timestamp": "2016-05-20T21:46:01.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Magdalena (kwren) attacked República Dominicana (tanleach1001) conquering it, killing 15, losing 13.",
+    "timestamp": "2016-05-20T21:46:14.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Magdalena (kwren) occupied República Dominicana with 16 troops.",
+    "timestamp": "2016-05-20T21:46:16.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Nicaragua (kwren) attacked Jamaica (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:46:19.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Nicaragua (kwren) occupied Jamaica with 28 troops.",
+    "timestamp": "2016-05-20T21:46:21.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "República Dominicana (kwren) attacked Haiti (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:46:23.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "República Dominicana (kwren) occupied Haiti with 15 troops.",
+    "timestamp": "2016-05-20T21:46:25.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Haiti (kwren) attacked The Bahamas (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:46:28.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Haiti (kwren) occupied The Bahamas with 14 troops.",
+    "timestamp": "2016-05-20T21:46:30.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Jamaica (kwren) attacked Santiago (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T21:46:33.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Jamaica (kwren) occupied Santiago with 26 troops.",
+    "timestamp": "2016-05-20T21:46:34.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Santiago (kwren) attacked Camagüey (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:46:38.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Santiago (kwren) occupied Camagüey with 25 troops.",
+    "timestamp": "2016-05-20T21:46:39.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Camagüey (kwren) attacked La Habana (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:46:42.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 was defeated by kwren.",
+    "timestamp": "2016-05-20T21:46:42.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Camagüey (kwren) occupied La Habana with 24 troops.",
+    "timestamp": "2016-05-20T21:46:43.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 2 troops on Georgia",
+    "timestamp": "2016-05-20T21:46:58.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 2 troops on W. Florida",
+    "timestamp": "2016-05-20T21:46:58.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 2 troops on Jamaica",
+    "timestamp": "2016-05-20T21:46:58.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Georgia, W. Florida, and Jamaica.",
+    "timestamp": "2016-05-20T21:46:58.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "La Habana (kwren) was reinforced by kwren with 8 troops.",
+    "timestamp": "2016-05-20T21:47:04.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "La Habana (kwren) attacked Yucatán (mmacfreier) conquering it, killing 7, losing 6.",
+    "timestamp": "2016-05-20T21:47:11.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "La Habana (kwren) occupied Yucatán with 25 troops.",
+    "timestamp": "2016-05-20T21:47:13.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Yucatán (kwren) attacked Chiapas (mmacfreier) conquering it, killing 7, losing 8.",
+    "timestamp": "2016-05-20T21:47:20.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Yucatán (kwren) occupied Chiapas with 16 troops.",
+    "timestamp": "2016-05-20T21:47:22.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Chiapas (kwren) attacked Tabasco (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:47:25.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Chiapas (kwren) occupied Tabasco with 15 troops.",
+    "timestamp": "2016-05-20T21:47:26.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Tabasco (kwren) attacked Olmeca (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-20T21:47:33.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Tabasco (kwren) occupied Olmeca with 13 troops.",
+    "timestamp": "2016-05-20T21:47:34.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Olmeca (kwren) attacked Oaxaca (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:47:41.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Olmeca (kwren) occupied Oaxaca with 12 troops.",
+    "timestamp": "2016-05-20T21:47:44.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Oaxaca (kwren) attacked Puebla (mmacfreier) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-05-20T21:47:51.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Oaxaca (kwren) occupied Puebla with 9 troops.",
+    "timestamp": "2016-05-20T21:47:52.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Puebla (kwren) attacked Veracruz (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:47:58.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Puebla (kwren) occupied Veracruz with 1 troop.",
+    "timestamp": "2016-05-20T21:48:01.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Puebla (kwren) attacked México (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:48:04.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Puebla (kwren) occupied México with 7 troops.",
+    "timestamp": "2016-05-20T21:48:05.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "México (kwren) attacked San Luis Potosí (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:48:10.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "México (kwren) occupied San Luis Potosí with 6 troops.",
+    "timestamp": "2016-05-20T21:48:11.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "San Luis Potosí (kwren) attacked Nuevo Santander (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:48:14.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "San Luis Potosí (kwren) occupied Nuevo Santander with 1 troop.",
+    "timestamp": "2016-05-20T21:48:16.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "San Luis Potosí (kwren) attacked Coahuila (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-20T21:48:19.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "San Luis Potosí (kwren) occupied Coahuila with 4 troops.",
+    "timestamp": "2016-05-20T21:48:21.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Coahuila (kwren) attacked Nuevo León (mmacfreier) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier was defeated by kwren.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier lost 18 rating.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier received 20 tokens.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "kwren won the game.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 95 rating.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 20 tokens.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 lost 17 rating.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 received 20 tokens.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "gcochard lost 15 rating.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 20 tokens.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "jobratt lost 29 rating.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "jobratt received 20 tokens.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 lost 16 rating.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 20 tokens.",
+    "timestamp": "2016-05-20T21:48:26.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  }
+]
