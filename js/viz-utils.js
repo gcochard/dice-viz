@@ -64,7 +64,7 @@ function setGameIds(data, opt0, chg_cb) {
                 return d != "undefined" && Number(d) >= 608220 &&
                         Number(d) != 622574 && Number(d) != 622960;
             } else {
-                return d != "undefined";
+                return d != "undefined" && Number(d) != 643112;
             }
         }).sort().reverse()))
         .enter().append('option')

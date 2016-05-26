@@ -145,10 +145,10 @@ function updateOdds() {
 
     dodds = calcDiceOdds(d3.entries(data).filter(function (d) { return d.key != 'undefined'; }), game_id, sel_player);
     for(var k in dodds) {
+        total_rolls += dodds[k].total;
         for(var t in dodds[k]) {
             if(/_p$/.test(t) || /_e$/.test(t))
                 continue;
-            total_rolls += dodds[k].total;
             d3.select('#'+t+'_'+k)
                 .text(dodds[k][t]+(t == 'total' ? '' : ' ('+dodds[k][t+'_e']+')'))
             d3.select('#'+t+'_'+k)
