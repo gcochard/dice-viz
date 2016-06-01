@@ -1,0 +1,5240 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-05-31T18:03:19.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne joined the game.",
+    "timestamp": "2016-05-31T18:03:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "gcochard joined the game.",
+    "timestamp": "2016-05-31T18:03:53.000Z",
+    "player": "gcochard",
+    "round": 0
+  },
+  {
+    "message": "tanleach1001 joined the game.",
+    "timestamp": "2016-05-31T18:04:26.000Z",
+    "player": "tanleach1001",
+    "round": 0
+  },
+  {
+    "message": "jobratt joined the game.",
+    "timestamp": "2016-05-31T18:04:49.000Z",
+    "player": "jobratt",
+    "round": 0
+  },
+  {
+    "message": "mmacfreier joined the game.",
+    "timestamp": "2016-05-31T18:16:06.000Z",
+    "player": "mmacfreier",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-05-31T18:16:06.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-05-31T18:16:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 8 territories.",
+    "timestamp": "2016-05-31T18:16:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Bedroom 2 (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-05-31T18:16:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Bedroom 2 (ryanbmilbourne) attacked Play Area (gcochard) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-05-31T18:17:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Bedroom 2 (ryanbmilbourne) occupied Play Area with 2 troops.",
+    "timestamp": "2016-05-31T18:17:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Bedroom 2 (ryanbmilbourne) was fortified from Family Room (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-05-31T18:17:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-05-31T18:17:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-05-31T18:17:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-31T18:21:43.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 8 territories.",
+    "timestamp": "2016-05-31T18:21:43.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Lounge (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-05-31T18:22:05.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Pool (tanleach1001) was fortified from Ballroom (tanleach1001) with 2 troops.",
+    "timestamp": "2016-05-31T18:22:18.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-31T18:22:18.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-31T18:25:48.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received 3 troops for 8 territories.",
+    "timestamp": "2016-05-31T18:25:48.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Entryway (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-05-31T18:25:55.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Entryway (jobratt) attacked Family Room (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T18:26:04.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Entryway (jobratt) occupied Family Room with 5 troops.",
+    "timestamp": "2016-05-31T18:26:14.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Kitchen (jobratt) was fortified from Pantry (jobratt) with 2 troops.",
+    "timestamp": "2016-05-31T18:27:33.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-31T18:27:33.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-31T18:27:33.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-31T18:28:20.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received 3 troops for 8 territories.",
+    "timestamp": "2016-05-31T18:28:20.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Living Room (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-31T18:28:36.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Living Room (mmacfreier) attacked Entryway (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T18:28:40.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Living Room (mmacfreier) occupied Entryway with 1 troop.",
+    "timestamp": "2016-05-31T18:29:01.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Garden (mmacfreier) was fortified from Bedroom 3 (mmacfreier) with 2 troops.",
+    "timestamp": "2016-05-31T18:29:13.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-31T18:29:13.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-31T18:29:13.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-31T19:50:49.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-05-31T19:50:49.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Master Bedroom (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-05-31T19:52:38.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Master Bedroom (gcochard) attacked Porch (mmacfreier) killing 1, losing 5.",
+    "timestamp": "2016-05-31T19:52:44.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Garage (gcochard) attacked Entryway (mmacfreier) killing 0, losing 2.",
+    "timestamp": "2016-05-31T19:52:54.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Utilities (gcochard) attacked Bedroom 3 (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T19:53:07.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Utilities (gcochard) occupied Bedroom 3 with 2 troops.",
+    "timestamp": "2016-05-31T19:53:11.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Master Bedroom (gcochard) was fortified from His Bath (gcochard) with 2 troops.",
+    "timestamp": "2016-05-31T19:53:22.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-05-31T19:53:23.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-31T19:53:23.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-05-31T19:53:23.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-05-31T20:05:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 8 territories.",
+    "timestamp": "2016-05-31T20:05:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-05-31T20:05:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) attacked Utilities (gcochard) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-05-31T20:06:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) occupied Utilities with 1 troop.",
+    "timestamp": "2016-05-31T20:06:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) was fortified from Bedroom 2 (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-05-31T20:06:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-05-31T20:06:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-05-31T20:06:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-31T20:06:52.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 8 territories.",
+    "timestamp": "2016-05-31T20:06:52.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Pool (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-05-31T20:07:00.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Pool (tanleach1001) attacked Patio (ryanbmilbourne) killing 1, losing 5.",
+    "timestamp": "2016-05-31T20:07:09.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Lounge (tanleach1001) attacked Patio (ryanbmilbourne) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-05-31T20:07:23.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Lounge (tanleach1001) occupied Patio with 1 troop.",
+    "timestamp": "2016-05-31T20:07:27.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Patio (tanleach1001) was fortified from Deck (tanleach1001) with 2 troops.",
+    "timestamp": "2016-05-31T20:07:40.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-31T20:07:40.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-31T20:07:40.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-31T20:11:41.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received 3 troops for 8 territories.",
+    "timestamp": "2016-05-31T20:11:41.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Kitchen (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-05-31T20:11:56.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Kitchen (jobratt) attacked Utilities (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-31T20:12:03.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Kitchen (jobratt) occupied Utilities with 3 troops.",
+    "timestamp": "2016-05-31T20:12:18.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Family Room (jobratt) attacked Ballroom (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-05-31T20:13:36.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-31T20:13:46.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-31T20:13:46.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-31T20:14:03.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 3 troops for 8 territories.",
+    "timestamp": "2016-05-31T20:14:03.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Garden (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-31T20:14:17.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Garden (mmacfreier) attacked Driveway (ryanbmilbourne) killing 0, losing 4.",
+    "timestamp": "2016-05-31T20:14:25.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Weight Room (mmacfreier) attacked Ballroom (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-31T20:14:39.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Porch (mmacfreier) was fortified from Living Room (mmacfreier) with 4 troops.",
+    "timestamp": "2016-05-31T20:14:46.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-31T20:14:47.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-31T20:14:47.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-31T20:15:45.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-05-31T20:15:45.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Master Bedroom (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-05-31T20:15:57.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Tree House (gcochard) was fortified from Shed (gcochard) with 2 troops.",
+    "timestamp": "2016-05-31T20:16:13.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-31T20:16:13.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-05-31T20:16:13.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-05-31T20:27:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 7 territories.",
+    "timestamp": "2016-05-31T20:27:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Game Room (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-05-31T20:28:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Game Room (ryanbmilbourne) attacked Bedroom 4 (jobratt) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-05-31T20:28:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Game Room (ryanbmilbourne) occupied Bedroom 4 with 1 troop.",
+    "timestamp": "2016-05-31T20:28:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) was fortified from Bedroom 1 (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-05-31T20:29:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-05-31T20:29:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-05-31T20:29:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-31T20:29:33.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 8 territories.",
+    "timestamp": "2016-05-31T20:29:33.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Lounge (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-05-31T20:29:37.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Bar (tanleach1001) attacked Dining Room (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-05-31T20:29:44.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Bathroom (tanleach1001) attacked Entryway (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T20:30:03.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Bathroom (tanleach1001) occupied Entryway with 2 troops.",
+    "timestamp": "2016-05-31T20:30:05.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Lounge (tanleach1001) attacked Guest Bedroom (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-05-31T20:30:22.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Lounge (tanleach1001) was fortified from Pool (tanleach1001) with 2 troops.",
+    "timestamp": "2016-05-31T20:30:33.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-31T20:30:33.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-31T20:30:33.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-31T20:32:43.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 3 troops for 8 territories.",
+    "timestamp": "2016-05-31T20:32:43.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Kitchen (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-05-31T20:32:52.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Kitchen (jobratt) attacked Dining Room (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-31T20:33:01.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Kitchen (jobratt) occupied Dining Room with 5 troops.",
+    "timestamp": "2016-05-31T20:33:05.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Dining Room (jobratt) attacked Bar (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-05-31T20:33:10.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Dining Room (jobratt) occupied Bar with 1 troop.",
+    "timestamp": "2016-05-31T20:33:13.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Dining Room (jobratt) was fortified from Office (jobratt) with 2 troops.",
+    "timestamp": "2016-05-31T20:33:25.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-31T20:33:25.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-31T20:33:25.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-31T20:35:33.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 3 troops for 8 territories.",
+    "timestamp": "2016-05-31T20:35:33.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Porch (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-31T20:35:42.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Porch (mmacfreier) attacked Driveway (ryanbmilbourne) killing 1, losing 8.",
+    "timestamp": "2016-05-31T20:35:57.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Garden (mmacfreier) attacked Driveway (ryanbmilbourne) killing 0, losing 3.",
+    "timestamp": "2016-05-31T20:36:02.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Hot Tub (mmacfreier) attacked Pool (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T20:36:13.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Hot Tub (mmacfreier) occupied Pool with 2 troops.",
+    "timestamp": "2016-05-31T20:36:16.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-31T20:36:21.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-31T20:36:21.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-31T20:36:41.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-05-31T20:36:41.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Tree House (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-05-31T20:36:47.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Tree House (gcochard) attacked Deck (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T20:36:51.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Tree House (gcochard) occupied Deck with 7 troops.",
+    "timestamp": "2016-05-31T20:36:52.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Deck (gcochard) attacked Pool (mmacfreier) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-05-31T20:36:56.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Deck (gcochard) occupied Pool with 6 troops.",
+    "timestamp": "2016-05-31T20:36:59.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Pool (gcochard) attacked Hot Tub (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-31T20:37:04.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Pool (gcochard) occupied Hot Tub with 4 troops.",
+    "timestamp": "2016-05-31T20:37:07.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Deck (gcochard) was fortified from Hot Tub (gcochard) with 3 troops.",
+    "timestamp": "2016-05-31T20:37:12.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-05-31T20:37:12.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-31T20:37:12.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-05-31T20:37:12.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-05-31T21:43:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 7 territories.",
+    "timestamp": "2016-05-31T21:43:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-05-31T21:43:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) attacked Bedroom 3 (gcochard) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-05-31T21:43:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) occupied Bedroom 3 with 4 troops.",
+    "timestamp": "2016-05-31T21:44:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-05-31T21:44:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-05-31T21:44:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-31T21:45:02.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 6 territories.",
+    "timestamp": "2016-05-31T21:45:02.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Lounge (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-05-31T21:45:05.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Entryway (tanleach1001) attacked Garage (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-05-31T21:45:09.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Lounge (tanleach1001) attacked Guest Bedroom (ryanbmilbourne) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-05-31T21:45:16.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Lounge (tanleach1001) occupied Guest Bedroom with 1 troop.",
+    "timestamp": "2016-05-31T21:45:19.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Lounge (tanleach1001) attacked Loft (mmacfreier) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-05-31T21:45:25.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Lounge (tanleach1001) occupied Loft with 1 troop.",
+    "timestamp": "2016-05-31T21:45:28.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Lounge (tanleach1001) was fortified from Guest Bath (tanleach1001) with 2 troops.",
+    "timestamp": "2016-05-31T21:45:59.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-31T21:45:59.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-31T21:45:59.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-31T21:48:11.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 3 troops for 10 territories.",
+    "timestamp": "2016-05-31T21:48:11.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 2 troops for holding Food.",
+    "timestamp": "2016-05-31T21:48:11.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Utilities (jobratt) was reinforced by jobratt with 1 troop.",
+    "timestamp": "2016-05-31T21:49:30.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Family Room (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-05-31T21:49:35.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Sauna (jobratt) was reinforced by jobratt with 1 troop.",
+    "timestamp": "2016-05-31T21:50:07.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Sauna (jobratt) attacked Ballroom (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T21:50:09.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Sauna (jobratt) occupied Ballroom with 3 troops.",
+    "timestamp": "2016-05-31T21:50:12.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Family Room (jobratt) attacked Entryway (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-31T21:50:17.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Family Room (jobratt) occupied Entryway with 5 troops.",
+    "timestamp": "2016-05-31T21:50:20.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Entryway (jobratt) attacked Living Room (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T21:50:29.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Entryway (jobratt) occupied Living Room with 4 troops.",
+    "timestamp": "2016-05-31T21:50:33.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Living Room (jobratt) was fortified from Ballroom (jobratt) with 2 troops.",
+    "timestamp": "2016-05-31T21:50:42.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-31T21:50:42.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-31T21:50:42.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-31T21:55:42.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 3 troops for 4 territories.",
+    "timestamp": "2016-05-31T21:55:42.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Theater (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-31T21:55:57.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Theater (mmacfreier) attacked Family Room (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T21:56:01.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Theater (mmacfreier) occupied Family Room with 5 troops.",
+    "timestamp": "2016-05-31T21:56:03.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Family Room (mmacfreier) attacked Garage (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T21:56:06.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Family Room (mmacfreier) occupied Garage with 4 troops.",
+    "timestamp": "2016-05-31T21:56:08.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-31T21:56:15.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-31T21:56:15.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-31T22:11:27.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 3 troops for 8 territories.",
+    "timestamp": "2016-05-31T22:11:27.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 2 troops for holding Side Yard.",
+    "timestamp": "2016-05-31T22:11:27.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Deck (gcochard) was reinforced by gcochard with 1 troop.",
+    "timestamp": "2016-05-31T22:11:43.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Gazebo (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-05-31T22:12:08.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Gazebo (gcochard) attacked Driveway (ryanbmilbourne) conquering it, killing 2, losing 3.",
+    "timestamp": "2016-05-31T22:12:13.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Gazebo (gcochard) occupied Driveway with 3 troops.",
+    "timestamp": "2016-05-31T22:12:15.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Driveway (gcochard) attacked Porch (mmacfreier) killing 0, losing 2.",
+    "timestamp": "2016-05-31T22:12:20.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-05-31T22:13:36.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-31T22:13:36.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-05-31T22:13:36.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-05-31T22:13:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 6 territories.",
+    "timestamp": "2016-05-31T22:13:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Bedrooms.",
+    "timestamp": "2016-05-31T22:13:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-05-31T22:14:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) attacked Bathroom (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-05-31T22:14:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) occupied Bathroom with 8 troops.",
+    "timestamp": "2016-05-31T22:15:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Bathroom (ryanbmilbourne) attacked Entryway (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T22:15:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Bathroom (ryanbmilbourne) occupied Entryway with 1 troop.",
+    "timestamp": "2016-05-31T22:15:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Game Room (ryanbmilbourne) was fortified from Bedroom 3 (ryanbmilbourne) with 3 troops.",
+    "timestamp": "2016-05-31T22:16:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-05-31T22:16:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-05-31T22:16:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-31T22:16:22.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 6 territories.",
+    "timestamp": "2016-05-31T22:16:22.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Guest House.",
+    "timestamp": "2016-05-31T22:16:22.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Patio (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-05-31T22:16:26.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Lounge (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-05-31T22:16:28.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Lounge (tanleach1001) attacked Driveway (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T22:16:32.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Lounge (tanleach1001) occupied Driveway with 5 troops.",
+    "timestamp": "2016-05-31T22:17:15.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Driveway (tanleach1001) was fortified from Patio (tanleach1001) with 1 troop.",
+    "timestamp": "2016-05-31T22:17:49.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-31T22:17:49.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-31T22:17:49.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-31T22:28:52.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 3 troops for 11 territories.",
+    "timestamp": "2016-05-31T22:28:52.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 2 troops for holding Food.",
+    "timestamp": "2016-05-31T22:28:52.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Ballroom (jobratt) was reinforced by jobratt with 5 troops.",
+    "timestamp": "2016-05-31T22:29:30.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Living Room (jobratt) attacked Entryway (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T22:29:36.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Living Room (jobratt) occupied Entryway with 5 troops.",
+    "timestamp": "2016-05-31T22:29:39.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Entryway (jobratt) attacked Family Room (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-31T22:29:52.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Entryway (jobratt) occupied Family Room with 3 troops.",
+    "timestamp": "2016-05-31T22:29:55.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-31T22:30:37.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-31T22:30:37.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-05-31T22:31:27.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 3 troops for 5 territories.",
+    "timestamp": "2016-05-31T22:31:28.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Garage (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-05-31T22:31:49.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Garage (mmacfreier) attacked Entryway (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T22:31:53.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Garage (mmacfreier) occupied Entryway with 1 troop.",
+    "timestamp": "2016-05-31T22:31:57.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-05-31T22:32:00.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-05-31T22:32:00.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-31T22:40:01.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for 8 territories.",
+    "timestamp": "2016-05-31T22:40:02.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 2 troops for holding Side Yard.",
+    "timestamp": "2016-05-31T22:40:02.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Master Bedroom (gcochard) was reinforced by gcochard with 5 troops.",
+    "timestamp": "2016-05-31T22:40:12.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Master Bedroom (gcochard) attacked Living Room (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T22:40:16.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Master Bedroom (gcochard) occupied Living Room with 10 troops.",
+    "timestamp": "2016-05-31T22:40:32.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Living Room (gcochard) attacked Play Area (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T22:40:37.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Living Room (gcochard) occupied Play Area with 1 troop.",
+    "timestamp": "2016-05-31T22:40:43.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Living Room (gcochard) attacked Entryway (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T22:40:56.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Living Room (gcochard) occupied Entryway with 8 troops.",
+    "timestamp": "2016-05-31T22:41:00.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Entryway (gcochard) attacked Garage (mmacfreier) conquering it, killing 6, losing 3.",
+    "timestamp": "2016-05-31T22:41:07.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Entryway (gcochard) occupied Garage with 1 troop.",
+    "timestamp": "2016-05-31T22:41:11.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Entryway (gcochard) attacked Porch (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T22:41:14.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Entryway (gcochard) occupied Porch with 3 troops.",
+    "timestamp": "2016-05-31T22:41:16.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Porch (gcochard) attacked Garden (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T22:41:19.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Porch (gcochard) occupied Garden with 2 troops.",
+    "timestamp": "2016-05-31T22:41:22.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Master Bedroom (gcochard) was fortified from Garden (gcochard) with 1 troop.",
+    "timestamp": "2016-05-31T22:42:01.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-05-31T22:42:01.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-31T22:42:01.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-05-31T22:42:01.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-05-31T22:42:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 6 territories.",
+    "timestamp": "2016-05-31T22:42:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Bedroom 3",
+    "timestamp": "2016-05-31T22:42:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for turning in cards Bedroom 3, Garage, and His Bath.",
+    "timestamp": "2016-05-31T22:42:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Bedroom 3 (ryanbmilbourne) was reinforced by ryanbmilbourne with 7 troops.",
+    "timestamp": "2016-05-31T22:42:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Bedroom 3 (ryanbmilbourne) attacked Play Area (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T22:42:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Bedroom 3 (ryanbmilbourne) occupied Play Area with 9 troops.",
+    "timestamp": "2016-05-31T22:42:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) attacked Living Room (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-31T22:42:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) occupied Living Room with 7 troops.",
+    "timestamp": "2016-05-31T22:42:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Bathroom (ryanbmilbourne) attacked Entryway (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-05-31T22:44:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-05-31T22:45:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-05-31T22:45:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-31T23:07:34.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 7 territories.",
+    "timestamp": "2016-05-31T23:07:34.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Guest House.",
+    "timestamp": "2016-05-31T23:07:34.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 6 troops for turning in cards Pantry, Entryway, and Mud Room.",
+    "timestamp": "2016-05-31T23:08:26.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Lounge (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-05-31T23:08:36.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Patio (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-05-31T23:08:41.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Driveway (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-05-31T23:08:43.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Lounge (tanleach1001) attacked Gazebo (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-31T23:09:01.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Lounge (tanleach1001) occupied Gazebo with 1 troop.",
+    "timestamp": "2016-05-31T23:09:04.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Driveway (tanleach1001) attacked Garage (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T23:09:07.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Driveway (tanleach1001) occupied Garage with 8 troops.",
+    "timestamp": "2016-05-31T23:09:11.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Garage (tanleach1001) attacked Family Room (jobratt) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-31T23:09:16.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Garage (tanleach1001) occupied Family Room with 6 troops.",
+    "timestamp": "2016-05-31T23:09:17.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Family Room (tanleach1001) attacked Theater (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T23:09:20.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Family Room (tanleach1001) occupied Theater with 5 troops.",
+    "timestamp": "2016-05-31T23:09:23.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Theater (tanleach1001) attacked Weight Room (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T23:09:25.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier was defeated by tanleach1001.",
+    "timestamp": "2016-05-31T23:09:25.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Theater (tanleach1001) occupied Weight Room with 4 troops.",
+    "timestamp": "2016-05-31T23:09:27.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Office, Sauna, and Hot Tub.",
+    "timestamp": "2016-05-31T23:09:44.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Driveway (tanleach1001) was reinforced by tanleach1001 with 8 troops.",
+    "timestamp": "2016-05-31T23:10:13.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Patio (tanleach1001) was fortified from Weight Room (tanleach1001) with 3 troops.",
+    "timestamp": "2016-05-31T23:10:27.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-31T23:10:27.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-31T23:10:27.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-31T23:15:02.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 3 troops for 10 territories.",
+    "timestamp": "2016-05-31T23:15:02.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 2 troops for holding Food.",
+    "timestamp": "2016-05-31T23:15:02.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 2 troops on Utilities",
+    "timestamp": "2016-05-31T23:15:09.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards Utilities, Storage, and Game Room.",
+    "timestamp": "2016-05-31T23:15:09.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Utilities (jobratt) was reinforced by jobratt with 13 troops.",
+    "timestamp": "2016-05-31T23:17:49.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Utilities (jobratt) attacked Living Room (ryanbmilbourne) conquering it, killing 7, losing 2.",
+    "timestamp": "2016-05-31T23:17:56.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Utilities (jobratt) occupied Living Room with 16 troops.",
+    "timestamp": "2016-05-31T23:17:58.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Living Room (jobratt) attacked Entryway (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T23:18:15.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Living Room (jobratt) occupied Entryway with 15 troops.",
+    "timestamp": "2016-05-31T23:18:25.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Entryway (jobratt) attacked Bathroom (ryanbmilbourne) conquering it, killing 6, losing 2.",
+    "timestamp": "2016-05-31T23:18:33.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Entryway (jobratt) occupied Bathroom with 6 troops.",
+    "timestamp": "2016-05-31T23:19:01.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Entryway (jobratt) attacked Storage (Neutral) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-31T23:19:14.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Entryway (jobratt) occupied Storage with 1 troop.",
+    "timestamp": "2016-05-31T23:19:28.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Ballroom (jobratt) attacked Family Room (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T23:19:39.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Ballroom (jobratt) occupied Family Room with 1 troop.",
+    "timestamp": "2016-05-31T23:19:48.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Storage (jobratt) was fortified from Ballroom (jobratt) with 4 troops.",
+    "timestamp": "2016-05-31T23:20:00.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-31T23:20:00.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-31T23:20:00.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-05-31T23:26:54.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 3 troops for 9 territories.",
+    "timestamp": "2016-05-31T23:26:54.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 2 troops for holding Side Yard.",
+    "timestamp": "2016-05-31T23:26:54.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Dining Room, Bedroom 2, and Ballroom.",
+    "timestamp": "2016-05-31T23:27:29.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Deck (gcochard) was reinforced by gcochard with 1 troop.",
+    "timestamp": "2016-05-31T23:27:38.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Master Bedroom (gcochard) was reinforced by gcochard with 12 troops.",
+    "timestamp": "2016-05-31T23:27:41.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Master Bedroom (gcochard) attacked Closet (jobratt) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-05-31T23:27:48.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Master Bedroom (gcochard) occupied Closet with 1 troop.",
+    "timestamp": "2016-05-31T23:27:51.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Master Bedroom (gcochard) attacked Her Bath (tanleach1001) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-05-31T23:27:56.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Master Bedroom (gcochard) occupied Her Bath with 1 troop.",
+    "timestamp": "2016-05-31T23:28:00.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Master Bedroom (gcochard) attacked Office (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T23:28:04.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Master Bedroom (gcochard) occupied Office with 3 troops.",
+    "timestamp": "2016-05-31T23:28:12.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "His Bath (gcochard) was fortified from Master Bedroom (gcochard) with 2 troops.",
+    "timestamp": "2016-05-31T23:28:23.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-05-31T23:28:23.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-05-31T23:28:23.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Round 7 started.",
+    "timestamp": "2016-05-31T23:28:23.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-05-31T23:28:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 6 territories.",
+    "timestamp": "2016-05-31T23:28:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Bedrooms.",
+    "timestamp": "2016-05-31T23:28:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-05-31T23:29:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) attacked Living Room (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-31T23:29:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Play Area (ryanbmilbourne) occupied Living Room with 5 troops.",
+    "timestamp": "2016-05-31T23:29:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Game Room (ryanbmilbourne) attacked Family Room (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-31T23:29:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Game Room (ryanbmilbourne) occupied Family Room with 6 troops.",
+    "timestamp": "2016-05-31T23:29:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Family Room (ryanbmilbourne) attacked Garage (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T23:30:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Family Room (ryanbmilbourne) occupied Garage with 1 troop.",
+    "timestamp": "2016-05-31T23:30:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Game Room (ryanbmilbourne) was fortified from Family Room (ryanbmilbourne) with 4 troops.",
+    "timestamp": "2016-05-31T23:30:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-05-31T23:30:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-05-31T23:30:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-05-31T23:30:22.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 9 territories.",
+    "timestamp": "2016-05-31T23:30:22.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Guest House.",
+    "timestamp": "2016-05-31T23:30:22.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Driveway (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-05-31T23:32:37.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Driveway (tanleach1001) attacked Garage (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T23:32:40.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Driveway (tanleach1001) occupied Garage with 6 troops.",
+    "timestamp": "2016-05-31T23:33:01.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Driveway (tanleach1001) attacked Garden (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-05-31T23:33:05.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Driveway (tanleach1001) attacked Porch (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-05-31T23:33:09.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Patio (tanleach1001) attacked Sauna (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-05-31T23:33:18.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Patio (tanleach1001) occupied Sauna with 9 troops.",
+    "timestamp": "2016-05-31T23:33:21.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Sauna (tanleach1001) attacked Ballroom (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-05-31T23:33:24.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Sauna (tanleach1001) occupied Ballroom with 8 troops.",
+    "timestamp": "2016-05-31T23:33:26.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Ballroom (tanleach1001) attacked Game Room (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-05-31T23:33:29.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Patio (tanleach1001) was fortified from Lounge (tanleach1001) with 3 troops.",
+    "timestamp": "2016-05-31T23:34:29.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-05-31T23:34:29.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-05-31T23:34:29.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-05-31T23:34:34.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 3 troops for 9 territories.",
+    "timestamp": "2016-05-31T23:34:34.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 2 troops for holding Food.",
+    "timestamp": "2016-05-31T23:34:34.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Dining Room (jobratt) was reinforced by jobratt with 5 troops.",
+    "timestamp": "2016-05-31T23:34:48.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Dining Room (jobratt) attacked Living Room (ryanbmilbourne) conquering it, killing 5, losing 3.",
+    "timestamp": "2016-05-31T23:34:56.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Dining Room (jobratt) occupied Living Room with 5 troops.",
+    "timestamp": "2016-05-31T23:34:59.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-05-31T23:35:16.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-05-31T23:35:16.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T15:00:22.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 4 troops for 12 territories.",
+    "timestamp": "2016-06-01T15:00:22.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 2 troops for holding Master.",
+    "timestamp": "2016-06-01T15:00:22.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 2 troops for holding Side Yard.",
+    "timestamp": "2016-06-01T15:00:22.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Deck (gcochard) was reinforced by gcochard with 8 troops.",
+    "timestamp": "2016-06-01T15:02:55.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Deck (gcochard) attacked Sauna (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T15:03:02.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Deck (gcochard) occupied Sauna with 3 troops.",
+    "timestamp": "2016-06-01T15:03:55.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Hot Tub (gcochard) was fortified from Deck (gcochard) with 3 troops.",
+    "timestamp": "2016-06-01T15:04:17.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T15:04:17.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T15:04:17.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Round 8 started.",
+    "timestamp": "2016-06-01T15:04:17.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-01T15:06:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 7 territories.",
+    "timestamp": "2016-06-01T15:06:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Bedrooms.",
+    "timestamp": "2016-06-01T15:06:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Gazebo, Theater, and Loft.",
+    "timestamp": "2016-06-01T15:06:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Family Room (ryanbmilbourne) was reinforced by ryanbmilbourne with 14 troops.",
+    "timestamp": "2016-06-01T15:06:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Family Room (ryanbmilbourne) attacked Entryway (jobratt) conquering it, killing 5, losing 9.",
+    "timestamp": "2016-06-01T15:07:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Family Room (ryanbmilbourne) occupied Entryway with 5 troops.",
+    "timestamp": "2016-06-01T15:07:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Game Room (ryanbmilbourne) was fortified from Entryway (ryanbmilbourne) with 4 troops.",
+    "timestamp": "2016-06-01T15:08:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-01T15:08:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-01T15:08:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T15:08:33.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 11 territories.",
+    "timestamp": "2016-06-01T15:08:33.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Guest House.",
+    "timestamp": "2016-06-01T15:08:33.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Guest Bedroom",
+    "timestamp": "2016-06-01T15:08:36.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Tree House, Deck, and Guest Bedroom.",
+    "timestamp": "2016-06-01T15:08:36.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Ballroom (tanleach1001) was reinforced by tanleach1001 with 13 troops.",
+    "timestamp": "2016-06-01T15:09:13.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Driveway (tanleach1001) attacked Garden (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T15:09:18.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Driveway (tanleach1001) occupied Garden with 3 troops.",
+    "timestamp": "2016-06-01T15:09:19.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Garden (tanleach1001) attacked Porch (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T15:09:23.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Ballroom (tanleach1001) attacked Game Room (ryanbmilbourne) conquering it, killing 9, losing 4.",
+    "timestamp": "2016-06-01T15:09:40.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Ballroom (tanleach1001) occupied Game Room with 14 troops.",
+    "timestamp": "2016-06-01T15:09:45.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Game Room (tanleach1001) attacked Play Area (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T15:09:49.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Game Room (tanleach1001) occupied Play Area with 12 troops.",
+    "timestamp": "2016-06-01T15:10:19.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Play Area (tanleach1001) attacked Bedroom 1 (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-01T15:10:30.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Play Area (tanleach1001) occupied Bedroom 1 with 1 troop.",
+    "timestamp": "2016-06-01T15:10:37.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Play Area (tanleach1001) attacked Bedroom 2 (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T15:10:41.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Play Area (tanleach1001) occupied Bedroom 2 with 1 troop.",
+    "timestamp": "2016-06-01T15:10:51.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Play Area (tanleach1001) attacked Bedroom 3 (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T15:10:54.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Play Area (tanleach1001) occupied Bedroom 3 with 1 troop.",
+    "timestamp": "2016-06-01T15:10:57.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Play Area (tanleach1001) attacked Bedroom 4 (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T15:11:02.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Play Area (tanleach1001) occupied Bedroom 4 with 1 troop.",
+    "timestamp": "2016-06-01T15:11:10.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Garage (tanleach1001) attacked Family Room (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T15:11:16.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Garage (tanleach1001) occupied Family Room with 1 troop.",
+    "timestamp": "2016-06-01T15:11:21.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Garage (tanleach1001) attacked Entryway (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T15:11:25.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne was defeated by tanleach1001.",
+    "timestamp": "2016-06-01T15:11:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Garage (tanleach1001) occupied Entryway with 1 troop.",
+    "timestamp": "2016-06-01T15:11:28.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Bedroom 4",
+    "timestamp": "2016-06-01T15:11:34.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Bedroom 4, Master Bedroom, and Her Bath.",
+    "timestamp": "2016-06-01T15:11:34.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Driveway (tanleach1001) was reinforced by tanleach1001 with 8 troops.",
+    "timestamp": "2016-06-01T15:12:47.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Play Area (tanleach1001) attacked Utilities (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T15:12:53.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Play Area (tanleach1001) occupied Utilities with 1 troop.",
+    "timestamp": "2016-06-01T15:12:57.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Patio (tanleach1001) was fortified from Play Area (tanleach1001) with 4 troops.",
+    "timestamp": "2016-06-01T15:14:21.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-01T15:14:22.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-01T15:14:22.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-01T15:50:55.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 3 troops for 8 territories.",
+    "timestamp": "2016-06-01T15:50:55.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Bathroom (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-06-01T15:51:02.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Bathroom (jobratt) attacked Entryway (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T15:51:09.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Bathroom (jobratt) occupied Entryway with 8 troops.",
+    "timestamp": "2016-06-01T15:51:28.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Entryway (jobratt) attacked Porch (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T15:51:31.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Entryway (jobratt) occupied Porch with 1 troop.",
+    "timestamp": "2016-06-01T15:51:34.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Entryway (jobratt) attacked Family Room (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-01T15:51:38.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Entryway (jobratt) occupied Family Room with 4 troops.",
+    "timestamp": "2016-06-01T15:51:40.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Living Room (jobratt) attacked Play Area (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T15:51:46.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Living Room (jobratt) occupied Play Area with 1 troop.",
+    "timestamp": "2016-06-01T15:51:49.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Living Room (jobratt) attacked Utilities (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T15:51:54.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Living Room (jobratt) occupied Utilities with 1 troop.",
+    "timestamp": "2016-06-01T15:52:03.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Family Room (jobratt) attacked Ballroom (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T15:52:06.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Family Room (jobratt) occupied Ballroom with 1 troop.",
+    "timestamp": "2016-06-01T15:52:11.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Entryway (jobratt) was fortified from Family Room (jobratt) with 2 troops.",
+    "timestamp": "2016-06-01T15:53:00.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-01T15:53:00.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-01T15:53:00.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T15:53:15.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 3 troops for 11 territories.",
+    "timestamp": "2016-06-01T15:53:15.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 2 troops for holding Master.",
+    "timestamp": "2016-06-01T15:53:15.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 2 troops for holding Side Yard.",
+    "timestamp": "2016-06-01T15:53:15.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 2 troops on Closet",
+    "timestamp": "2016-06-01T15:53:20.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Bedroom 1, Play Area, and Closet.",
+    "timestamp": "2016-06-01T15:53:20.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Office (gcochard) was reinforced by gcochard with 2 troops.",
+    "timestamp": "2016-06-01T15:53:28.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "His Bath (gcochard) was reinforced by gcochard with 2 troops.",
+    "timestamp": "2016-06-01T15:53:34.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Master Bedroom (gcochard) was reinforced by gcochard with 11 troops.",
+    "timestamp": "2016-06-01T16:11:30.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Master Bedroom (gcochard) attacked Porch (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T16:11:37.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Master Bedroom (gcochard) occupied Porch with 1 troop.",
+    "timestamp": "2016-06-01T16:11:42.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Master Bedroom (gcochard) attacked Living Room (jobratt) conquering it, killing 2, losing 3.",
+    "timestamp": "2016-06-01T16:11:48.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Master Bedroom (gcochard) occupied Living Room with 9 troops.",
+    "timestamp": "2016-06-01T16:12:08.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Living Room (gcochard) attacked Utilities (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:12:15.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Living Room (gcochard) occupied Utilities with 1 troop.",
+    "timestamp": "2016-06-01T16:12:27.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Master Bedroom (gcochard) was fortified from Living Room (gcochard) with 7 troops.",
+    "timestamp": "2016-06-01T16:12:35.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T16:12:35.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T16:12:35.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Round 9 started.",
+    "timestamp": "2016-06-01T16:12:35.000Z",
+    "player": "unknown",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T16:14:03.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 5 troops for 16 territories.",
+    "timestamp": "2016-06-01T16:14:03.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Guest House.",
+    "timestamp": "2016-06-01T16:14:03.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Garden (tanleach1001) was reinforced by tanleach1001 with 7 troops.",
+    "timestamp": "2016-06-01T16:14:30.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Garden (tanleach1001) attacked Porch (gcochard) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-01T16:14:35.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Garden (tanleach1001) occupied Porch with 5 troops.",
+    "timestamp": "2016-06-01T16:14:41.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Bedroom 4 (tanleach1001) attacked Play Area (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:15:06.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Bedroom 4 (tanleach1001) occupied Play Area with 2 troops.",
+    "timestamp": "2016-06-01T16:15:08.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Lounge (tanleach1001) was fortified from Guest Bedroom (tanleach1001) with 2 troops.",
+    "timestamp": "2016-06-01T16:15:33.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-01T16:15:33.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-01T16:15:33.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-01T16:15:45.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received 3 troops for 10 territories.",
+    "timestamp": "2016-06-01T16:15:45.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards Porch, Garden, and Lounge.",
+    "timestamp": "2016-06-01T16:15:50.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Kitchen (jobratt) was reinforced by jobratt with 11 troops.",
+    "timestamp": "2016-06-01T16:16:02.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Kitchen (jobratt) attacked Utilities (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T16:16:06.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Kitchen (jobratt) occupied Utilities with 10 troops.",
+    "timestamp": "2016-06-01T16:16:07.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Utilities (jobratt) attacked Bedroom 3 (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:16:11.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Utilities (jobratt) occupied Bedroom 3 with 1 troop.",
+    "timestamp": "2016-06-01T16:16:13.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Utilities (jobratt) attacked Living Room (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:16:16.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Utilities (jobratt) occupied Living Room with 8 troops.",
+    "timestamp": "2016-06-01T16:16:18.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Living Room (jobratt) attacked His Bath (gcochard) conquering it, killing 5, losing 1.",
+    "timestamp": "2016-06-01T16:17:06.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Living Room (jobratt) occupied His Bath with 1 troop.",
+    "timestamp": "2016-06-01T16:17:11.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-01T16:18:22.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-01T16:18:22.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T16:20:30.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 3 troops for 10 territories.",
+    "timestamp": "2016-06-01T16:20:30.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 2 troops for holding Side Yard.",
+    "timestamp": "2016-06-01T16:20:30.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Office (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-06-01T16:20:47.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Pool (gcochard) was reinforced by gcochard with 2 troops.",
+    "timestamp": "2016-06-01T16:20:55.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Office (gcochard) attacked His Bath (jobratt) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-01T16:21:05.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Office (gcochard) occupied His Bath with 5 troops.",
+    "timestamp": "2016-06-01T16:21:07.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Deck (gcochard) attacked Ballroom (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:21:12.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Deck (gcochard) occupied Ballroom with 1 troop.",
+    "timestamp": "2016-06-01T16:23:35.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Pool (gcochard) was fortified from Sauna (gcochard) with 2 troops.",
+    "timestamp": "2016-06-01T16:24:04.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T16:24:04.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T16:24:04.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Round 10 started.",
+    "timestamp": "2016-06-01T16:24:04.000Z",
+    "player": "unknown",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T16:24:17.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 5 troops for 17 territories.",
+    "timestamp": "2016-06-01T16:24:17.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Guest House.",
+    "timestamp": "2016-06-01T16:24:17.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Front.",
+    "timestamp": "2016-06-01T16:24:17.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Porch (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-06-01T16:24:30.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Patio (tanleach1001) was reinforced by tanleach1001 with 6 troops.",
+    "timestamp": "2016-06-01T16:24:33.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Patio (tanleach1001) attacked Hot Tub (gcochard) conquering it, killing 4, losing 0.",
+    "timestamp": "2016-06-01T16:24:37.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Patio (tanleach1001) occupied Hot Tub with 1 troop.",
+    "timestamp": "2016-06-01T16:24:40.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Play Area (tanleach1001) attacked Utilities (jobratt) killing 0, losing 1.",
+    "timestamp": "2016-06-01T16:24:58.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Porch (tanleach1001) attacked Entryway (jobratt) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-06-01T16:25:17.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Porch (tanleach1001) occupied Entryway with 1 troop.",
+    "timestamp": "2016-06-01T16:25:25.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Garage (tanleach1001) was fortified from Driveway (tanleach1001) with 2 troops.",
+    "timestamp": "2016-06-01T16:25:41.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-01T16:25:42.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-01T16:25:42.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-01T16:25:59.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received 3 troops for 11 territories.",
+    "timestamp": "2016-06-01T16:26:00.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received 2 troops for holding Food.",
+    "timestamp": "2016-06-01T16:26:00.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Living Room (jobratt) was reinforced by jobratt with 5 troops.",
+    "timestamp": "2016-06-01T16:26:12.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Living Room (jobratt) attacked Office (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:26:15.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Living Room (jobratt) occupied Office with 1 troop.",
+    "timestamp": "2016-06-01T16:26:18.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Living Room (jobratt) attacked Entryway (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:26:21.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Living Room (jobratt) occupied Entryway with 4 troops.",
+    "timestamp": "2016-06-01T16:26:47.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-01T16:28:09.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-01T16:28:10.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T16:28:16.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 3 troops for 10 territories.",
+    "timestamp": "2016-06-01T16:28:16.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Pool (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-06-01T16:29:04.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Master Bedroom (gcochard) attacked Porch (tanleach1001) conquering it, killing 7, losing 4.",
+    "timestamp": "2016-06-01T16:29:22.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Master Bedroom (gcochard) occupied Porch with 1 troop.",
+    "timestamp": "2016-06-01T16:29:25.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "His Bath (gcochard) attacked Office (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:29:31.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "His Bath (gcochard) occupied Office with 1 troop.",
+    "timestamp": "2016-06-01T16:29:34.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Pool (gcochard) attacked Hot Tub (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:29:38.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Pool (gcochard) occupied Hot Tub with 7 troops.",
+    "timestamp": "2016-06-01T16:29:39.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Hot Tub (gcochard) attacked Patio (tanleach1001) killing 10, losing 4.",
+    "timestamp": "2016-06-01T16:29:50.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Deck (gcochard) attacked Patio (tanleach1001) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-06-01T16:29:58.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Deck (gcochard) occupied Patio with 5 troops.",
+    "timestamp": "2016-06-01T16:30:06.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Patio (gcochard) was fortified from Hot Tub (gcochard) with 2 troops.",
+    "timestamp": "2016-06-01T16:30:13.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T16:30:13.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T16:30:13.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Round 11 started.",
+    "timestamp": "2016-06-01T16:30:13.000Z",
+    "player": "unknown",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T16:30:23.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 5 troops for 15 territories.",
+    "timestamp": "2016-06-01T16:30:23.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Guest Bath",
+    "timestamp": "2016-06-01T16:30:45.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Kitchen, Patio, and Guest Bath.",
+    "timestamp": "2016-06-01T16:30:45.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Lounge (tanleach1001) was reinforced by tanleach1001 with 10 troops.",
+    "timestamp": "2016-06-01T16:31:02.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Driveway (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-06-01T16:31:13.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Driveway (tanleach1001) attacked Porch (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:31:15.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Driveway (tanleach1001) occupied Porch with 9 troops.",
+    "timestamp": "2016-06-01T16:31:17.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Porch (tanleach1001) attacked Master Bedroom (gcochard) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-06-01T16:31:25.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Porch (tanleach1001) occupied Master Bedroom with 1 troop.",
+    "timestamp": "2016-06-01T16:31:29.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Lounge (tanleach1001) attacked Patio (gcochard) conquering it, killing 7, losing 4.",
+    "timestamp": "2016-06-01T16:31:39.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Lounge (tanleach1001) occupied Patio with 11 troops.",
+    "timestamp": "2016-06-01T16:31:42.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Patio (tanleach1001) attacked Deck (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:31:50.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Patio (tanleach1001) occupied Deck with 1 troop.",
+    "timestamp": "2016-06-01T16:31:54.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Driveway (tanleach1001) was fortified from Guest Bath (tanleach1001) with 2 troops.",
+    "timestamp": "2016-06-01T16:32:13.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-01T16:32:13.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-01T16:32:13.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-01T16:49:41.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 4 troops for 12 territories.",
+    "timestamp": "2016-06-01T16:49:41.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 2 troops for holding Food.",
+    "timestamp": "2016-06-01T16:49:41.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 4 troops for holding Entry.",
+    "timestamp": "2016-06-01T16:49:41.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 2 troops on Bathroom",
+    "timestamp": "2016-06-01T16:49:46.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards Bathroom, Weight Room, and Shed.",
+    "timestamp": "2016-06-01T16:49:46.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Utilities (jobratt) was reinforced by jobratt with 18 troops.",
+    "timestamp": "2016-06-01T16:50:01.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Utilities (jobratt) attacked Play Area (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:50:04.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Utilities (jobratt) occupied Play Area with 18 troops.",
+    "timestamp": "2016-06-01T16:50:07.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Play Area (jobratt) attacked Bedroom 1 (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:50:10.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Play Area (jobratt) occupied Bedroom 1 with 1 troop.",
+    "timestamp": "2016-06-01T16:50:12.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Play Area (jobratt) attacked Bedroom 2 (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:50:15.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Play Area (jobratt) occupied Bedroom 2 with 1 troop.",
+    "timestamp": "2016-06-01T16:50:18.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Play Area (jobratt) attacked Bedroom 4 (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:50:21.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Play Area (jobratt) occupied Bedroom 4 with 1 troop.",
+    "timestamp": "2016-06-01T16:50:24.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Play Area (jobratt) attacked Game Room (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:50:26.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Play Area (jobratt) occupied Game Room with 14 troops.",
+    "timestamp": "2016-06-01T16:50:28.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Game Room (jobratt) attacked Theater (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:50:33.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Game Room (jobratt) occupied Theater with 1 troop.",
+    "timestamp": "2016-06-01T16:50:36.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Game Room (jobratt) attacked Weight Room (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:50:38.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Game Room (jobratt) occupied Weight Room with 1 troop.",
+    "timestamp": "2016-06-01T16:50:40.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "Living Room (jobratt) was fortified from Storage (jobratt) with 4 troops.",
+    "timestamp": "2016-06-01T16:52:18.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-01T16:52:18.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-01T16:52:18.000Z",
+    "player": "jobratt",
+    "round": 11
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T16:53:02.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 3 troops for 10 territories.",
+    "timestamp": "2016-06-01T16:53:03.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Ballroom (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-06-01T16:53:07.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Ballroom (gcochard) attacked Deck (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:53:11.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Ballroom (gcochard) occupied Deck with 3 troops.",
+    "timestamp": "2016-06-01T16:53:13.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Closet (gcochard) attacked Master Bedroom (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:53:18.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Closet (gcochard) occupied Master Bedroom with 2 troops.",
+    "timestamp": "2016-06-01T16:53:21.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Master Bedroom (gcochard) was fortified from His Bath (gcochard) with 3 troops.",
+    "timestamp": "2016-06-01T16:53:36.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T16:53:36.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T16:53:36.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Round 12 started.",
+    "timestamp": "2016-06-01T16:53:36.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T16:53:57.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 10 territories.",
+    "timestamp": "2016-06-01T16:53:57.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Front.",
+    "timestamp": "2016-06-01T16:53:57.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Guest House.",
+    "timestamp": "2016-06-01T16:53:57.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Garage (tanleach1001) was reinforced by tanleach1001 with 8 troops.",
+    "timestamp": "2016-06-01T16:54:19.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Garage (tanleach1001) attacked Entryway (jobratt) conquering it, killing 4, losing 3.",
+    "timestamp": "2016-06-01T16:54:26.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Garage (tanleach1001) occupied Entryway with 1 troop.",
+    "timestamp": "2016-06-01T16:54:38.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Patio (tanleach1001) attacked Hot Tub (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T16:54:47.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Patio (tanleach1001) occupied Hot Tub with 1 troop.",
+    "timestamp": "2016-06-01T16:54:50.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Porch (tanleach1001) was fortified from Driveway (tanleach1001) with 2 troops.",
+    "timestamp": "2016-06-01T16:54:57.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-01T16:54:57.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-01T16:54:57.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-01T16:55:28.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "jobratt received 6 troops for 18 territories.",
+    "timestamp": "2016-06-01T16:55:28.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "jobratt received 2 troops for holding Food.",
+    "timestamp": "2016-06-01T16:55:28.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "jobratt received 3 troops for holding Bedrooms.",
+    "timestamp": "2016-06-01T16:55:28.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "Bathroom (jobratt) was reinforced by jobratt with 11 troops.",
+    "timestamp": "2016-06-01T16:56:34.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "Bathroom (jobratt) attacked Entryway (tanleach1001) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-06-01T16:56:43.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "Bathroom (jobratt) occupied Entryway with 10 troops.",
+    "timestamp": "2016-06-01T16:56:46.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "Game Room (jobratt) attacked Ballroom (gcochard) killing 0, losing 3.",
+    "timestamp": "2016-06-01T16:57:30.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "Game Room (jobratt) was fortified from Mud Room (jobratt) with 2 troops.",
+    "timestamp": "2016-06-01T16:57:37.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-01T16:57:37.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-01T16:57:37.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T16:59:14.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 3 troops for 11 territories.",
+    "timestamp": "2016-06-01T16:59:14.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 2 troops for holding Master.",
+    "timestamp": "2016-06-01T16:59:14.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Pool (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-06-01T16:59:46.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Master Bedroom (gcochard) was reinforced by gcochard with 2 troops.",
+    "timestamp": "2016-06-01T16:59:49.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Pool (gcochard) attacked Hot Tub (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-01T16:59:55.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Master Bedroom (gcochard) attacked Living Room (jobratt) killing 7, losing 6.",
+    "timestamp": "2016-06-01T17:00:33.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T17:01:54.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T17:01:54.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Round 13 started.",
+    "timestamp": "2016-06-01T17:01:54.000Z",
+    "player": "unknown",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T17:02:07.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 10 territories.",
+    "timestamp": "2016-06-01T17:02:07.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Front.",
+    "timestamp": "2016-06-01T17:02:08.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Guest House.",
+    "timestamp": "2016-06-01T17:02:08.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Porch (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-06-01T17:02:27.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Patio (tanleach1001) was reinforced by tanleach1001 with 6 troops.",
+    "timestamp": "2016-06-01T17:02:35.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Porch (tanleach1001) attacked Master Bedroom (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T17:02:59.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Porch (tanleach1001) occupied Master Bedroom with 7 troops.",
+    "timestamp": "2016-06-01T17:03:06.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Master Bedroom (tanleach1001) attacked Closet (gcochard) killing 0, losing 3.",
+    "timestamp": "2016-06-01T17:03:24.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Garage (tanleach1001) attacked Mud Room (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:04:15.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Garage (tanleach1001) occupied Mud Room with 1 troop.",
+    "timestamp": "2016-06-01T17:04:28.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Driveway (tanleach1001) was fortified from Garage (tanleach1001) with 7 troops.",
+    "timestamp": "2016-06-01T17:04:53.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-01T17:04:55.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-01T17:04:55.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-01T17:12:04.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "jobratt received 6 troops for 18 territories.",
+    "timestamp": "2016-06-01T17:12:04.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "jobratt received 2 troops for holding Food.",
+    "timestamp": "2016-06-01T17:12:04.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "jobratt received 3 troops for holding Bedrooms.",
+    "timestamp": "2016-06-01T17:12:04.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "Living Room (jobratt) was reinforced by jobratt with 11 troops.",
+    "timestamp": "2016-06-01T17:12:17.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "Game Room (jobratt) attacked Ballroom (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:12:23.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "Game Room (jobratt) occupied Ballroom with 10 troops.",
+    "timestamp": "2016-06-01T17:12:28.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "Entryway (jobratt) attacked Porch (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:13:30.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "Entryway (jobratt) occupied Porch with 1 troop.",
+    "timestamp": "2016-06-01T17:13:37.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "Entryway (jobratt) attacked Mud Room (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:13:41.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "Entryway (jobratt) occupied Mud Room with 1 troop.",
+    "timestamp": "2016-06-01T17:13:45.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "Ballroom (jobratt) attacked Sauna (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:14:22.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "Ballroom (jobratt) occupied Sauna with 1 troop.",
+    "timestamp": "2016-06-01T17:14:30.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "Game Room (jobratt) was fortified from Ballroom (jobratt) with 8 troops.",
+    "timestamp": "2016-06-01T17:15:58.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-01T17:15:58.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-01T17:15:58.000Z",
+    "player": "jobratt",
+    "round": 13
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T17:16:28.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "gcochard received 3 troops for 9 territories.",
+    "timestamp": "2016-06-01T17:16:28.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "gcochard received 2 troops for holding Side Yard.",
+    "timestamp": "2016-06-01T17:16:28.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "gcochard received 2 troops on Pool",
+    "timestamp": "2016-06-01T17:16:34.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "gcochard received 2 troops on Office",
+    "timestamp": "2016-06-01T17:16:34.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Pool, Office, and Mud Room.",
+    "timestamp": "2016-06-01T17:16:34.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Deck (gcochard) was reinforced by gcochard with 13 troops.",
+    "timestamp": "2016-06-01T17:16:46.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Deck (gcochard) attacked Ballroom (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:16:50.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Deck (gcochard) occupied Ballroom with 15 troops.",
+    "timestamp": "2016-06-01T17:16:52.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Ballroom (gcochard) attacked Sauna (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:16:55.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Ballroom (gcochard) occupied Sauna with 1 troop.",
+    "timestamp": "2016-06-01T17:16:58.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Ballroom (gcochard) attacked Weight Room (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:17:02.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Ballroom (gcochard) occupied Weight Room with 1 troop.",
+    "timestamp": "2016-06-01T17:17:05.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Ballroom (gcochard) attacked Game Room (jobratt) conquering it, killing 9, losing 5.",
+    "timestamp": "2016-06-01T17:17:13.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Ballroom (gcochard) occupied Game Room with 7 troops.",
+    "timestamp": "2016-06-01T17:17:17.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Game Room (gcochard) attacked Play Area (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:17:24.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Game Room (gcochard) occupied Play Area with 6 troops.",
+    "timestamp": "2016-06-01T17:17:31.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Play Area (gcochard) attacked Utilities (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:17:37.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Play Area (gcochard) occupied Utilities with 1 troop.",
+    "timestamp": "2016-06-01T17:17:41.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Play Area (gcochard) attacked Bathroom (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:17:45.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Play Area (gcochard) occupied Bathroom with 1 troop.",
+    "timestamp": "2016-06-01T17:17:48.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Play Area (gcochard) attacked Bedroom 1 (jobratt) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-01T17:18:43.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Deck (gcochard) was fortified from Pool (gcochard) with 2 troops.",
+    "timestamp": "2016-06-01T17:18:50.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T17:18:50.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T17:18:50.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "Round 14 started.",
+    "timestamp": "2016-06-01T17:18:50.000Z",
+    "player": "unknown",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T17:18:53.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 10 territories.",
+    "timestamp": "2016-06-01T17:18:53.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Guest House.",
+    "timestamp": "2016-06-01T17:18:53.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Master Bedroom (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-06-01T17:20:12.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Master Bedroom (tanleach1001) attacked Porch (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T17:20:23.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Master Bedroom (tanleach1001) occupied Porch with 7 troops.",
+    "timestamp": "2016-06-01T17:21:20.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Porch (tanleach1001) attacked Entryway (jobratt) killing 6, losing 6.",
+    "timestamp": "2016-06-01T17:21:42.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Patio (tanleach1001) attacked Hot Tub (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:21:54.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Patio (tanleach1001) occupied Hot Tub with 1 troop.",
+    "timestamp": "2016-06-01T17:21:59.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Patio (tanleach1001) attacked Pool (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:23:01.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Patio (tanleach1001) occupied Pool with 1 troop.",
+    "timestamp": "2016-06-01T17:23:24.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-01T17:23:43.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-01T17:23:43.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-01T17:25:26.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "jobratt received 4 troops for 13 territories.",
+    "timestamp": "2016-06-01T17:25:26.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "jobratt received 2 troops on Living Room",
+    "timestamp": "2016-06-01T17:25:43.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "jobratt received 2 troops on Pantry",
+    "timestamp": "2016-06-01T17:25:43.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards Living Room, Pantry, and Guest Bedroom.",
+    "timestamp": "2016-06-01T17:25:43.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Entryway (jobratt) was reinforced by jobratt with 12 troops.",
+    "timestamp": "2016-06-01T17:26:13.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Entryway (jobratt) attacked Garage (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T17:26:23.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Entryway (jobratt) occupied Garage with 1 troop.",
+    "timestamp": "2016-06-01T17:26:33.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Entryway (jobratt) attacked Bathroom (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:26:39.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Entryway (jobratt) occupied Bathroom with 11 troops.",
+    "timestamp": "2016-06-01T17:26:40.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Bathroom (jobratt) attacked Utilities (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T17:26:59.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Bathroom (jobratt) occupied Utilities with 9 troops.",
+    "timestamp": "2016-06-01T17:27:01.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Utilities (jobratt) attacked Play Area (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:27:04.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Utilities (jobratt) occupied Play Area with 8 troops.",
+    "timestamp": "2016-06-01T17:27:06.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Play Area (jobratt) attacked Bedroom 1 (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:27:09.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Play Area (jobratt) occupied Bedroom 1 with 1 troop.",
+    "timestamp": "2016-06-01T17:27:11.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Play Area (jobratt) attacked Game Room (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:27:13.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Play Area (jobratt) occupied Game Room with 6 troops.",
+    "timestamp": "2016-06-01T17:27:15.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Living Room (jobratt) attacked Master Bedroom (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:27:46.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Living Room (jobratt) occupied Master Bedroom with 1 troop.",
+    "timestamp": "2016-06-01T17:28:26.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "Game Room (jobratt) was fortified from Pantry (jobratt) with 2 troops.",
+    "timestamp": "2016-06-01T17:28:58.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-01T17:28:58.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-01T17:28:58.000Z",
+    "player": "jobratt",
+    "round": 14
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T17:29:13.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "gcochard received 3 troops for 10 territories.",
+    "timestamp": "2016-06-01T17:29:13.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "gcochard received 2 troops on Her Bath",
+    "timestamp": "2016-06-01T17:29:25.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Driveway, Family Room, and Her Bath.",
+    "timestamp": "2016-06-01T17:29:25.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Ballroom (gcochard) was reinforced by gcochard with 11 troops.",
+    "timestamp": "2016-06-01T17:30:23.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Ballroom (gcochard) attacked Family Room (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T17:30:28.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Ballroom (gcochard) occupied Family Room with 10 troops.",
+    "timestamp": "2016-06-01T17:30:31.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Family Room (gcochard) attacked Entryway (jobratt) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-01T17:30:39.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Family Room (gcochard) occupied Entryway with 1 troop.",
+    "timestamp": "2016-06-01T17:30:44.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Family Room (gcochard) attacked Game Room (jobratt) killing 4, losing 6.",
+    "timestamp": "2016-06-01T17:30:59.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Ballroom (gcochard) was fortified from Deck (gcochard) with 2 troops.",
+    "timestamp": "2016-06-01T17:31:48.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T17:31:48.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T17:31:48.000Z",
+    "player": "gcochard",
+    "round": 14
+  },
+  {
+    "message": "Round 15 started.",
+    "timestamp": "2016-06-01T17:31:48.000Z",
+    "player": "unknown",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T17:31:53.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 11 territories.",
+    "timestamp": "2016-06-01T17:31:53.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Guest House.",
+    "timestamp": "2016-06-01T17:31:53.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Deck, Ballroom, and Tree House.",
+    "timestamp": "2016-06-01T17:31:57.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Porch (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-06-01T17:32:24.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Pool (tanleach1001) was reinforced by tanleach1001 with 10 troops.",
+    "timestamp": "2016-06-01T17:32:35.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Pool (tanleach1001) attacked Shed (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:32:38.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Pool (tanleach1001) occupied Shed with 10 troops.",
+    "timestamp": "2016-06-01T17:32:39.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Shed (tanleach1001) attacked Tree House (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:32:42.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Shed (tanleach1001) occupied Tree House with 9 troops.",
+    "timestamp": "2016-06-01T17:32:44.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Tree House (tanleach1001) attacked Deck (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:32:47.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Tree House (tanleach1001) occupied Deck with 8 troops.",
+    "timestamp": "2016-06-01T17:32:49.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Driveway (tanleach1001) attacked Garage (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T17:32:53.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Driveway (tanleach1001) occupied Garage with 7 troops.",
+    "timestamp": "2016-06-01T17:32:54.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Porch (tanleach1001) was fortified from Patio (tanleach1001) with 3 troops.",
+    "timestamp": "2016-06-01T17:33:23.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-01T17:33:23.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-01T17:33:23.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-01T18:02:16.000Z",
+    "player": "jobratt",
+    "round": 15
+  },
+  {
+    "message": "jobratt received 5 troops for 17 territories.",
+    "timestamp": "2016-06-01T18:02:16.000Z",
+    "player": "jobratt",
+    "round": 15
+  },
+  {
+    "message": "jobratt received 2 troops for holding Food.",
+    "timestamp": "2016-06-01T18:02:16.000Z",
+    "player": "jobratt",
+    "round": 15
+  },
+  {
+    "message": "jobratt received 3 troops for holding Bedrooms.",
+    "timestamp": "2016-06-01T18:02:16.000Z",
+    "player": "jobratt",
+    "round": 15
+  },
+  {
+    "message": "Game Room (jobratt) was reinforced by jobratt with 10 troops.",
+    "timestamp": "2016-06-01T18:02:26.000Z",
+    "player": "jobratt",
+    "round": 15
+  },
+  {
+    "message": "Game Room (jobratt) attacked Weight Room (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:02:42.000Z",
+    "player": "jobratt",
+    "round": 15
+  },
+  {
+    "message": "Game Room (jobratt) occupied Weight Room with 1 troop.",
+    "timestamp": "2016-06-01T18:02:50.000Z",
+    "player": "jobratt",
+    "round": 15
+  },
+  {
+    "message": "Living Room (jobratt) attacked Entryway (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T18:03:01.000Z",
+    "player": "jobratt",
+    "round": 15
+  },
+  {
+    "message": "Living Room (jobratt) occupied Entryway with 1 troop.",
+    "timestamp": "2016-06-01T18:03:06.000Z",
+    "player": "jobratt",
+    "round": 15
+  },
+  {
+    "message": "Game Room (jobratt) attacked Family Room (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-06-01T18:03:18.000Z",
+    "player": "jobratt",
+    "round": 15
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-01T18:03:30.000Z",
+    "player": "jobratt",
+    "round": 15
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-01T18:03:30.000Z",
+    "player": "jobratt",
+    "round": 15
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T18:04:20.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-06-01T18:04:20.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Her Bath (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-06-01T18:04:25.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Her Bath (gcochard) attacked Master Bedroom (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:04:38.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Her Bath (gcochard) occupied Master Bedroom with 5 troops.",
+    "timestamp": "2016-06-01T18:05:03.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T18:05:20.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T18:05:20.000Z",
+    "player": "gcochard",
+    "round": 15
+  },
+  {
+    "message": "Round 16 started.",
+    "timestamp": "2016-06-01T18:05:20.000Z",
+    "player": "unknown",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T18:05:25.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 5 troops for 15 territories.",
+    "timestamp": "2016-06-01T18:05:25.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Side Yard.",
+    "timestamp": "2016-06-01T18:05:25.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 3 troops for holding Front.",
+    "timestamp": "2016-06-01T18:05:25.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Guest House.",
+    "timestamp": "2016-06-01T18:05:25.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Lounge",
+    "timestamp": "2016-06-01T18:05:31.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Bar, Storage, and Lounge.",
+    "timestamp": "2016-06-01T18:05:31.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Porch (tanleach1001) was reinforced by tanleach1001 with 20 troops.",
+    "timestamp": "2016-06-01T18:05:36.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Porch (tanleach1001) attacked Entryway (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T18:05:41.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Porch (tanleach1001) occupied Entryway with 25 troops.",
+    "timestamp": "2016-06-01T18:05:43.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Entryway (tanleach1001) attacked Living Room (jobratt) conquering it, killing 13, losing 6.",
+    "timestamp": "2016-06-01T18:06:22.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Entryway (tanleach1001) occupied Living Room with 18 troops.",
+    "timestamp": "2016-06-01T18:06:30.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Living Room (tanleach1001) attacked Dining Room (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:06:51.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Living Room (tanleach1001) occupied Dining Room with 1 troop.",
+    "timestamp": "2016-06-01T18:06:59.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Living Room (tanleach1001) attacked Play Area (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T18:07:16.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Living Room (tanleach1001) occupied Play Area with 1 troop.",
+    "timestamp": "2016-06-01T18:07:33.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Living Room (tanleach1001) attacked Bathroom (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:08:01.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Living Room (tanleach1001) occupied Bathroom with 1 troop.",
+    "timestamp": "2016-06-01T18:08:10.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Garage (tanleach1001) attacked Storage (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:08:23.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Garage (tanleach1001) occupied Storage with 1 troop.",
+    "timestamp": "2016-06-01T18:08:25.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Garage (tanleach1001) attacked Mud Room (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:08:28.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Garage (tanleach1001) occupied Mud Room with 1 troop.",
+    "timestamp": "2016-06-01T18:08:30.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Living Room (tanleach1001) attacked His Bath (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T18:08:48.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Living Room (tanleach1001) occupied His Bath with 1 troop.",
+    "timestamp": "2016-06-01T18:08:51.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Garage (tanleach1001) was fortified from Lounge (tanleach1001) with 2 troops.",
+    "timestamp": "2016-06-01T18:09:22.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-01T18:09:22.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-01T18:09:22.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-01T18:09:24.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "jobratt received 3 troops for 11 territories.",
+    "timestamp": "2016-06-01T18:09:24.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "Game Room (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-06-01T18:09:31.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "Game Room (jobratt) attacked Family Room (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:09:35.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "Game Room (jobratt) occupied Family Room with 14 troops.",
+    "timestamp": "2016-06-01T18:09:36.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "Family Room (jobratt) attacked Ballroom (gcochard) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-06-01T18:09:39.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "Family Room (jobratt) occupied Ballroom with 12 troops.",
+    "timestamp": "2016-06-01T18:09:41.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "Ballroom (jobratt) attacked Sauna (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T18:09:46.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "Ballroom (jobratt) occupied Sauna with 1 troop.",
+    "timestamp": "2016-06-01T18:09:58.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "Ballroom (jobratt) attacked Deck (tanleach1001) conquering it, killing 8, losing 6.",
+    "timestamp": "2016-06-01T18:10:08.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "Ballroom (jobratt) occupied Deck with 3 troops.",
+    "timestamp": "2016-06-01T18:10:10.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "Deck (jobratt) attacked Pool (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-06-01T18:10:13.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-01T18:10:17.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-01T18:10:17.000Z",
+    "player": "jobratt",
+    "round": 16
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T18:10:57.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "gcochard received 3 troops for 4 territories.",
+    "timestamp": "2016-06-01T18:10:58.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "Master Bedroom (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-06-01T18:11:49.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "Office (gcochard) attacked Dining Room (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:11:52.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "Office (gcochard) occupied Dining Room with 2 troops.",
+    "timestamp": "2016-06-01T18:11:55.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "Master Bedroom (gcochard) attacked Porch (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:11:59.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "Master Bedroom (gcochard) occupied Porch with 1 troop.",
+    "timestamp": "2016-06-01T18:12:04.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "Dining Room (gcochard) attacked Living Room (tanleach1001) killing 1, losing 1.",
+    "timestamp": "2016-06-01T18:12:12.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "Master Bedroom (gcochard) attacked His Bath (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-06-01T18:12:21.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "Master Bedroom (gcochard) attacked Living Room (tanleach1001) killing 1, losing 4.",
+    "timestamp": "2016-06-01T18:12:29.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T18:12:55.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T18:12:55.000Z",
+    "player": "gcochard",
+    "round": 16
+  },
+  {
+    "message": "Round 17 started.",
+    "timestamp": "2016-06-01T18:12:55.000Z",
+    "player": "unknown",
+    "round": 17
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T18:13:43.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "tanleach1001 received 6 troops for 20 territories.",
+    "timestamp": "2016-06-01T18:13:43.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Guest House.",
+    "timestamp": "2016-06-01T18:13:43.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Entry.",
+    "timestamp": "2016-06-01T18:13:43.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Play Area (tanleach1001) was reinforced by tanleach1001 with 4 troops.",
+    "timestamp": "2016-06-01T18:16:23.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Patio (tanleach1001) was reinforced by tanleach1001 with 8 troops.",
+    "timestamp": "2016-06-01T18:16:26.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Patio (tanleach1001) attacked Sauna (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T18:16:31.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Patio (tanleach1001) occupied Sauna with 16 troops.",
+    "timestamp": "2016-06-01T18:16:33.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Sauna (tanleach1001) attacked Ballroom (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:16:35.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Sauna (tanleach1001) occupied Ballroom with 15 troops.",
+    "timestamp": "2016-06-01T18:16:38.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Ballroom (tanleach1001) attacked Deck (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T18:16:42.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Ballroom (tanleach1001) occupied Deck with 1 troop.",
+    "timestamp": "2016-06-01T18:16:59.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Ballroom (tanleach1001) attacked Weight Room (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:17:02.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Ballroom (tanleach1001) occupied Weight Room with 12 troops.",
+    "timestamp": "2016-06-01T18:17:05.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Weight Room (tanleach1001) attacked Family Room (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:17:08.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Weight Room (tanleach1001) occupied Family Room with 11 troops.",
+    "timestamp": "2016-06-01T18:17:12.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Family Room (tanleach1001) attacked Theater (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T18:17:18.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Family Room (tanleach1001) occupied Theater with 9 troops.",
+    "timestamp": "2016-06-01T18:17:19.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Theater (tanleach1001) attacked Game Room (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T18:17:23.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Theater (tanleach1001) occupied Game Room with 7 troops.",
+    "timestamp": "2016-06-01T18:17:25.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Game Room (tanleach1001) attacked Bedroom 4 (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:17:28.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Game Room (tanleach1001) occupied Bedroom 4 with 1 troop.",
+    "timestamp": "2016-06-01T18:17:33.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Play Area (tanleach1001) attacked Bedroom 1 (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:17:39.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Play Area (tanleach1001) occupied Bedroom 1 with 1 troop.",
+    "timestamp": "2016-06-01T18:17:41.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Play Area (tanleach1001) attacked Bedroom 2 (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:17:45.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Play Area (tanleach1001) occupied Bedroom 2 with 1 troop.",
+    "timestamp": "2016-06-01T18:17:47.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Living Room (tanleach1001) attacked Dining Room (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:17:51.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Living Room (tanleach1001) occupied Dining Room with 9 troops.",
+    "timestamp": "2016-06-01T18:18:17.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Dining Room (tanleach1001) attacked Bar (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T18:18:23.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Dining Room (tanleach1001) occupied Bar with 7 troops.",
+    "timestamp": "2016-06-01T18:18:25.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Bar (tanleach1001) attacked Kitchen (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:18:35.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Bar (tanleach1001) occupied Kitchen with 6 troops.",
+    "timestamp": "2016-06-01T18:18:37.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Kitchen (tanleach1001) attacked Pantry (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:18:41.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Kitchen (tanleach1001) occupied Pantry with 1 troop.",
+    "timestamp": "2016-06-01T18:18:44.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Kitchen (tanleach1001) attacked Utilities (jobratt) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-01T18:19:18.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Kitchen (tanleach1001) occupied Utilities with 2 troops.",
+    "timestamp": "2016-06-01T18:19:20.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Utilities (tanleach1001) attacked Bedroom 3 (jobratt) killing 0, losing 1.",
+    "timestamp": "2016-06-01T18:19:24.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Play Area (tanleach1001) attacked Bedroom 3 (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:19:27.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "jobratt was defeated by tanleach1001.",
+    "timestamp": "2016-06-01T18:19:27.000Z",
+    "player": "jobratt",
+    "round": 17
+  },
+  {
+    "message": "Play Area (tanleach1001) occupied Bedroom 3 with 2 troops.",
+    "timestamp": "2016-06-01T18:19:29.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Bedroom 2",
+    "timestamp": "2016-06-01T18:19:37.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Bedroom 3",
+    "timestamp": "2016-06-01T18:19:37.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Bedroom 4",
+    "timestamp": "2016-06-01T18:19:37.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Bedroom 2, Bedroom 3, and Bedroom 4.",
+    "timestamp": "2016-06-01T18:19:37.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "His Bath (tanleach1001) was reinforced by tanleach1001 with 8 troops.",
+    "timestamp": "2016-06-01T18:19:50.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "His Bath (tanleach1001) attacked Office (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:19:53.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "His Bath (tanleach1001) occupied Office with 1 troop.",
+    "timestamp": "2016-06-01T18:20:17.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "His Bath (tanleach1001) attacked Master Bedroom (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:20:22.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "His Bath (tanleach1001) occupied Master Bedroom with 7 troops.",
+    "timestamp": "2016-06-01T18:20:26.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Master Bedroom (tanleach1001) attacked Closet (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:21:00.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Master Bedroom (tanleach1001) occupied Closet with 1 troop.",
+    "timestamp": "2016-06-01T18:21:03.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Master Bedroom (tanleach1001) attacked Her Bath (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T18:21:09.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Master Bedroom (tanleach1001) occupied Her Bath with 1 troop.",
+    "timestamp": "2016-06-01T18:21:11.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Master Bedroom (tanleach1001) attacked Porch (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T18:21:14.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "gcochard was defeated by tanleach1001.",
+    "timestamp": "2016-06-01T18:21:15.000Z",
+    "player": "gcochard",
+    "round": 17
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-06-01T18:21:15.000Z",
+    "player": "unknown",
+    "round": 17
+  },
+  {
+    "message": "ryanbmilbourne lost 14 rating.",
+    "timestamp": "2016-06-01T18:21:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "ryanbmilbourne received 20 tokens.",
+    "timestamp": "2016-06-01T18:21:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "tanleach1001 won the game.",
+    "timestamp": "2016-06-01T18:21:15.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "tanleach1001 received 81 rating.",
+    "timestamp": "2016-06-01T18:21:15.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "tanleach1001 received 20 tokens.",
+    "timestamp": "2016-06-01T18:21:15.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "jobratt lost 31 rating.",
+    "timestamp": "2016-06-01T18:21:15.000Z",
+    "player": "jobratt",
+    "round": 17
+  },
+  {
+    "message": "jobratt received 20 tokens.",
+    "timestamp": "2016-06-01T18:21:15.000Z",
+    "player": "jobratt",
+    "round": 17
+  },
+  {
+    "message": "mmacfreier lost 19 rating.",
+    "timestamp": "2016-06-01T18:21:15.000Z",
+    "player": "mmacfreier",
+    "round": 17
+  },
+  {
+    "message": "mmacfreier received 20 tokens.",
+    "timestamp": "2016-06-01T18:21:15.000Z",
+    "player": "mmacfreier",
+    "round": 17
+  },
+  {
+    "message": "gcochard lost 17 rating.",
+    "timestamp": "2016-06-01T18:21:15.000Z",
+    "player": "gcochard",
+    "round": 17
+  },
+  {
+    "message": "gcochard received 20 tokens.",
+    "timestamp": "2016-06-01T18:21:15.000Z",
+    "player": "gcochard",
+    "round": 17
+  }
+]
