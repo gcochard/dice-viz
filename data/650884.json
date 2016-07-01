@@ -1,0 +1,3584 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-06-21T22:42:40.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "johnsgill3 joined the game.",
+    "timestamp": "2016-06-21T22:42:40.000Z",
+    "player": "johnsgill3",
+    "round": 0
+  },
+  {
+    "message": "gcochard joined the game.",
+    "timestamp": "2016-06-21T22:43:50.000Z",
+    "player": "gcochard",
+    "round": 0
+  },
+  {
+    "message": "kwren joined the game.",
+    "timestamp": "2016-06-21T22:44:10.000Z",
+    "player": "kwren",
+    "round": 0
+  },
+  {
+    "message": "jobratt joined the game.",
+    "timestamp": "2016-06-21T22:49:38.000Z",
+    "player": "jobratt",
+    "round": 0
+  },
+  {
+    "message": "tanleach1001 joined the game.",
+    "timestamp": "2016-06-21T23:01:41.000Z",
+    "player": "tanleach1001",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne joined the game.",
+    "timestamp": "2016-06-21T23:54:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-06-21T23:54:48.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-22T00:00:52.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received 3 troops for 9 territories.",
+    "timestamp": "2016-06-22T00:00:52.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "San Carlos (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-06-22T00:01:05.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "San Carlos (jobratt) attacked Belmont (ryanbmilbourne) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-06-22T00:01:11.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "San Carlos (jobratt) occupied Belmont with 2 troops.",
+    "timestamp": "2016-06-22T00:01:15.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Clayton (jobratt) was fortified from Walnut Creek (jobratt) with 2 troops.",
+    "timestamp": "2016-06-22T00:01:29.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-22T00:11:10.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-22T00:11:10.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-06-22T15:41:58.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 9 territories.",
+    "timestamp": "2016-06-22T15:41:58.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Hunters Point (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-06-22T15:42:03.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Hunters Point (johnsgill3) attacked Downtown (ryanbmilbourne) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-06-22T15:42:11.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Hunters Point (johnsgill3) occupied Downtown with 5 troops.",
+    "timestamp": "2016-06-22T15:42:16.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Alcatraz (johnsgill3) attacked Pacific Heights (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-06-22T15:43:40.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Oakland (johnsgill3) was fortified from San Ramon (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-22T15:44:15.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Pleasanton (gcochard) was fortified from Garin Creek (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-22T15:44:26.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-06-22T15:44:47.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-06-22T15:44:47.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-22T15:46:56.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 9 territories.",
+    "timestamp": "2016-06-22T15:46:56.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Lafayette (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-06-22T15:47:17.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Lafayette (tanleach1001) attacked Walnut Creek (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T15:47:21.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Lafayette (tanleach1001) occupied Walnut Creek with 5 troops.",
+    "timestamp": "2016-06-22T15:47:25.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Walnut Creek (tanleach1001) attacked Concord (johnsgill3) killing 2, losing 0.",
+    "timestamp": "2016-06-22T15:47:31.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Martinez (tanleach1001) attacked Concord (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T15:47:38.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Martinez (tanleach1001) occupied Concord with 2 troops.",
+    "timestamp": "2016-06-22T15:47:43.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Concord (tanleach1001) was fortified from Moraga (tanleach1001) with 2 troops.",
+    "timestamp": "2016-06-22T15:48:08.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Concord (tanleach1001) was fortified from San Pablo (tanleach1001) with 2 troops.",
+    "timestamp": "2016-06-22T15:48:17.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "San Bruno (tanleach1001) was fortified from Millbrae (tanleach1001) with 2 troops.",
+    "timestamp": "2016-06-22T15:48:48.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Foster City (kwren) was fortified from Union City (tanleach1001) with 2 troops.",
+    "timestamp": "2016-06-22T15:49:31.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-22T15:49:49.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-22T15:49:49.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-22T16:13:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 7 territories.",
+    "timestamp": "2016-06-22T16:13:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Pacific Heights (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-06-22T16:13:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Pacific Heights (ryanbmilbourne) attacked Alcatraz (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T16:13:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Pacific Heights (ryanbmilbourne) occupied Alcatraz with 1 troop.",
+    "timestamp": "2016-06-22T16:13:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Pacific Heights (ryanbmilbourne) attacked Marin City (Neutral) killing 0, losing 4.",
+    "timestamp": "2016-06-22T16:13:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Muir Woods (ryanbmilbourne) attacked Marin City (Neutral) killing 2, losing 2.",
+    "timestamp": "2016-06-22T16:14:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Muir Woods (ryanbmilbourne) was fortified from San Rafael (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-06-22T16:14:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Castro Valley (ryanbmilbourne) was fortified from Dublin (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-06-22T16:15:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-22T16:15:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-22T16:15:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-22T17:15:14.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 3 troops for 9 territories.",
+    "timestamp": "2016-06-22T17:15:14.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Pleasanton (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-06-22T17:16:53.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Pleasanton (gcochard) attacked Sunol (kwren) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-06-22T17:17:16.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Pleasanton (gcochard) occupied Sunol with 5 troops.",
+    "timestamp": "2016-06-22T17:17:21.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Sunol (gcochard) attacked Newark (kwren) killing 2, losing 0.",
+    "timestamp": "2016-06-22T17:17:32.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Palo Alto (gcochard) attacked Newark (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T17:17:37.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Palo Alto (gcochard) occupied Newark with 2 troops.",
+    "timestamp": "2016-06-22T17:17:39.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Sunol (gcochard) attacked Union City (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-22T17:17:47.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Sunol (gcochard) occupied Union City with 3 troops.",
+    "timestamp": "2016-06-22T17:17:49.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Portola (johnsgill3) was fortified from Sunset District (gcochard) with 2 troops.",
+    "timestamp": "2016-06-22T17:18:14.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Oakland (johnsgill3) was fortified from North San Leandro (gcochard) with 2 troops.",
+    "timestamp": "2016-06-22T17:18:52.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Sunol (gcochard) was fortified from Milpitas (gcochard) with 2 troops.",
+    "timestamp": "2016-06-22T17:19:11.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-22T17:21:21.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-22T17:21:21.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-06-22T17:22:06.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-06-22T17:22:06.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Wildcat Canyon (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-06-22T17:22:28.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Wildcat Canyon (kwren) attacked Richmond (gcochard) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-06-22T17:22:35.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Wildcat Canyon (kwren) occupied Richmond with 3 troops.",
+    "timestamp": "2016-06-22T17:22:37.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Berkeley (kwren) attacked San Pablo (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-06-22T17:22:42.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Alamo (kwren) attacked Lafayette (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-06-22T17:22:46.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Mill Valley (kwren) attacked San Rafael (ryanbmilbourne) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-06-22T17:22:59.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Millbrae (tanleach1001) was fortified from Hayward (kwren) with 2 troops.",
+    "timestamp": "2016-06-22T17:23:38.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Millbrae (tanleach1001) was fortified from SFO (kwren) with 2 troops.",
+    "timestamp": "2016-06-22T17:23:45.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Berkeley (kwren) was fortified from Richmond (kwren) with 2 troops.",
+    "timestamp": "2016-06-22T17:25:11.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-06-22T17:27:17.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-06-22T17:27:17.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-06-22T17:27:17.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-22T18:17:18.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received 3 troops for 9 territories.",
+    "timestamp": "2016-06-22T18:17:18.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Redwood City (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-06-22T18:17:29.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Redwood City (jobratt) attacked Palo Alto (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T18:17:33.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Redwood City (jobratt) occupied Palo Alto with 5 troops.",
+    "timestamp": "2016-06-22T18:17:36.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Belmont (jobratt) was fortified from Palo Alto (jobratt) with 2 troops.",
+    "timestamp": "2016-06-22T18:18:18.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-22T18:18:22.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-22T18:18:22.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-06-22T18:29:25.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 8 territories.",
+    "timestamp": "2016-06-22T18:29:25.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Portola (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-06-22T18:29:32.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Portola (johnsgill3) attacked Bayview (Neutral) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-06-22T18:29:45.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Portola (johnsgill3) occupied Bayview with 1 troop.",
+    "timestamp": "2016-06-22T18:29:49.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Noe Valley (johnsgill3) attacked Pacific Heights (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-22T18:30:01.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Downtown (johnsgill3) attacked Alcatraz (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T18:30:08.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Downtown (johnsgill3) occupied Alcatraz with 1 troop.",
+    "timestamp": "2016-06-22T18:30:11.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Portola (johnsgill3) attacked Sunset District (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T18:30:20.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Portola (johnsgill3) occupied Sunset District with 1 troop.",
+    "timestamp": "2016-06-22T18:30:25.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Oakland (johnsgill3) attacked Alameda (jobratt) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-06-22T18:30:34.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Oakland (johnsgill3) occupied Alameda with 1 troop.",
+    "timestamp": "2016-06-22T18:30:44.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Oakland (johnsgill3) attacked Moraga (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T18:30:49.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Oakland (johnsgill3) occupied Moraga with 4 troops.",
+    "timestamp": "2016-06-22T18:30:57.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Moraga (johnsgill3) attacked Alamo (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T18:31:00.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Moraga (johnsgill3) occupied Alamo with 1 troop.",
+    "timestamp": "2016-06-22T18:31:03.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Alameda (johnsgill3) was fortified from Moraga (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-22T18:31:41.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Alameda (johnsgill3) was fortified from Downtown (johnsgill3) with 1 troop.",
+    "timestamp": "2016-06-22T18:31:46.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Pacific Heights (johnsgill3) was fortified from Downtown (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-22T18:31:50.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Newark (gcochard) was fortified from Fremont (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-22T18:32:07.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-06-22T18:32:58.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-06-22T18:32:58.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-22T18:35:40.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 9 territories.",
+    "timestamp": "2016-06-22T18:35:40.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "San Bruno (tanleach1001) was reinforced by tanleach1001 with 1 troop.",
+    "timestamp": "2016-06-22T18:36:20.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Berkeley (kwren) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-06-22T18:36:24.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Concord (tanleach1001) attacked Pittsburg (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-06-22T18:36:31.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Concord (tanleach1001) occupied Pittsburg with 3 troops.",
+    "timestamp": "2016-06-22T18:36:37.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "San Bruno (tanleach1001) attacked Daly City (gcochard) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-06-22T18:36:49.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "San Bruno (tanleach1001) occupied Daly City with 2 troops.",
+    "timestamp": "2016-06-22T18:36:57.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Millbrae (tanleach1001) attacked SFO (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T18:37:01.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Millbrae (tanleach1001) occupied SFO with 4 troops.",
+    "timestamp": "2016-06-22T18:37:02.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Walnut Creek (tanleach1001) attacked Alamo (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T18:37:12.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Walnut Creek (tanleach1001) occupied Alamo with 1 troop.",
+    "timestamp": "2016-06-22T18:37:16.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Daly City (tanleach1001) was fortified from Pacifica (tanleach1001) with 2 troops.",
+    "timestamp": "2016-06-22T18:37:55.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Concord (tanleach1001) was fortified from Pittsburg (tanleach1001) with 1 troop.",
+    "timestamp": "2016-06-22T18:38:10.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-22T18:38:45.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-22T18:38:45.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-22T20:24:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 4 territories.",
+    "timestamp": "2016-06-22T20:24:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Muir Woods (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-06-22T20:24:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Muir Woods (ryanbmilbourne) attacked San Rafael (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T20:24:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Muir Woods (ryanbmilbourne) occupied San Rafael with 4 troops.",
+    "timestamp": "2016-06-22T20:24:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "San Rafael (ryanbmilbourne) attacked Mill Valley (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T20:24:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "San Rafael (ryanbmilbourne) occupied Mill Valley with 1 troop.",
+    "timestamp": "2016-06-22T20:25:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "San Rafael (ryanbmilbourne) attacked Richmond (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T20:25:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "San Rafael (ryanbmilbourne) occupied Richmond with 1 troop.",
+    "timestamp": "2016-06-22T20:25:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Castro Valley (ryanbmilbourne) attacked Garin Creek (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T20:26:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Castro Valley (ryanbmilbourne) occupied Garin Creek with 4 troops.",
+    "timestamp": "2016-06-22T20:27:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "San Carlos (jobratt) was fortified from San Mateo (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-06-22T20:27:32.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-22T20:28:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-22T20:28:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-22T20:29:59.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 3 troops for 8 territories.",
+    "timestamp": "2016-06-22T20:29:59.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Sunol (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-06-22T20:30:16.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Sunol (gcochard) attacked Fremont (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T20:30:23.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Sunol (gcochard) occupied Fremont with 1 troop.",
+    "timestamp": "2016-06-22T20:30:31.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Burlingame (gcochard) attacked San Mateo (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T20:30:43.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Burlingame (gcochard) occupied San Mateo with 1 troop.",
+    "timestamp": "2016-06-22T20:30:55.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Black Diamond Mines (gcochard) attacked Pittsburg (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-06-22T20:32:21.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "San Mateo (gcochard) was fortified from Burlingame (gcochard) with 1 troop.",
+    "timestamp": "2016-06-22T20:32:59.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Union City (gcochard) was fortified from Sunol (gcochard) with 1 troop.",
+    "timestamp": "2016-06-22T20:33:19.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-22T20:35:17.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-22T20:35:17.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-06-22T20:52:24.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 3 troops for 4 territories.",
+    "timestamp": "2016-06-22T20:52:24.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Foster City (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-06-22T20:52:30.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Foster City (kwren) attacked Belmont (jobratt) conquering it, killing 4, losing 6.",
+    "timestamp": "2016-06-22T20:52:44.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Berkeley (kwren) attacked Richmond (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T20:52:53.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Berkeley (kwren) occupied Richmond with 4 troops.",
+    "timestamp": "2016-06-22T20:52:56.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Richmond (kwren) attacked San Rafael (ryanbmilbourne) killing 1, losing 3.",
+    "timestamp": "2016-06-22T20:53:09.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-06-22T20:53:41.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-06-22T20:53:41.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-06-22T20:53:41.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-22T21:11:15.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 3 troops for 8 territories.",
+    "timestamp": "2016-06-22T21:11:15.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Clayton (jobratt) was reinforced by jobratt with 1 troop.",
+    "timestamp": "2016-06-22T21:11:45.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "San Carlos (jobratt) was reinforced by jobratt with 2 troops.",
+    "timestamp": "2016-06-22T21:11:53.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Clayton (jobratt) attacked Concord (tanleach1001) killing 2, losing 2.",
+    "timestamp": "2016-06-22T21:14:29.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "San Carlos (jobratt) attacked Belmont (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-22T21:15:57.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "San Carlos (jobratt) occupied Belmont with 2 troops.",
+    "timestamp": "2016-06-22T21:16:09.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Clayton (jobratt) attacked Concord (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T21:16:17.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Clayton (jobratt) occupied Concord with 3 troops.",
+    "timestamp": "2016-06-22T21:16:26.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Concord (jobratt) attacked Martinez (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T21:16:48.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Concord (jobratt) occupied Martinez with 2 troops.",
+    "timestamp": "2016-06-22T21:17:01.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Tassajara (jobratt) attacked Black Diamond Mines (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-22T21:21:17.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Tassajara (jobratt) occupied Black Diamond Mines with 1 troop.",
+    "timestamp": "2016-06-22T21:21:34.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Castro Valley (ryanbmilbourne) was fortified from South San Leandro (jobratt) with 2 troops.",
+    "timestamp": "2016-06-22T21:28:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-22T21:29:30.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-22T21:29:30.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-06-22T21:36:07.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 12 territories.",
+    "timestamp": "2016-06-22T21:36:07.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding San Francisco.",
+    "timestamp": "2016-06-22T21:36:07.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Portola (johnsgill3) was reinforced by johnsgill3 with 8 troops.",
+    "timestamp": "2016-06-22T21:36:13.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Portola (johnsgill3) attacked SFO (tanleach1001) conquering it, killing 4, losing 7.",
+    "timestamp": "2016-06-22T21:37:03.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Portola (johnsgill3) occupied SFO with 1 troop.",
+    "timestamp": "2016-06-22T21:37:07.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Sunset District (johnsgill3) was fortified from Alameda (johnsgill3) with 3 troops.",
+    "timestamp": "2016-06-22T21:37:39.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Downtown (johnsgill3) was fortified from Pacific Heights (johnsgill3) with 1 troop.",
+    "timestamp": "2016-06-22T21:37:44.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-06-22T21:38:09.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-06-22T21:38:09.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-22T21:40:31.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 10 territories.",
+    "timestamp": "2016-06-22T21:40:31.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "San Bruno (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-06-22T21:40:39.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "San Bruno (tanleach1001) attacked SFO (johnsgill3) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-06-22T21:40:51.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "San Bruno (tanleach1001) occupied SFO with 3 troops.",
+    "timestamp": "2016-06-22T21:40:52.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Richmond (kwren) was fortified from Walnut Creek (tanleach1001) with 3 troops.",
+    "timestamp": "2016-06-22T21:41:09.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-22T21:41:24.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-22T21:41:24.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-23T20:05:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 6 territories.",
+    "timestamp": "2016-06-23T20:05:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Mill Valley (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-06-23T20:08:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Mill Valley (ryanbmilbourne) attacked Marin City (Neutral) killing 0, losing 1.",
+    "timestamp": "2016-06-23T20:08:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Garin Creek (ryanbmilbourne) attacked Pleasanton (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-23T20:08:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Garin Creek (ryanbmilbourne) occupied Pleasanton with 1 troop.",
+    "timestamp": "2016-06-23T20:09:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Castro Valley (ryanbmilbourne) attacked South San Leandro (jobratt) killing 0, losing 2.",
+    "timestamp": "2016-06-23T20:09:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Castro Valley (ryanbmilbourne) was fortified from Garin Creek (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-06-23T20:10:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-23T20:10:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-23T20:10:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-23T21:06:38.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 3 troops for 8 territories.",
+    "timestamp": "2016-06-23T21:06:38.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 3 troops for holding Merced.",
+    "timestamp": "2016-06-23T21:06:38.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Union City (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-06-23T21:06:45.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Union City (gcochard) attacked Hayward (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-23T21:16:37.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Union City (gcochard) occupied Hayward with 9 troops.",
+    "timestamp": "2016-06-23T21:16:41.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Hayward (gcochard) attacked Foster City (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-23T21:16:44.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Hayward (gcochard) occupied Foster City with 8 troops.",
+    "timestamp": "2016-06-23T21:16:46.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Foster City (gcochard) attacked Millbrae (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-23T21:16:49.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Foster City (gcochard) occupied Millbrae with 7 troops.",
+    "timestamp": "2016-06-23T21:16:51.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Millbrae (gcochard) attacked San Bruno (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-23T21:16:56.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Millbrae (gcochard) occupied San Bruno with 1 troop.",
+    "timestamp": "2016-06-23T21:17:04.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Burlingame (gcochard) was fortified from Sunol (gcochard) with 3 troops.",
+    "timestamp": "2016-06-23T21:17:11.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "San Mateo (gcochard) was fortified from Newark (gcochard) with 3 troops.",
+    "timestamp": "2016-06-23T21:17:14.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Millbrae (gcochard) was fortified from San Mateo (gcochard) with 2 troops.",
+    "timestamp": "2016-06-23T21:17:36.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Burlingame (gcochard) was fortified from San Mateo (gcochard) with 2 troops.",
+    "timestamp": "2016-06-23T21:17:39.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-23T21:17:50.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-23T21:17:50.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-06-23T21:22:19.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 3 troops for 3 territories.",
+    "timestamp": "2016-06-23T21:22:19.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Daly City (tanleach1001) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-06-23T21:22:23.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Richmond (kwren) attacked San Rafael (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-23T21:22:31.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Richmond (kwren) occupied San Rafael with 1 troop.",
+    "timestamp": "2016-06-23T21:22:34.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-06-23T21:22:39.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-06-23T21:22:39.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-06-23T21:22:39.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-23T21:26:35.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 4 troops for 12 territories.",
+    "timestamp": "2016-06-23T21:26:35.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 3 troops for holding San Benito.",
+    "timestamp": "2016-06-23T21:26:35.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards Marin City, Walnut Creek, and Oakland.",
+    "timestamp": "2016-06-23T21:26:38.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Mill Valley (ryanbmilbourne) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-06-23T21:26:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Martinez (jobratt) was reinforced by jobratt with 5 troops.",
+    "timestamp": "2016-06-23T21:27:09.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Concord (jobratt) was reinforced by jobratt with 6 troops.",
+    "timestamp": "2016-06-23T21:27:37.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Concord (jobratt) attacked Pittsburg (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-06-23T21:27:54.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Concord (jobratt) attacked Walnut Creek (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-06-23T21:27:57.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Martinez (jobratt) attacked Walnut Creek (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-23T21:28:04.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Martinez (jobratt) occupied Walnut Creek with 6 troops.",
+    "timestamp": "2016-06-23T21:28:13.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Concord (jobratt) attacked Pittsburg (tanleach1001) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-06-23T21:28:19.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Concord (jobratt) occupied Pittsburg with 1 troop.",
+    "timestamp": "2016-06-23T21:28:22.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Walnut Creek (jobratt) attacked Lafayette (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-23T21:28:30.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Walnut Creek (jobratt) occupied Lafayette with 1 troop.",
+    "timestamp": "2016-06-23T21:28:33.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Huddart Park (jobratt) was fortified from Palo Alto (jobratt) with 2 troops.",
+    "timestamp": "2016-06-23T21:29:36.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Martinez (jobratt) was fortified from Tassajara (jobratt) with 1 troop.",
+    "timestamp": "2016-06-23T21:30:13.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Martinez (jobratt) was fortified from Concord (jobratt) with 1 troop.",
+    "timestamp": "2016-06-23T21:30:16.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Martinez (jobratt) was fortified from Livermore (jobratt) with 2 troops.",
+    "timestamp": "2016-06-23T21:30:25.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Huddart Park (jobratt) was fortified from Belmont (jobratt) with 1 troop.",
+    "timestamp": "2016-06-23T21:30:34.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-23T21:31:01.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-23T21:31:01.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-06-23T21:36:03.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 12 territories.",
+    "timestamp": "2016-06-23T21:36:03.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding San Francisco.",
+    "timestamp": "2016-06-23T21:36:03.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Oakland (johnsgill3) was reinforced by johnsgill3 with 8 troops.",
+    "timestamp": "2016-06-23T21:36:12.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Oakland (johnsgill3) attacked Danville (Neutral) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-06-23T21:36:43.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Oakland (johnsgill3) occupied Danville with 6 troops.",
+    "timestamp": "2016-06-23T21:36:49.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Danville (johnsgill3) attacked Alamo (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-23T21:36:56.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Danville (johnsgill3) occupied Alamo with 1 troop.",
+    "timestamp": "2016-06-23T21:37:03.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Danville (johnsgill3) attacked North San Leandro (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-23T21:37:11.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Danville (johnsgill3) occupied North San Leandro with 1 troop.",
+    "timestamp": "2016-06-23T21:37:16.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Alameda (johnsgill3) was fortified from Danville (johnsgill3) with 3 troops.",
+    "timestamp": "2016-06-23T21:37:30.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Pacific Heights (johnsgill3) was fortified from Sunset District (johnsgill3) with 1 troop.",
+    "timestamp": "2016-06-23T21:37:37.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Downtown (johnsgill3) was fortified from Portola (johnsgill3) with 1 troop.",
+    "timestamp": "2016-06-23T21:37:45.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-06-23T21:40:09.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-06-23T21:40:09.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-23T22:44:59.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 5 territories.",
+    "timestamp": "2016-06-23T22:45:00.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Half Moon Bay (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-06-23T22:45:05.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Daly City (tanleach1001) attacked San Bruno (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-23T22:45:11.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Daly City (tanleach1001) occupied San Bruno with 5 troops.",
+    "timestamp": "2016-06-23T22:45:13.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Half Moon Bay (tanleach1001) was fortified from SFO (tanleach1001) with 2 troops.",
+    "timestamp": "2016-06-23T22:45:31.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Half Moon Bay (tanleach1001) was fortified from San Bruno (tanleach1001) with 4 troops.",
+    "timestamp": "2016-06-23T22:45:34.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-23T22:45:40.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-23T22:45:40.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-24T16:17:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 6 territories.",
+    "timestamp": "2016-06-24T16:17:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Castro Valley (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-06-24T16:17:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Castro Valley (ryanbmilbourne) attacked Hayward (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-24T16:17:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Castro Valley (ryanbmilbourne) occupied Hayward with 1 troop.",
+    "timestamp": "2016-06-24T16:17:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Castro Valley (ryanbmilbourne) attacked South San Leandro (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-24T16:17:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Castro Valley (ryanbmilbourne) occupied South San Leandro with 1 troop.",
+    "timestamp": "2016-06-24T16:17:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Mill Valley (ryanbmilbourne) attacked San Rafael (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-24T16:17:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Mill Valley (ryanbmilbourne) occupied San Rafael with 5 troops.",
+    "timestamp": "2016-06-24T16:17:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Hayward (ryanbmilbourne) was fortified from Castro Valley (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-06-24T16:17:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-24T16:18:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-24T16:18:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-24T17:33:27.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 3 troops for 9 territories.",
+    "timestamp": "2016-06-24T17:33:27.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 3 troops for holding Merced.",
+    "timestamp": "2016-06-24T17:33:27.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 3 troops for holding Santa Clara.",
+    "timestamp": "2016-06-24T17:33:27.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Millbrae (gcochard) was reinforced by gcochard with 9 troops.",
+    "timestamp": "2016-06-24T17:40:07.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Millbrae (gcochard) attacked SFO (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-24T17:40:17.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Millbrae (gcochard) occupied SFO with 15 troops.",
+    "timestamp": "2016-06-24T17:40:21.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "SFO (gcochard) attacked San Bruno (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-24T17:40:25.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "SFO (gcochard) occupied San Bruno with 13 troops.",
+    "timestamp": "2016-06-24T17:40:30.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Pacific Heights (johnsgill3) was fortified from San Bruno (gcochard) with 4 troops.",
+    "timestamp": "2016-06-24T17:41:30.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Moraga (johnsgill3) was fortified from San Bruno (gcochard) with 4 troops.",
+    "timestamp": "2016-06-24T17:42:10.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Millbrae (gcochard) was fortified from San Bruno (gcochard) with 4 troops.",
+    "timestamp": "2016-06-24T17:42:22.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-24T17:43:35.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-24T17:43:35.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-06-24T17:59:56.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 3 troops for 3 territories.",
+    "timestamp": "2016-06-24T17:59:56.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Richmond (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-06-24T18:00:20.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Richmond (kwren) attacked San Rafael (ryanbmilbourne) conquering it, killing 5, losing 1.",
+    "timestamp": "2016-06-24T18:00:59.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Richmond (kwren) occupied San Rafael with 1 troop.",
+    "timestamp": "2016-06-24T18:01:12.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-06-24T18:01:24.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-06-24T18:01:24.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-06-24T18:01:24.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-24T18:59:45.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 4 troops for 14 territories.",
+    "timestamp": "2016-06-24T18:59:45.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 3 troops for holding Sacramento.",
+    "timestamp": "2016-06-24T18:59:45.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 3 troops for holding San Benito.",
+    "timestamp": "2016-06-24T18:59:45.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Huddart Park (jobratt) was reinforced by jobratt with 1 troop.",
+    "timestamp": "2016-06-24T18:59:52.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Walnut Creek (jobratt) was reinforced by jobratt with 2 troops.",
+    "timestamp": "2016-06-24T18:59:58.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Lafayette (jobratt) was reinforced by jobratt with 7 troops.",
+    "timestamp": "2016-06-24T18:59:59.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Lafayette (jobratt) attacked Berkeley (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-24T19:00:03.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Lafayette (jobratt) occupied Berkeley with 7 troops.",
+    "timestamp": "2016-06-24T19:00:09.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Berkeley (jobratt) attacked Oakland (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-24T19:00:17.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Berkeley (jobratt) occupied Oakland with 1 troop.",
+    "timestamp": "2016-06-24T19:00:20.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Berkeley (jobratt) attacked Richmond (kwren) killing 1, losing 4.",
+    "timestamp": "2016-06-24T19:00:37.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Huddart Park (jobratt) was fortified from San Carlos (jobratt) with 1 troop.",
+    "timestamp": "2016-06-24T19:00:56.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-24T19:01:07.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-24T19:01:07.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-06-24T20:31:08.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 14 territories.",
+    "timestamp": "2016-06-24T20:31:08.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding San Francisco.",
+    "timestamp": "2016-06-24T20:31:08.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 8 troops for turning in cards Mt. Diablo, Dublin, and Newark.",
+    "timestamp": "2016-06-24T20:31:11.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Moraga (johnsgill3) was reinforced by johnsgill3 with 16 troops.",
+    "timestamp": "2016-06-24T20:31:16.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Moraga (johnsgill3) attacked Oakland (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-24T20:31:18.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Moraga (johnsgill3) occupied Oakland with 1 troop.",
+    "timestamp": "2016-06-24T20:31:22.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Moraga (johnsgill3) attacked Lafayette (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-24T20:31:26.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Moraga (johnsgill3) occupied Lafayette with 18 troops.",
+    "timestamp": "2016-06-24T20:31:28.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Lafayette (johnsgill3) attacked Walnut Creek (jobratt) conquering it, killing 6, losing 2.",
+    "timestamp": "2016-06-24T20:31:37.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Lafayette (johnsgill3) occupied Walnut Creek with 15 troops.",
+    "timestamp": "2016-06-24T20:31:38.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Walnut Creek (johnsgill3) attacked Clayton (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-24T20:31:41.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Walnut Creek (johnsgill3) occupied Clayton with 1 troop.",
+    "timestamp": "2016-06-24T20:32:08.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Walnut Creek (johnsgill3) attacked Martinez (jobratt) killing 3, losing 1.",
+    "timestamp": "2016-06-24T20:32:20.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Walnut Creek (johnsgill3) attacked Concord (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-24T20:32:28.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Walnut Creek (johnsgill3) occupied Concord with 1 troop.",
+    "timestamp": "2016-06-24T20:32:38.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Alamo (johnsgill3) was fortified from Walnut Creek (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-24T20:36:02.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Moraga (johnsgill3) was fortified from Walnut Creek (johnsgill3) with 3 troops.",
+    "timestamp": "2016-06-24T20:36:07.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Oakland (johnsgill3) was fortified from Walnut Creek (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-24T20:36:12.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Millbrae (gcochard) was fortified from Walnut Creek (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-24T20:36:35.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Burlingame (gcochard) was fortified from Walnut Creek (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-24T20:36:39.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Alameda (johnsgill3) was fortified from Moraga (johnsgill3) with 1 troop.",
+    "timestamp": "2016-06-24T20:36:52.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Sunset District (johnsgill3) was fortified from Downtown (johnsgill3) with 1 troop.",
+    "timestamp": "2016-06-24T20:36:59.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Portola (johnsgill3) was fortified from Downtown (johnsgill3) with 1 troop.",
+    "timestamp": "2016-06-24T20:37:02.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Oakland (johnsgill3) was fortified from Sunset District (johnsgill3) with 1 troop.",
+    "timestamp": "2016-06-24T20:39:09.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Alamo (johnsgill3) was fortified from Portola (johnsgill3) with 1 troop.",
+    "timestamp": "2016-06-24T20:39:15.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-06-24T20:39:29.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-06-24T20:39:29.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-24T20:43:49.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 4 territories.",
+    "timestamp": "2016-06-24T20:43:49.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Richmond (kwren) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-06-24T20:43:57.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Half Moon Bay (tanleach1001) was reinforced by tanleach1001 with 1 troop.",
+    "timestamp": "2016-06-24T20:44:00.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Half Moon Bay (tanleach1001) attacked Huddart Park (jobratt) conquering it, killing 8, losing 6.",
+    "timestamp": "2016-06-24T20:44:29.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Half Moon Bay (tanleach1001) occupied Huddart Park with 1 troop.",
+    "timestamp": "2016-06-24T20:45:15.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-24T20:45:37.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-24T20:45:37.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-24T20:45:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 8 territories.",
+    "timestamp": "2016-06-24T20:45:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for holding Stanislaus.",
+    "timestamp": "2016-06-24T20:45:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Dublin (ryanbmilbourne) was reinforced by ryanbmilbourne with 7 troops.",
+    "timestamp": "2016-06-24T20:48:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Dublin (ryanbmilbourne) attacked Livermore (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-24T20:48:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Dublin (ryanbmilbourne) occupied Livermore with 1 troop.",
+    "timestamp": "2016-06-24T20:48:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Hayward (ryanbmilbourne) was fortified from Dublin (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-06-24T20:48:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Black Diamond Mines (jobratt) was fortified from Dublin (ryanbmilbourne) with 4 troops.",
+    "timestamp": "2016-06-24T20:49:05.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-24T20:49:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-24T20:49:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-25T00:20:52.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for 11 territories.",
+    "timestamp": "2016-06-25T00:20:52.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for holding Merced.",
+    "timestamp": "2016-06-25T00:20:52.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for holding Santa Clara.",
+    "timestamp": "2016-06-25T00:20:52.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 2 troops on Union City",
+    "timestamp": "2016-06-25T00:21:05.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Pleasanton, Union City, and Alameda.",
+    "timestamp": "2016-06-25T00:21:05.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "San Mateo (gcochard) was reinforced by gcochard with 17 troops.",
+    "timestamp": "2016-06-25T00:21:49.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "San Mateo (gcochard) attacked Huddart Park (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-25T00:21:55.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "San Mateo (gcochard) occupied Huddart Park with 17 troops.",
+    "timestamp": "2016-06-25T00:21:57.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Huddart Park (gcochard) attacked San Carlos (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-25T00:22:01.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Huddart Park (gcochard) occupied San Carlos with 16 troops.",
+    "timestamp": "2016-06-25T00:22:03.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "San Carlos (gcochard) attacked Redwood City (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-25T00:22:07.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "San Carlos (gcochard) occupied Redwood City with 15 troops.",
+    "timestamp": "2016-06-25T00:22:09.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Redwood City (gcochard) attacked Belmont (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-25T00:22:12.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Redwood City (gcochard) occupied Belmont with 1 troop.",
+    "timestamp": "2016-06-25T00:22:17.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Redwood City (gcochard) attacked Palo Alto (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-25T00:22:21.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Redwood City (gcochard) occupied Palo Alto with 1 troop.",
+    "timestamp": "2016-06-25T00:22:27.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Huddart Park (gcochard) was fortified from Union City (gcochard) with 2 troops.",
+    "timestamp": "2016-06-25T00:22:34.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Huddart Park (gcochard) was fortified from Redwood City (gcochard) with 12 troops.",
+    "timestamp": "2016-06-25T00:22:39.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Pacific Heights (johnsgill3) was fortified from Huddart Park (gcochard) with 3 troops.",
+    "timestamp": "2016-06-25T00:22:58.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Moraga (johnsgill3) was fortified from Huddart Park (gcochard) with 2 troops.",
+    "timestamp": "2016-06-25T00:23:13.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Oakland (johnsgill3) was fortified from Huddart Park (gcochard) with 1 troop.",
+    "timestamp": "2016-06-25T00:23:19.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Alamo (johnsgill3) was fortified from Huddart Park (gcochard) with 1 troop.",
+    "timestamp": "2016-06-25T00:23:26.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-25T00:23:43.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-25T00:23:43.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-06-25T00:59:17.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 3 troops for 3 territories.",
+    "timestamp": "2016-06-25T00:59:17.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Martinez, San Bruno, and Downtown.",
+    "timestamp": "2016-06-25T00:59:20.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Half Moon Bay (tanleach1001) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-06-25T00:59:25.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "San Rafael (kwren) was reinforced by kwren with 9 troops.",
+    "timestamp": "2016-06-25T00:59:29.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "San Rafael (kwren) attacked Muir Woods (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-25T00:59:33.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "San Rafael (kwren) occupied Muir Woods with 8 troops.",
+    "timestamp": "2016-06-25T00:59:35.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Muir Woods (kwren) attacked Marin City (Neutral) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-25T00:59:38.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Muir Woods (kwren) occupied Marin City with 7 troops.",
+    "timestamp": "2016-06-25T00:59:40.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Marin City (kwren) attacked Mill Valley (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-25T00:59:43.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Marin City (kwren) occupied Mill Valley with 1 troop.",
+    "timestamp": "2016-06-25T00:59:46.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Marin City (kwren) was fortified from Richmond (kwren) with 3 troops.",
+    "timestamp": "2016-06-25T00:59:55.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-06-25T00:59:59.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-06-25T00:59:59.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-06-25T00:59:59.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-25T19:25:13.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 3 troops for 5 territories.",
+    "timestamp": "2016-06-25T19:25:13.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Black Diamond Mines (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-06-25T19:25:28.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Black Diamond Mines (jobratt) attacked Concord (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-25T19:25:32.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Black Diamond Mines (jobratt) occupied Concord with 6 troops.",
+    "timestamp": "2016-06-25T19:25:33.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Concord (jobratt) attacked Walnut Creek (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-25T19:25:37.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Concord (jobratt) occupied Walnut Creek with 4 troops.",
+    "timestamp": "2016-06-25T19:25:39.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-25T19:25:43.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-25T19:25:43.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-06-25T19:29:11.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 17 territories.",
+    "timestamp": "2016-06-25T19:29:11.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding San Francisco.",
+    "timestamp": "2016-06-25T19:29:11.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding Alameda.",
+    "timestamp": "2016-06-25T19:29:11.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Pacific Heights (johnsgill3) was reinforced by johnsgill3 with 13 troops.",
+    "timestamp": "2016-06-25T19:29:14.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Pacific Heights (johnsgill3) attacked Marin City (kwren) conquering it, killing 9, losing 9.",
+    "timestamp": "2016-06-25T19:29:45.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Pacific Heights (johnsgill3) occupied Marin City with 13 troops.",
+    "timestamp": "2016-06-25T19:29:47.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Marin City (johnsgill3) attacked Muir Woods (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-25T19:29:50.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Marin City (johnsgill3) occupied Muir Woods with 12 troops.",
+    "timestamp": "2016-06-25T19:29:57.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Muir Woods (johnsgill3) attacked Mill Valley (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-25T19:30:05.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Muir Woods (johnsgill3) occupied Mill Valley with 9 troops.",
+    "timestamp": "2016-06-25T19:30:07.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Mill Valley (johnsgill3) attacked San Rafael (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-25T19:30:11.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Mill Valley (johnsgill3) occupied San Rafael with 7 troops.",
+    "timestamp": "2016-06-25T19:30:13.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "San Rafael (johnsgill3) attacked Richmond (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-25T19:30:16.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "San Rafael (johnsgill3) occupied Richmond with 6 troops.",
+    "timestamp": "2016-06-25T19:30:18.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Richmond (johnsgill3) attacked Wildcat Canyon (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-25T19:30:24.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "kwren was defeated by johnsgill3.",
+    "timestamp": "2016-06-25T19:30:24.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Richmond (johnsgill3) occupied Wildcat Canyon with 3 troops.",
+    "timestamp": "2016-06-25T19:30:28.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Noe Valley",
+    "timestamp": "2016-06-25T19:30:33.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Danville",
+    "timestamp": "2016-06-25T19:30:33.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 8 troops for turning in cards Hayward, Noe Valley, and Danville.",
+    "timestamp": "2016-06-25T19:30:33.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Wildcat Canyon (johnsgill3) was reinforced by johnsgill3 with 8 troops.",
+    "timestamp": "2016-06-25T19:30:44.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Wildcat Canyon (johnsgill3) attacked Berkeley (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-25T19:30:47.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Wildcat Canyon (johnsgill3) occupied Berkeley with 10 troops.",
+    "timestamp": "2016-06-25T19:30:48.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Berkeley (johnsgill3) attacked San Pablo (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-25T19:30:51.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Berkeley (johnsgill3) occupied San Pablo with 9 troops.",
+    "timestamp": "2016-06-25T19:30:52.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "San Pablo (johnsgill3) attacked Martinez (jobratt) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-06-25T19:30:57.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "San Pablo (johnsgill3) occupied Martinez with 6 troops.",
+    "timestamp": "2016-06-25T19:31:00.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "San Rafael (johnsgill3) was fortified from Martinez (johnsgill3) with 3 troops.",
+    "timestamp": "2016-06-25T19:33:19.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Huddart Park (gcochard) was fortified from Martinez (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-25T19:33:25.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Millbrae (gcochard) was fortified from Danville (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-25T19:33:35.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Sunset District (johnsgill3) was fortified from Noe Valley (johnsgill3) with 1 troop.",
+    "timestamp": "2016-06-25T19:33:45.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Portola (johnsgill3) was fortified from Noe Valley (johnsgill3) with 1 troop.",
+    "timestamp": "2016-06-25T19:33:48.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "San Pablo (johnsgill3) was fortified from Alameda (johnsgill3) with 4 troops.",
+    "timestamp": "2016-06-25T19:36:07.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Lafayette (johnsgill3) was fortified from Oakland (johnsgill3) with 4 troops.",
+    "timestamp": "2016-06-25T19:36:11.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Alamo (johnsgill3) was fortified from Moraga (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-25T19:36:19.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Lafayette (johnsgill3) was fortified from Moraga (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-25T19:36:22.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "San Pablo (johnsgill3) was fortified from San Rafael (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-25T19:36:31.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Burlingame (gcochard) was fortified from San Rafael (johnsgill3) with 1 troop.",
+    "timestamp": "2016-06-25T19:36:40.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-06-25T19:38:54.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-06-25T19:38:54.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-25T20:55:36.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 3 territories.",
+    "timestamp": "2016-06-25T20:55:36.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Livermore, Garin Creek, and Pacific Heights.",
+    "timestamp": "2016-06-25T20:55:41.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Daly City (tanleach1001) was reinforced by tanleach1001 with 11 troops.",
+    "timestamp": "2016-06-25T20:55:51.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Daly City (tanleach1001) attacked SFO (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-25T20:55:55.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Daly City (tanleach1001) occupied SFO with 11 troops.",
+    "timestamp": "2016-06-25T20:55:57.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "SFO (tanleach1001) attacked San Bruno (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-25T20:56:00.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "SFO (tanleach1001) occupied San Bruno with 10 troops.",
+    "timestamp": "2016-06-25T20:56:10.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Half Moon Bay (tanleach1001) was fortified from San Bruno (tanleach1001) with 9 troops.",
+    "timestamp": "2016-06-25T20:56:17.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-25T20:56:26.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-25T20:56:26.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne missed the turn.",
+    "timestamp": "2016-06-26T20:56:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-27T16:36:10.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 4 troops for 14 territories.",
+    "timestamp": "2016-06-27T16:36:10.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 3 troops for holding Merced.",
+    "timestamp": "2016-06-27T16:36:10.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 3 troops for holding Santa Clara.",
+    "timestamp": "2016-06-27T16:36:10.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 3 troops for holding San Benito.",
+    "timestamp": "2016-06-27T16:36:10.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Huddart Park (gcochard) was reinforced by gcochard with 13 troops.",
+    "timestamp": "2016-06-27T16:36:16.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Huddart Park (gcochard) attacked Half Moon Bay (tanleach1001) conquering it, killing 17, losing 15.",
+    "timestamp": "2016-06-27T16:36:46.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Huddart Park (gcochard) occupied Half Moon Bay with 7 troops.",
+    "timestamp": "2016-06-27T16:36:49.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Millbrae (gcochard) attacked SFO (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-27T16:37:10.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Millbrae (gcochard) occupied SFO with 8 troops.",
+    "timestamp": "2016-06-27T16:37:12.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Burlingame (gcochard) attacked San Bruno (tanleach1001) conquering it, killing 1, losing 6.",
+    "timestamp": "2016-06-27T16:37:25.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Burlingame (gcochard) occupied San Bruno with 2 troops.",
+    "timestamp": "2016-06-27T16:37:27.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "SFO (gcochard) attacked Daly City (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-27T16:37:33.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "SFO (gcochard) occupied Daly City with 6 troops.",
+    "timestamp": "2016-06-27T16:37:36.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Daly City (gcochard) attacked Pacifica (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-27T16:37:39.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 was defeated by gcochard.",
+    "timestamp": "2016-06-27T16:37:39.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Daly City (gcochard) occupied Pacifica with 5 troops.",
+    "timestamp": "2016-06-27T16:37:42.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 2 troops on Half Moon Bay",
+    "timestamp": "2016-06-27T16:37:50.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards San Rafael, Black Diamond Mines, and Half Moon Bay.",
+    "timestamp": "2016-06-27T16:37:50.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Union City (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-06-27T16:38:05.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Sunol (gcochard) was reinforced by gcochard with 2 troops.",
+    "timestamp": "2016-06-27T16:38:08.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Sunol (gcochard) was fortified from Pacifica (gcochard) with 4 troops.",
+    "timestamp": "2016-06-27T16:38:22.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Union City (gcochard) was fortified from Half Moon Bay (gcochard) with 2 troops.",
+    "timestamp": "2016-06-27T16:38:35.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Sunol (gcochard) was fortified from Half Moon Bay (gcochard) with 2 troops.",
+    "timestamp": "2016-06-27T16:38:42.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Alamo (johnsgill3) was fortified from Half Moon Bay (gcochard) with 2 troops.",
+    "timestamp": "2016-06-27T16:38:50.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Lafayette (johnsgill3) was fortified from Half Moon Bay (gcochard) with 2 troops.",
+    "timestamp": "2016-06-27T16:38:55.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "San Pablo (johnsgill3) was fortified from San Bruno (gcochard) with 1 troop.",
+    "timestamp": "2016-06-27T16:39:04.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-27T16:39:31.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-27T16:39:31.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Round 7 started.",
+    "timestamp": "2016-06-27T16:39:31.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-27T17:54:44.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 3 troops for 5 territories.",
+    "timestamp": "2016-06-27T17:54:44.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Walnut Creek (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-06-27T17:54:53.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Walnut Creek (jobratt) attacked Alamo (johnsgill3) conquering it, killing 9, losing 3.",
+    "timestamp": "2016-06-27T17:55:01.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Walnut Creek (jobratt) occupied Alamo with 3 troops.",
+    "timestamp": "2016-06-27T17:55:05.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Alamo (jobratt) attacked Danville (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-27T17:55:10.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Alamo (jobratt) occupied Danville with 2 troops.",
+    "timestamp": "2016-06-27T17:55:12.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-27T17:55:17.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-27T17:55:17.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-06-27T18:55:06.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 8 troops for 24 territories.",
+    "timestamp": "2016-06-27T18:55:06.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding Marin.",
+    "timestamp": "2016-06-27T18:55:06.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding San Francisco.",
+    "timestamp": "2016-06-27T18:55:06.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Contra Costa.",
+    "timestamp": "2016-06-27T18:55:06.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Lafayette (johnsgill3) was reinforced by johnsgill3 with 17 troops.",
+    "timestamp": "2016-06-27T18:55:09.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Lafayette (johnsgill3) attacked Alamo (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-27T18:55:13.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Lafayette (johnsgill3) occupied Alamo with 25 troops.",
+    "timestamp": "2016-06-27T18:55:14.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Alamo (johnsgill3) attacked Danville (jobratt) conquering it, killing 2, losing 4.",
+    "timestamp": "2016-06-27T18:55:24.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Alamo (johnsgill3) occupied Danville with 1 troop.",
+    "timestamp": "2016-06-27T18:55:28.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Alamo (johnsgill3) attacked Walnut Creek (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-27T18:55:31.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Alamo (johnsgill3) occupied Walnut Creek with 18 troops.",
+    "timestamp": "2016-06-27T18:55:33.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Walnut Creek (johnsgill3) attacked Concord (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-27T18:55:36.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Walnut Creek (johnsgill3) occupied Concord with 17 troops.",
+    "timestamp": "2016-06-27T18:55:37.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Concord (johnsgill3) attacked Pittsburg (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-27T18:55:40.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Concord (johnsgill3) occupied Pittsburg with 16 troops.",
+    "timestamp": "2016-06-27T18:55:42.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Pittsburg (johnsgill3) attacked Black Diamond Mines (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-27T18:55:46.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Pittsburg (johnsgill3) occupied Black Diamond Mines with 15 troops.",
+    "timestamp": "2016-06-27T18:55:48.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Black Diamond Mines (johnsgill3) attacked Tassajara (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-27T18:55:52.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "jobratt was defeated by johnsgill3.",
+    "timestamp": "2016-06-27T18:55:52.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Black Diamond Mines (johnsgill3) occupied Tassajara with 14 troops.",
+    "timestamp": "2016-06-27T18:55:54.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Berkeley",
+    "timestamp": "2016-06-27T18:56:01.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Bayview",
+    "timestamp": "2016-06-27T18:56:01.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 8 troops for turning in cards Berkeley, Daly City, and Bayview.",
+    "timestamp": "2016-06-27T18:56:01.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Tassajara (johnsgill3) was reinforced by johnsgill3 with 8 troops.",
+    "timestamp": "2016-06-27T18:56:13.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Tassajara (johnsgill3) attacked Livermore (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-27T18:56:16.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Tassajara (johnsgill3) occupied Livermore with 21 troops.",
+    "timestamp": "2016-06-27T18:56:18.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Livermore (johnsgill3) attacked Dublin (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-27T18:56:23.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Livermore (johnsgill3) occupied Dublin with 19 troops.",
+    "timestamp": "2016-06-27T18:56:25.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Dublin (johnsgill3) attacked Pleasanton (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-27T18:56:28.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Dublin (johnsgill3) occupied Pleasanton with 18 troops.",
+    "timestamp": "2016-06-27T18:56:31.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Pleasanton (johnsgill3) attacked Garin Creek (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-27T18:56:33.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Pleasanton (johnsgill3) occupied Garin Creek with 17 troops.",
+    "timestamp": "2016-06-27T18:56:35.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Garin Creek (johnsgill3) attacked Castro Valley (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-27T18:56:37.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Garin Creek (johnsgill3) occupied Castro Valley with 16 troops.",
+    "timestamp": "2016-06-27T18:56:39.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Castro Valley (johnsgill3) attacked South San Leandro (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-27T18:56:41.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Castro Valley (johnsgill3) occupied South San Leandro with 15 troops.",
+    "timestamp": "2016-06-27T18:56:43.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Foster City (gcochard) was fortified from San Pablo (johnsgill3) with 7 troops.",
+    "timestamp": "2016-06-27T18:57:24.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Foster City (gcochard) was fortified from Portola (johnsgill3) with 3 troops.",
+    "timestamp": "2016-06-27T18:57:27.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Union City (gcochard) was fortified from Sunset District (johnsgill3) with 3 troops.",
+    "timestamp": "2016-06-27T18:57:30.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Union City (gcochard) was fortified from Bayview (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-27T18:57:41.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Foster City (gcochard) was fortified from Berkeley (johnsgill3) with 2 troops.",
+    "timestamp": "2016-06-27T18:57:49.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Livermore (johnsgill3) was fortified from South San Leandro (johnsgill3) with 14 troops.",
+    "timestamp": "2016-06-27T18:57:55.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-06-27T18:58:01.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-06-27T18:58:01.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-27T19:11:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 1 territory.",
+    "timestamp": "2016-06-27T19:11:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Mill Valley, Huddart Park, and Alamo.",
+    "timestamp": "2016-06-27T19:11:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Hayward (ryanbmilbourne) was reinforced by ryanbmilbourne with 11 troops.",
+    "timestamp": "2016-06-27T19:11:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Hayward (ryanbmilbourne) attacked Castro Valley (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-27T19:11:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Hayward (ryanbmilbourne) occupied Castro Valley with 15 troops.",
+    "timestamp": "2016-06-27T19:11:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Castro Valley (ryanbmilbourne) attacked South San Leandro (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-27T19:11:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Castro Valley (ryanbmilbourne) occupied South San Leandro with 13 troops.",
+    "timestamp": "2016-06-27T19:11:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-27T19:11:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-27T19:11:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-27T19:22:59.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 6 troops for 19 territories.",
+    "timestamp": "2016-06-27T19:22:59.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 3 troops for holding San Mateo.",
+    "timestamp": "2016-06-27T19:22:59.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 3 troops for holding Merced.",
+    "timestamp": "2016-06-27T19:22:59.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 3 troops for holding Santa Clara.",
+    "timestamp": "2016-06-27T19:22:59.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 3 troops for holding San Benito.",
+    "timestamp": "2016-06-27T19:22:59.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Union City (gcochard) was reinforced by gcochard with 18 troops.",
+    "timestamp": "2016-06-27T19:23:05.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Union City (gcochard) attacked Hayward (ryanbmilbourne) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-06-27T19:23:16.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Union City (gcochard) occupied Hayward with 28 troops.",
+    "timestamp": "2016-06-27T19:23:18.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Hayward (gcochard) attacked Castro Valley (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-27T19:23:21.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Hayward (gcochard) occupied Castro Valley with 27 troops.",
+    "timestamp": "2016-06-27T19:23:23.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Castro Valley (gcochard) attacked South San Leandro (ryanbmilbourne) conquering it, killing 13, losing 16.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne was defeated by gcochard.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "jobratt lost 29 rating.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 20 tokens.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 won the game.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 41 rating.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 20 tokens.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 lost 17 rating.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 20 tokens.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne lost 13 rating.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 15 tokens.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "gcochard won the game.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 41 rating.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 20 tokens.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "kwren lost 24 rating.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 20 tokens.",
+    "timestamp": "2016-06-27T19:23:43.000Z",
+    "player": "kwren",
+    "round": 7
+  }
+]
