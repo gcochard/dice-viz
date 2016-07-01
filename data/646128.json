@@ -1,0 +1,4322 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-06-01T18:35:19.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "tanleach1001 joined the game.",
+    "timestamp": "2016-06-01T18:35:19.000Z",
+    "player": "tanleach1001",
+    "round": 0
+  },
+  {
+    "message": "jobratt joined the game.",
+    "timestamp": "2016-06-01T18:45:05.000Z",
+    "player": "jobratt",
+    "round": 0
+  },
+  {
+    "message": "gcochard joined the game.",
+    "timestamp": "2016-06-01T18:46:15.000Z",
+    "player": "gcochard",
+    "round": 0
+  },
+  {
+    "message": "mmacfreier joined the game.",
+    "timestamp": "2016-06-01T18:47:24.000Z",
+    "player": "mmacfreier",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne joined the game.",
+    "timestamp": "2016-06-01T19:14:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-06-01T19:14:49.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T20:21:58.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 3 troops for 8 territories.",
+    "timestamp": "2016-06-01T20:21:59.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 1 troop for holding Auckland.",
+    "timestamp": "2016-06-01T20:21:59.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Auckland City (gcochard) was reinforced by gcochard with 1 troop.",
+    "timestamp": "2016-06-01T20:22:15.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "S. Taranaki (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-06-01T20:22:20.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "S. Taranaki (gcochard) attacked New Plymouth (tanleach1001) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-06-01T20:22:24.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "S. Taranaki (gcochard) occupied New Plymouth with 3 troops.",
+    "timestamp": "2016-06-01T20:22:45.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "New Plymouth (gcochard) was fortified from Palmerston North (gcochard) with 2 troops.",
+    "timestamp": "2016-06-01T20:23:02.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T20:23:02.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T20:23:02.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T20:23:08.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 7 territories.",
+    "timestamp": "2016-06-01T20:23:08.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Whakatane (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-06-01T20:23:11.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Waimate (tanleach1001) was fortified from Waitaki (tanleach1001) with 2 troops.",
+    "timestamp": "2016-06-01T20:23:20.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-01T20:23:20.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-01T20:23:59.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received 3 troops for 8 territories.",
+    "timestamp": "2016-06-01T20:23:59.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Masterton (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-06-01T20:24:14.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Masterton (jobratt) attacked Wellington City (ryanbmilbourne) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-06-01T20:24:25.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Masterton (jobratt) occupied Wellington City with 3 troops.",
+    "timestamp": "2016-06-01T20:24:28.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Masterton (jobratt) was fortified from Christchurch (jobratt) with 2 troops.",
+    "timestamp": "2016-06-01T20:24:51.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-01T20:24:51.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-01T20:24:51.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-01T20:47:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 7 territories.",
+    "timestamp": "2016-06-01T20:47:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Tauranga (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-06-01T20:48:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Tauranga (ryanbmilbourne) attacked Whakatane (tanleach1001) killing 5, losing 1.",
+    "timestamp": "2016-06-01T20:48:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Taupo (ryanbmilbourne) attacked Whakatane (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T20:48:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Taupo (ryanbmilbourne) occupied Whakatane with 2 troops.",
+    "timestamp": "2016-06-01T20:48:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Whakatane (ryanbmilbourne) was fortified from Tauranga (ryanbmilbourne) with 4 troops.",
+    "timestamp": "2016-06-01T20:49:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-01T20:49:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-01T20:49:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-06-01T20:53:09.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received 3 troops for 8 territories.",
+    "timestamp": "2016-06-01T20:53:09.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "C. Otago (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-06-01T20:53:14.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "C. Otago (mmacfreier) attacked Dunedin (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-06-01T20:53:20.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "C. Otago (mmacfreier) occupied Dunedin with 1 troop.",
+    "timestamp": "2016-06-01T20:53:23.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Clutha (mmacfreier) was fortified from Buller (mmacfreier) with 2 troops.",
+    "timestamp": "2016-06-01T20:53:41.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-06-01T20:53:41.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-06-01T20:53:41.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-06-01T20:53:41.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T20:57:46.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 3 troops for 9 territories.",
+    "timestamp": "2016-06-01T20:57:46.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 1 troop for holding Auckland.",
+    "timestamp": "2016-06-01T20:57:46.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 1 troop for holding Taranaki.",
+    "timestamp": "2016-06-01T20:57:46.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "S. Taranaki (gcochard) was reinforced by gcochard with 1 troop.",
+    "timestamp": "2016-06-01T20:58:02.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Kaipara (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-06-01T20:58:27.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Kaipara (gcochard) attacked Whangarei (jobratt) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-06-01T20:58:33.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Kaipara (gcochard) occupied Whangarei with 1 troop.",
+    "timestamp": "2016-06-01T20:58:37.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Palmerston North (gcochard) was fortified from Waitomo (gcochard) with 2 troops.",
+    "timestamp": "2016-06-01T20:59:21.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T20:59:21.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T20:59:21.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T20:59:32.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 6 territories.",
+    "timestamp": "2016-06-01T20:59:32.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Dannevirke (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-06-01T20:59:36.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Dannevirke (tanleach1001) attacked Napier (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-06-01T20:59:39.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Waimate (tanleach1001) attacked Timaru (gcochard) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-06-01T20:59:52.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Waimate (tanleach1001) occupied Timaru with 1 troop.",
+    "timestamp": "2016-06-01T20:59:56.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Dannevirke (tanleach1001) was fortified from Tararua (tanleach1001) with 2 troops.",
+    "timestamp": "2016-06-01T21:00:02.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-01T21:00:03.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-01T21:00:03.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-01T21:02:56.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received 3 troops for 8 territories.",
+    "timestamp": "2016-06-01T21:02:56.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received 1 troop for holding Wellington.",
+    "timestamp": "2016-06-01T21:02:56.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Christchurch (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-06-01T21:03:35.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Christchurch (jobratt) attacked Selwyn (Neutral) killing 2, losing 2.",
+    "timestamp": "2016-06-01T21:04:10.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Hurunui (jobratt) attacked Buller (mmacfreier) killing 0, losing 2.",
+    "timestamp": "2016-06-01T21:04:35.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Christchurch (jobratt) attacked Selwyn (Neutral) killing 0, losing 2.",
+    "timestamp": "2016-06-01T21:05:07.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Masterton (jobratt) attacked Tararua (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T21:06:17.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Masterton (jobratt) occupied Tararua with 1 troop.",
+    "timestamp": "2016-06-01T21:06:29.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-01T21:06:48.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-01T21:06:48.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-01T21:12:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 7 territories.",
+    "timestamp": "2016-06-01T21:12:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Bay of Plenty.",
+    "timestamp": "2016-06-01T21:12:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Whakatane (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-06-01T21:15:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Whakatane (ryanbmilbourne) attacked Gisborne (tanleach1001) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-06-01T21:15:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Whakatane (ryanbmilbourne) occupied Gisborne with 1 troop.",
+    "timestamp": "2016-06-01T21:15:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Whakatane (ryanbmilbourne) attacked Ruatoria (jobratt) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-06-01T21:16:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Whakatane (ryanbmilbourne) occupied Ruatoria with 1 troop.",
+    "timestamp": "2016-06-01T21:16:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Napier (ryanbmilbourne) was fortified from Thames-Coromandel (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-06-01T21:19:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-01T21:19:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-01T21:19:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-06-01T21:28:02.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 3 troops for 9 territories.",
+    "timestamp": "2016-06-01T21:28:02.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Otago.",
+    "timestamp": "2016-06-01T21:28:02.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Clutha (mmacfreier) was reinforced by mmacfreier with 6 troops.",
+    "timestamp": "2016-06-01T21:28:35.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Clutha (mmacfreier) attacked Gore (jobratt) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-06-01T21:28:39.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Clutha (mmacfreier) occupied Gore with 1 troop.",
+    "timestamp": "2016-06-01T21:28:42.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Clutha (mmacfreier) attacked Invercargill (ryanbmilbourne) conquering it, killing 3, losing 5.",
+    "timestamp": "2016-06-01T21:28:50.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Clutha (mmacfreier) occupied Invercargill with 1 troop.",
+    "timestamp": "2016-06-01T21:28:53.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Clutha (mmacfreier) was fortified from Tasman (mmacfreier) with 2 troops.",
+    "timestamp": "2016-06-01T21:29:27.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-06-01T21:29:27.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-06-01T21:29:27.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-06-01T21:29:27.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T21:30:01.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 3 troops for 9 territories.",
+    "timestamp": "2016-06-01T21:30:01.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 1 troop for holding Auckland.",
+    "timestamp": "2016-06-01T21:30:01.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 1 troop for holding Taranaki.",
+    "timestamp": "2016-06-01T21:30:01.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Kaipara (gcochard) was reinforced by gcochard with 5 troops.",
+    "timestamp": "2016-06-01T21:30:12.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Kaipara (gcochard) attacked Far North (mmacfreier) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-06-01T21:30:57.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Kaipara (gcochard) occupied Far North with 1 troop.",
+    "timestamp": "2016-06-01T21:31:03.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Auckland City (gcochard) was fortified from Kaipara (gcochard) with 1 troop.",
+    "timestamp": "2016-06-01T21:31:20.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T21:31:20.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T21:31:20.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T21:31:33.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 5 territories.",
+    "timestamp": "2016-06-01T21:31:33.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Dannevirke (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-06-01T21:31:37.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Dannevirke (tanleach1001) attacked Napier (ryanbmilbourne) killing 1, losing 3.",
+    "timestamp": "2016-06-01T21:31:52.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Dannevirke (tanleach1001) attacked Tararua (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T21:32:00.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Dannevirke (tanleach1001) occupied Tararua with 1 troop.",
+    "timestamp": "2016-06-01T21:32:03.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Timaru (tanleach1001) was fortified from Waimate (tanleach1001) with 3 troops.",
+    "timestamp": "2016-06-01T21:32:11.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-01T21:32:11.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-01T21:32:11.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-01T21:42:33.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 3 troops for 6 territories.",
+    "timestamp": "2016-06-01T21:42:33.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 1 troop for holding Wellington.",
+    "timestamp": "2016-06-01T21:42:33.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Masterton (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-06-01T21:42:49.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Masterton (jobratt) attacked Tararua (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T21:42:53.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Masterton (jobratt) occupied Tararua with 1 troop.",
+    "timestamp": "2016-06-01T21:43:03.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Masterton (jobratt) attacked Palmerston North (gcochard) killing 1, losing 3.",
+    "timestamp": "2016-06-01T21:43:08.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Wellington City (jobratt) attacked Palmerston North (gcochard) killing 1, losing 2.",
+    "timestamp": "2016-06-01T21:43:20.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Ruapehu (jobratt) attacked Palmerston North (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T21:43:23.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-01T21:43:28.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-01T21:43:28.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-01T21:46:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 8 territories.",
+    "timestamp": "2016-06-01T21:46:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Bay of Plenty.",
+    "timestamp": "2016-06-01T21:46:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Poverty Bay.",
+    "timestamp": "2016-06-01T21:46:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Napier (ryanbmilbourne) was reinforced by ryanbmilbourne with 5 troops.",
+    "timestamp": "2016-06-01T21:46:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Whakatane (ryanbmilbourne) attacked Wairoa (Neutral) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-06-01T21:46:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Whakatane (ryanbmilbourne) occupied Wairoa with 1 troop.",
+    "timestamp": "2016-06-01T21:46:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Napier (ryanbmilbourne) attacked Dannevirke (tanleach1001) conquering it, killing 5, losing 2.",
+    "timestamp": "2016-06-01T21:47:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Napier (ryanbmilbourne) occupied Dannevirke with 5 troops.",
+    "timestamp": "2016-06-01T21:47:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Dannevirke (ryanbmilbourne) attacked Tararua (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T21:47:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Dannevirke (ryanbmilbourne) occupied Tararua with 1 troop.",
+    "timestamp": "2016-06-01T21:47:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Taupo (ryanbmilbourne) was fortified from Thames-Coromandel (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-06-01T21:47:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-01T21:47:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-01T21:47:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-06-01T21:51:45.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 3 troops for 10 territories.",
+    "timestamp": "2016-06-01T21:51:45.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Otago.",
+    "timestamp": "2016-06-01T21:51:45.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Queenstown (mmacfreier) was reinforced by mmacfreier with 6 troops.",
+    "timestamp": "2016-06-01T21:51:51.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Queenstown (mmacfreier) attacked Fiordland (Neutral) conquering it, killing 3, losing 7.",
+    "timestamp": "2016-06-01T21:51:59.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-06-01T21:52:11.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-06-01T21:52:11.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-06-01T21:52:11.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T21:53:06.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 3 troops for 9 territories.",
+    "timestamp": "2016-06-01T21:53:06.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 1 troop for holding Auckland.",
+    "timestamp": "2016-06-01T21:53:06.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 1 troop for holding Taranaki.",
+    "timestamp": "2016-06-01T21:53:06.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 1 troop for holding Northland.",
+    "timestamp": "2016-06-01T21:53:06.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "S. Taranaki (gcochard) was reinforced by gcochard with 2 troops.",
+    "timestamp": "2016-06-01T21:53:25.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Auckland City (gcochard) was reinforced by gcochard with 1 troop.",
+    "timestamp": "2016-06-01T21:53:45.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Greymouth (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-06-01T21:53:49.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "S. Taranaki (gcochard) attacked Palmerston North (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T21:53:54.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "S. Taranaki (gcochard) occupied Palmerston North with 5 troops.",
+    "timestamp": "2016-06-01T21:53:57.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Palmerston North (gcochard) attacked Wellington City (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T21:54:01.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Palmerston North (gcochard) occupied Wellington City with 1 troop.",
+    "timestamp": "2016-06-01T21:54:08.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Greymouth (gcochard) attacked Hurunui (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T21:54:20.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Greymouth (gcochard) occupied Hurunui with 1 troop.",
+    "timestamp": "2016-06-01T21:54:26.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "S. Taranaki (gcochard) was fortified from Palmerston North (gcochard) with 3 troops.",
+    "timestamp": "2016-06-01T21:55:20.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T21:55:20.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T21:55:20.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T21:56:01.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 4 territories.",
+    "timestamp": "2016-06-01T21:56:01.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Timaru (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-06-01T21:56:03.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Timaru (tanleach1001) attacked Ashburton (Neutral) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-06-01T21:56:11.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Timaru (tanleach1001) occupied Ashburton with 5 troops.",
+    "timestamp": "2016-06-01T21:56:13.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Ashburton (tanleach1001) was fortified from Mackenzie (tanleach1001) with 2 troops.",
+    "timestamp": "2016-06-01T21:56:17.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-01T21:56:17.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-01T21:56:17.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-01T21:56:23.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 3 troops for 4 territories.",
+    "timestamp": "2016-06-01T21:56:23.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Christchurch (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-06-01T21:56:31.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Christchurch (jobratt) attacked Selwyn (Neutral) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T21:56:35.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Christchurch (jobratt) occupied Selwyn with 1 troop.",
+    "timestamp": "2016-06-01T21:56:38.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-01T21:56:48.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-01T21:56:48.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-01T22:04:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 11 territories.",
+    "timestamp": "2016-06-01T22:04:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Bay of Plenty.",
+    "timestamp": "2016-06-01T22:04:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Poverty Bay.",
+    "timestamp": "2016-06-01T22:04:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Hawkes Bay.",
+    "timestamp": "2016-06-01T22:04:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Tararua (ryanbmilbourne) was reinforced by ryanbmilbourne with 7 troops.",
+    "timestamp": "2016-06-01T22:05:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Tararua (ryanbmilbourne) attacked Masterton (jobratt) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-06-01T22:05:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Tararua (ryanbmilbourne) occupied Masterton with 7 troops.",
+    "timestamp": "2016-06-01T22:05:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Masterton (ryanbmilbourne) attacked Wellington City (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T22:05:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Masterton (ryanbmilbourne) occupied Wellington City with 6 troops.",
+    "timestamp": "2016-06-01T22:05:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Whakatane (ryanbmilbourne) was fortified from Dannevirke (ryanbmilbourne) with 3 troops.",
+    "timestamp": "2016-06-01T22:06:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-01T22:06:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-01T22:06:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-06-01T22:08:35.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 3 troops for 11 territories.",
+    "timestamp": "2016-06-01T22:08:35.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Otago.",
+    "timestamp": "2016-06-01T22:08:35.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Southland.",
+    "timestamp": "2016-06-01T22:08:35.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Clutha (mmacfreier) was reinforced by mmacfreier with 2 troops.",
+    "timestamp": "2016-06-01T22:08:56.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Fiordland (mmacfreier) was reinforced by mmacfreier with 6 troops.",
+    "timestamp": "2016-06-01T22:08:59.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Fiordland (mmacfreier) attacked Whataroa (ryanbmilbourne) killing 1, losing 5.",
+    "timestamp": "2016-06-01T22:09:13.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Marlborough (mmacfreier) attacked Hurunui (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T22:09:19.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Marlborough (mmacfreier) occupied Hurunui with 1 troop.",
+    "timestamp": "2016-06-01T22:09:22.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Fiordland (mmacfreier) was fortified from Marlborough (mmacfreier) with 1 troop.",
+    "timestamp": "2016-06-01T22:09:31.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-06-01T22:09:31.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-06-01T22:09:31.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-06-01T22:09:31.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T22:12:57.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for 10 territories.",
+    "timestamp": "2016-06-01T22:12:57.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 1 troop for holding Auckland.",
+    "timestamp": "2016-06-01T22:12:57.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 1 troop for holding Taranaki.",
+    "timestamp": "2016-06-01T22:12:57.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 1 troop for holding Northland.",
+    "timestamp": "2016-06-01T22:12:57.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Palmerston North (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-06-01T22:13:26.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Auckland City (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-06-01T22:13:29.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Palmerston North (gcochard) attacked Ruapehu (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T22:13:33.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Palmerston North (gcochard) occupied Ruapehu with 1 troop.",
+    "timestamp": "2016-06-01T22:13:35.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Palmerston North (gcochard) attacked Tararua (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T22:13:40.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Palmerston North (gcochard) occupied Tararua with 1 troop.",
+    "timestamp": "2016-06-01T22:13:46.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Auckland City (gcochard) attacked Hamilton (mmacfreier) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-06-01T22:13:55.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Auckland City (gcochard) occupied Hamilton with 1 troop.",
+    "timestamp": "2016-06-01T22:13:58.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Auckland City (gcochard) was fortified from Rodney (gcochard) with 2 troops.",
+    "timestamp": "2016-06-01T22:14:05.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T22:14:05.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T22:14:05.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T22:14:24.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 5 territories.",
+    "timestamp": "2016-06-01T22:14:24.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Ashburton (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-06-01T22:14:30.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Ashburton (tanleach1001) attacked Selwyn (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T22:14:32.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Ashburton (tanleach1001) occupied Selwyn with 2 troops.",
+    "timestamp": "2016-06-01T22:14:45.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-01T22:14:51.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-01T22:14:51.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-01T22:15:00.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 3 troops for 2 territories.",
+    "timestamp": "2016-06-01T22:15:00.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 4 troops for turning in cards Fiordland, Ashburton, and Tasman.",
+    "timestamp": "2016-06-01T22:15:13.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Kaikoura (jobratt) was reinforced by jobratt with 7 troops.",
+    "timestamp": "2016-06-01T22:15:22.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Kaikoura (jobratt) attacked Marlborough (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T22:15:24.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Kaikoura (jobratt) occupied Marlborough with 9 troops.",
+    "timestamp": "2016-06-01T22:15:26.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Marlborough (jobratt) attacked Tasman (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T22:15:30.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Marlborough (jobratt) occupied Tasman with 1 troop.",
+    "timestamp": "2016-06-01T22:15:35.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Marlborough (jobratt) attacked Buller (mmacfreier) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-01T22:15:39.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Marlborough (jobratt) occupied Buller with 1 troop.",
+    "timestamp": "2016-06-01T22:15:41.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Marlborough (jobratt) was fortified from Christchurch (jobratt) with 2 troops.",
+    "timestamp": "2016-06-01T22:15:47.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-01T22:15:47.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-01T22:15:47.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-01T22:20:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 12 territories.",
+    "timestamp": "2016-06-01T22:20:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Bay of Plenty.",
+    "timestamp": "2016-06-01T22:20:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Poverty Bay.",
+    "timestamp": "2016-06-01T22:20:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Hawkes Bay.",
+    "timestamp": "2016-06-01T22:20:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Wellington.",
+    "timestamp": "2016-06-01T22:20:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Whakatane (ryanbmilbourne) was reinforced by ryanbmilbourne with 2 troops.",
+    "timestamp": "2016-06-01T22:20:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Wellington City (ryanbmilbourne) was reinforced by ryanbmilbourne with 7 troops.",
+    "timestamp": "2016-06-01T22:21:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Wellington City (ryanbmilbourne) attacked Christchurch (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T22:21:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Wellington City (ryanbmilbourne) occupied Christchurch with 12 troops.",
+    "timestamp": "2016-06-01T22:21:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Christchurch (ryanbmilbourne) attacked Selwyn (tanleach1001) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-06-01T22:21:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Christchurch (ryanbmilbourne) occupied Selwyn with 1 troop.",
+    "timestamp": "2016-06-01T22:21:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Wellington City (ryanbmilbourne) was fortified from Christchurch (ryanbmilbourne) with 10 troops.",
+    "timestamp": "2016-06-01T22:21:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-01T22:21:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-01T22:21:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-06-01T22:22:00.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 3 troops for 8 territories.",
+    "timestamp": "2016-06-01T22:22:00.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Otago.",
+    "timestamp": "2016-06-01T22:22:00.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Southland.",
+    "timestamp": "2016-06-01T22:22:00.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Clutha (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-06-01T22:22:31.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Fiordland (mmacfreier) was reinforced by mmacfreier with 5 troops.",
+    "timestamp": "2016-06-01T22:22:34.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Fiordland (mmacfreier) attacked Whataroa (ryanbmilbourne) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-06-01T22:22:37.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Fiordland (mmacfreier) occupied Whataroa with 7 troops.",
+    "timestamp": "2016-06-01T22:22:39.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-06-01T22:22:55.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-06-01T22:22:55.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-06-01T22:22:55.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-01T22:26:09.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 4 troops for 13 territories.",
+    "timestamp": "2016-06-01T22:26:09.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 1 troop for holding Auckland.",
+    "timestamp": "2016-06-01T22:26:09.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 1 troop for holding Taranaki.",
+    "timestamp": "2016-06-01T22:26:09.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 1 troop for holding Northland.",
+    "timestamp": "2016-06-01T22:26:09.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 2 troops for holding Manawatu.",
+    "timestamp": "2016-06-01T22:26:09.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 6 troops for turning in cards Dannevirke, Waimate, and C. Otago.",
+    "timestamp": "2016-06-01T22:26:30.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Auckland City (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-06-01T22:26:45.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Greymouth (gcochard) was reinforced by gcochard with 11 troops.",
+    "timestamp": "2016-06-01T22:27:29.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Greymouth (gcochard) attacked Whataroa (mmacfreier) conquering it, killing 7, losing 2.",
+    "timestamp": "2016-06-01T22:27:36.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Greymouth (gcochard) occupied Whataroa with 5 troops.",
+    "timestamp": "2016-06-01T22:27:44.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Greymouth (gcochard) attacked Buller (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T22:27:47.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Greymouth (gcochard) occupied Buller with 4 troops.",
+    "timestamp": "2016-06-01T22:27:54.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Rodney (gcochard) was fortified from New Plymouth (gcochard) with 4 troops.",
+    "timestamp": "2016-06-01T22:28:14.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-01T22:28:14.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-01T22:28:14.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-06-01T22:28:28.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 5 territories.",
+    "timestamp": "2016-06-01T22:28:28.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Timaru",
+    "timestamp": "2016-06-01T22:28:32.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Timaru, Greymouth, and Tauranga.",
+    "timestamp": "2016-06-01T22:28:32.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Ashburton (tanleach1001) was reinforced by tanleach1001 with 11 troops.",
+    "timestamp": "2016-06-01T22:28:36.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Ashburton (tanleach1001) attacked Selwyn (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-01T22:28:38.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Ashburton (tanleach1001) occupied Selwyn with 18 troops.",
+    "timestamp": "2016-06-01T22:28:43.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Selwyn (tanleach1001) attacked Hurunui (mmacfreier) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-06-01T22:28:50.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Selwyn (tanleach1001) occupied Hurunui with 1 troop.",
+    "timestamp": "2016-06-01T22:28:53.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Selwyn (tanleach1001) was fortified from Timaru (tanleach1001) with 2 troops.",
+    "timestamp": "2016-06-01T22:29:09.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-06-01T22:29:10.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-06-01T22:29:10.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-06-01T22:39:06.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 3 troops for 3 territories.",
+    "timestamp": "2016-06-01T22:39:06.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 2 troops for holding Nelson.",
+    "timestamp": "2016-06-01T22:39:06.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Marlborough (jobratt) was reinforced by jobratt with 5 troops.",
+    "timestamp": "2016-06-01T22:39:13.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Marlborough (jobratt) attacked Christchurch (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-01T22:39:51.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Marlborough (jobratt) occupied Christchurch with 1 troop.",
+    "timestamp": "2016-06-01T22:39:55.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-06-01T22:40:10.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-06-01T22:40:10.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-02T01:21:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 11 territories.",
+    "timestamp": "2016-06-02T01:21:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Bay of Plenty.",
+    "timestamp": "2016-06-02T01:21:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Poverty Bay.",
+    "timestamp": "2016-06-02T01:21:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Hawkes Bay.",
+    "timestamp": "2016-06-02T01:21:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Wellington.",
+    "timestamp": "2016-06-02T01:21:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Ruatoria",
+    "timestamp": "2016-06-02T01:21:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Wairoa",
+    "timestamp": "2016-06-02T01:21:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 10 troops for turning in cards Hurunui, Ruatoria, and Wairoa.",
+    "timestamp": "2016-06-02T01:21:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Wellington City (ryanbmilbourne) was reinforced by ryanbmilbourne with 18 troops.",
+    "timestamp": "2016-06-02T01:21:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Wellington City (ryanbmilbourne) attacked Marlborough (jobratt) conquering it, killing 10, losing 8.",
+    "timestamp": "2016-06-02T01:22:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Wellington City (ryanbmilbourne) occupied Marlborough with 20 troops.",
+    "timestamp": "2016-06-02T01:22:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Marlborough (ryanbmilbourne) attacked Christchurch (jobratt) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-06-02T01:22:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Marlborough (ryanbmilbourne) occupied Christchurch with 1 troop.",
+    "timestamp": "2016-06-02T01:22:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Marlborough (ryanbmilbourne) attacked Kaikoura (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T01:22:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Marlborough (ryanbmilbourne) occupied Kaikoura with 1 troop.",
+    "timestamp": "2016-06-02T01:22:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Marlborough (ryanbmilbourne) attacked Tasman (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T01:22:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "jobratt was defeated by ryanbmilbourne.",
+    "timestamp": "2016-06-02T01:22:45.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Marlborough (ryanbmilbourne) occupied Tasman with 1 troop.",
+    "timestamp": "2016-06-02T01:22:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 12 troops for turning in cards Queenstown, Mackenzie, and Far North.",
+    "timestamp": "2016-06-02T01:23:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Marlborough (ryanbmilbourne) was reinforced by ryanbmilbourne with 12 troops.",
+    "timestamp": "2016-06-02T01:23:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Marlborough (ryanbmilbourne) attacked Hurunui (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T01:23:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Marlborough (ryanbmilbourne) occupied Hurunui with 25 troops.",
+    "timestamp": "2016-06-02T01:23:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Hurunui (ryanbmilbourne) attacked Selwyn (tanleach1001) conquering it, killing 16, losing 14.",
+    "timestamp": "2016-06-02T01:23:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Hurunui (ryanbmilbourne) occupied Selwyn with 10 troops.",
+    "timestamp": "2016-06-02T01:23:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Selwyn (ryanbmilbourne) attacked Ashburton (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T01:23:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Selwyn (ryanbmilbourne) occupied Ashburton with 9 troops.",
+    "timestamp": "2016-06-02T01:23:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Ashburton (ryanbmilbourne) attacked Timaru (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T01:23:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Ashburton (ryanbmilbourne) occupied Timaru with 8 troops.",
+    "timestamp": "2016-06-02T01:23:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Timaru (ryanbmilbourne) attacked Mackenzie (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T01:23:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Timaru (ryanbmilbourne) occupied Mackenzie with 7 troops.",
+    "timestamp": "2016-06-02T01:23:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Mackenzie (ryanbmilbourne) attacked Waimate (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T01:23:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Mackenzie (ryanbmilbourne) occupied Waimate with 6 troops.",
+    "timestamp": "2016-06-02T01:23:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Waimate (ryanbmilbourne) attacked Waitaki (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-02T01:23:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 was defeated by ryanbmilbourne.",
+    "timestamp": "2016-06-02T01:23:57.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Waimate (ryanbmilbourne) occupied Waitaki with 4 troops.",
+    "timestamp": "2016-06-02T01:24:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Waitaki (ryanbmilbourne) attacked Queenstown (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-02T01:24:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Waitaki (ryanbmilbourne) occupied Queenstown with 2 troops.",
+    "timestamp": "2016-06-02T01:24:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Queenstown (ryanbmilbourne) attacked Fiordland (mmacfreier) killing 0, losing 1.",
+    "timestamp": "2016-06-02T01:24:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Wellington City (ryanbmilbourne) was fortified from Whakatane (ryanbmilbourne) with 8 troops.",
+    "timestamp": "2016-06-02T01:25:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-02T01:25:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-02T01:25:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-06-02T17:57:01.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 3 troops for 6 territories.",
+    "timestamp": "2016-06-02T17:57:01.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Southland.",
+    "timestamp": "2016-06-02T17:57:01.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops on Gore",
+    "timestamp": "2016-06-02T17:57:06.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops on Invercargill",
+    "timestamp": "2016-06-02T17:57:06.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 12 troops for turning in cards Gore, Invercargill, and Kaipara.",
+    "timestamp": "2016-06-02T17:57:06.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "C. Otago (mmacfreier) was reinforced by mmacfreier with 17 troops.",
+    "timestamp": "2016-06-02T17:57:20.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "C. Otago (mmacfreier) attacked Queenstown (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T17:57:23.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "C. Otago (mmacfreier) occupied Queenstown with 20 troops.",
+    "timestamp": "2016-06-02T17:57:25.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Queenstown (mmacfreier) attacked Waitaki (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-02T17:57:30.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Queenstown (mmacfreier) occupied Waitaki with 18 troops.",
+    "timestamp": "2016-06-02T17:57:32.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Waitaki (mmacfreier) attacked Waimate (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T17:57:36.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Waitaki (mmacfreier) occupied Waimate with 17 troops.",
+    "timestamp": "2016-06-02T17:57:38.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Waimate (mmacfreier) attacked Mackenzie (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T17:57:40.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Waimate (mmacfreier) occupied Mackenzie with 16 troops.",
+    "timestamp": "2016-06-02T17:57:42.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Mackenzie (mmacfreier) attacked Timaru (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T17:57:45.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Mackenzie (mmacfreier) occupied Timaru with 15 troops.",
+    "timestamp": "2016-06-02T17:57:47.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Timaru (mmacfreier) attacked Ashburton (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T17:57:50.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Timaru (mmacfreier) occupied Ashburton with 14 troops.",
+    "timestamp": "2016-06-02T17:57:51.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Ashburton (mmacfreier) attacked Selwyn (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T17:57:54.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Ashburton (mmacfreier) occupied Selwyn with 13 troops.",
+    "timestamp": "2016-06-02T17:57:55.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Selwyn (mmacfreier) attacked Christchurch (ryanbmilbourne) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-06-02T17:58:08.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Selwyn (mmacfreier) occupied Christchurch with 9 troops.",
+    "timestamp": "2016-06-02T17:58:10.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Fiordland (mmacfreier) was fortified from Gore (mmacfreier) with 2 troops.",
+    "timestamp": "2016-06-02T17:58:17.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-06-02T17:58:17.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-06-02T17:58:17.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Round 7 started.",
+    "timestamp": "2016-06-02T17:58:17.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-02T18:09:29.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 5 troops for 15 territories.",
+    "timestamp": "2016-06-02T18:09:29.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 1 troop for holding Northland.",
+    "timestamp": "2016-06-02T18:09:29.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 1 troop for holding Auckland.",
+    "timestamp": "2016-06-02T18:09:29.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 2 troops for holding Manawatu.",
+    "timestamp": "2016-06-02T18:09:29.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 1 troop for holding Taranaki.",
+    "timestamp": "2016-06-02T18:09:29.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received 2 troops for holding West Coast.",
+    "timestamp": "2016-06-02T18:09:29.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Buller (gcochard) was reinforced by gcochard with 2 troops.",
+    "timestamp": "2016-06-02T18:09:59.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Greymouth (gcochard) was reinforced by gcochard with 2 troops.",
+    "timestamp": "2016-06-02T18:10:06.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Whataroa (gcochard) was reinforced by gcochard with 8 troops.",
+    "timestamp": "2016-06-02T18:10:10.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Greymouth (gcochard) attacked Hurunui (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:10:16.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "Greymouth (gcochard) occupied Hurunui with 1 troop.",
+    "timestamp": "2016-06-02T18:10:21.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-02T18:10:41.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-02T18:10:41.000Z",
+    "player": "gcochard",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-02T18:11:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 14 territories.",
+    "timestamp": "2016-06-02T18:11:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Bay of Plenty.",
+    "timestamp": "2016-06-02T18:11:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Poverty Bay.",
+    "timestamp": "2016-06-02T18:11:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Hawkes Bay.",
+    "timestamp": "2016-06-02T18:11:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Wellington.",
+    "timestamp": "2016-06-02T18:11:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Nelson.",
+    "timestamp": "2016-06-02T18:11:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Gisborne",
+    "timestamp": "2016-06-02T18:11:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Napier",
+    "timestamp": "2016-06-02T18:11:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 12 troops for turning in cards Whataroa, Gisborne, and Napier.",
+    "timestamp": "2016-06-02T18:11:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Marlborough (ryanbmilbourne) was reinforced by ryanbmilbourne with 23 troops.",
+    "timestamp": "2016-06-02T18:12:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Marlborough (ryanbmilbourne) attacked Christchurch (mmacfreier) conquering it, killing 9, losing 6.",
+    "timestamp": "2016-06-02T18:13:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Marlborough (ryanbmilbourne) occupied Christchurch with 17 troops.",
+    "timestamp": "2016-06-02T18:13:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Christchurch (ryanbmilbourne) attacked Selwyn (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:13:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Christchurch (ryanbmilbourne) occupied Selwyn with 16 troops.",
+    "timestamp": "2016-06-02T18:13:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Selwyn (ryanbmilbourne) attacked Ashburton (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:13:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Selwyn (ryanbmilbourne) occupied Ashburton with 15 troops.",
+    "timestamp": "2016-06-02T18:13:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Ashburton (ryanbmilbourne) attacked Timaru (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-02T18:13:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Ashburton (ryanbmilbourne) occupied Timaru with 13 troops.",
+    "timestamp": "2016-06-02T18:13:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Timaru (ryanbmilbourne) attacked Waimate (mmacfreier) killing 0, losing 3.",
+    "timestamp": "2016-06-02T18:13:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Whakatane (ryanbmilbourne) was fortified from Timaru (ryanbmilbourne) with 9 troops.",
+    "timestamp": "2016-06-02T18:14:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-02T18:14:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-02T18:14:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-06-02T18:16:59.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 3 troops for 10 territories.",
+    "timestamp": "2016-06-02T18:16:59.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Southland.",
+    "timestamp": "2016-06-02T18:16:59.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Otago.",
+    "timestamp": "2016-06-02T18:16:59.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 12 troops for turning in cards S. Taranaki, Ruapehu, and Auckland City.",
+    "timestamp": "2016-06-02T18:17:04.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Mackenzie (mmacfreier) was reinforced by mmacfreier with 20 troops.",
+    "timestamp": "2016-06-02T18:17:29.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Mackenzie (mmacfreier) attacked Timaru (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-02T18:17:33.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Mackenzie (mmacfreier) occupied Timaru with 19 troops.",
+    "timestamp": "2016-06-02T18:17:35.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Timaru (mmacfreier) attacked Ashburton (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:17:38.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Timaru (mmacfreier) occupied Ashburton with 18 troops.",
+    "timestamp": "2016-06-02T18:17:39.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Ashburton (mmacfreier) attacked Selwyn (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-02T18:17:45.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Ashburton (mmacfreier) occupied Selwyn with 15 troops.",
+    "timestamp": "2016-06-02T18:17:47.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Selwyn (mmacfreier) attacked Christchurch (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:17:50.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Selwyn (mmacfreier) occupied Christchurch with 14 troops.",
+    "timestamp": "2016-06-02T18:17:53.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Christchurch (mmacfreier) attacked Wellington City (ryanbmilbourne) killing 8, losing 8.",
+    "timestamp": "2016-06-02T18:18:19.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Christchurch (mmacfreier) was fortified from Invercargill (mmacfreier) with 2 troops.",
+    "timestamp": "2016-06-02T18:18:30.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-06-02T18:18:30.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-06-02T18:18:30.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Round 8 started.",
+    "timestamp": "2016-06-02T18:18:30.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-02T18:21:55.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 5 troops for 16 territories.",
+    "timestamp": "2016-06-02T18:21:55.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 1 troop for holding Northland.",
+    "timestamp": "2016-06-02T18:21:55.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 1 troop for holding Auckland.",
+    "timestamp": "2016-06-02T18:21:55.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 2 troops for holding Manawatu.",
+    "timestamp": "2016-06-02T18:21:55.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 1 troop for holding Taranaki.",
+    "timestamp": "2016-06-02T18:21:55.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 2 troops for holding West Coast.",
+    "timestamp": "2016-06-02T18:21:55.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 2 troops on Hamilton",
+    "timestamp": "2016-06-02T18:22:00.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 2 troops on Palmerston North",
+    "timestamp": "2016-06-02T18:22:00.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received 12 troops for turning in cards Hamilton, Masterton, and Palmerston North.",
+    "timestamp": "2016-06-02T18:22:00.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Whataroa (gcochard) was reinforced by gcochard with 24 troops.",
+    "timestamp": "2016-06-02T18:22:23.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Whataroa (gcochard) attacked Fiordland (mmacfreier) conquering it, killing 3, losing 10.",
+    "timestamp": "2016-06-02T18:22:36.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Whataroa (gcochard) occupied Fiordland with 26 troops.",
+    "timestamp": "2016-06-02T18:22:38.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Fiordland (gcochard) attacked Invercargill (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:22:43.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Fiordland (gcochard) occupied Invercargill with 25 troops.",
+    "timestamp": "2016-06-02T18:22:45.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Invercargill (gcochard) attacked Gore (mmacfreier) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-02T18:22:51.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Invercargill (gcochard) occupied Gore with 22 troops.",
+    "timestamp": "2016-06-02T18:22:52.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Gore (gcochard) attacked Clutha (mmacfreier) conquering it, killing 10, losing 3.",
+    "timestamp": "2016-06-02T18:23:00.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Gore (gcochard) occupied Clutha with 18 troops.",
+    "timestamp": "2016-06-02T18:23:02.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "Clutha (gcochard) attacked Christchurch (mmacfreier) killing 2, losing 8.",
+    "timestamp": "2016-06-02T18:23:18.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-02T18:23:32.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-02T18:23:32.000Z",
+    "player": "gcochard",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-02T18:23:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 14 territories.",
+    "timestamp": "2016-06-02T18:23:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Bay of Plenty.",
+    "timestamp": "2016-06-02T18:23:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Poverty Bay.",
+    "timestamp": "2016-06-02T18:23:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Hawkes Bay.",
+    "timestamp": "2016-06-02T18:23:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Wellington.",
+    "timestamp": "2016-06-02T18:23:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Nelson.",
+    "timestamp": "2016-06-02T18:23:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Whakatane (ryanbmilbourne) was reinforced by ryanbmilbourne with 11 troops.",
+    "timestamp": "2016-06-02T18:24:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Whakatane (ryanbmilbourne) attacked Christchurch (mmacfreier) conquering it, killing 6, losing 4.",
+    "timestamp": "2016-06-02T18:24:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Whakatane (ryanbmilbourne) occupied Christchurch with 16 troops.",
+    "timestamp": "2016-06-02T18:24:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Christchurch (ryanbmilbourne) attacked Selwyn (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:24:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Christchurch (ryanbmilbourne) occupied Selwyn with 15 troops.",
+    "timestamp": "2016-06-02T18:24:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Selwyn (ryanbmilbourne) attacked Ashburton (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-02T18:24:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Selwyn (ryanbmilbourne) occupied Ashburton with 13 troops.",
+    "timestamp": "2016-06-02T18:24:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Ashburton (ryanbmilbourne) attacked Timaru (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:24:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Ashburton (ryanbmilbourne) occupied Timaru with 12 troops.",
+    "timestamp": "2016-06-02T18:24:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Timaru (ryanbmilbourne) attacked Mackenzie (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:24:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Timaru (ryanbmilbourne) occupied Mackenzie with 11 troops.",
+    "timestamp": "2016-06-02T18:24:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Mackenzie (ryanbmilbourne) attacked Waimate (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:24:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Mackenzie (ryanbmilbourne) occupied Waimate with 10 troops.",
+    "timestamp": "2016-06-02T18:24:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Waimate (ryanbmilbourne) attacked Waitaki (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:24:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Waimate (ryanbmilbourne) occupied Waitaki with 9 troops.",
+    "timestamp": "2016-06-02T18:24:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Waitaki (ryanbmilbourne) attacked C. Otago (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:25:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Waitaki (ryanbmilbourne) occupied C. Otago with 8 troops.",
+    "timestamp": "2016-06-02T18:25:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "C. Otago (ryanbmilbourne) attacked Dunedin (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:25:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "C. Otago (ryanbmilbourne) occupied Dunedin with 1 troop.",
+    "timestamp": "2016-06-02T18:25:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "C. Otago (ryanbmilbourne) attacked Queenstown (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:25:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier was defeated by ryanbmilbourne.",
+    "timestamp": "2016-06-02T18:25:15.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "C. Otago (ryanbmilbourne) occupied Queenstown with 6 troops.",
+    "timestamp": "2016-06-02T18:25:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Queenstown (ryanbmilbourne) attacked Fiordland (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:25:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Queenstown (ryanbmilbourne) occupied Fiordland with 5 troops.",
+    "timestamp": "2016-06-02T18:25:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Fiordland (ryanbmilbourne) attacked Whataroa (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:25:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Fiordland (ryanbmilbourne) occupied Whataroa with 1 troop.",
+    "timestamp": "2016-06-02T18:25:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Dannevirke (ryanbmilbourne) was fortified from Fiordland (ryanbmilbourne) with 3 troops.",
+    "timestamp": "2016-06-02T18:26:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-02T18:26:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-02T18:26:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Round 9 started.",
+    "timestamp": "2016-06-02T18:26:31.000Z",
+    "player": "unknown",
+    "round": 9
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-02T18:30:10.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 6 troops for 18 territories.",
+    "timestamp": "2016-06-02T18:30:10.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 1 troop for holding Northland.",
+    "timestamp": "2016-06-02T18:30:10.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 1 troop for holding Auckland.",
+    "timestamp": "2016-06-02T18:30:10.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 2 troops for holding Manawatu.",
+    "timestamp": "2016-06-02T18:30:10.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received 1 troop for holding Taranaki.",
+    "timestamp": "2016-06-02T18:30:10.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Auckland City (gcochard) was reinforced by gcochard with 11 troops.",
+    "timestamp": "2016-06-02T18:30:46.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Auckland City (gcochard) attacked Whakatane (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:30:52.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Auckland City (gcochard) occupied Whakatane with 20 troops.",
+    "timestamp": "2016-06-02T18:30:56.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Whakatane (gcochard) attacked Gisborne (ryanbmilbourne) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-06-02T18:31:03.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Whakatane (gcochard) occupied Gisborne with 1 troop.",
+    "timestamp": "2016-06-02T18:31:06.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Whakatane (gcochard) attacked Wairoa (ryanbmilbourne) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-06-02T18:31:12.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Whakatane (gcochard) occupied Wairoa with 1 troop.",
+    "timestamp": "2016-06-02T18:31:16.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Palmerston North (gcochard) attacked Masterton (ryanbmilbourne) killing 0, losing 3.",
+    "timestamp": "2016-06-02T18:31:27.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Whakatane (gcochard) attacked Wellington City (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:31:31.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Whakatane (gcochard) occupied Wellington City with 14 troops.",
+    "timestamp": "2016-06-02T18:31:35.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Wellington City (gcochard) attacked Christchurch (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-02T18:31:43.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Wellington City (gcochard) occupied Christchurch with 12 troops.",
+    "timestamp": "2016-06-02T18:31:44.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Greymouth (gcochard) attacked Whataroa (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:31:53.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Greymouth (gcochard) occupied Whataroa with 4 troops.",
+    "timestamp": "2016-06-02T18:31:55.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Clutha (gcochard) attacked C. Otago (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-02T18:32:02.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Clutha (gcochard) occupied C. Otago with 7 troops.",
+    "timestamp": "2016-06-02T18:32:04.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "C. Otago (gcochard) attacked Fiordland (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:32:11.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "C. Otago (gcochard) occupied Fiordland with 6 troops.",
+    "timestamp": "2016-06-02T18:32:13.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Fiordland (gcochard) attacked Queenstown (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:32:17.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Fiordland (gcochard) occupied Queenstown with 5 troops.",
+    "timestamp": "2016-06-02T18:32:19.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Queenstown (gcochard) attacked Waitaki (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-02T18:32:23.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Queenstown (gcochard) occupied Waitaki with 3 troops.",
+    "timestamp": "2016-06-02T18:32:25.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Buller (gcochard) attacked Tasman (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:32:31.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Buller (gcochard) occupied Tasman with 5 troops.",
+    "timestamp": "2016-06-02T18:32:32.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Tasman (gcochard) attacked Marlborough (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-02T18:32:43.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Tasman (gcochard) occupied Marlborough with 2 troops.",
+    "timestamp": "2016-06-02T18:32:44.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Marlborough (gcochard) attacked Kaikoura (ryanbmilbourne) killing 0, losing 1.",
+    "timestamp": "2016-06-02T18:32:46.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Christchurch (gcochard) attacked Selwyn (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:32:52.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Christchurch (gcochard) occupied Selwyn with 11 troops.",
+    "timestamp": "2016-06-02T18:32:56.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Waitaki (gcochard) attacked Mackenzie (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:33:12.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Waitaki (gcochard) occupied Mackenzie with 2 troops.",
+    "timestamp": "2016-06-02T18:33:13.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Mackenzie (gcochard) attacked Waimate (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:33:17.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Hamilton (gcochard) attacked Thames-Coromandel (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T18:33:34.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Hamilton (gcochard) occupied Thames-Coromandel with 2 troops.",
+    "timestamp": "2016-06-02T18:33:37.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "Auckland City (gcochard) was fortified from Selwyn (gcochard) with 10 troops.",
+    "timestamp": "2016-06-02T18:33:43.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-02T18:33:43.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-02T18:33:43.000Z",
+    "player": "gcochard",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-02T19:26:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 10 territories.",
+    "timestamp": "2016-06-02T19:26:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 12 troops for turning in cards Buller, Selwyn, and Wellington City.",
+    "timestamp": "2016-06-02T19:26:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Tauranga (ryanbmilbourne) was reinforced by ryanbmilbourne with 15 troops.",
+    "timestamp": "2016-06-02T19:26:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Tauranga (ryanbmilbourne) attacked Whakatane (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:26:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Tauranga (ryanbmilbourne) occupied Whakatane with 1 troop.",
+    "timestamp": "2016-06-02T19:27:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Dannevirke (ryanbmilbourne) attacked Tararua (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:27:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Dannevirke (ryanbmilbourne) occupied Tararua with 3 troops.",
+    "timestamp": "2016-06-02T19:27:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Napier (ryanbmilbourne) attacked Wairoa (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:27:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Napier (ryanbmilbourne) occupied Wairoa with 2 troops.",
+    "timestamp": "2016-06-02T19:27:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Ruatoria (ryanbmilbourne) attacked Gisborne (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-02T19:27:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Taupo (ryanbmilbourne) attacked Thames-Coromandel (gcochard) killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:27:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Tauranga (ryanbmilbourne) attacked Thames-Coromandel (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-02T19:27:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Tauranga (ryanbmilbourne) occupied Thames-Coromandel with 13 troops.",
+    "timestamp": "2016-06-02T19:27:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Thames-Coromandel (ryanbmilbourne) attacked Rodney (gcochard) conquering it, killing 5, losing 3.",
+    "timestamp": "2016-06-02T19:27:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Thames-Coromandel (ryanbmilbourne) occupied Rodney with 9 troops.",
+    "timestamp": "2016-06-02T19:27:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Rodney (ryanbmilbourne) attacked Kaipara (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:27:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Rodney (ryanbmilbourne) occupied Kaipara with 8 troops.",
+    "timestamp": "2016-06-02T19:27:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Kaipara (ryanbmilbourne) attacked Whangarei (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-02T19:28:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Kaipara (ryanbmilbourne) occupied Whangarei with 6 troops.",
+    "timestamp": "2016-06-02T19:28:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Whangarei (ryanbmilbourne) attacked Far North (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:28:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Whangarei (ryanbmilbourne) occupied Far North with 1 troop.",
+    "timestamp": "2016-06-02T19:28:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Tararua (ryanbmilbourne) attacked Palmerston North (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:28:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Tararua (ryanbmilbourne) occupied Palmerston North with 2 troops.",
+    "timestamp": "2016-06-02T19:28:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Palmerston North (ryanbmilbourne) attacked Wellington City (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-06-02T19:28:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Taupo (ryanbmilbourne) attacked Waitomo (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-06-02T19:28:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Whakatane (ryanbmilbourne) was fortified from Whangarei (ryanbmilbourne) with 4 troops.",
+    "timestamp": "2016-06-02T19:29:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-02T19:29:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-02T19:29:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Round 10 started.",
+    "timestamp": "2016-06-02T19:29:05.000Z",
+    "player": "unknown",
+    "round": 10
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-02T19:40:33.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 8 troops for 24 territories.",
+    "timestamp": "2016-06-02T19:40:33.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 1 troop for holding Taranaki.",
+    "timestamp": "2016-06-02T19:40:33.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 2 troops for holding West Coast.",
+    "timestamp": "2016-06-02T19:40:33.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received 2 troops for holding Southland.",
+    "timestamp": "2016-06-02T19:40:33.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Clutha (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-06-02T19:40:54.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Selwyn (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-06-02T19:41:09.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Auckland City (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-06-02T19:41:15.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Selwyn (gcochard) attacked Ashburton (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:41:20.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Selwyn (gcochard) occupied Ashburton with 4 troops.",
+    "timestamp": "2016-06-02T19:41:21.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Ashburton (gcochard) attacked Timaru (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-02T19:41:26.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Clutha (gcochard) attacked Dunedin (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-02T19:41:30.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Clutha (gcochard) occupied Dunedin with 1 troop.",
+    "timestamp": "2016-06-02T19:41:34.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Auckland City (gcochard) attacked Whakatane (ryanbmilbourne) killing 3, losing 1.",
+    "timestamp": "2016-06-02T19:41:43.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "S. Taranaki (gcochard) attacked Palmerston North (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:41:49.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "S. Taranaki (gcochard) occupied Palmerston North with 3 troops.",
+    "timestamp": "2016-06-02T19:41:51.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Palmerston North (gcochard) attacked Tararua (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:41:54.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Palmerston North (gcochard) occupied Tararua with 2 troops.",
+    "timestamp": "2016-06-02T19:41:56.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Tararua (gcochard) attacked Dannevirke (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:41:58.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Auckland City (gcochard) attacked Whakatane (ryanbmilbourne) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-06-02T19:42:04.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Auckland City (gcochard) occupied Whakatane with 5 troops.",
+    "timestamp": "2016-06-02T19:42:15.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Whakatane (gcochard) attacked Gisborne (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:42:19.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Whakatane (gcochard) occupied Gisborne with 4 troops.",
+    "timestamp": "2016-06-02T19:42:20.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Gisborne (gcochard) attacked Ruatoria (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:42:22.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Gisborne (gcochard) occupied Ruatoria with 1 troop.",
+    "timestamp": "2016-06-02T19:42:25.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Gisborne (gcochard) attacked Wairoa (ryanbmilbourne) killing 1, losing 2.",
+    "timestamp": "2016-06-02T19:42:29.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Auckland City (gcochard) attacked Rodney (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:42:33.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Auckland City (gcochard) occupied Rodney with 8 troops.",
+    "timestamp": "2016-06-02T19:42:34.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Rodney (gcochard) attacked Kaipara (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:42:37.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Rodney (gcochard) occupied Kaipara with 7 troops.",
+    "timestamp": "2016-06-02T19:42:39.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Kaipara (gcochard) attacked Whangarei (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:42:42.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Kaipara (gcochard) occupied Whangarei with 6 troops.",
+    "timestamp": "2016-06-02T19:42:44.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Whangarei (gcochard) attacked Far North (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:42:46.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Whangarei (gcochard) occupied Far North with 5 troops.",
+    "timestamp": "2016-06-02T19:42:47.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "Auckland City (gcochard) was fortified from Far North (gcochard) with 4 troops.",
+    "timestamp": "2016-06-02T19:42:56.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-02T19:42:56.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-02T19:42:56.000Z",
+    "player": "gcochard",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-02T19:43:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 7 territories.",
+    "timestamp": "2016-06-02T19:43:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 12 troops for turning in cards Rodney, Whakatane, and Tararua.",
+    "timestamp": "2016-06-02T19:43:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Kaikoura (ryanbmilbourne) was reinforced by ryanbmilbourne with 15 troops.",
+    "timestamp": "2016-06-02T19:43:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Kaikoura (ryanbmilbourne) attacked Hurunui (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:43:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Kaikoura (ryanbmilbourne) occupied Hurunui with 15 troops.",
+    "timestamp": "2016-06-02T19:43:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Hurunui (ryanbmilbourne) attacked Buller (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:43:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Hurunui (ryanbmilbourne) occupied Buller with 1 troop.",
+    "timestamp": "2016-06-02T19:43:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Hurunui (ryanbmilbourne) attacked Selwyn (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:43:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Hurunui (ryanbmilbourne) occupied Selwyn with 13 troops.",
+    "timestamp": "2016-06-02T19:43:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Selwyn (ryanbmilbourne) attacked Ashburton (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:43:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Selwyn (ryanbmilbourne) occupied Ashburton with 12 troops.",
+    "timestamp": "2016-06-02T19:43:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Ashburton (ryanbmilbourne) attacked Timaru (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:43:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Ashburton (ryanbmilbourne) occupied Timaru with 11 troops.",
+    "timestamp": "2016-06-02T19:43:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Timaru (ryanbmilbourne) attacked Waimate (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:43:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Timaru (ryanbmilbourne) occupied Waimate with 10 troops.",
+    "timestamp": "2016-06-02T19:43:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Waimate (ryanbmilbourne) attacked C. Otago (gcochard) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-06-02T19:43:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Waimate (ryanbmilbourne) occupied C. Otago with 7 troops.",
+    "timestamp": "2016-06-02T19:43:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "C. Otago (ryanbmilbourne) attacked Fiordland (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-02T19:44:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "C. Otago (ryanbmilbourne) occupied Fiordland with 1 troop.",
+    "timestamp": "2016-06-02T19:44:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "C. Otago (ryanbmilbourne) attacked Clutha (gcochard) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-06-02T19:44:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "C. Otago (ryanbmilbourne) occupied Clutha with 4 troops.",
+    "timestamp": "2016-06-02T19:44:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Clutha (ryanbmilbourne) attacked Wellington City (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:44:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Clutha (ryanbmilbourne) occupied Wellington City with 3 troops.",
+    "timestamp": "2016-06-02T19:44:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Wellington City (ryanbmilbourne) attacked Palmerston North (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:44:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Wellington City (ryanbmilbourne) occupied Palmerston North with 2 troops.",
+    "timestamp": "2016-06-02T19:44:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Palmerston North (ryanbmilbourne) attacked S. Taranaki (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-06-02T19:44:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-06-02T19:44:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-02T19:44:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Round 11 started.",
+    "timestamp": "2016-06-02T19:44:51.000Z",
+    "player": "unknown",
+    "round": 11
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-02T19:44:54.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 8 troops for 26 territories.",
+    "timestamp": "2016-06-02T19:44:54.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 1 troop for holding Taranaki.",
+    "timestamp": "2016-06-02T19:44:54.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 1 troop for holding Poverty Bay.",
+    "timestamp": "2016-06-02T19:44:54.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 1 troop for holding Auckland.",
+    "timestamp": "2016-06-02T19:44:54.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 1 troop for holding Northland.",
+    "timestamp": "2016-06-02T19:44:54.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 2 troops on Whangarei",
+    "timestamp": "2016-06-02T19:44:59.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 2 troops on Waitaki",
+    "timestamp": "2016-06-02T19:44:59.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received 12 troops for turning in cards Clutha, Whangarei, and Waitaki.",
+    "timestamp": "2016-06-02T19:44:59.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Whataroa (gcochard) was reinforced by gcochard with 18 troops.",
+    "timestamp": "2016-06-02T19:45:32.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Whakatane (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-06-02T19:45:50.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Whataroa (gcochard) attacked Fiordland (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:45:54.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Whataroa (gcochard) occupied Fiordland with 21 troops.",
+    "timestamp": "2016-06-02T19:45:55.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Fiordland (gcochard) attacked C. Otago (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:45:59.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Fiordland (gcochard) occupied C. Otago with 20 troops.",
+    "timestamp": "2016-06-02T19:46:01.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "C. Otago (gcochard) attacked Clutha (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:46:05.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "C. Otago (gcochard) occupied Clutha with 7 troops.",
+    "timestamp": "2016-06-02T19:46:09.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "C. Otago (gcochard) attacked Waimate (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-02T19:46:16.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "C. Otago (gcochard) occupied Waimate with 11 troops.",
+    "timestamp": "2016-06-02T19:46:17.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Waimate (gcochard) attacked Timaru (ryanbmilbourne) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-06-02T19:46:23.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Waimate (gcochard) occupied Timaru with 7 troops.",
+    "timestamp": "2016-06-02T19:46:25.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Timaru (gcochard) attacked Ashburton (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-06-02T19:46:28.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Timaru (gcochard) occupied Ashburton with 5 troops.",
+    "timestamp": "2016-06-02T19:46:30.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Ashburton (gcochard) attacked Selwyn (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:46:34.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Ashburton (gcochard) occupied Selwyn with 4 troops.",
+    "timestamp": "2016-06-02T19:46:35.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Selwyn (gcochard) attacked Hurunui (ryanbmilbourne) killing 0, losing 3.",
+    "timestamp": "2016-06-02T19:46:40.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Whakatane (gcochard) attacked Tauranga (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:46:50.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Whakatane (gcochard) occupied Tauranga with 6 troops.",
+    "timestamp": "2016-06-02T19:46:51.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Tauranga (gcochard) attacked Thames-Coromandel (ryanbmilbourne) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-06-02T19:46:58.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Tauranga (gcochard) occupied Thames-Coromandel with 2 troops.",
+    "timestamp": "2016-06-02T19:46:59.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Thames-Coromandel (gcochard) attacked Taupo (ryanbmilbourne) killing 0, losing 1.",
+    "timestamp": "2016-06-02T19:47:04.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Clutha (gcochard) attacked Wellington City (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:47:13.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Clutha (gcochard) occupied Wellington City with 6 troops.",
+    "timestamp": "2016-06-02T19:47:14.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Wellington City (gcochard) attacked Masterton (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:47:19.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Wellington City (gcochard) occupied Masterton with 1 troop.",
+    "timestamp": "2016-06-02T19:47:22.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Wellington City (gcochard) attacked Palmerston North (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:47:25.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Wellington City (gcochard) occupied Palmerston North with 1 troop.",
+    "timestamp": "2016-06-02T19:47:48.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "Selwyn (gcochard) was fortified from Auckland City (gcochard) with 4 troops.",
+    "timestamp": "2016-06-02T19:48:03.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-06-02T19:48:03.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-06-02T19:48:03.000Z",
+    "player": "gcochard",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-06-02T19:48:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 6 territories.",
+    "timestamp": "2016-06-02T19:48:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Hurunui (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-06-02T19:48:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Hurunui (ryanbmilbourne) attacked Greymouth (gcochard) killing 0, losing 3.",
+    "timestamp": "2016-06-02T19:48:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-06-02T19:48:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Round 12 started.",
+    "timestamp": "2016-06-02T19:48:43.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-06-02T19:48:56.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 12 troops for 38 territories.",
+    "timestamp": "2016-06-02T19:48:56.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 1 troop for holding Taranaki.",
+    "timestamp": "2016-06-02T19:48:56.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 1 troop for holding Poverty Bay.",
+    "timestamp": "2016-06-02T19:48:56.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 1 troop for holding Auckland.",
+    "timestamp": "2016-06-02T19:48:56.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 1 troop for holding Northland.",
+    "timestamp": "2016-06-02T19:48:56.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 2 troops for holding Southland.",
+    "timestamp": "2016-06-02T19:48:56.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 3 troops for holding Otago.",
+    "timestamp": "2016-06-02T19:48:56.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 1 troop for holding Bay of Plenty.",
+    "timestamp": "2016-06-02T19:48:56.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 1 troop for holding Wellington.",
+    "timestamp": "2016-06-02T19:48:56.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 2 troops for holding Manawatu.",
+    "timestamp": "2016-06-02T19:48:56.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Marlborough (gcochard) was reinforced by gcochard with 5 troops.",
+    "timestamp": "2016-06-02T19:49:07.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Whakatane (gcochard) was reinforced by gcochard with 5 troops.",
+    "timestamp": "2016-06-02T19:49:18.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Marlborough (gcochard) was reinforced by gcochard with 5 troops.",
+    "timestamp": "2016-06-02T19:49:25.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Whakatane (gcochard) was reinforced by gcochard with 5 troops.",
+    "timestamp": "2016-06-02T19:49:32.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Selwyn (gcochard) was reinforced by gcochard with 5 troops.",
+    "timestamp": "2016-06-02T19:49:37.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Whakatane (gcochard) attacked Taupo (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:49:39.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Whakatane (gcochard) occupied Taupo with 1 troop.",
+    "timestamp": "2016-06-02T19:49:43.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Whakatane (gcochard) attacked Napier (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:49:46.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Whakatane (gcochard) occupied Napier with 1 troop.",
+    "timestamp": "2016-06-02T19:49:50.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Whakatane (gcochard) attacked Wairoa (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:49:54.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Whakatane (gcochard) occupied Wairoa with 8 troops.",
+    "timestamp": "2016-06-02T19:49:55.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Marlborough (gcochard) attacked Kaikoura (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:50:03.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Marlborough (gcochard) occupied Kaikoura with 1 troop.",
+    "timestamp": "2016-06-02T19:50:06.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Marlborough (gcochard) attacked Buller (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:50:10.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Marlborough (gcochard) occupied Buller with 1 troop.",
+    "timestamp": "2016-06-02T19:50:12.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "Marlborough (gcochard) attacked Hurunui (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-06-02T19:50:15.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne was defeated by gcochard.",
+    "timestamp": "2016-06-02T19:50:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-06-02T19:50:16.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "gcochard won the game.",
+    "timestamp": "2016-06-02T19:50:16.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 81 rating.",
+    "timestamp": "2016-06-02T19:50:16.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "gcochard received 20 tokens.",
+    "timestamp": "2016-06-02T19:50:16.000Z",
+    "player": "gcochard",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 lost 18 rating.",
+    "timestamp": "2016-06-02T19:50:16.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 20 tokens.",
+    "timestamp": "2016-06-02T19:50:16.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "jobratt lost 31 rating.",
+    "timestamp": "2016-06-02T19:50:16.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "jobratt received 20 tokens.",
+    "timestamp": "2016-06-02T19:50:16.000Z",
+    "player": "jobratt",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne lost 14 rating.",
+    "timestamp": "2016-06-02T19:50:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 20 tokens.",
+    "timestamp": "2016-06-02T19:50:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier lost 18 rating.",
+    "timestamp": "2016-06-02T19:50:16.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  },
+  {
+    "message": "mmacfreier received 20 tokens.",
+    "timestamp": "2016-06-02T19:50:16.000Z",
+    "player": "mmacfreier",
+    "round": 12
+  }
+]
