@@ -1,0 +1,1544 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-07-11T16:39:32.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "johnsgill3 joined the game.",
+    "timestamp": "2016-07-11T16:39:32.000Z",
+    "player": "johnsgill3",
+    "round": 0
+  },
+  {
+    "message": "gcochard joined the game.",
+    "timestamp": "2016-07-11T16:41:04.000Z",
+    "player": "gcochard",
+    "round": 0
+  },
+  {
+    "message": "mmacfreier joined the game.",
+    "timestamp": "2016-07-11T16:41:41.000Z",
+    "player": "mmacfreier",
+    "round": 0
+  },
+  {
+    "message": "kwren joined the game.",
+    "timestamp": "2016-07-11T16:42:46.000Z",
+    "player": "kwren",
+    "round": 0
+  },
+  {
+    "message": "tanleach1001 joined the game.",
+    "timestamp": "2016-07-11T16:42:48.000Z",
+    "player": "tanleach1001",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne joined the game.",
+    "timestamp": "2016-07-11T16:45:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-07-11T16:45:43.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-11T17:07:37.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 3 troops for 9 territories.",
+    "timestamp": "2016-07-11T17:07:37.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Norvos (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-07-11T17:07:40.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Norvos (kwren) attacked Pentos (mmacfreier) killing 2, losing 0.",
+    "timestamp": "2016-07-11T17:07:44.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Lorath (kwren) attacked Pentos (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T17:07:50.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Lorath (kwren) occupied Pentos with 2 troops.",
+    "timestamp": "2016-07-11T17:07:52.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Norvos (kwren) attacked Qohor (mmacfreier) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-07-11T17:08:07.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Norvos (kwren) occupied Qohor with 3 troops.",
+    "timestamp": "2016-07-11T17:08:09.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Fist of the First Men (tanleach1001) was fortified from The Eyrie (kwren) with 2 troops.",
+    "timestamp": "2016-07-11T17:10:43.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Cape Kraken (tanleach1001) was fortified from The Neck (kwren) with 2 troops.",
+    "timestamp": "2016-07-11T17:12:30.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Winterfell (ryanbmilbourne) was fortified from Queenscrown (kwren) with 2 troops.",
+    "timestamp": "2016-07-11T17:13:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Queenscrown (kwren) was fortified from Last Hearth (kwren) with 1 troop.",
+    "timestamp": "2016-07-11T17:13:16.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Winterfell (ryanbmilbourne) was fortified from The Gift (kwren) with 2 troops.",
+    "timestamp": "2016-07-11T17:13:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Queenscrown (kwren) was fortified from Last Hearth (kwren) with 1 troop.",
+    "timestamp": "2016-07-11T17:13:30.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Summerhall (ryanbmilbourne) was fortified from Hellholt (kwren) with 2 troops.",
+    "timestamp": "2016-07-11T17:14:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Myr (tanleach1001) was fortified from Pentos (kwren) with 1 troop.",
+    "timestamp": "2016-07-11T17:14:57.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-11T17:16:10.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-07-11T17:35:48.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 3 troops for 9 territories.",
+    "timestamp": "2016-07-11T17:35:48.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Sunspear (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-07-11T17:39:25.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Sunspear (gcochard) attacked Hellholt (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-11T17:39:34.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Sunspear (gcochard) occupied Hellholt with 3 troops.",
+    "timestamp": "2016-07-11T17:39:45.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Vale of Arryn (gcochard) attacked The Eyrie (kwren) killing 0, losing 2.",
+    "timestamp": "2016-07-11T17:40:09.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "The Fingers (johnsgill3) was fortified from Barrowlands (gcochard) with 2 troops.",
+    "timestamp": "2016-07-11T17:40:39.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "The Fingers (johnsgill3) was fortified from White Harbor (gcochard) with 2 troops.",
+    "timestamp": "2016-07-11T17:40:48.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Saltpans (johnsgill3) was fortified from The Twins (gcochard) with 2 troops.",
+    "timestamp": "2016-07-11T17:41:12.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Tyrosh (mmacfreier) was fortified from Vaith (gcochard) with 2 troops.",
+    "timestamp": "2016-07-11T17:41:19.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Tyrosh (mmacfreier) was fortified from Lys (gcochard) with 2 troops.",
+    "timestamp": "2016-07-11T17:41:24.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-07-11T17:41:38.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-11T17:42:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 9 territories.",
+    "timestamp": "2016-07-11T17:42:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Crownlands.",
+    "timestamp": "2016-07-11T17:42:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Winterfell (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-07-11T17:47:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Winterfell (ryanbmilbourne) attacked White Harbor (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T17:47:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Winterfell (ryanbmilbourne) occupied White Harbor with 10 troops.",
+    "timestamp": "2016-07-11T17:47:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "White Harbor (ryanbmilbourne) attacked The Fingers (johnsgill3) conquering it, killing 7, losing 4.",
+    "timestamp": "2016-07-11T17:49:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "White Harbor (ryanbmilbourne) occupied The Fingers with 1 troop.",
+    "timestamp": "2016-07-11T17:49:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Summerhall (ryanbmilbourne) attacked Horn Hill (mmacfreier) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-07-11T17:50:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Summerhall (ryanbmilbourne) occupied Horn Hill with 4 troops.",
+    "timestamp": "2016-07-11T17:50:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Myr (tanleach1001) was fortified from White Harbor (ryanbmilbourne) with 4 troops.",
+    "timestamp": "2016-07-11T17:50:46.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "The Frozen Shore (tanleach1001) was fortified from Stony Shore (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-07-11T17:51:01.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Summerhall (ryanbmilbourne) was fortified from Storm's End (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-07-11T17:51:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "King's Landing (ryanbmilbourne) was fortified from Kingswood (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-07-11T17:51:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Banefort (ryanbmilbourne) was fortified from Lannisport (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-07-11T17:52:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Tumbleton (tanleach1001) was fortified from Kingswood (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-07-11T17:54:58.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-11T17:55:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-11T18:03:15.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 8 territories.",
+    "timestamp": "2016-07-11T18:03:15.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Saltpans (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-07-11T18:03:23.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Saltpans (johnsgill3) attacked The Eyrie (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T18:03:26.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Saltpans (johnsgill3) occupied The Eyrie with 7 troops.",
+    "timestamp": "2016-07-11T18:03:28.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "The Eyrie (johnsgill3) attacked Vale of Arryn (gcochard) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-11T18:03:36.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "The Eyrie (johnsgill3) occupied Vale of Arryn with 1 troop.",
+    "timestamp": "2016-07-11T18:03:41.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "The Eyrie (johnsgill3) attacked The Fingers (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-11T18:03:47.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "The Eyrie (johnsgill3) occupied The Fingers with 2 troops.",
+    "timestamp": "2016-07-11T18:03:50.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Widows Watch (johnsgill3) attacked White Harbor (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-11T18:03:57.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Karhold (johnsgill3) attacked Last Hearth (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T18:04:13.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Karhold (johnsgill3) occupied Last Hearth with 2 troops.",
+    "timestamp": "2016-07-11T18:04:16.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "The Eyrie (johnsgill3) was fortified from Skagos (johnsgill3) with 2 troops.",
+    "timestamp": "2016-07-11T18:04:27.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "The Eyrie (johnsgill3) was fortified from Last Hearth (johnsgill3) with 1 troop.",
+    "timestamp": "2016-07-11T18:04:37.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-11T18:05:21.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-11T18:05:54.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 9 territories.",
+    "timestamp": "2016-07-11T18:05:54.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Myr (tanleach1001) was reinforced by tanleach1001 with 1 troop.",
+    "timestamp": "2016-07-11T18:09:15.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "The Frozen Shore (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-07-11T18:09:27.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Myr (tanleach1001) attacked Tyrosh (mmacfreier) killing 5, losing 7.",
+    "timestamp": "2016-07-11T18:10:26.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "The Frozen Shore (tanleach1001) attacked Frostfangs (gcochard) killing 1, losing 5.",
+    "timestamp": "2016-07-11T18:10:50.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Fist of the First Men (tanleach1001) attacked Thenn (mmacfreier) killing 0, losing 2.",
+    "timestamp": "2016-07-11T18:11:15.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Cape Kraken (tanleach1001) attacked Barrowlands (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T18:11:24.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Cape Kraken (tanleach1001) occupied Barrowlands with 4 troops.",
+    "timestamp": "2016-07-11T18:11:27.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Myr (tanleach1001) was fortified from Braavos (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-11T18:13:23.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "The Frozen Shore (tanleach1001) was fortified from Old Oak (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-11T18:13:34.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "The Frozen Shore (tanleach1001) was fortified from The Rills (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-11T18:13:46.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "The Frozen Shore (tanleach1001) was fortified from Barrowlands (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-11T18:17:42.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-11T18:18:45.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-07-11T19:10:58.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received 3 troops for 6 territories.",
+    "timestamp": "2016-07-11T19:10:59.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Volantis (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-07-11T19:12:03.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Volantis (mmacfreier) attacked Myr (tanleach1001) killing 2, losing 4.",
+    "timestamp": "2016-07-11T19:12:08.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Highgarden (gcochard) was fortified from Stoney Sept (mmacfreier) with 2 troops.",
+    "timestamp": "2016-07-11T19:12:28.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Highgarden (gcochard) was fortified from Bitterbridge (mmacfreier) with 2 troops.",
+    "timestamp": "2016-07-11T19:12:30.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Sunspear (gcochard) was fortified from Tyrosh (mmacfreier) with 1 troop.",
+    "timestamp": "2016-07-11T19:12:41.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Sunspear (gcochard) was fortified from Volantis (mmacfreier) with 1 troop.",
+    "timestamp": "2016-07-11T19:12:46.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "White Harbor (johnsgill3) was fortified from Riverrun (mmacfreier) with 2 troops.",
+    "timestamp": "2016-07-11T19:12:57.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Frostfangs (gcochard) was fortified from Thenn (mmacfreier) with 2 troops.",
+    "timestamp": "2016-07-11T19:13:05.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-07-11T19:13:12.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-07-11T19:13:12.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-11T20:01:14.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 3 troops for 8 territories.",
+    "timestamp": "2016-07-11T20:01:14.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Pentos (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-07-11T20:01:17.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Pentos (kwren) attacked Braavos (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-11T20:01:22.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Pentos (kwren) occupied Braavos with 2 troops.",
+    "timestamp": "2016-07-11T20:01:25.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Qohor (kwren) attacked Volantis (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T20:01:32.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Qohor (kwren) occupied Volantis with 2 troops.",
+    "timestamp": "2016-07-11T20:01:33.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Myr (tanleach1001) was fortified from Braavos (kwren) with 1 troop.",
+    "timestamp": "2016-07-11T20:07:07.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Volantis (kwren) was fortified from Ny-Sar (kwren) with 1 troop.",
+    "timestamp": "2016-07-11T20:07:16.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Braavos (kwren) was fortified from Ny-Sar (kwren) with 1 troop.",
+    "timestamp": "2016-07-11T20:07:20.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Myr (tanleach1001) was fortified from Volantis (kwren) with 1 troop.",
+    "timestamp": "2016-07-11T20:07:49.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Summerhall (ryanbmilbourne) was fortified from Braavos (kwren) with 1 troop.",
+    "timestamp": "2016-07-11T20:08:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Winterfell (ryanbmilbourne) was fortified from Queenscrown (kwren) with 2 troops.",
+    "timestamp": "2016-07-11T20:09:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-11T20:11:59.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-07-11T20:31:53.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-07-11T20:31:53.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Hellholt (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-07-11T20:32:02.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Hellholt (gcochard) attacked Yronwood (ryanbmilbourne) killing 1, losing 5.",
+    "timestamp": "2016-07-11T20:32:12.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Highgarden (gcochard) attacked Bitterbridge (mmacfreier) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-11T20:32:33.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Highgarden (gcochard) occupied Bitterbridge with 4 troops.",
+    "timestamp": "2016-07-11T20:32:35.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Bitterbridge (gcochard) attacked Starfall (Neutral) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-07-11T20:32:57.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Hellholt (gcochard) was fortified from Sunspear (gcochard) with 3 troops.",
+    "timestamp": "2016-07-11T20:33:15.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-07-11T20:33:50.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-11T20:39:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 10 territories.",
+    "timestamp": "2016-07-11T20:39:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Crownlands.",
+    "timestamp": "2016-07-11T20:39:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Stormlands.",
+    "timestamp": "2016-07-11T20:39:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Summerhall (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-07-11T20:43:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Winterfell (ryanbmilbourne) attacked White Harbor (johnsgill3) killing 2, losing 0.",
+    "timestamp": "2016-07-11T20:43:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Summerhall (ryanbmilbourne) attacked White Harbor (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T20:43:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Summerhall (ryanbmilbourne) occupied White Harbor with 9 troops.",
+    "timestamp": "2016-07-11T20:43:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "White Harbor (ryanbmilbourne) attacked The Fingers (johnsgill3) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-07-11T20:43:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "White Harbor (ryanbmilbourne) occupied The Fingers with 7 troops.",
+    "timestamp": "2016-07-11T20:43:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "The Fingers (ryanbmilbourne) attacked The Eyrie (johnsgill3) killing 1, losing 1.",
+    "timestamp": "2016-07-11T20:44:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "King's Landing (ryanbmilbourne) attacked The Eyrie (johnsgill3) killing 2, losing 2.",
+    "timestamp": "2016-07-11T20:44:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "The Fingers (ryanbmilbourne) attacked The Eyrie (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-11T20:44:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "The Fingers (ryanbmilbourne) occupied The Eyrie with 4 troops.",
+    "timestamp": "2016-07-11T20:44:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "The Eyrie (ryanbmilbourne) attacked Vale of Arryn (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T20:44:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "The Eyrie (ryanbmilbourne) occupied Vale of Arryn with 1 troop.",
+    "timestamp": "2016-07-11T20:44:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "The Eyrie (ryanbmilbourne) attacked Saltpans (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-11T20:45:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Banefort (ryanbmilbourne) attacked Seagard (johnsgill3) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-07-11T20:49:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Banefort (ryanbmilbourne) occupied Seagard with 3 troops.",
+    "timestamp": "2016-07-11T20:49:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Seagard (ryanbmilbourne) attacked Riverrun (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T20:49:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Seagard (ryanbmilbourne) occupied Riverrun with 2 troops.",
+    "timestamp": "2016-07-11T20:49:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Riverrun (ryanbmilbourne) attacked The Twins (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T20:49:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Tumbleton (tanleach1001) was fortified from Winterfell (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-07-11T20:50:28.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Stony Shore (ryanbmilbourne) was fortified from Horn Hill (ryanbmilbourne) with 3 troops.",
+    "timestamp": "2016-07-11T20:52:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Summerhall (ryanbmilbourne) was fortified from Yronwood (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-07-11T20:52:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Summerhall (ryanbmilbourne) was fortified from King's Landing (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-07-11T20:52:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Tumbleton (tanleach1001) was fortified from Summerhall (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-07-11T20:52:57.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-11T20:54:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-11T20:59:23.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 7 territories.",
+    "timestamp": "2016-07-11T20:59:23.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Crakehall (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-07-11T20:59:33.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Crakehall (johnsgill3) attacked Banefort (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T20:59:37.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Crakehall (johnsgill3) occupied Banefort with 5 troops.",
+    "timestamp": "2016-07-11T20:59:40.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Banefort (johnsgill3) attacked Lannisport (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T20:59:43.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Banefort (johnsgill3) occupied Lannisport with 1 troop.",
+    "timestamp": "2016-07-11T20:59:47.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Stoney Sept (mmacfreier) was fortified from Banefort (johnsgill3) with 3 troops.",
+    "timestamp": "2016-07-11T20:59:55.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Stoney Sept (mmacfreier) was fortified from Iron Islands (johnsgill3) with 2 troops.",
+    "timestamp": "2016-07-11T21:00:00.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-11T21:00:08.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-11T21:00:32.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 9 territories.",
+    "timestamp": "2016-07-11T21:00:32.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Tumbleton (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-07-11T21:00:40.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Oldtown (tanleach1001) attacked Highgarden (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-11T21:00:55.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Tumbleton (tanleach1001) attacked Stoney Sept (mmacfreier) conquering it, killing 6, losing 1.",
+    "timestamp": "2016-07-11T21:01:03.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Tumbleton (tanleach1001) occupied Stoney Sept with 1 troop.",
+    "timestamp": "2016-07-11T21:01:06.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "The Frozen Shore (tanleach1001) attacked Thenn (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T21:01:12.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "The Frozen Shore (tanleach1001) occupied Thenn with 1 troop.",
+    "timestamp": "2016-07-11T21:01:33.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Myr (tanleach1001) attacked Tyrosh (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T21:01:40.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier was defeated by tanleach1001.",
+    "timestamp": "2016-07-11T21:01:40.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Myr (tanleach1001) occupied Tyrosh with 3 troops.",
+    "timestamp": "2016-07-11T21:01:43.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Tumbleton (tanleach1001) attacked Bitterbridge (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T21:01:52.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Tumbleton (tanleach1001) occupied Bitterbridge with 8 troops.",
+    "timestamp": "2016-07-11T21:01:54.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Bitterbridge (tanleach1001) attacked Starfall (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T21:01:58.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Bitterbridge (tanleach1001) occupied Starfall with 7 troops.",
+    "timestamp": "2016-07-11T21:02:00.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Starfall (tanleach1001) attacked Hellholt (gcochard) conquering it, killing 4, losing 2.",
+    "timestamp": "2016-07-11T21:02:11.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Starfall (tanleach1001) occupied Hellholt with 4 troops.",
+    "timestamp": "2016-07-11T21:02:14.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Hellholt (tanleach1001) attacked Sunspear (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-07-11T21:02:34.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Tyrosh (tanleach1001) attacked Sunspear (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-07-11T21:02:39.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Hellholt (tanleach1001) attacked Sunspear (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T21:02:44.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "The Frozen Shore (tanleach1001) attacked Frostfangs (gcochard) killing 0, losing 4.",
+    "timestamp": "2016-07-11T21:02:53.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Volantis (kwren) was fortified from Barrowlands (tanleach1001) with 1 troop.",
+    "timestamp": "2016-07-11T21:03:57.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Volantis (kwren) was fortified from Tyrosh (tanleach1001) with 1 troop.",
+    "timestamp": "2016-07-11T21:04:08.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Volantis (kwren) was fortified from Fist of the First Men (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-11T21:05:19.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Queenscrown (kwren) was fortified from The Frozen Shore (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-11T21:05:25.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-11T21:05:35.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-07-11T21:05:35.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-11T21:06:13.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-07-11T21:06:13.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 4 troops for holding N. Essos.",
+    "timestamp": "2016-07-11T21:06:13.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Queenscrown (kwren) was reinforced by kwren with 5 troops.",
+    "timestamp": "2016-07-11T21:07:09.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Volantis (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-07-11T21:07:15.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Volantis (kwren) attacked Lys (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T21:07:22.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Volantis (kwren) occupied Lys with 7 troops.",
+    "timestamp": "2016-07-11T21:07:32.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Lys (kwren) attacked Sunspear (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-11T21:07:53.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Lys (kwren) occupied Sunspear with 4 troops.",
+    "timestamp": "2016-07-11T21:07:58.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Sunspear (kwren) attacked Vaith (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T21:08:04.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Sunspear (kwren) occupied Vaith with 3 troops.",
+    "timestamp": "2016-07-11T21:08:10.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Queenscrown (kwren) attacked Frostfangs (gcochard) conquering it, killing 4, losing 3.",
+    "timestamp": "2016-07-11T21:08:35.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "gcochard was defeated by kwren.",
+    "timestamp": "2016-07-11T21:08:36.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Queenscrown (kwren) occupied Frostfangs with 1 troop.",
+    "timestamp": "2016-07-11T21:08:40.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Queenscrown (kwren) attacked Last Hearth (johnsgill3) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-11T21:09:10.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "White Harbor (ryanbmilbourne) was fortified from Vaith (kwren) with 2 troops.",
+    "timestamp": "2016-07-11T21:09:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-11T21:09:57.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-11T21:10:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for 16 territories.",
+    "timestamp": "2016-07-11T21:10:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Crownlands.",
+    "timestamp": "2016-07-11T21:10:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Stormlands.",
+    "timestamp": "2016-07-11T21:10:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding The Vale.",
+    "timestamp": "2016-07-11T21:10:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Stony Shore (ryanbmilbourne) was reinforced by ryanbmilbourne with 10 troops.",
+    "timestamp": "2016-07-11T21:10:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Stony Shore (ryanbmilbourne) attacked Wolfswood (johnsgill3) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-07-11T21:10:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Stony Shore (ryanbmilbourne) occupied Wolfswood with 1 troop.",
+    "timestamp": "2016-07-11T21:10:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "White Harbor (ryanbmilbourne) attacked Widows Watch (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-07-11T21:10:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Stony Shore (ryanbmilbourne) attacked Iron Islands (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T21:11:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Stony Shore (ryanbmilbourne) occupied Iron Islands with 11 troops.",
+    "timestamp": "2016-07-11T21:11:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Iron Islands (ryanbmilbourne) attacked Banefort (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T21:11:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Iron Islands (ryanbmilbourne) occupied Banefort with 10 troops.",
+    "timestamp": "2016-07-11T21:11:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Banefort (ryanbmilbourne) attacked Lannisport (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T21:11:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Banefort (ryanbmilbourne) occupied Lannisport with 9 troops.",
+    "timestamp": "2016-07-11T21:11:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Lannisport (ryanbmilbourne) attacked Crakehall (johnsgill3) conquering it, killing 1, losing 4.",
+    "timestamp": "2016-07-11T21:11:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Lannisport (ryanbmilbourne) occupied Crakehall with 4 troops.",
+    "timestamp": "2016-07-11T21:11:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Fist of the First Men (tanleach1001) was fortified from Crakehall (ryanbmilbourne) with 3 troops.",
+    "timestamp": "2016-07-11T21:12:44.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-11T21:13:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-11T21:13:43.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 3 territories.",
+    "timestamp": "2016-07-11T21:13:43.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Skagos (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-07-11T21:13:46.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-11T21:13:50.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-11T21:13:57.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 5 troops for 16 territories.",
+    "timestamp": "2016-07-11T21:13:57.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding The Reach.",
+    "timestamp": "2016-07-11T21:13:57.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Fist of the First Men (tanleach1001) was reinforced by tanleach1001 with 9 troops.",
+    "timestamp": "2016-07-11T21:14:01.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Fist of the First Men (tanleach1001) attacked Skagos (johnsgill3) conquering it, killing 4, losing 2.",
+    "timestamp": "2016-07-11T21:14:08.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Fist of the First Men (tanleach1001) occupied Skagos with 10 troops.",
+    "timestamp": "2016-07-11T21:14:10.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Skagos (tanleach1001) attacked Karhold (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T21:14:13.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Skagos (tanleach1001) occupied Karhold with 9 troops.",
+    "timestamp": "2016-07-11T21:14:15.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Karhold (tanleach1001) attacked Last Hearth (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T21:14:19.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Karhold (tanleach1001) occupied Last Hearth with 8 troops.",
+    "timestamp": "2016-07-11T21:14:21.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Last Hearth (tanleach1001) attacked Winterfell (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T21:14:23.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Last Hearth (tanleach1001) occupied Winterfell with 7 troops.",
+    "timestamp": "2016-07-11T21:14:25.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Winterfell (tanleach1001) attacked White Harbor (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T21:14:28.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Winterfell (tanleach1001) occupied White Harbor with 6 troops.",
+    "timestamp": "2016-07-11T21:14:29.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "White Harbor (tanleach1001) attacked The Fingers (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-11T21:14:37.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "White Harbor (tanleach1001) occupied The Fingers with 1 troop.",
+    "timestamp": "2016-07-11T21:14:40.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "White Harbor (tanleach1001) attacked Widows Watch (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 was defeated by tanleach1001.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "kwren won the game.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 21 rating.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 20 tokens.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "gcochard lost 18 rating.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 20 tokens.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne won the game.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 21 rating.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 20 tokens.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 lost 20 rating.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received 20 tokens.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 won the game.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 21 rating.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 20 tokens.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier lost 25 rating.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 20 tokens.",
+    "timestamp": "2016-07-11T21:14:43.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  }
+]
