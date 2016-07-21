@@ -1109,7 +1109,8 @@
     "gid": [
       "654524",
       "603750",
-      "631459"
+      "631459",
+      "654524"
     ],
     "url": "https://dominating12.com/assets/img/maps/20.large.jpg",
     "territories": {
@@ -1772,7 +1773,8 @@
   },
   "22": {
     "gid": [
-      "636988"
+      "636988",
+      "655784"
     ],
     "url": "https://dominating12.com/assets/img/maps/22.large.jpg",
     "territories": {
@@ -2513,6 +2515,224 @@
         "x": "1244",
         "y": "435",
         "name": "Little Russia"
+      }
+    }
+  },
+  "27": {
+    "gid": [
+      "657288"
+    ],
+    "url": "https://dominating12.com/assets/img/maps/27.large.jpg",
+    "territories": {
+      "1019": {
+        "x": "447",
+        "y": "270",
+        "name": "Warrah"
+      },
+      "1020": {
+        "x": "503",
+        "y": "250",
+        "name": "Port Howard"
+      },
+      "1021": {
+        "x": "551",
+        "y": "202",
+        "name": "N. Falkland Sound"
+      },
+      "1022": {
+        "x": "471",
+        "y": "143",
+        "name": "Pebble"
+      },
+      "1023": {
+        "x": "352",
+        "y": "161",
+        "name": "Saunders"
+      },
+      "1024": {
+        "x": "714",
+        "y": "177",
+        "name": "Cape Dolphin"
+      },
+      "1025": {
+        "x": "701",
+        "y": "256",
+        "name": "Port San Carlos"
+      },
+      "1026": {
+        "x": "664",
+        "y": "293",
+        "name": "San Carlos"
+      },
+      "1027": {
+        "x": "736",
+        "y": "341",
+        "name": "Usborne"
+      },
+      "1028": {
+        "x": "679",
+        "y": "369",
+        "name": "Darwin"
+      },
+      "1029": {
+        "x": "804",
+        "y": "388",
+        "name": "Fitzroy"
+      },
+      "1030": {
+        "x": "905",
+        "y": "322",
+        "name": "Port William"
+      },
+      "1031": {
+        "x": "866",
+        "y": "213",
+        "name": "Johnson Harbour"
+      },
+      "1032": {
+        "x": "816",
+        "y": "289",
+        "name": "No Man's Land"
+      },
+      "1033": {
+        "x": "756",
+        "y": "233",
+        "name": "Teal Inlet"
+      },
+      "1034": {
+        "x": "803",
+        "y": "187",
+        "name": "Salvador"
+      },
+      "1035": {
+        "x": "792",
+        "y": "479",
+        "name": "Lively Island"
+      },
+      "1036": {
+        "x": "694",
+        "y": "459",
+        "name": "Choiseul"
+      },
+      "1037": {
+        "x": "603",
+        "y": "356",
+        "name": "Grantham"
+      },
+      "1038": {
+        "x": "583",
+        "y": "429",
+        "name": "Goose Green"
+      },
+      "1039": {
+        "x": "509",
+        "y": "458",
+        "name": "Great Island"
+      },
+      "1040": {
+        "x": "581",
+        "y": "511",
+        "name": "Bleaker"
+      },
+      "1041": {
+        "x": "495",
+        "y": "512",
+        "name": "North Arm"
+      },
+      "1042": {
+        "x": "522",
+        "y": "581",
+        "name": "Bull Point"
+      },
+      "1043": {
+        "x": "440",
+        "y": "550",
+        "name": "Speedwell"
+      },
+      "1044": {
+        "x": "248",
+        "y": "403",
+        "name": "Charloile"
+      },
+      "1045": {
+        "x": "264",
+        "y": "477",
+        "name": "Port Albermarle"
+      },
+      "1046": {
+        "x": "174",
+        "y": "541",
+        "name": "Port Stephens"
+      },
+      "1047": {
+        "x": "202",
+        "y": "497",
+        "name": "M. Young"
+      },
+      "1048": {
+        "x": "145",
+        "y": "479",
+        "name": "Charlotte"
+      },
+      "1049": {
+        "x": "92",
+        "y": "422",
+        "name": "Weddle"
+      },
+      "1050": {
+        "x": "6",
+        "y": "383",
+        "name": "Beaver"
+      },
+      "1051": {
+        "x": "439",
+        "y": "318",
+        "name": "Hornby"
+      },
+      "1052": {
+        "x": "367",
+        "y": "399",
+        "name": "E. Fox Bay"
+      },
+      "1053": {
+        "x": "399",
+        "y": "358",
+        "name": "Tyssen"
+      },
+      "1054": {
+        "x": "295",
+        "y": "410",
+        "name": "W. Fox Bay"
+      },
+      "1055": {
+        "x": "222",
+        "y": "339",
+        "name": "Dunnose"
+      },
+      "1056": {
+        "x": "339",
+        "y": "348",
+        "name": "Chartres"
+      },
+      "1057": {
+        "x": "371",
+        "y": "284",
+        "name": "Mt. Adam"
+      },
+      "1058": {
+        "x": "307",
+        "y": "252",
+        "name": "Roy Cove"
+      },
+      "1059": {
+        "x": "224",
+        "y": "196",
+        "name": "Westpoint"
+      },
+      "1060": {
+        "x": "383",
+        "y": "231",
+        "name": "Hill Cove"
       }
     }
   },
@@ -3603,8 +3823,8 @@
   },
   "38": {
     "gid": [
-      "650884",
-      "607343"
+      "607343",
+      "650884"
     ],
     "url": "https://dominating12.com/assets/img/maps/38.large.jpg",
     "territories": {
@@ -7015,6 +7235,7 @@
   },
   "64": {
     "gid": [
+      "655525",
       "626738"
     ],
     "url": "https://dominating12.com/assets/img/maps/64.large.jpg",
