@@ -162,13 +162,13 @@
     "round": 1
   },
   {
-    "message": "Kuala Lumpur (KL) (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "message": "Kuala Lumpur (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
     "timestamp": "2016-07-26T16:46:41.000Z",
     "player": "johnsgill3",
     "round": 1
   },
   {
-    "message": "Kuala Lumpur (KL) (johnsgill3) attacked Penang (kwren) killing 1, losing 3.",
+    "message": "Kuala Lumpur (johnsgill3) attacked Penang (kwren) killing 1, losing 3.",
     "timestamp": "2016-07-26T16:47:07.000Z",
     "player": "johnsgill3",
     "round": 1
@@ -180,13 +180,13 @@
     "round": 1
   },
   {
-    "message": "Kuala Lumpur (KL) (johnsgill3) attacked Penang (kwren) conquering it, killing 1, losing 0.",
+    "message": "Kuala Lumpur (johnsgill3) attacked Penang (kwren) conquering it, killing 1, losing 0.",
     "timestamp": "2016-07-26T16:47:23.000Z",
     "player": "johnsgill3",
     "round": 1
   },
   {
-    "message": "Kuala Lumpur (KL) (johnsgill3) occupied Penang with 2 troops.",
+    "message": "Kuala Lumpur (johnsgill3) occupied Penang with 2 troops.",
     "timestamp": "2016-07-26T16:47:36.000Z",
     "player": "johnsgill3",
     "round": 1
@@ -1638,13 +1638,13 @@
     "round": 5
   },
   {
-    "message": "johnsgill3 received 2 troops on Kuala Lumpur (KL)",
+    "message": "johnsgill3 received 2 troops on Kuala Lumpur",
     "timestamp": "2016-07-26T23:00:27.000Z",
     "player": "johnsgill3",
     "round": 5
   },
   {
-    "message": "johnsgill3 received 8 troops for turning in cards Sarawak, Medan, and Kuala Lumpur (KL).",
+    "message": "johnsgill3 received 8 troops for turning in cards Sarawak, Medan, and Kuala Lumpur.",
     "timestamp": "2016-07-26T23:00:27.000Z",
     "player": "johnsgill3",
     "round": 5
@@ -1674,7 +1674,7 @@
     "round": 5
   },
   {
-    "message": "Singapore (johnsgill3) was fortified from Kuala Lumpur (KL) (johnsgill3) with 2 troops.",
+    "message": "Singapore (johnsgill3) was fortified from Kuala Lumpur (johnsgill3) with 2 troops.",
     "timestamp": "2016-07-26T23:02:14.000Z",
     "player": "johnsgill3",
     "round": 5
@@ -3960,25 +3960,25 @@
     "round": 11
   },
   {
-    "message": "Penang (tanleach1001) attacked Kuala Lumpur (KL) (johnsgill3) conquering it, killing 1, losing 0.",
+    "message": "Penang (tanleach1001) attacked Kuala Lumpur (johnsgill3) conquering it, killing 1, losing 0.",
     "timestamp": "2016-07-28T19:08:59.000Z",
     "player": "tanleach1001",
     "round": 11
   },
   {
-    "message": "Penang (tanleach1001) occupied Kuala Lumpur (KL) with 13 troops.",
+    "message": "Penang (tanleach1001) occupied Kuala Lumpur with 13 troops.",
     "timestamp": "2016-07-28T19:09:00.000Z",
     "player": "tanleach1001",
     "round": 11
   },
   {
-    "message": "Kuala Lumpur (KL) (tanleach1001) attacked Singapore (johnsgill3) conquering it, killing 1, losing 0.",
+    "message": "Kuala Lumpur (tanleach1001) attacked Singapore (johnsgill3) conquering it, killing 1, losing 0.",
     "timestamp": "2016-07-28T19:09:03.000Z",
     "player": "tanleach1001",
     "round": 11
   },
   {
-    "message": "Kuala Lumpur (KL) (tanleach1001) occupied Singapore with 12 troops.",
+    "message": "Kuala Lumpur (tanleach1001) occupied Singapore with 12 troops.",
     "timestamp": "2016-07-28T19:09:04.000Z",
     "player": "tanleach1001",
     "round": 11
@@ -5586,25 +5586,25 @@
     "round": 16
   },
   {
-    "message": "Kuantan (ryanbmilbourne) attacked Kuala Lumpur (KL) (tanleach1001) conquering it, killing 1, losing 1.",
+    "message": "Kuantan (ryanbmilbourne) attacked Kuala Lumpur (tanleach1001) conquering it, killing 1, losing 1.",
     "timestamp": "2016-07-28T20:07:45.000Z",
     "player": "ryanbmilbourne",
     "round": 16
   },
   {
-    "message": "Kuantan (ryanbmilbourne) occupied Kuala Lumpur (KL) with 6 troops.",
+    "message": "Kuantan (ryanbmilbourne) occupied Kuala Lumpur with 6 troops.",
     "timestamp": "2016-07-28T20:07:46.000Z",
     "player": "ryanbmilbourne",
     "round": 16
   },
   {
-    "message": "Kuala Lumpur (KL) (ryanbmilbourne) attacked Singapore (tanleach1001) conquering it, killing 1, losing 0.",
+    "message": "Kuala Lumpur (ryanbmilbourne) attacked Singapore (tanleach1001) conquering it, killing 1, losing 0.",
     "timestamp": "2016-07-28T20:07:49.000Z",
     "player": "ryanbmilbourne",
     "round": 16
   },
   {
-    "message": "Kuala Lumpur (KL) (ryanbmilbourne) occupied Singapore with 5 troops.",
+    "message": "Kuala Lumpur (ryanbmilbourne) occupied Singapore with 5 troops.",
     "timestamp": "2016-07-28T20:07:51.000Z",
     "player": "ryanbmilbourne",
     "round": 16

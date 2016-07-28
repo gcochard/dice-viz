@@ -46,7 +46,7 @@ function calcInitial(mdata, gdata) {
                 break;
             case 'cardsP':
                 t_t = getTIDbyName(t,e.territory);
-                t[getTIDbyName(t,e.territory)].owner = e.player;
+                t[t_t].owner = e.player;
                 t[t_t].modified = true;
                 break;
             case 'foritfy':
