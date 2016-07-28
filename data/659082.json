@@ -1,0 +1,4166 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-07-26T15:56:12.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "tanleach1001 joined the game.",
+    "timestamp": "2016-07-26T15:56:12.000Z",
+    "player": "tanleach1001",
+    "round": 0
+  },
+  {
+    "message": "johnsgill3 joined the game.",
+    "timestamp": "2016-07-26T15:57:03.000Z",
+    "player": "johnsgill3",
+    "round": 0
+  },
+  {
+    "message": "kwren joined the game.",
+    "timestamp": "2016-07-26T15:57:32.000Z",
+    "player": "kwren",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne joined the game.",
+    "timestamp": "2016-07-26T15:57:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "gcochard joined the game.",
+    "timestamp": "2016-07-26T16:14:23.000Z",
+    "player": "gcochard",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-07-26T16:14:25.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-26T16:15:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 8 territories.",
+    "timestamp": "2016-07-26T16:15:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Zug (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-07-26T16:15:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Zug (ryanbmilbourne) attacked Schwyz (kwren) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-07-26T16:15:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Zug (ryanbmilbourne) occupied Schwyz with 3 troops.",
+    "timestamp": "2016-07-26T16:15:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-26T16:16:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-26T16:16:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-07-26T16:43:25.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 3 troops for 8 territories.",
+    "timestamp": "2016-07-26T16:43:25.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Pfäffikon (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-07-26T16:43:54.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Bellinzona (gcochard) attacked Locarno (ryanbmilbourne) killing 1, losing 2.",
+    "timestamp": "2016-07-26T16:45:41.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Pfäffikon (gcochard) attacked St. Gallen (johnsgill3) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-07-26T16:46:10.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Pfäffikon (gcochard) occupied St. Gallen with 2 troops.",
+    "timestamp": "2016-07-26T16:46:12.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Interlaken (gcochard) was fortified from Thun (gcochard) with 2 troops.",
+    "timestamp": "2016-07-26T16:46:29.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-07-26T16:46:29.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-07-26T16:46:29.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-26T16:46:36.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 8 territories.",
+    "timestamp": "2016-07-26T16:46:36.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Lugano (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-07-26T16:46:40.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Lugano (tanleach1001) attacked Locarno (ryanbmilbourne) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-07-26T16:46:46.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Lugano (tanleach1001) occupied Locarno with 5 troops.",
+    "timestamp": "2016-07-26T16:46:49.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Locarno (tanleach1001) attacked Bellinzona (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T16:46:54.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Locarno (tanleach1001) occupied Bellinzona with 1 troop.",
+    "timestamp": "2016-07-26T16:46:57.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Bellinzona (tanleach1001) was fortified from Vaduz (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-26T16:47:03.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-26T16:47:04.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-26T16:47:04.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-26T16:53:59.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 7 territories.",
+    "timestamp": "2016-07-26T16:53:59.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Olten (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-07-26T16:54:02.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Olten (johnsgill3) attacked Aarau (gcochard) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-07-26T16:54:10.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Olten (johnsgill3) occupied Aarau with 5 troops.",
+    "timestamp": "2016-07-26T16:54:15.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Aarau (johnsgill3) attacked Baden (ryanbmilbourne) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-07-26T16:54:26.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Aarau (johnsgill3) occupied Baden with 1 troop.",
+    "timestamp": "2016-07-26T16:54:38.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Olten (johnsgill3) was fortified from Aarau (johnsgill3) with 3 troops.",
+    "timestamp": "2016-07-26T16:54:46.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-26T16:54:46.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-26T16:54:46.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-26T17:21:24.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-07-26T17:21:24.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Brig (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-07-26T17:21:31.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Zürich (kwren) attacked Pfäffikon (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T17:21:44.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Zürich (kwren) occupied Pfäffikon with 2 troops.",
+    "timestamp": "2016-07-26T17:21:47.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Gstaad (kwren) was fortified from Fribourg (kwren) with 2 troops.",
+    "timestamp": "2016-07-26T17:21:53.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-07-26T17:21:53.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-26T17:21:53.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-07-26T17:21:53.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-26T17:27:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 7 territories.",
+    "timestamp": "2016-07-26T17:27:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Zentralschweiz.",
+    "timestamp": "2016-07-26T17:27:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Schwyz (ryanbmilbourne) was reinforced by ryanbmilbourne with 1 troop.",
+    "timestamp": "2016-07-26T17:27:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Luzern (ryanbmilbourne) was reinforced by ryanbmilbourne with 2 troops.",
+    "timestamp": "2016-07-26T17:27:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Zug (ryanbmilbourne) was reinforced by ryanbmilbourne with 2 troops.",
+    "timestamp": "2016-07-26T17:28:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Zug (ryanbmilbourne) attacked Zürich (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-26T17:28:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Zug (ryanbmilbourne) occupied Zürich with 1 troop.",
+    "timestamp": "2016-07-26T17:28:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-26T17:29:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-26T17:29:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-07-26T17:44:42.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 3 troops for 6 territories.",
+    "timestamp": "2016-07-26T17:44:42.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Eschen (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-07-26T17:44:54.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Eschen (gcochard) attacked Vaduz (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T17:45:00.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Eschen (gcochard) occupied Vaduz with 5 troops.",
+    "timestamp": "2016-07-26T17:45:05.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Vaduz (gcochard) attacked Sargans (Neutral) killing 1, losing 4.",
+    "timestamp": "2016-07-26T17:45:23.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Glarus (gcochard) attacked Sargans (Neutral) killing 1, losing 2.",
+    "timestamp": "2016-07-26T17:45:33.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Thun (gcochard) was fortified from Interlaken (gcochard) with 4 troops.",
+    "timestamp": "2016-07-26T17:45:53.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-07-26T17:45:54.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-07-26T17:45:54.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-26T17:46:04.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T17:46:04.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Ticino.",
+    "timestamp": "2016-07-26T17:46:04.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Locarno (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-07-26T17:47:28.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Locarno (tanleach1001) attacked Brig (kwren) conquering it, killing 6, losing 2.",
+    "timestamp": "2016-07-26T17:48:29.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Locarno (tanleach1001) occupied Brig with 1 troop.",
+    "timestamp": "2016-07-26T17:49:20.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Brig (tanleach1001) was fortified from Chur (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-26T17:49:45.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-26T17:49:48.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-26T17:49:48.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-26T17:51:53.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T17:51:53.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Olten (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-07-26T17:51:59.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Olten (johnsgill3) attacked Solothurn (kwren) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-07-26T17:52:40.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Olten (johnsgill3) occupied Solothurn with 4 troops.",
+    "timestamp": "2016-07-26T17:53:02.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Schaffhausen (johnsgill3) attacked Winterthur (tanleach1001) killing 1, losing 2.",
+    "timestamp": "2016-07-26T17:53:19.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Lausanne (johnsgill3) was fortified from Martigny (johnsgill3) with 2 troops.",
+    "timestamp": "2016-07-26T17:53:35.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-26T17:53:36.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-26T17:53:36.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-26T18:11:28.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 3 troops for 5 territories.",
+    "timestamp": "2016-07-26T18:11:28.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Sion (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-07-26T18:11:51.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Sion (kwren) attacked Brig (tanleach1001) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-07-26T18:11:58.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Sion (kwren) occupied Brig with 3 troops.",
+    "timestamp": "2016-07-26T18:12:00.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-07-26T18:25:53.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-26T18:25:53.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-07-26T18:25:53.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-26T19:53:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 8 territories.",
+    "timestamp": "2016-07-26T19:53:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Zentralschweiz.",
+    "timestamp": "2016-07-26T19:53:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Luzern (ryanbmilbourne) was reinforced by ryanbmilbourne with 2 troops.",
+    "timestamp": "2016-07-26T19:54:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Schwyz (ryanbmilbourne) was reinforced by ryanbmilbourne with 1 troop.",
+    "timestamp": "2016-07-26T19:54:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Kreuzlingen (ryanbmilbourne) was reinforced by ryanbmilbourne with 2 troops.",
+    "timestamp": "2016-07-26T19:54:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Kreuzlingen (ryanbmilbourne) attacked Winterthur (tanleach1001) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-07-26T19:54:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Kreuzlingen (ryanbmilbourne) occupied Winterthur with 3 troops.",
+    "timestamp": "2016-07-26T19:54:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Winterthur (ryanbmilbourne) attacked Schaffhausen (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T19:54:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Winterthur (ryanbmilbourne) occupied Schaffhausen with 1 troop.",
+    "timestamp": "2016-07-26T19:54:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Genève (ryanbmilbourne) attacked Yverdon (tanleach1001) killing 1, losing 2.",
+    "timestamp": "2016-07-26T19:55:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Zürich (ryanbmilbourne) was fortified from Winterthur (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-07-26T19:55:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-26T19:55:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-26T19:55:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-07-26T21:14:59.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-07-26T21:14:59.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 1 troop for holding Liechtenstein.",
+    "timestamp": "2016-07-26T21:15:00.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Thun (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-07-26T21:15:07.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Thun (gcochard) attacked Bern (tanleach1001) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-07-26T21:15:13.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Thun (gcochard) occupied Bern with 6 troops.",
+    "timestamp": "2016-07-26T21:15:15.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Eschen (gcochard) was fortified from St. Gallen (gcochard) with 1 troop.",
+    "timestamp": "2016-07-26T21:15:26.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-07-26T21:15:26.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-07-26T21:15:26.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-26T21:15:30.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 7 territories.",
+    "timestamp": "2016-07-26T21:15:30.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Ticino.",
+    "timestamp": "2016-07-26T21:15:30.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Brusio (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-07-26T21:15:54.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Locarno (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-07-26T21:15:57.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Locarno (tanleach1001) attacked Brig (kwren) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-07-26T21:16:03.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Locarno (tanleach1001) occupied Brig with 2 troops.",
+    "timestamp": "2016-07-26T21:16:49.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Brusio (tanleach1001) attacked St. Moritz (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-07-26T21:16:53.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Bellinzona (tanleach1001) was fortified from Chiasso (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-26T21:17:04.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-26T21:17:04.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-26T21:17:04.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-26T21:20:12.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T21:20:12.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Basel-Aargau.",
+    "timestamp": "2016-07-26T21:20:12.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Lausanne (johnsgill3) was reinforced by johnsgill3 with 6 troops.",
+    "timestamp": "2016-07-26T21:20:16.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Lausanne (johnsgill3) attacked Neuchâtel (Neutral) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-07-26T21:20:27.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Lausanne (johnsgill3) occupied Neuchâtel with 1 troop.",
+    "timestamp": "2016-07-26T21:21:01.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Lausanne (johnsgill3) attacked Genève (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T21:21:08.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Lausanne (johnsgill3) occupied Genève with 7 troops.",
+    "timestamp": "2016-07-26T21:21:10.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Genève (johnsgill3) attacked Yverdon (tanleach1001) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-07-26T21:21:13.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Genève (johnsgill3) occupied Yverdon with 1 troop.",
+    "timestamp": "2016-07-26T21:21:19.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Basel (johnsgill3) attacked Delémont (gcochard) killing 0, losing 2.",
+    "timestamp": "2016-07-26T21:21:25.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Basel (johnsgill3) was fortified from Genève (johnsgill3) with 3 troops.",
+    "timestamp": "2016-07-26T21:22:23.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-26T21:22:23.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-26T21:22:23.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-26T22:20:28.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 3 troops for 5 territories.",
+    "timestamp": "2016-07-26T22:20:28.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Gstaad (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-07-26T22:20:39.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Gstaad (kwren) attacked Thun (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:20:44.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Gstaad (kwren) occupied Thun with 1 troop.",
+    "timestamp": "2016-07-26T22:20:48.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-07-26T22:20:56.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-26T22:20:56.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-07-26T22:20:56.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-26T22:21:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T22:21:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Zentralschweiz.",
+    "timestamp": "2016-07-26T22:21:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Schwyz (ryanbmilbourne) was reinforced by ryanbmilbourne with 2 troops.",
+    "timestamp": "2016-07-26T22:21:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Zürich (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-07-26T22:21:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Zürich (ryanbmilbourne) attacked Pfäffikon (kwren) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-07-26T22:22:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Zürich (ryanbmilbourne) occupied Pfäffikon with 1 troop.",
+    "timestamp": "2016-07-26T22:22:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Zürich (ryanbmilbourne) was fortified from Zug (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-07-26T22:25:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-26T22:25:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-26T22:25:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-07-26T22:30:46.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-07-26T22:30:46.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received 1 troop for holding Liechtenstein.",
+    "timestamp": "2016-07-26T22:30:46.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Bern (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-07-26T22:30:51.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Bern (gcochard) attacked Thun (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:30:57.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Bern (gcochard) occupied Thun with 9 troops.",
+    "timestamp": "2016-07-26T22:30:59.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Thun (gcochard) attacked Gstaad (kwren) conquering it, killing 7, losing 2.",
+    "timestamp": "2016-07-26T22:31:08.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Thun (gcochard) occupied Gstaad with 6 troops.",
+    "timestamp": "2016-07-26T22:31:09.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Gstaad (gcochard) attacked Fribourg (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-26T22:31:15.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Gstaad (gcochard) occupied Fribourg with 4 troops.",
+    "timestamp": "2016-07-26T22:31:18.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "Bern (gcochard) was fortified from Fribourg (gcochard) with 3 troops.",
+    "timestamp": "2016-07-26T22:31:29.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-07-26T22:31:29.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-07-26T22:31:29.000Z",
+    "player": "gcochard",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-26T22:32:19.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 7 territories.",
+    "timestamp": "2016-07-26T22:32:19.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Ticino.",
+    "timestamp": "2016-07-26T22:32:19.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Brig (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-07-26T22:32:38.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Brusio (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-07-26T22:32:40.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Brusio (tanleach1001) attacked St. Moritz (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-07-26T22:32:47.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Brusio (tanleach1001) occupied St. Moritz with 5 troops.",
+    "timestamp": "2016-07-26T22:32:48.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Bellinzona (tanleach1001) was fortified from St. Moritz (tanleach1001) with 4 troops.",
+    "timestamp": "2016-07-26T22:33:27.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-26T22:33:27.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-26T22:33:27.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-26T22:38:59.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 12 territories.",
+    "timestamp": "2016-07-26T22:38:59.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Basel-Aargau.",
+    "timestamp": "2016-07-26T22:38:59.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Basel (johnsgill3) was reinforced by johnsgill3 with 4 troops.",
+    "timestamp": "2016-07-26T22:39:04.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Martigny (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-07-26T22:39:06.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Martigny (johnsgill3) attacked Sion (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:39:09.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Martigny (johnsgill3) occupied Sion with 3 troops.",
+    "timestamp": "2016-07-26T22:39:11.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Basel (johnsgill3) attacked Delémont (gcochard) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-07-26T22:39:19.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Basel (johnsgill3) occupied Delémont with 6 troops.",
+    "timestamp": "2016-07-26T22:39:30.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Wassen (johnsgill3) attacked Chur (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-07-26T22:40:21.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Neuchâtel (johnsgill3) was fortified from Delémont (johnsgill3) with 5 troops.",
+    "timestamp": "2016-07-26T22:40:42.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-26T22:40:43.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-26T22:40:43.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-26T22:40:55.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 3 troops for 1 territory.",
+    "timestamp": "2016-07-26T22:40:55.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Davos (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-07-26T22:41:00.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Davos (kwren) attacked Chur (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:41:03.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Davos (kwren) occupied Chur with 5 troops.",
+    "timestamp": "2016-07-26T22:41:06.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Chur (kwren) attacked Vaduz (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:41:09.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Chur (kwren) occupied Vaduz with 4 troops.",
+    "timestamp": "2016-07-26T22:41:10.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Vaduz (kwren) attacked Eschen (gcochard) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-07-26T22:41:32.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Vaduz (kwren) occupied Eschen with 3 troops.",
+    "timestamp": "2016-07-26T22:41:33.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-07-26T22:41:38.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-26T22:41:38.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-07-26T22:41:38.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-26T22:42:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T22:42:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Zentralschweiz.",
+    "timestamp": "2016-07-26T22:42:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Zürich (ryanbmilbourne) was reinforced by ryanbmilbourne with 5 troops.",
+    "timestamp": "2016-07-26T22:42:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Zürich (ryanbmilbourne) attacked St. Gallen (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:42:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Zürich (ryanbmilbourne) occupied St. Gallen with 8 troops.",
+    "timestamp": "2016-07-26T22:42:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "St. Gallen (ryanbmilbourne) attacked Eschen (kwren) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-07-26T22:43:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "St. Gallen (ryanbmilbourne) occupied Eschen with 7 troops.",
+    "timestamp": "2016-07-26T22:43:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Eschen (ryanbmilbourne) attacked Vaduz (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-26T22:43:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Eschen (ryanbmilbourne) occupied Vaduz with 5 troops.",
+    "timestamp": "2016-07-26T22:43:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Vaduz (ryanbmilbourne) attacked Chur (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:43:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Vaduz (ryanbmilbourne) occupied Chur with 4 troops.",
+    "timestamp": "2016-07-26T22:43:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Chur (ryanbmilbourne) attacked Davos (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:43:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "kwren was defeated by ryanbmilbourne.",
+    "timestamp": "2016-07-26T22:43:16.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Chur (ryanbmilbourne) occupied Davos with 1 troop.",
+    "timestamp": "2016-07-26T22:43:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Vaduz",
+    "timestamp": "2016-07-26T22:44:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on St. Gallen",
+    "timestamp": "2016-07-26T22:44:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Kreuzlingen",
+    "timestamp": "2016-07-26T22:44:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for turning in cards Vaduz, St. Gallen, and Kreuzlingen.",
+    "timestamp": "2016-07-26T22:44:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Winterthur",
+    "timestamp": "2016-07-26T22:44:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 6 troops for turning in cards La Chaux-de-Fonds, St. Moritz, and Winterthur.",
+    "timestamp": "2016-07-26T22:44:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Vaduz (ryanbmilbourne) was reinforced by ryanbmilbourne with 7 troops.",
+    "timestamp": "2016-07-26T22:45:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Chur (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-07-26T22:45:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Chur (ryanbmilbourne) attacked Sargans (Neutral) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:45:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Chur (ryanbmilbourne) occupied Sargans with 5 troops.",
+    "timestamp": "2016-07-26T22:45:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Sargans (ryanbmilbourne) was fortified from St. Gallen (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-07-26T22:46:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-26T22:46:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-26T22:46:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-07-26T22:51:28.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for 6 territories.",
+    "timestamp": "2016-07-26T22:51:28.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 3 troops for holding Bern.",
+    "timestamp": "2016-07-26T22:51:28.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received 8 troops for turning in cards Brig, Locarno, and Luzern.",
+    "timestamp": "2016-07-26T22:52:34.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Gstaad (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-07-26T22:53:01.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Interlaken (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-07-26T22:53:17.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Fribourg (gcochard) was reinforced by gcochard with 4 troops.",
+    "timestamp": "2016-07-26T22:53:21.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Fribourg (gcochard) attacked Lausanne (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:53:26.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Fribourg (gcochard) occupied Lausanne with 1 troop.",
+    "timestamp": "2016-07-26T22:53:30.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "Bern (gcochard) was fortified from Gstaad (gcochard) with 3 troops.",
+    "timestamp": "2016-07-26T22:53:46.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-07-26T22:53:46.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-07-26T22:53:46.000Z",
+    "player": "gcochard",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-26T22:54:00.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 7 territories.",
+    "timestamp": "2016-07-26T22:54:00.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Ticino.",
+    "timestamp": "2016-07-26T22:54:00.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Brig (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-07-26T22:54:05.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Brig (tanleach1001) attacked Sion (johnsgill3) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-07-26T22:54:11.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Brig (tanleach1001) occupied Sion with 1 troop.",
+    "timestamp": "2016-07-26T22:54:21.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Brig (tanleach1001) attacked Zermatt (ryanbmilbourne) killing 2, losing 5.",
+    "timestamp": "2016-07-26T22:54:40.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Brig (tanleach1001) was fortified from Bellinzona (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-26T22:54:56.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-26T22:54:56.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-26T22:54:56.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-26T23:02:41.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 12 territories.",
+    "timestamp": "2016-07-26T23:02:41.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Basel-Aargau.",
+    "timestamp": "2016-07-26T23:02:41.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Genève (johnsgill3) was reinforced by johnsgill3 with 7 troops.",
+    "timestamp": "2016-07-26T23:03:07.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Genève (johnsgill3) attacked Lausanne (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-26T23:03:12.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Genève (johnsgill3) occupied Lausanne with 8 troops.",
+    "timestamp": "2016-07-26T23:03:14.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Solothurn (johnsgill3) was fortified from La Chaux-de-Fonds (johnsgill3) with 2 troops.",
+    "timestamp": "2016-07-26T23:03:23.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-26T23:03:23.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-26T23:03:23.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-07-26T23:03:23.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-27T14:58:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for 15 territories.",
+    "timestamp": "2016-07-27T14:58:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Zürich-St.Gallen.",
+    "timestamp": "2016-07-27T14:58:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Zentralschweiz.",
+    "timestamp": "2016-07-27T14:58:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Liechtenstein.",
+    "timestamp": "2016-07-27T14:58:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Chur (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-07-27T14:59:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Schwyz (ryanbmilbourne) was reinforced by ryanbmilbourne with 8 troops.",
+    "timestamp": "2016-07-27T14:59:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Schwyz (ryanbmilbourne) attacked Glarus (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T14:59:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Schwyz (ryanbmilbourne) occupied Glarus with 1 troop.",
+    "timestamp": "2016-07-27T14:59:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Schwyz (ryanbmilbourne) attacked Wassen (johnsgill3) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-07-27T14:59:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Schwyz (ryanbmilbourne) occupied Wassen with 12 troops.",
+    "timestamp": "2016-07-27T14:59:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Chur (ryanbmilbourne) was fortified from Vaduz (ryanbmilbourne) with 9 troops.",
+    "timestamp": "2016-07-27T15:00:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-27T15:00:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-27T15:00:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-07-27T15:45:36.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 3 troops for 5 territories.",
+    "timestamp": "2016-07-27T15:45:36.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received 3 troops for holding Bern.",
+    "timestamp": "2016-07-27T15:45:36.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Interlaken (gcochard) was reinforced by gcochard with 6 troops.",
+    "timestamp": "2016-07-27T15:45:42.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Interlaken (gcochard) attacked Brig (tanleach1001) conquering it, killing 4, losing 7.",
+    "timestamp": "2016-07-27T15:46:04.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Interlaken (gcochard) occupied Brig with 1 troop.",
+    "timestamp": "2016-07-27T15:46:13.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Interlaken (gcochard) was fortified from Gstaad (gcochard) with 3 troops.",
+    "timestamp": "2016-07-27T15:46:57.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-07-27T15:46:57.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-07-27T15:46:57.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-27T16:13:52.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 7 territories.",
+    "timestamp": "2016-07-27T16:13:52.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Ticino.",
+    "timestamp": "2016-07-27T16:13:52.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 10 troops for turning in cards Sargans, Zürich, and Basel.",
+    "timestamp": "2016-07-27T16:13:56.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Locarno (tanleach1001) was reinforced by tanleach1001 with 15 troops.",
+    "timestamp": "2016-07-27T16:13:59.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Locarno (tanleach1001) attacked Brig (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T16:14:02.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Locarno (tanleach1001) occupied Brig with 19 troops.",
+    "timestamp": "2016-07-27T16:14:04.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Brig (tanleach1001) was fortified from Bellinzona (tanleach1001) with 6 troops.",
+    "timestamp": "2016-07-27T16:14:18.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-27T16:14:18.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-27T16:14:18.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-27T16:16:53.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 12 territories.",
+    "timestamp": "2016-07-27T16:16:53.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Vaud.",
+    "timestamp": "2016-07-27T16:16:53.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Basel-Aargau.",
+    "timestamp": "2016-07-27T16:16:53.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Yverdon",
+    "timestamp": "2016-07-27T16:17:18.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 12 troops for turning in cards Yverdon, Davos, and Thun.",
+    "timestamp": "2016-07-27T16:17:18.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Lausanne (johnsgill3) was reinforced by johnsgill3 with 22 troops.",
+    "timestamp": "2016-07-27T16:18:08.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Lausanne (johnsgill3) attacked Fribourg (gcochard) conquering it, killing 4, losing 2.",
+    "timestamp": "2016-07-27T16:18:51.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Lausanne (johnsgill3) occupied Fribourg with 27 troops.",
+    "timestamp": "2016-07-27T16:19:45.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Fribourg (johnsgill3) attacked Gstaad (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T16:20:12.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Fribourg (johnsgill3) occupied Gstaad with 1 troop.",
+    "timestamp": "2016-07-27T16:20:22.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Fribourg (johnsgill3) attacked Bern (gcochard) conquering it, killing 7, losing 9.",
+    "timestamp": "2016-07-27T16:21:52.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Fribourg (johnsgill3) occupied Bern with 15 troops.",
+    "timestamp": "2016-07-27T16:21:58.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Bern (johnsgill3) attacked Thun (gcochard) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T16:22:13.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Bern (johnsgill3) occupied Thun with 13 troops.",
+    "timestamp": "2016-07-27T16:22:23.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Thun (johnsgill3) attacked Interlaken (gcochard) conquering it, killing 6, losing 5.",
+    "timestamp": "2016-07-27T16:23:55.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "gcochard was defeated by johnsgill3.",
+    "timestamp": "2016-07-27T16:23:56.000Z",
+    "player": "gcochard",
+    "round": 6
+  },
+  {
+    "message": "Thun (johnsgill3) occupied Interlaken with 7 troops.",
+    "timestamp": "2016-07-27T16:24:11.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Martigny",
+    "timestamp": "2016-07-27T16:24:20.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Fribourg",
+    "timestamp": "2016-07-27T16:24:20.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 12 troops for turning in cards Martigny, Bellinzona, and Fribourg.",
+    "timestamp": "2016-07-27T16:24:20.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Bern (johnsgill3) was reinforced by johnsgill3 with 5 troops.",
+    "timestamp": "2016-07-27T16:26:32.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Martigny (johnsgill3) was reinforced by johnsgill3 with 5 troops.",
+    "timestamp": "2016-07-27T16:26:51.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Thun (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-07-27T16:27:27.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Lausanne (johnsgill3) was fortified from Yverdon (johnsgill3) with 2 troops.",
+    "timestamp": "2016-07-27T16:28:26.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-27T16:28:26.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-27T16:28:26.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Round 7 started.",
+    "timestamp": "2016-07-27T16:28:26.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-27T16:44:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for 17 territories.",
+    "timestamp": "2016-07-27T16:44:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Zürich-St.Gallen.",
+    "timestamp": "2016-07-27T16:44:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Zentralschweiz.",
+    "timestamp": "2016-07-27T16:44:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Liechtenstein.",
+    "timestamp": "2016-07-27T16:44:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 12 troops for turning in cards Delémont, Chiasso, and Solothurn.",
+    "timestamp": "2016-07-27T16:44:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Luzern (ryanbmilbourne) was reinforced by ryanbmilbourne with 10 troops.",
+    "timestamp": "2016-07-27T16:46:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Chur (ryanbmilbourne) was reinforced by ryanbmilbourne with 13 troops.",
+    "timestamp": "2016-07-27T16:47:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Chur (ryanbmilbourne) attacked St. Moritz (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T16:47:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Chur (ryanbmilbourne) occupied St. Moritz with 25 troops.",
+    "timestamp": "2016-07-27T16:47:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "St. Moritz (ryanbmilbourne) attacked Brusio (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-27T16:47:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "St. Moritz (ryanbmilbourne) occupied Brusio with 1 troop.",
+    "timestamp": "2016-07-27T16:47:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Wassen (ryanbmilbourne) was fortified from St. Moritz (ryanbmilbourne) with 21 troops.",
+    "timestamp": "2016-07-27T16:48:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-27T16:48:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-27T16:48:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-27T16:48:30.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 6 territories.",
+    "timestamp": "2016-07-27T16:48:30.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Ticino.",
+    "timestamp": "2016-07-27T16:48:30.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Brig (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-07-27T16:48:35.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Brig (tanleach1001) attacked Zermatt (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T16:48:40.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Brig (tanleach1001) occupied Zermatt with 1 troop.",
+    "timestamp": "2016-07-27T16:48:47.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-27T16:48:55.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-27T16:48:55.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-27T17:56:55.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 17 territories.",
+    "timestamp": "2016-07-27T17:56:55.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Vaud.",
+    "timestamp": "2016-07-27T17:56:55.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Bern.",
+    "timestamp": "2016-07-27T17:56:55.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Basel-Aargau.",
+    "timestamp": "2016-07-27T17:56:55.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Martigny (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-07-27T17:57:12.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Interlaken (johnsgill3) was reinforced by johnsgill3 with 11 troops.",
+    "timestamp": "2016-07-27T17:57:39.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Martigny (johnsgill3) attacked Zermatt (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T17:57:44.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Martigny (johnsgill3) occupied Zermatt with 1 troop.",
+    "timestamp": "2016-07-27T17:57:50.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Interlaken (johnsgill3) was fortified from Neuchâtel (johnsgill3) with 3 troops.",
+    "timestamp": "2016-07-27T17:58:10.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-27T17:58:10.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-27T17:58:10.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Round 8 started.",
+    "timestamp": "2016-07-27T17:58:10.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-27T17:58:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 6 troops for 18 territories.",
+    "timestamp": "2016-07-27T17:58:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Zürich-St.Gallen.",
+    "timestamp": "2016-07-27T17:58:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Zentralschweiz.",
+    "timestamp": "2016-07-27T17:58:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Liechtenstein.",
+    "timestamp": "2016-07-27T17:58:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Graubünden.",
+    "timestamp": "2016-07-27T17:58:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Wassen (ryanbmilbourne) was reinforced by ryanbmilbourne with 15 troops.",
+    "timestamp": "2016-07-27T17:59:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Wassen (ryanbmilbourne) attacked Brig (tanleach1001) conquering it, killing 29, losing 19.",
+    "timestamp": "2016-07-27T18:00:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Wassen (ryanbmilbourne) occupied Brig with 1 troop.",
+    "timestamp": "2016-07-27T18:00:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Luzern (ryanbmilbourne) was fortified from Sargans (ryanbmilbourne) with 6 troops.",
+    "timestamp": "2016-07-27T18:00:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-27T18:00:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-27T18:00:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-27T18:00:51.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 5 territories.",
+    "timestamp": "2016-07-27T18:00:51.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding Ticino.",
+    "timestamp": "2016-07-27T18:00:51.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Sion",
+    "timestamp": "2016-07-27T18:01:08.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 12 troops for turning in cards Sion, Eschen, and Olten.",
+    "timestamp": "2016-07-27T18:01:08.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Locarno (tanleach1001) was reinforced by tanleach1001 with 17 troops.",
+    "timestamp": "2016-07-27T18:01:15.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Locarno (tanleach1001) attacked Brig (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:01:17.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Locarno (tanleach1001) occupied Brig with 17 troops.",
+    "timestamp": "2016-07-27T18:01:19.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-27T18:01:23.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-27T18:01:23.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-27T18:02:20.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 6 troops for 18 territories.",
+    "timestamp": "2016-07-27T18:02:20.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Vaud.",
+    "timestamp": "2016-07-27T18:02:20.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Bern.",
+    "timestamp": "2016-07-27T18:02:20.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Basel-Aargau.",
+    "timestamp": "2016-07-27T18:02:20.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Martigny (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-07-27T18:02:37.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Interlaken (johnsgill3) was reinforced by johnsgill3 with 13 troops.",
+    "timestamp": "2016-07-27T18:02:39.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Martigny (johnsgill3) attacked Sion (tanleach1001) conquering it, killing 3, losing 5.",
+    "timestamp": "2016-07-27T18:02:49.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Martigny (johnsgill3) occupied Sion with 1 troop.",
+    "timestamp": "2016-07-27T18:02:55.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Interlaken (johnsgill3) attacked Brig (tanleach1001) conquering it, killing 17, losing 13.",
+    "timestamp": "2016-07-27T18:04:24.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Interlaken (johnsgill3) occupied Brig with 20 troops.",
+    "timestamp": "2016-07-27T18:04:36.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Brig (johnsgill3) attacked Locarno (tanleach1001) conquering it, killing 1, losing 4.",
+    "timestamp": "2016-07-27T18:04:52.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Brig (johnsgill3) occupied Locarno with 15 troops.",
+    "timestamp": "2016-07-27T18:04:54.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Locarno (johnsgill3) attacked Lugano (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-27T18:05:24.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Locarno (johnsgill3) occupied Lugano with 12 troops.",
+    "timestamp": "2016-07-27T18:05:27.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Lugano (johnsgill3) attacked Chiasso (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:05:30.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Lugano (johnsgill3) occupied Chiasso with 1 troop.",
+    "timestamp": "2016-07-27T18:05:34.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Lugano (johnsgill3) attacked Bellinzona (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T18:05:40.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 was defeated by johnsgill3.",
+    "timestamp": "2016-07-27T18:05:40.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Lugano (johnsgill3) occupied Bellinzona with 9 troops.",
+    "timestamp": "2016-07-27T18:05:43.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Neuchâtel",
+    "timestamp": "2016-07-27T18:05:49.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 12 troops for turning in cards Pfäffikon, Schwyz, and Neuchâtel.",
+    "timestamp": "2016-07-27T18:05:49.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Olten (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-07-27T18:06:47.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Interlaken (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-07-27T18:06:52.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Brig (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-07-27T18:07:02.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Basel (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-07-27T18:07:25.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Bellinzona (johnsgill3) was reinforced by johnsgill3 with 4 troops.",
+    "timestamp": "2016-07-27T18:07:37.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Bellinzona (johnsgill3) attacked Chur (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:07:53.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Bellinzona (johnsgill3) occupied Chur with 12 troops.",
+    "timestamp": "2016-07-27T18:07:55.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Chur (johnsgill3) attacked Sargans (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-27T18:08:05.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Chur (johnsgill3) occupied Sargans with 9 troops.",
+    "timestamp": "2016-07-27T18:08:09.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Sargans (johnsgill3) attacked Vaduz (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:08:13.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Sargans (johnsgill3) occupied Vaduz with 1 troop.",
+    "timestamp": "2016-07-27T18:08:18.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Sargans (johnsgill3) attacked Glarus (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:08:22.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Sargans (johnsgill3) occupied Glarus with 7 troops.",
+    "timestamp": "2016-07-27T18:08:28.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Glarus (johnsgill3) attacked Schwyz (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T18:08:36.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Glarus (johnsgill3) occupied Schwyz with 5 troops.",
+    "timestamp": "2016-07-27T18:08:39.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Bellinzona (johnsgill3) was fortified from Schwyz (johnsgill3) with 4 troops.",
+    "timestamp": "2016-07-27T18:09:07.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-27T18:09:08.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-27T18:09:08.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Round 9 started.",
+    "timestamp": "2016-07-27T18:09:08.000Z",
+    "player": "unknown",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-27T18:09:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for 13 territories.",
+    "timestamp": "2016-07-27T18:09:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Zug",
+    "timestamp": "2016-07-27T18:09:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 12 troops for turning in cards Zermatt, Gstaad, and Zug.",
+    "timestamp": "2016-07-27T18:09:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Zug (ryanbmilbourne) was reinforced by ryanbmilbourne with 7 troops.",
+    "timestamp": "2016-07-27T18:09:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Luzern (ryanbmilbourne) was reinforced by ryanbmilbourne with 9 troops.",
+    "timestamp": "2016-07-27T18:10:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Zug (ryanbmilbourne) attacked Schwyz (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:10:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Zug (ryanbmilbourne) occupied Schwyz with 9 troops.",
+    "timestamp": "2016-07-27T18:10:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Schwyz (ryanbmilbourne) attacked Glarus (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T18:11:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Schwyz (ryanbmilbourne) occupied Glarus with 7 troops.",
+    "timestamp": "2016-07-27T18:11:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Glarus (ryanbmilbourne) attacked Sargans (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:11:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Glarus (ryanbmilbourne) occupied Sargans with 6 troops.",
+    "timestamp": "2016-07-27T18:11:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Sargans (ryanbmilbourne) attacked Vaduz (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T18:12:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Sargans (ryanbmilbourne) occupied Vaduz with 1 troop.",
+    "timestamp": "2016-07-27T18:12:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Sargans (ryanbmilbourne) attacked Chur (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T18:13:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Sargans (ryanbmilbourne) occupied Chur with 2 troops.",
+    "timestamp": "2016-07-27T18:13:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Luzern (ryanbmilbourne) attacked Olten (johnsgill3) conquering it, killing 3, losing 8.",
+    "timestamp": "2016-07-27T18:17:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Luzern (ryanbmilbourne) occupied Olten with 1 troop.",
+    "timestamp": "2016-07-27T18:17:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Wassen (ryanbmilbourne) attacked Bellinzona (johnsgill3) conquering it, killing 5, losing 7.",
+    "timestamp": "2016-07-27T18:21:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Wassen (ryanbmilbourne) occupied Bellinzona with 20 troops.",
+    "timestamp": "2016-07-27T18:21:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Bellinzona (ryanbmilbourne) attacked Lugano (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:22:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Bellinzona (ryanbmilbourne) occupied Lugano with 19 troops.",
+    "timestamp": "2016-07-27T18:22:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Lugano (ryanbmilbourne) attacked Chiasso (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:22:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Lugano (ryanbmilbourne) occupied Chiasso with 1 troop.",
+    "timestamp": "2016-07-27T18:23:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Lugano (ryanbmilbourne) attacked Locarno (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:23:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Lugano (ryanbmilbourne) occupied Locarno with 17 troops.",
+    "timestamp": "2016-07-27T18:23:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Locarno (ryanbmilbourne) attacked Brig (johnsgill3) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-07-27T18:23:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Locarno (ryanbmilbourne) occupied Brig with 16 troops.",
+    "timestamp": "2016-07-27T18:23:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Luzern (ryanbmilbourne) attacked Bern (johnsgill3) conquering it, killing 6, losing 13.",
+    "timestamp": "2016-07-27T18:26:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Luzern (ryanbmilbourne) occupied Bern with 9 troops.",
+    "timestamp": "2016-07-27T18:26:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Brig (ryanbmilbourne) attacked Interlaken (johnsgill3) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-07-27T18:31:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Brig (ryanbmilbourne) occupied Interlaken with 1 troop.",
+    "timestamp": "2016-07-27T18:31:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Bern (ryanbmilbourne) attacked Neuchâtel (johnsgill3) conquering it, killing 5, losing 0.",
+    "timestamp": "2016-07-27T18:32:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Bern (ryanbmilbourne) occupied Neuchâtel with 8 troops.",
+    "timestamp": "2016-07-27T18:34:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Neuchâtel (ryanbmilbourne) attacked La Chaux-de-Fonds (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T18:35:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Neuchâtel (ryanbmilbourne) occupied La Chaux-de-Fonds with 6 troops.",
+    "timestamp": "2016-07-27T18:35:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "La Chaux-de-Fonds (ryanbmilbourne) attacked Yverdon (johnsgill3) killing 0, losing 1.",
+    "timestamp": "2016-07-27T18:35:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "La Chaux-de-Fonds (ryanbmilbourne) attacked Delémont (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:36:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "La Chaux-de-Fonds (ryanbmilbourne) occupied Delémont with 1 troop.",
+    "timestamp": "2016-07-27T18:36:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "La Chaux-de-Fonds (ryanbmilbourne) attacked Yverdon (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:36:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "La Chaux-de-Fonds (ryanbmilbourne) occupied Yverdon with 3 troops.",
+    "timestamp": "2016-07-27T18:36:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Yverdon (ryanbmilbourne) attacked Genève (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-07-27T18:36:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Luzern (ryanbmilbourne) was fortified from Kreuzlingen (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-07-27T18:37:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-27T18:37:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-27T18:37:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-27T18:39:57.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 12 territories.",
+    "timestamp": "2016-07-27T18:39:57.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Solothurn (johnsgill3) was reinforced by johnsgill3 with 4 troops.",
+    "timestamp": "2016-07-27T18:40:09.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Solothurn (johnsgill3) attacked Olten (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:40:18.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Solothurn (johnsgill3) occupied Olten with 9 troops.",
+    "timestamp": "2016-07-27T18:40:20.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Olten (johnsgill3) attacked Zürich (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:40:37.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Olten (johnsgill3) occupied Zürich with 8 troops.",
+    "timestamp": "2016-07-27T18:40:41.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Zürich (johnsgill3) attacked Zug (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:40:44.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Zürich (johnsgill3) occupied Zug with 7 troops.",
+    "timestamp": "2016-07-27T18:40:46.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Zug (johnsgill3) attacked Schwyz (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:40:49.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Zug (johnsgill3) occupied Schwyz with 6 troops.",
+    "timestamp": "2016-07-27T18:40:50.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Schwyz (johnsgill3) attacked Glarus (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T18:40:53.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Schwyz (johnsgill3) occupied Glarus with 5 troops.",
+    "timestamp": "2016-07-27T18:40:55.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Glarus (johnsgill3) attacked Sargans (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-27T18:41:26.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Glarus (johnsgill3) occupied Sargans with 2 troops.",
+    "timestamp": "2016-07-27T18:41:29.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Sargans (johnsgill3) attacked Vaduz (ryanbmilbourne) killing 0, losing 1.",
+    "timestamp": "2016-07-27T18:41:38.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Gstaad (johnsgill3) was fortified from Martigny (johnsgill3) with 5 troops.",
+    "timestamp": "2016-07-27T18:41:52.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-27T18:41:52.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-27T18:41:52.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Round 10 started.",
+    "timestamp": "2016-07-27T18:41:52.000Z",
+    "player": "unknown",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-27T21:13:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for 24 territories.",
+    "timestamp": "2016-07-27T21:13:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Ticino.",
+    "timestamp": "2016-07-27T21:13:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 1 troop for holding Liechtenstein.",
+    "timestamp": "2016-07-27T21:13:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Chur (ryanbmilbourne) was reinforced by ryanbmilbourne with 11 troops.",
+    "timestamp": "2016-07-27T21:15:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Chur (ryanbmilbourne) attacked Sargans (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T21:15:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Chur (ryanbmilbourne) occupied Sargans with 11 troops.",
+    "timestamp": "2016-07-27T21:15:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Sargans (ryanbmilbourne) attacked Glarus (johnsgill3) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-07-27T21:16:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Sargans (ryanbmilbourne) occupied Glarus with 7 troops.",
+    "timestamp": "2016-07-27T21:16:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Glarus (ryanbmilbourne) attacked Schwyz (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T21:16:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Glarus (ryanbmilbourne) occupied Schwyz with 6 troops.",
+    "timestamp": "2016-07-27T21:16:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Winterthur (ryanbmilbourne) attacked Zürich (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T21:16:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Winterthur (ryanbmilbourne) occupied Zürich with 2 troops.",
+    "timestamp": "2016-07-27T21:16:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Schwyz (ryanbmilbourne) attacked Zug (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T21:17:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Schwyz (ryanbmilbourne) occupied Zug with 1 troop.",
+    "timestamp": "2016-07-27T21:18:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Brig (ryanbmilbourne) attacked Zermatt (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T21:18:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Brig (ryanbmilbourne) occupied Zermatt with 1 troop.",
+    "timestamp": "2016-07-27T21:18:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Brig (ryanbmilbourne) attacked Sion (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T21:19:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Brig (ryanbmilbourne) occupied Sion with 9 troops.",
+    "timestamp": "2016-07-27T21:19:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Sion (ryanbmilbourne) attacked Martigny (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T21:19:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Sion (ryanbmilbourne) occupied Martigny with 8 troops.",
+    "timestamp": "2016-07-27T21:20:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Martigny (ryanbmilbourne) attacked Lausanne (johnsgill3) killing 1, losing 7.",
+    "timestamp": "2016-07-27T21:21:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Zürich (ryanbmilbourne) attacked Olten (johnsgill3) killing 0, losing 1.",
+    "timestamp": "2016-07-27T21:21:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Luzern (ryanbmilbourne) attacked Olten (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-07-27T21:22:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Luzern (ryanbmilbourne) was fortified from Schwyz (ryanbmilbourne) with 4 troops.",
+    "timestamp": "2016-07-27T21:23:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-27T21:23:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-27T21:23:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-27T21:31:28.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 10 territories.",
+    "timestamp": "2016-07-27T21:31:28.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Basel-Aargau.",
+    "timestamp": "2016-07-27T21:31:28.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Aarau",
+    "timestamp": "2016-07-27T21:31:38.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 12 troops for turning in cards Lugano, Aarau, and Bern.",
+    "timestamp": "2016-07-27T21:31:38.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Thun (johnsgill3) was reinforced by johnsgill3 with 18 troops.",
+    "timestamp": "2016-07-27T21:31:52.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Thun (johnsgill3) attacked Interlaken (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T21:32:01.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Thun (johnsgill3) occupied Interlaken with 20 troops.",
+    "timestamp": "2016-07-27T21:32:38.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Interlaken (johnsgill3) attacked Brig (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T21:33:05.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Interlaken (johnsgill3) occupied Brig with 19 troops.",
+    "timestamp": "2016-07-27T21:33:19.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Brig (johnsgill3) attacked Locarno (ryanbmilbourne) killing 0, losing 5.",
+    "timestamp": "2016-07-27T21:34:36.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Brig (johnsgill3) attacked Wassen (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T21:34:57.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Brig (johnsgill3) occupied Wassen with 13 troops.",
+    "timestamp": "2016-07-27T21:35:03.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Wassen (johnsgill3) attacked Schwyz (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T21:35:29.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Wassen (johnsgill3) occupied Schwyz with 1 troop.",
+    "timestamp": "2016-07-27T21:35:39.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Wassen (johnsgill3) attacked Bellinzona (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T21:36:11.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Wassen (johnsgill3) occupied Bellinzona with 1 troop.",
+    "timestamp": "2016-07-27T21:36:33.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Wassen (johnsgill3) attacked Chur (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T21:36:47.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Wassen (johnsgill3) occupied Chur with 8 troops.",
+    "timestamp": "2016-07-27T21:36:53.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Chur (johnsgill3) attacked Sargans (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T21:37:09.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Chur (johnsgill3) occupied Sargans with 6 troops.",
+    "timestamp": "2016-07-27T21:37:17.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Sargans (johnsgill3) attacked Vaduz (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T21:37:25.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Sargans (johnsgill3) occupied Vaduz with 5 troops.",
+    "timestamp": "2016-07-27T21:37:30.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Vaduz (johnsgill3) attacked Eschen (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T21:37:39.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Vaduz (johnsgill3) occupied Eschen with 3 troops.",
+    "timestamp": "2016-07-27T21:37:43.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Fribourg (johnsgill3) attacked Bern (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-07-27T21:38:10.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-27T21:39:15.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-27T21:39:15.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Round 11 started.",
+    "timestamp": "2016-07-27T21:39:15.000Z",
+    "player": "unknown",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-27T22:01:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 7 troops for 23 territories.",
+    "timestamp": "2016-07-27T22:01:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Yverdon (ryanbmilbourne) was reinforced by ryanbmilbourne with 7 troops.",
+    "timestamp": "2016-07-27T22:02:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Luzern (ryanbmilbourne) attacked Olten (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T22:02:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Luzern (ryanbmilbourne) occupied Olten with 3 troops.",
+    "timestamp": "2016-07-27T22:02:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Yverdon (ryanbmilbourne) attacked Genève (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:02:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Yverdon (ryanbmilbourne) occupied Genève with 7 troops.",
+    "timestamp": "2016-07-27T22:02:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Genève (ryanbmilbourne) attacked Lausanne (johnsgill3) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-07-27T22:02:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Genève (ryanbmilbourne) occupied Lausanne with 6 troops.",
+    "timestamp": "2016-07-27T22:02:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Lausanne (ryanbmilbourne) attacked Fribourg (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T22:02:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Lausanne (ryanbmilbourne) occupied Fribourg with 4 troops.",
+    "timestamp": "2016-07-27T22:02:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Fribourg (ryanbmilbourne) was fortified from Olten (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-07-27T22:03:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-27T22:03:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-27T22:03:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-28T17:23:06.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 15 territories.",
+    "timestamp": "2016-07-28T17:23:06.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 received 1 troop for holding Liechtenstein.",
+    "timestamp": "2016-07-28T17:23:06.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Chur",
+    "timestamp": "2016-07-28T17:23:09.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 received 12 troops for turning in cards Lausanne, Chur, and Schaffhausen.",
+    "timestamp": "2016-07-28T17:23:09.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Aarau (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-07-28T17:23:23.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Eschen (johnsgill3) was reinforced by johnsgill3 with 16 troops.",
+    "timestamp": "2016-07-28T17:23:33.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Eschen (johnsgill3) attacked St. Gallen (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T17:23:35.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Eschen (johnsgill3) occupied St. Gallen with 18 troops.",
+    "timestamp": "2016-07-28T17:23:37.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "St. Gallen (johnsgill3) attacked Kreuzlingen (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T17:23:41.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "St. Gallen (johnsgill3) occupied Kreuzlingen with 17 troops.",
+    "timestamp": "2016-07-28T17:23:42.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Kreuzlingen (johnsgill3) attacked Schaffhausen (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T17:23:45.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Kreuzlingen (johnsgill3) occupied Schaffhausen with 16 troops.",
+    "timestamp": "2016-07-28T17:23:47.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Schaffhausen (johnsgill3) attacked Winterthur (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T17:23:50.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Schaffhausen (johnsgill3) occupied Winterthur with 15 troops.",
+    "timestamp": "2016-07-28T17:23:51.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Winterthur (johnsgill3) attacked Zürich (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T17:23:55.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Winterthur (johnsgill3) occupied Zürich with 14 troops.",
+    "timestamp": "2016-07-28T17:23:56.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Zürich (johnsgill3) attacked Pfäffikon (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T17:23:58.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Zürich (johnsgill3) occupied Pfäffikon with 1 troop.",
+    "timestamp": "2016-07-28T17:24:01.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Zürich (johnsgill3) attacked Zug (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T17:24:06.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Zürich (johnsgill3) occupied Zug with 12 troops.",
+    "timestamp": "2016-07-28T17:24:08.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Zug (johnsgill3) attacked Luzern (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T17:24:20.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Zug (johnsgill3) occupied Luzern with 11 troops.",
+    "timestamp": "2016-07-28T17:24:22.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Aarau (johnsgill3) attacked Olten (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-28T17:24:29.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Aarau (johnsgill3) occupied Olten with 2 troops.",
+    "timestamp": "2016-07-28T17:24:32.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Luzern (johnsgill3) attacked Bern (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-28T17:24:53.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Luzern (johnsgill3) occupied Bern with 8 troops.",
+    "timestamp": "2016-07-28T17:24:54.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Bern (johnsgill3) attacked Neuchâtel (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T17:24:57.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Bern (johnsgill3) occupied Neuchâtel with 7 troops.",
+    "timestamp": "2016-07-28T17:25:16.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Neuchâtel (johnsgill3) attacked La Chaux-de-Fonds (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-07-28T17:25:25.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Luzern (johnsgill3) was fortified from Neuchâtel (johnsgill3) with 4 troops.",
+    "timestamp": "2016-07-28T17:25:40.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-28T17:25:40.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-28T17:25:40.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Round 12 started.",
+    "timestamp": "2016-07-28T17:25:40.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-28T19:06:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for 16 territories.",
+    "timestamp": "2016-07-28T19:06:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Fribourg (ryanbmilbourne) was reinforced by ryanbmilbourne with 5 troops.",
+    "timestamp": "2016-07-28T19:06:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Fribourg (ryanbmilbourne) attacked Bern (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:06:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Fribourg (ryanbmilbourne) occupied Bern with 10 troops.",
+    "timestamp": "2016-07-28T19:06:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Bern (ryanbmilbourne) attacked Solothurn (johnsgill3) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-28T19:06:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Bern (ryanbmilbourne) occupied Solothurn with 7 troops.",
+    "timestamp": "2016-07-28T19:07:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Solothurn (ryanbmilbourne) attacked Olten (johnsgill3) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-07-28T19:07:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Solothurn (ryanbmilbourne) occupied Olten with 4 troops.",
+    "timestamp": "2016-07-28T19:07:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Olten (ryanbmilbourne) attacked Aarau (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-07-28T19:07:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Olten (ryanbmilbourne) attacked Zürich (johnsgill3) killing 0, losing 1.",
+    "timestamp": "2016-07-28T19:07:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-28T19:07:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-28T19:07:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-28T19:54:27.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 received 7 troops for 23 territories.",
+    "timestamp": "2016-07-28T19:54:27.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Zürich-St.Gallen.",
+    "timestamp": "2016-07-28T19:54:27.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding Zentralschweiz.",
+    "timestamp": "2016-07-28T19:54:27.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 received 1 troop for holding Liechtenstein.",
+    "timestamp": "2016-07-28T19:54:27.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Gstaad (johnsgill3) was reinforced by johnsgill3 with 13 troops.",
+    "timestamp": "2016-07-28T19:54:30.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Luzern (johnsgill3) attacked Olten (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:54:34.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Luzern (johnsgill3) occupied Olten with 1 troop.",
+    "timestamp": "2016-07-28T19:54:38.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Gstaad (johnsgill3) attacked Fribourg (ryanbmilbourne) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-07-28T19:54:50.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Gstaad (johnsgill3) occupied Fribourg with 15 troops.",
+    "timestamp": "2016-07-28T19:54:52.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Fribourg (johnsgill3) attacked Bern (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:54:56.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Fribourg (johnsgill3) occupied Bern with 14 troops.",
+    "timestamp": "2016-07-28T19:54:58.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Bern (johnsgill3) attacked Solothurn (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:55:01.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Bern (johnsgill3) occupied Solothurn with 13 troops.",
+    "timestamp": "2016-07-28T19:55:04.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Solothurn (johnsgill3) attacked Delémont (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:55:07.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Solothurn (johnsgill3) occupied Delémont with 12 troops.",
+    "timestamp": "2016-07-28T19:55:09.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Delémont (johnsgill3) attacked La Chaux-de-Fonds (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-28T19:55:16.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Delémont (johnsgill3) occupied La Chaux-de-Fonds with 9 troops.",
+    "timestamp": "2016-07-28T19:55:18.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "La Chaux-de-Fonds (johnsgill3) attacked Yverdon (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T19:55:23.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "La Chaux-de-Fonds (johnsgill3) occupied Yverdon with 7 troops.",
+    "timestamp": "2016-07-28T19:55:25.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Yverdon (johnsgill3) attacked Genève (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-28T19:55:34.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Yverdon (johnsgill3) occupied Genève with 4 troops.",
+    "timestamp": "2016-07-28T19:55:36.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Genève (johnsgill3) attacked Lausanne (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:55:40.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Genève (johnsgill3) occupied Lausanne with 3 troops.",
+    "timestamp": "2016-07-28T19:55:42.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Brig (johnsgill3) was fortified from Luzern (johnsgill3) with 3 troops.",
+    "timestamp": "2016-07-28T19:56:02.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-28T19:56:02.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-28T19:56:02.000Z",
+    "player": "johnsgill3",
+    "round": 12
+  },
+  {
+    "message": "Round 13 started.",
+    "timestamp": "2016-07-28T19:56:02.000Z",
+    "player": "unknown",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-28T19:57:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 10 territories.",
+    "timestamp": "2016-07-28T19:57:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Glarus (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-07-28T19:57:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Glarus (ryanbmilbourne) attacked Sargans (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:57:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Glarus (ryanbmilbourne) occupied Sargans with 1 troop.",
+    "timestamp": "2016-07-28T19:57:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Glarus (ryanbmilbourne) attacked Schwyz (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-07-28T19:57:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-28T19:57:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-28T19:57:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-28T19:59:14.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "johnsgill3 received 10 troops for 31 territories.",
+    "timestamp": "2016-07-28T19:59:14.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding Zentralschweiz.",
+    "timestamp": "2016-07-28T19:59:14.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "johnsgill3 received 1 troop for holding Liechtenstein.",
+    "timestamp": "2016-07-28T19:59:14.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Bern.",
+    "timestamp": "2016-07-28T19:59:14.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Basel-Aargau.",
+    "timestamp": "2016-07-28T19:59:14.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding Vaud.",
+    "timestamp": "2016-07-28T19:59:14.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Lausanne (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-07-28T19:59:21.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Brig (johnsgill3) was reinforced by johnsgill3 with 9 troops.",
+    "timestamp": "2016-07-28T19:59:33.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Chur (johnsgill3) was reinforced by johnsgill3 with 10 troops.",
+    "timestamp": "2016-07-28T19:59:43.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Lausanne (johnsgill3) attacked Martigny (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:59:46.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Lausanne (johnsgill3) occupied Martigny with 5 troops.",
+    "timestamp": "2016-07-28T19:59:49.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Martigny (johnsgill3) attacked Sion (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:59:52.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Martigny (johnsgill3) occupied Sion with 1 troop.",
+    "timestamp": "2016-07-28T19:59:56.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Martigny (johnsgill3) attacked Zermatt (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T20:00:01.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Martigny (johnsgill3) occupied Zermatt with 2 troops.",
+    "timestamp": "2016-07-28T20:00:05.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Brig (johnsgill3) attacked Locarno (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:00:09.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Brig (johnsgill3) occupied Locarno with 12 troops.",
+    "timestamp": "2016-07-28T20:00:12.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Locarno (johnsgill3) attacked Lugano (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T20:00:18.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Locarno (johnsgill3) occupied Lugano with 10 troops.",
+    "timestamp": "2016-07-28T20:00:20.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Lugano (johnsgill3) attacked Chiasso (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T20:00:26.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Lugano (johnsgill3) occupied Chiasso with 8 troops.",
+    "timestamp": "2016-07-28T20:00:28.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Chur (johnsgill3) attacked Davos (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:00:35.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Chur (johnsgill3) occupied Davos with 1 troop.",
+    "timestamp": "2016-07-28T20:00:39.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Chur (johnsgill3) attacked Sargans (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T20:00:44.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Chur (johnsgill3) occupied Sargans with 4 troops.",
+    "timestamp": "2016-07-28T20:00:51.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Sargans (johnsgill3) attacked Glarus (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:00:53.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Sargans (johnsgill3) occupied Glarus with 1 troop.",
+    "timestamp": "2016-07-28T20:00:58.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Chur (johnsgill3) attacked St. Moritz (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:01:00.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "Chur (johnsgill3) occupied St. Moritz with 6 troops.",
+    "timestamp": "2016-07-28T20:01:03.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "St. Moritz (johnsgill3) attacked Brusio (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:01:06.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne was defeated by johnsgill3.",
+    "timestamp": "2016-07-28T20:01:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-07-28T20:01:06.000Z",
+    "player": "unknown",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne lost 13 rating.",
+    "timestamp": "2016-07-28T20:01:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne received 20 tokens.",
+    "timestamp": "2016-07-28T20:01:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "gcochard lost 20 rating.",
+    "timestamp": "2016-07-28T20:01:06.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "gcochard received 20 tokens.",
+    "timestamp": "2016-07-28T20:01:06.000Z",
+    "player": "gcochard",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 lost 19 rating.",
+    "timestamp": "2016-07-28T20:01:06.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received 20 tokens.",
+    "timestamp": "2016-07-28T20:01:06.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "johnsgill3 won the game.",
+    "timestamp": "2016-07-28T20:01:06.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "johnsgill3 received 77 rating.",
+    "timestamp": "2016-07-28T20:01:06.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "johnsgill3 received 20 tokens.",
+    "timestamp": "2016-07-28T20:01:06.000Z",
+    "player": "johnsgill3",
+    "round": 13
+  },
+  {
+    "message": "kwren lost 25 rating.",
+    "timestamp": "2016-07-28T20:01:06.000Z",
+    "player": "kwren",
+    "round": 13
+  },
+  {
+    "message": "kwren received 20 tokens.",
+    "timestamp": "2016-07-28T20:01:06.000Z",
+    "player": "kwren",
+    "round": 13
+  }
+]
