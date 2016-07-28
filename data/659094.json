@@ -1,0 +1,6254 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-07-26T16:38:14.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "mmacfreier joined the game.",
+    "timestamp": "2016-07-26T16:38:14.000Z",
+    "player": "mmacfreier",
+    "round": 0
+  },
+  {
+    "message": "kwren joined the game.",
+    "timestamp": "2016-07-26T16:38:54.000Z",
+    "player": "kwren",
+    "round": 0
+  },
+  {
+    "message": "johnsgill3 joined the game.",
+    "timestamp": "2016-07-26T16:39:35.000Z",
+    "player": "johnsgill3",
+    "round": 0
+  },
+  {
+    "message": "gcochard joined the game.",
+    "timestamp": "2016-07-26T16:39:58.000Z",
+    "player": "gcochard",
+    "round": 0
+  },
+  {
+    "message": "tanleach1001 joined the game.",
+    "timestamp": "2016-07-26T16:40:53.000Z",
+    "player": "tanleach1001",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne joined the game.",
+    "timestamp": "2016-07-26T16:41:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-07-26T16:41:38.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-26T16:42:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T16:42:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Manokwari (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-07-26T16:42:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Manokwari (ryanbmilbourne) attacked Jayapura (mmacfreier) killing 1, losing 5.",
+    "timestamp": "2016-07-26T16:42:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Manokwari (ryanbmilbourne) was fortified from Fakfak (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-07-26T16:43:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-26T16:43:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-26T16:43:20.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T16:43:20.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Darwin (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-07-26T16:43:47.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Darwin (tanleach1001) attacked Kimberley (gcochard) killing 2, losing 0.",
+    "timestamp": "2016-07-26T16:43:51.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Katherine (tanleach1001) attacked Kimberley (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T16:44:02.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Katherine (tanleach1001) occupied Kimberley with 2 troops.",
+    "timestamp": "2016-07-26T16:44:04.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Darwin (tanleach1001) attacked Arnhem (gcochard) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-07-26T16:44:31.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Darwin (tanleach1001) occupied Arnhem with 4 troops.",
+    "timestamp": "2016-07-26T16:44:37.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "Bali (tanleach1001) was fortified from Surabaya (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-26T16:45:10.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-26T16:45:10.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-26T16:45:10.000Z",
+    "player": "tanleach1001",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-26T16:46:25.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T16:46:25.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Kuala Lumpur (KL) (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-07-26T16:46:41.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Kuala Lumpur (KL) (johnsgill3) attacked Penang (kwren) killing 1, losing 3.",
+    "timestamp": "2016-07-26T16:47:07.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Thailand (johnsgill3) attacked Penang (kwren) killing 1, losing 2.",
+    "timestamp": "2016-07-26T16:47:18.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Kuala Lumpur (KL) (johnsgill3) attacked Penang (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T16:47:23.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Kuala Lumpur (KL) (johnsgill3) occupied Penang with 2 troops.",
+    "timestamp": "2016-07-26T16:47:36.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Singapore (johnsgill3) was fortified from Riau (johnsgill3) with 2 troops.",
+    "timestamp": "2016-07-26T16:47:41.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-26T16:47:41.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-26T16:47:41.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-07-26T16:59:28.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received 3 troops for 7 territories.",
+    "timestamp": "2016-07-26T16:59:28.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Banjarmasin (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-07-26T16:59:47.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Banjarmasin (gcochard) attacked Samarinda (mmacfreier) killing 2, losing 5.",
+    "timestamp": "2016-07-26T17:00:33.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Myanmar (gcochard) attacked Thailand (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-07-26T17:00:53.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "Jambi (gcochard) attacked Riau (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-26T17:01:23.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-07-26T17:01:47.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-07-26T17:01:47.000Z",
+    "player": "gcochard",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-07-26T17:01:59.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T17:01:59.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Timor (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-07-26T17:02:11.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Timor (mmacfreier) attacked Kimberley (tanleach1001) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-07-26T17:02:27.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Timor (mmacfreier) occupied Kimberley with 4 troops.",
+    "timestamp": "2016-07-26T17:02:36.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "Samarinda (mmacfreier) was fortified from Sarawak (mmacfreier) with 2 troops.",
+    "timestamp": "2016-07-26T17:02:50.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-07-26T17:02:53.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-07-26T17:02:53.000Z",
+    "player": "mmacfreier",
+    "round": 1
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-26T17:22:07.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 3 troops for 8 territories.",
+    "timestamp": "2016-07-26T17:22:07.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Kampuchea (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-07-26T17:22:16.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Kampuchea (kwren) attacked Vietnam (gcochard) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-07-26T17:22:21.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Kampuchea (kwren) occupied Vietnam with 1 troop.",
+    "timestamp": "2016-07-26T17:22:25.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Kampuchea (kwren) attacked Thailand (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T17:22:29.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Kampuchea (kwren) occupied Thailand with 4 troops.",
+    "timestamp": "2016-07-26T17:22:30.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Thailand (kwren) attacked Myanmar (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T17:22:35.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Thailand (kwren) occupied Myanmar with 1 troop.",
+    "timestamp": "2016-07-26T17:22:39.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Vietnam (kwren) was fortified from Kuantan (kwren) with 2 troops.",
+    "timestamp": "2016-07-26T17:22:43.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-07-26T17:22:43.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-26T17:22:43.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-07-26T17:22:43.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-26T17:29:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T17:29:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Manokwari (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-07-26T17:30:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Manokwari (ryanbmilbourne) attacked Jayapura (mmacfreier) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-07-26T17:30:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Manokwari (ryanbmilbourne) occupied Jayapura with 1 troop.",
+    "timestamp": "2016-07-26T17:30:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Fakfak (ryanbmilbourne) was fortified from Aru (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-07-26T17:30:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-26T17:30:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-26T17:30:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-26T17:30:47.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 10 territories.",
+    "timestamp": "2016-07-26T17:30:47.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Bali (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-07-26T17:30:54.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Bali (tanleach1001) attacked Pulau Sumba (mmacfreier) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-07-26T17:31:10.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Bali (tanleach1001) occupied Pulau Sumba with 5 troops.",
+    "timestamp": "2016-07-26T17:31:12.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Pulau Sumba (tanleach1001) attacked Timor (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T17:31:16.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Pulau Sumba (tanleach1001) occupied Timor with 4 troops.",
+    "timestamp": "2016-07-26T17:31:18.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "Sabah (tanleach1001) was fortified from Brunei (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-26T17:31:34.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-26T17:31:36.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-26T17:31:36.000Z",
+    "player": "tanleach1001",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-26T17:39:30.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 8 territories.",
+    "timestamp": "2016-07-26T17:39:30.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Singapore (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-07-26T17:39:36.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Singapore (johnsgill3) attacked Kuantan (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-26T17:39:45.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Singapore (johnsgill3) occupied Kuantan with 5 troops.",
+    "timestamp": "2016-07-26T17:39:48.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Kuantan (johnsgill3) attacked Sarawak (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-26T17:39:55.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Kuantan (johnsgill3) occupied Sarawak with 1 troop.",
+    "timestamp": "2016-07-26T17:40:04.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Palawan (johnsgill3) attacked Sabah (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-07-26T17:40:15.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-26T17:40:31.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-26T17:40:31.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-07-26T17:40:49.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received 3 troops for 6 territories.",
+    "timestamp": "2016-07-26T17:40:49.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "W. Visayas (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-07-26T17:41:43.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "W. Visayas (gcochard) attacked Mindanao (kwren) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-07-26T17:41:54.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "W. Visayas (gcochard) occupied Mindanao with 4 troops.",
+    "timestamp": "2016-07-26T17:41:59.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Mindanao (gcochard) attacked E. Visayas (ryanbmilbourne) killing 2, losing 2.",
+    "timestamp": "2016-07-26T17:42:18.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Luzon (gcochard) attacked E. Visayas (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-07-26T17:42:33.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Mindanao (gcochard) attacked E. Visayas (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T17:42:37.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "Sorong (gcochard) attacked N. Maluku (johnsgill3) killing 2, losing 2.",
+    "timestamp": "2016-07-26T17:42:55.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-07-26T17:43:09.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-07-26T17:43:09.000Z",
+    "player": "gcochard",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-07-26T18:16:57.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received 3 troops for 6 territories.",
+    "timestamp": "2016-07-26T18:16:58.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Flores (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-07-26T18:17:20.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Flores (mmacfreier) attacked Bali (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T18:17:25.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Flores (mmacfreier) occupied Bali with 5 troops.",
+    "timestamp": "2016-07-26T18:17:26.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "Bali (mmacfreier) attacked Banjarmasin (gcochard) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-07-26T18:17:34.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-07-26T18:17:48.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-07-26T18:17:48.000Z",
+    "player": "mmacfreier",
+    "round": 2
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-26T18:25:59.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T18:25:59.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 2 troops for holding Indochina.",
+    "timestamp": "2016-07-26T18:25:59.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Vietnam (kwren) was reinforced by kwren with 5 troops.",
+    "timestamp": "2016-07-26T18:26:32.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Vietnam (kwren) attacked Palawan (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T18:26:36.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Vietnam (kwren) occupied Palawan with 1 troop.",
+    "timestamp": "2016-07-26T18:26:40.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Laos (kwren) was fortified from Thailand (kwren) with 2 troops.",
+    "timestamp": "2016-07-26T18:26:54.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-07-26T18:26:54.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-26T18:26:54.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-07-26T18:26:54.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-26T18:32:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T18:32:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Manokwari (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-07-26T18:33:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Manokwari (ryanbmilbourne) attacked Sorong (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T18:33:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Manokwari (ryanbmilbourne) occupied Sorong with 5 troops.",
+    "timestamp": "2016-07-26T18:33:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Buru (ryanbmilbourne) attacked Ceram (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-07-26T18:33:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-26T18:34:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-26T18:34:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-26T20:08:39.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 11 territories.",
+    "timestamp": "2016-07-26T20:08:39.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Timor (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-07-26T20:08:43.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Timor (tanleach1001) attacked Kimberley (mmacfreier) conquering it, killing 4, losing 1.",
+    "timestamp": "2016-07-26T20:08:51.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Timor (tanleach1001) occupied Kimberley with 5 troops.",
+    "timestamp": "2016-07-26T20:08:53.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Lahat (tanleach1001) attacked Jambi (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T20:09:08.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Lahat (tanleach1001) occupied Jambi with 2 troops.",
+    "timestamp": "2016-07-26T20:09:09.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Jambi (tanleach1001) attacked Riau (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T20:09:12.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "Sabah (tanleach1001) attacked Mindanao (gcochard) killing 0, losing 1.",
+    "timestamp": "2016-07-26T20:09:22.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-26T20:09:47.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-26T20:09:47.000Z",
+    "player": "tanleach1001",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-26T20:20:46.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T20:20:46.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Sarawak (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-07-26T20:20:50.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Sarawak (johnsgill3) attacked Brunei (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T20:20:53.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Sarawak (johnsgill3) occupied Brunei with 1 troop.",
+    "timestamp": "2016-07-26T20:21:00.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Lampung (johnsgill3) attacked Lahat (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T20:21:06.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Lampung (johnsgill3) occupied Lahat with 2 troops.",
+    "timestamp": "2016-07-26T20:21:07.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Lahat (johnsgill3) attacked Jambi (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-07-26T20:21:12.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Singapore (johnsgill3) was fortified from Kuantan (johnsgill3) with 2 troops.",
+    "timestamp": "2016-07-26T20:21:17.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-26T20:21:17.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-26T20:21:17.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "gcochard started the turn.",
+    "timestamp": "2016-07-26T21:14:29.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received 3 troops for 4 territories.",
+    "timestamp": "2016-07-26T21:14:29.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Luzon (gcochard) was reinforced by gcochard with 3 troops.",
+    "timestamp": "2016-07-26T21:14:37.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Luzon (gcochard) attacked Palawan (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-26T21:14:42.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "Luzon (gcochard) occupied Palawan with 2 troops.",
+    "timestamp": "2016-07-26T21:14:43.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard received a card.",
+    "timestamp": "2016-07-26T21:14:48.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "gcochard ended the turn.",
+    "timestamp": "2016-07-26T21:14:48.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-07-26T21:17:39.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received 3 troops for 7 territories.",
+    "timestamp": "2016-07-26T21:17:39.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Samarinda (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-07-26T21:17:48.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Samarinda (mmacfreier) attacked Pontianak (ryanbmilbourne) killing 0, losing 4.",
+    "timestamp": "2016-07-26T21:17:54.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Medan (mmacfreier) attacked Riau (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T21:18:03.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "Medan (mmacfreier) occupied Riau with 2 troops.",
+    "timestamp": "2016-07-26T21:18:07.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-07-26T21:18:17.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-07-26T21:18:17.000Z",
+    "player": "mmacfreier",
+    "round": 3
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-26T22:21:02.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T22:21:02.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 2 troops for holding Indochina.",
+    "timestamp": "2016-07-26T22:21:02.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Vietnam (kwren) was reinforced by kwren with 5 troops.",
+    "timestamp": "2016-07-26T22:21:04.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Vietnam (kwren) attacked Palawan (gcochard) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-07-26T22:21:11.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Vietnam (kwren) occupied Palawan with 9 troops.",
+    "timestamp": "2016-07-26T22:21:12.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Palawan (kwren) attacked Luzon (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:21:16.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Palawan (kwren) occupied Luzon with 8 troops.",
+    "timestamp": "2016-07-26T22:21:17.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Luzon (kwren) attacked E. Visayas (gcochard) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-26T22:21:23.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Luzon (kwren) occupied E. Visayas with 5 troops.",
+    "timestamp": "2016-07-26T22:21:25.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "E. Visayas (kwren) attacked W. Visayas (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:21:28.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "E. Visayas (kwren) occupied W. Visayas with 4 troops.",
+    "timestamp": "2016-07-26T22:21:30.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "W. Visayas (kwren) attacked Mindanao (gcochard) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:21:33.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "gcochard was defeated by kwren.",
+    "timestamp": "2016-07-26T22:21:33.000Z",
+    "player": "gcochard",
+    "round": 3
+  },
+  {
+    "message": "W. Visayas (kwren) occupied Mindanao with 3 troops.",
+    "timestamp": "2016-07-26T22:21:41.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 2 troops on W. Visayas",
+    "timestamp": "2016-07-26T22:21:48.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Banjarmasin, Lampung, and W. Visayas.",
+    "timestamp": "2016-07-26T22:21:48.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Palawan (kwren) was reinforced by kwren with 8 troops.",
+    "timestamp": "2016-07-26T22:22:14.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Palawan (kwren) attacked Sabah (tanleach1001) conquering it, killing 4, losing 4.",
+    "timestamp": "2016-07-26T22:22:26.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Palawan (kwren) occupied Sabah with 1 troop.",
+    "timestamp": "2016-07-26T22:22:30.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Merauke (kwren) attacked Arnhem (tanleach1001) killing 1, losing 2.",
+    "timestamp": "2016-07-26T22:22:45.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Yogyakarta (kwren) attacked Jakarta (ryanbmilbourne) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-07-26T22:22:55.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Yogyakarta (kwren) occupied Jakarta with 2 troops.",
+    "timestamp": "2016-07-26T22:22:57.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Mindanao (kwren) was fortified from W. Visayas (kwren) with 2 troops.",
+    "timestamp": "2016-07-26T22:23:12.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-07-26T22:23:13.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-26T22:23:13.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-07-26T22:23:13.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-26T22:27:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T22:27:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Fakfak (ryanbmilbourne) was reinforced by ryanbmilbourne with 1 troop.",
+    "timestamp": "2016-07-26T22:28:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Sorong (ryanbmilbourne) was reinforced by ryanbmilbourne with 2 troops.",
+    "timestamp": "2016-07-26T22:28:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Fakfak (ryanbmilbourne) attacked Merauke (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-26T22:28:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Fakfak (ryanbmilbourne) occupied Merauke with 1 troop.",
+    "timestamp": "2016-07-26T22:28:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-26T22:31:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-26T22:31:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-26T22:31:32.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 10 territories.",
+    "timestamp": "2016-07-26T22:31:32.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding N. Australia.",
+    "timestamp": "2016-07-26T22:31:32.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Bengkulu (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-07-26T22:31:41.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Bengkulu (tanleach1001) attacked Lampung (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:31:44.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Bengkulu (tanleach1001) occupied Lampung with 7 troops.",
+    "timestamp": "2016-07-26T22:31:46.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Lampung (tanleach1001) attacked Banten (kwren) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-07-26T22:31:55.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Lampung (tanleach1001) occupied Banten with 3 troops.",
+    "timestamp": "2016-07-26T22:31:56.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "Timor (tanleach1001) was fortified from Kimberley (tanleach1001) with 4 troops.",
+    "timestamp": "2016-07-26T22:32:05.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-26T22:32:06.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-26T22:32:06.000Z",
+    "player": "tanleach1001",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-26T22:47:24.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 10 territories.",
+    "timestamp": "2016-07-26T22:47:24.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Brunei (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-07-26T22:47:33.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Brunei (johnsgill3) attacked Sabah (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:47:36.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Brunei (johnsgill3) occupied Sabah with 3 troops.",
+    "timestamp": "2016-07-26T22:47:37.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Aceh (johnsgill3) attacked Medan (mmacfreier) killing 0, losing 2.",
+    "timestamp": "2016-07-26T22:47:43.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-26T22:47:58.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-26T22:47:58.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-07-26T22:48:46.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received 3 troops for 8 territories.",
+    "timestamp": "2016-07-26T22:48:46.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Samarinda (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-07-26T22:48:49.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Samarinda (mmacfreier) attacked Pontianak (ryanbmilbourne) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-07-26T22:48:55.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "Samarinda (mmacfreier) occupied Pontianak with 3 troops.",
+    "timestamp": "2016-07-26T22:49:14.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-07-26T22:49:21.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-07-26T22:49:21.000Z",
+    "player": "mmacfreier",
+    "round": 4
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-26T22:49:38.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 4 troops for 13 territories.",
+    "timestamp": "2016-07-26T22:49:38.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 2 troops for holding Pilipinas.",
+    "timestamp": "2016-07-26T22:49:38.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 2 troops for holding Indochina.",
+    "timestamp": "2016-07-26T22:49:38.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 2 troops on Palawan",
+    "timestamp": "2016-07-26T22:49:44.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Jambi, Manado, and Palawan.",
+    "timestamp": "2016-07-26T22:49:44.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Mindanao (kwren) was reinforced by kwren with 10 troops.",
+    "timestamp": "2016-07-26T22:51:25.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Jakarta (kwren) was reinforced by kwren with 6 troops.",
+    "timestamp": "2016-07-26T22:51:29.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Mindanao (kwren) attacked N. Maluku (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T22:51:34.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Mindanao (kwren) occupied N. Maluku with 1 troop.",
+    "timestamp": "2016-07-26T22:51:38.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Jakarta (kwren) attacked Banten (tanleach1001) conquering it, killing 3, losing 5.",
+    "timestamp": "2016-07-26T22:51:48.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Jakarta (kwren) occupied Banten with 2 troops.",
+    "timestamp": "2016-07-26T22:51:50.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Banten (kwren) attacked Lampung (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-07-26T22:51:53.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Vietnam (kwren) was fortified from Laos (kwren) with 4 troops.",
+    "timestamp": "2016-07-26T22:52:19.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-07-26T22:52:20.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-26T22:52:20.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-07-26T22:52:20.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-26T22:54:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T22:54:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Papua.",
+    "timestamp": "2016-07-26T22:54:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Kuantan, Bengkulu, and Bali.",
+    "timestamp": "2016-07-26T22:54:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Aru (ryanbmilbourne) was reinforced by ryanbmilbourne with 7 troops.",
+    "timestamp": "2016-07-26T22:55:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Sorong (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-07-26T22:56:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Fakfak (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-07-26T22:56:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Aru (ryanbmilbourne) attacked Tanimbar (kwren) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-07-26T22:56:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Aru (ryanbmilbourne) occupied Tanimbar with 4 troops.",
+    "timestamp": "2016-07-26T22:56:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Fakfak (ryanbmilbourne) attacked Ceram (johnsgill3) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-07-26T22:56:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Fakfak (ryanbmilbourne) occupied Ceram with 5 troops.",
+    "timestamp": "2016-07-26T22:56:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Buru (ryanbmilbourne) was fortified from Ceram (ryanbmilbourne) with 4 troops.",
+    "timestamp": "2016-07-26T22:56:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-26T22:56:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-26T22:56:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-26T22:57:00.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 11 territories.",
+    "timestamp": "2016-07-26T22:57:00.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding N. Australia.",
+    "timestamp": "2016-07-26T22:57:00.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Surabaya (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-07-26T22:57:23.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Surabaya (tanleach1001) attacked Bali (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-26T22:57:28.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Surabaya (tanleach1001) occupied Bali with 4 troops.",
+    "timestamp": "2016-07-26T22:57:29.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Timor (tanleach1001) attacked Flores (mmacfreier) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-26T22:57:37.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Timor (tanleach1001) occupied Flores with 1 troop.",
+    "timestamp": "2016-07-26T22:57:40.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "Darwin (tanleach1001) was fortified from Arnhem (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-26T22:57:53.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-26T22:57:53.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-26T22:57:53.000Z",
+    "player": "tanleach1001",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-26T23:00:22.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 9 territories.",
+    "timestamp": "2016-07-26T23:00:22.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding Malaysia.",
+    "timestamp": "2016-07-26T23:00:22.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Sarawak",
+    "timestamp": "2016-07-26T23:00:27.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Kuala Lumpur (KL)",
+    "timestamp": "2016-07-26T23:00:27.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 8 troops for turning in cards Sarawak, Medan, and Kuala Lumpur (KL).",
+    "timestamp": "2016-07-26T23:00:27.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Sabah (johnsgill3) was reinforced by johnsgill3 with 4 troops.",
+    "timestamp": "2016-07-26T23:01:28.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Penang (johnsgill3) was reinforced by johnsgill3 with 11 troops.",
+    "timestamp": "2016-07-26T23:01:47.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Penang (johnsgill3) attacked Medan (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-26T23:01:50.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Penang (johnsgill3) occupied Medan with 12 troops.",
+    "timestamp": "2016-07-26T23:01:51.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Singapore (johnsgill3) was fortified from Kuala Lumpur (KL) (johnsgill3) with 2 troops.",
+    "timestamp": "2016-07-26T23:02:14.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-26T23:02:14.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-26T23:02:14.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-07-27T00:11:55.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 3 troops for 6 territories.",
+    "timestamp": "2016-07-27T00:11:55.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Kalimantan.",
+    "timestamp": "2016-07-27T00:11:55.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 2 troops on Samarinda",
+    "timestamp": "2016-07-27T00:12:00.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received 8 troops for turning in cards Laos, Samarinda, and Buru.",
+    "timestamp": "2016-07-27T00:12:00.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Sula (mmacfreier) was reinforced by mmacfreier with 13 troops.",
+    "timestamp": "2016-07-27T00:12:25.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Sula (mmacfreier) attacked Palu (Neutral) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-07-27T00:12:30.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Sula (mmacfreier) occupied Palu with 14 troops.",
+    "timestamp": "2016-07-27T00:12:33.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Palu (mmacfreier) attacked Manado (tanleach1001) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-07-27T00:12:38.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Palu (mmacfreier) occupied Manado with 1 troop.",
+    "timestamp": "2016-07-27T00:12:40.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Palu (mmacfreier) attacked Makassar (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-07-27T00:12:47.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Palu (mmacfreier) occupied Makassar with 5 troops.",
+    "timestamp": "2016-07-27T00:12:56.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "Kendari (mmacfreier) was fortified from Palu (mmacfreier) with 2 troops.",
+    "timestamp": "2016-07-27T00:13:06.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-07-27T00:13:06.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-07-27T00:13:06.000Z",
+    "player": "mmacfreier",
+    "round": 5
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-27T16:12:30.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 4 troops for 14 territories.",
+    "timestamp": "2016-07-27T16:12:30.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 2 troops for holding Pilipinas.",
+    "timestamp": "2016-07-27T16:12:30.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 2 troops for holding Indochina.",
+    "timestamp": "2016-07-27T16:12:30.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Mindanao (kwren) was reinforced by kwren with 6 troops.",
+    "timestamp": "2016-07-27T16:12:36.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Yogyakarta (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-07-27T16:12:45.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Yogyakarta (kwren) attacked Surabaya (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T16:12:50.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Palawan (kwren) was fortified from Vietnam (kwren) with 4 troops.",
+    "timestamp": "2016-07-27T16:13:11.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-07-27T16:13:11.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-27T16:13:11.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-07-27T16:13:11.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-27T16:15:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 10 territories.",
+    "timestamp": "2016-07-27T16:15:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Papua.",
+    "timestamp": "2016-07-27T16:15:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Sorong (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-07-27T16:32:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Sorong (ryanbmilbourne) attacked N. Maluku (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T16:32:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Sorong (ryanbmilbourne) occupied N. Maluku with 1 troop.",
+    "timestamp": "2016-07-27T16:32:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-27T16:33:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-27T16:33:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-27T16:33:28.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 11 territories.",
+    "timestamp": "2016-07-27T16:33:28.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding N. Australia.",
+    "timestamp": "2016-07-27T16:33:28.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Penang, Pontianak, and E. Visayas.",
+    "timestamp": "2016-07-27T16:33:33.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Bali (tanleach1001) was reinforced by tanleach1001 with 13 troops.",
+    "timestamp": "2016-07-27T16:33:42.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Bali (tanleach1001) attacked Surabaya (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T16:33:46.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Bali (tanleach1001) occupied Surabaya with 11 troops.",
+    "timestamp": "2016-07-27T16:33:52.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Surabaya (tanleach1001) attacked Yogyakarta (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T16:33:56.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Surabaya (tanleach1001) occupied Yogyakarta with 10 troops.",
+    "timestamp": "2016-07-27T16:33:57.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Yogyakarta (tanleach1001) attacked Jakarta (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T16:34:08.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Yogyakarta (tanleach1001) occupied Jakarta with 8 troops.",
+    "timestamp": "2016-07-27T16:34:09.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Jakarta (tanleach1001) attacked Banten (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T16:34:14.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Jakarta (tanleach1001) occupied Banten with 7 troops.",
+    "timestamp": "2016-07-27T16:34:15.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "Lampung (tanleach1001) was fortified from Banten (tanleach1001) with 6 troops.",
+    "timestamp": "2016-07-27T16:34:24.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-27T16:34:25.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-27T16:34:25.000Z",
+    "player": "tanleach1001",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-27T17:40:46.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 10 territories.",
+    "timestamp": "2016-07-27T17:40:46.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding Malaysia.",
+    "timestamp": "2016-07-27T17:40:46.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Medan (johnsgill3) was reinforced by johnsgill3 with 7 troops.",
+    "timestamp": "2016-07-27T17:41:17.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Medan (johnsgill3) attacked Padang (ryanbmilbourne) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-07-27T17:41:56.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Medan (johnsgill3) occupied Padang with 18 troops.",
+    "timestamp": "2016-07-27T17:42:17.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Padang (johnsgill3) attacked Riau (mmacfreier) killing 1, losing 1.",
+    "timestamp": "2016-07-27T17:42:46.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Singapore (johnsgill3) attacked Riau (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T17:42:56.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Singapore (johnsgill3) occupied Riau with 1 troop.",
+    "timestamp": "2016-07-27T17:43:07.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Padang (johnsgill3) attacked Bengkulu (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T17:43:28.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Padang (johnsgill3) occupied Bengkulu with 16 troops.",
+    "timestamp": "2016-07-27T17:43:37.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Bengkulu (johnsgill3) attacked Lampung (tanleach1001) conquering it, killing 7, losing 6.",
+    "timestamp": "2016-07-27T17:45:14.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Bengkulu (johnsgill3) occupied Lampung with 1 troop.",
+    "timestamp": "2016-07-27T17:46:30.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Bengkulu (johnsgill3) attacked Jambi (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T17:46:42.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Bengkulu (johnsgill3) occupied Jambi with 1 troop.",
+    "timestamp": "2016-07-27T17:46:53.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Lampung (johnsgill3) was fortified from Bengkulu (johnsgill3) with 7 troops.",
+    "timestamp": "2016-07-27T17:47:15.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-27T17:47:18.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-27T17:47:18.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-07-27T17:48:35.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 3 troops for 8 territories.",
+    "timestamp": "2016-07-27T17:48:36.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 3 troops for holding Sulawesi.",
+    "timestamp": "2016-07-27T17:48:36.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Kalimantan.",
+    "timestamp": "2016-07-27T17:48:36.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Pontianak (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-07-27T17:49:37.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Samarinda (mmacfreier) was reinforced by mmacfreier with 2 troops.",
+    "timestamp": "2016-07-27T17:50:25.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Sula (mmacfreier) was reinforced by mmacfreier with 3 troops.",
+    "timestamp": "2016-07-27T17:50:57.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Sula (mmacfreier) attacked N. Maluku (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T17:51:21.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Sula (mmacfreier) occupied N. Maluku with 1 troop.",
+    "timestamp": "2016-07-27T17:51:28.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "Palu (mmacfreier) was fortified from Sula (mmacfreier) with 1 troop.",
+    "timestamp": "2016-07-27T17:51:42.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-07-27T17:51:43.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-07-27T17:51:43.000Z",
+    "player": "mmacfreier",
+    "round": 6
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-27T20:23:30.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-07-27T20:23:30.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 2 troops for holding Pilipinas.",
+    "timestamp": "2016-07-27T20:23:30.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 2 troops for holding Indochina.",
+    "timestamp": "2016-07-27T20:23:31.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Palawan (kwren) was reinforced by kwren with 5 troops.",
+    "timestamp": "2016-07-27T20:26:26.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Mindanao (kwren) was reinforced by kwren with 2 troops.",
+    "timestamp": "2016-07-27T20:27:11.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Mindanao (kwren) attacked N. Maluku (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T20:28:20.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Mindanao (kwren) occupied N. Maluku with 1 troop.",
+    "timestamp": "2016-07-27T20:28:30.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-07-27T20:49:20.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-27T20:49:20.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Round 7 started.",
+    "timestamp": "2016-07-27T20:49:20.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-27T21:02:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 9 territories.",
+    "timestamp": "2016-07-27T21:02:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Papua.",
+    "timestamp": "2016-07-27T21:02:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-27T21:02:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 9 territories.",
+    "timestamp": "2016-07-27T21:02:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Papua.",
+    "timestamp": "2016-07-27T21:02:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Sorong (ryanbmilbourne) was reinforced by ryanbmilbourne with 12 troops.",
+    "timestamp": "2016-07-27T21:03:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Sorong (ryanbmilbourne) attacked N. Maluku (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T21:03:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Sorong (ryanbmilbourne) occupied N. Maluku with 26 troops.",
+    "timestamp": "2016-07-27T21:03:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "N. Maluku (ryanbmilbourne) attacked Sula (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T21:03:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "N. Maluku (ryanbmilbourne) occupied Sula with 25 troops.",
+    "timestamp": "2016-07-27T21:03:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Buru (ryanbmilbourne) attacked Timor-Leste (Neutral) killing 0, losing 4.",
+    "timestamp": "2016-07-27T21:04:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Sula (ryanbmilbourne) attacked Palu (mmacfreier) conquering it, killing 6, losing 3.",
+    "timestamp": "2016-07-27T21:05:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Sula (ryanbmilbourne) occupied Palu with 1 troop.",
+    "timestamp": "2016-07-27T21:05:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Buru (ryanbmilbourne) was fortified from Sula (ryanbmilbourne) with 4 troops.",
+    "timestamp": "2016-07-27T21:05:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-27T21:06:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-27T21:06:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-27T21:06:22.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 4 troops for 12 territories.",
+    "timestamp": "2016-07-27T21:06:23.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Java.",
+    "timestamp": "2016-07-27T21:06:23.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding N. Australia.",
+    "timestamp": "2016-07-27T21:06:23.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Banten (tanleach1001) was reinforced by tanleach1001 with 10 troops.",
+    "timestamp": "2016-07-27T21:06:46.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Banten (tanleach1001) attacked Lampung (johnsgill3) killing 6, losing 10.",
+    "timestamp": "2016-07-27T21:09:05.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "Kimberley (tanleach1001) was fortified from Darwin (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-27T21:10:01.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-27T21:10:04.000Z",
+    "player": "tanleach1001",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-27T21:51:20.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 15 territories.",
+    "timestamp": "2016-07-27T21:51:20.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding Sumatra.",
+    "timestamp": "2016-07-27T21:51:20.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding Malaysia.",
+    "timestamp": "2016-07-27T21:51:20.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Sarawak (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-07-27T21:51:34.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Sabah (johnsgill3) was reinforced by johnsgill3 with 1 troop.",
+    "timestamp": "2016-07-27T21:51:45.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Lampung (johnsgill3) was reinforced by johnsgill3 with 9 troops.",
+    "timestamp": "2016-07-27T21:51:53.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Lampung (johnsgill3) attacked Banten (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-27T21:52:03.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Lampung (johnsgill3) occupied Banten with 1 troop.",
+    "timestamp": "2016-07-27T21:52:09.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Kuantan (johnsgill3) was fortified from Singapore (johnsgill3) with 3 troops.",
+    "timestamp": "2016-07-27T21:52:20.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-27T21:52:20.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-27T21:52:20.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier started the turn.",
+    "timestamp": "2016-07-27T22:04:26.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 3 troops for 6 territories.",
+    "timestamp": "2016-07-27T22:04:26.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received 2 troops for holding Kalimantan.",
+    "timestamp": "2016-07-27T22:04:26.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Kendari (mmacfreier) was reinforced by mmacfreier with 5 troops.",
+    "timestamp": "2016-07-27T22:04:53.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Kendari (mmacfreier) attacked Timor-Leste (Neutral) conquering it, killing 3, losing 2.",
+    "timestamp": "2016-07-27T22:05:01.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Kendari (mmacfreier) occupied Timor-Leste with 7 troops.",
+    "timestamp": "2016-07-27T22:05:03.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Timor-Leste (mmacfreier) attacked Tanimbar (ryanbmilbourne) conquering it, killing 4, losing 1.",
+    "timestamp": "2016-07-27T22:05:10.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Timor-Leste (mmacfreier) occupied Tanimbar with 5 troops.",
+    "timestamp": "2016-07-27T22:05:13.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Tanimbar (mmacfreier) attacked Aru (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:05:17.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Tanimbar (mmacfreier) occupied Aru with 4 troops.",
+    "timestamp": "2016-07-27T22:05:18.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Aru (mmacfreier) attacked Fakfak (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T22:05:30.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "Aru (mmacfreier) occupied Fakfak with 2 troops.",
+    "timestamp": "2016-07-27T22:05:31.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier received a card.",
+    "timestamp": "2016-07-27T22:05:45.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "mmacfreier ended the turn.",
+    "timestamp": "2016-07-27T22:05:45.000Z",
+    "player": "mmacfreier",
+    "round": 7
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-27T22:07:09.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-07-27T22:07:09.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 2 troops for holding Pilipinas.",
+    "timestamp": "2016-07-27T22:07:09.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 2 troops for holding Indochina.",
+    "timestamp": "2016-07-27T22:07:09.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Makassar, Banten, and Merauke.",
+    "timestamp": "2016-07-27T22:07:20.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Mindanao (kwren) was reinforced by kwren with 15 troops.",
+    "timestamp": "2016-07-27T22:08:09.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Mindanao (kwren) attacked Sabah (johnsgill3) conquering it, killing 8, losing 3.",
+    "timestamp": "2016-07-27T22:08:46.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Mindanao (kwren) occupied Sabah with 31 troops.",
+    "timestamp": "2016-07-27T22:08:58.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Sabah (kwren) attacked Brunei (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T22:09:27.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Sabah (kwren) occupied Brunei with 1 troop.",
+    "timestamp": "2016-07-27T22:09:40.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Sabah (kwren) attacked Samarinda (mmacfreier) conquering it, killing 6, losing 4.",
+    "timestamp": "2016-07-27T22:10:52.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Sabah (kwren) occupied Samarinda with 5 troops.",
+    "timestamp": "2016-07-27T22:11:05.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Samarinda (kwren) attacked Palu (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T22:11:24.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Samarinda (kwren) occupied Palu with 3 troops.",
+    "timestamp": "2016-07-27T22:11:33.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Palu (kwren) attacked Sula (ryanbmilbourne) killing 1, losing 2.",
+    "timestamp": "2016-07-27T22:11:48.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Mindanao (kwren) was fortified from Palawan (kwren) with 14 troops.",
+    "timestamp": "2016-07-27T22:12:06.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-07-27T22:12:07.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-27T22:12:07.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Round 8 started.",
+    "timestamp": "2016-07-27T22:12:07.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-27T22:12:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 8 territories.",
+    "timestamp": "2016-07-27T22:12:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Brunei, Jakarta, and Timor.",
+    "timestamp": "2016-07-27T22:13:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Buru (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-07-27T22:13:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Sula (ryanbmilbourne) was reinforced by ryanbmilbourne with 7 troops.",
+    "timestamp": "2016-07-27T22:13:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Buru (ryanbmilbourne) attacked Timor-Leste (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T22:14:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Buru (ryanbmilbourne) occupied Timor-Leste with 7 troops.",
+    "timestamp": "2016-07-27T22:14:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Timor-Leste (ryanbmilbourne) attacked Tanimbar (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T22:14:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Timor-Leste (ryanbmilbourne) occupied Tanimbar with 5 troops.",
+    "timestamp": "2016-07-27T22:14:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Tanimbar (ryanbmilbourne) attacked Aru (mmacfreier) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T22:14:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Tanimbar (ryanbmilbourne) occupied Aru with 3 troops.",
+    "timestamp": "2016-07-27T22:14:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Aru (ryanbmilbourne) attacked Fakfak (mmacfreier) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-07-27T22:14:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Sula (ryanbmilbourne) attacked Palu (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T22:14:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Sula (ryanbmilbourne) occupied Palu with 21 troops.",
+    "timestamp": "2016-07-27T22:14:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Palu (ryanbmilbourne) attacked Manado (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:14:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Palu (ryanbmilbourne) occupied Manado with 1 troop.",
+    "timestamp": "2016-07-27T22:14:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Palu (ryanbmilbourne) attacked Kendari (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:14:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Palu (ryanbmilbourne) occupied Kendari with 1 troop.",
+    "timestamp": "2016-07-27T22:14:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Palu (ryanbmilbourne) attacked Makassar (mmacfreier) conquering it, killing 5, losing 2.",
+    "timestamp": "2016-07-27T22:15:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Palu (ryanbmilbourne) occupied Makassar with 1 troop.",
+    "timestamp": "2016-07-27T22:15:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Palu (ryanbmilbourne) attacked Samarinda (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:15:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Palu (ryanbmilbourne) occupied Samarinda with 15 troops.",
+    "timestamp": "2016-07-27T22:15:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Samarinda (ryanbmilbourne) attacked Pontianak (mmacfreier) conquering it, killing 6, losing 2.",
+    "timestamp": "2016-07-27T22:15:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Samarinda (ryanbmilbourne) occupied Pontianak with 1 troop.",
+    "timestamp": "2016-07-27T22:15:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Samarinda (ryanbmilbourne) attacked Banjarmasin (mmacfreier) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:15:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "mmacfreier was defeated by ryanbmilbourne.",
+    "timestamp": "2016-07-27T22:15:48.000Z",
+    "player": "mmacfreier",
+    "round": 8
+  },
+  {
+    "message": "Samarinda (ryanbmilbourne) occupied Banjarmasin with 1 troop.",
+    "timestamp": "2016-07-27T22:15:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Darwin, Luzon, and Thailand.",
+    "timestamp": "2016-07-27T22:15:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Makassar (ryanbmilbourne) was reinforced by ryanbmilbourne with 8 troops.",
+    "timestamp": "2016-07-27T22:18:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-27T22:18:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-27T22:18:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-27T22:18:51.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 11 territories.",
+    "timestamp": "2016-07-27T22:18:51.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding N. Australia.",
+    "timestamp": "2016-07-27T22:18:51.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Jakarta (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-07-27T22:18:54.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Jakarta (tanleach1001) attacked Banten (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T22:19:00.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Jakarta (tanleach1001) occupied Banten with 4 troops.",
+    "timestamp": "2016-07-27T22:19:02.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "Timor (tanleach1001) was fortified from Kimberley (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-27T22:19:09.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-27T22:19:09.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-27T22:19:09.000Z",
+    "player": "tanleach1001",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-27T22:19:36.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 13 territories.",
+    "timestamp": "2016-07-27T22:19:36.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding Sumatra.",
+    "timestamp": "2016-07-27T22:19:36.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 8 troops for turning in cards Fakfak, Mindanao, and Vietnam.",
+    "timestamp": "2016-07-27T22:19:39.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Sarawak (johnsgill3) was reinforced by johnsgill3 with 16 troops.",
+    "timestamp": "2016-07-27T22:19:41.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Sarawak (johnsgill3) attacked Sabah (kwren) conquering it, killing 20, losing 11.",
+    "timestamp": "2016-07-27T22:20:12.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Sarawak (johnsgill3) occupied Sabah with 12 troops.",
+    "timestamp": "2016-07-27T22:20:13.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Sabah (johnsgill3) attacked Brunei (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:20:16.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Sabah (johnsgill3) occupied Brunei with 1 troop.",
+    "timestamp": "2016-07-27T22:20:19.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Sabah (johnsgill3) attacked Palawan (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T22:20:23.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Sabah (johnsgill3) occupied Palawan with 9 troops.",
+    "timestamp": "2016-07-27T22:20:24.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Palawan (johnsgill3) attacked Luzon (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:20:27.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Palawan (johnsgill3) occupied Luzon with 1 troop.",
+    "timestamp": "2016-07-27T22:20:30.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Palawan (johnsgill3) attacked Vietnam (kwren) conquering it, killing 1, losing 6.",
+    "timestamp": "2016-07-27T22:20:40.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-27T22:21:47.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-27T22:21:47.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-27T22:21:52.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-07-27T22:21:52.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Mindanao (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-07-27T22:21:54.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Mindanao (kwren) attacked Palawan (johnsgill3) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-07-27T22:22:03.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Mindanao (kwren) occupied Palawan with 14 troops.",
+    "timestamp": "2016-07-27T22:22:04.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Palawan (kwren) attacked Vietnam (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:22:08.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Palawan (kwren) occupied Vietnam with 1 troop.",
+    "timestamp": "2016-07-27T22:22:12.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Palawan (kwren) attacked Luzon (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:22:14.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Palawan (kwren) occupied Luzon with 1 troop.",
+    "timestamp": "2016-07-27T22:22:17.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Palawan (kwren) attacked Sabah (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:22:19.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Palawan (kwren) occupied Sabah with 11 troops.",
+    "timestamp": "2016-07-27T22:22:22.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Sabah (kwren) attacked Samarinda (ryanbmilbourne) killing 0, losing 4.",
+    "timestamp": "2016-07-27T22:22:26.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Sabah (kwren) attacked Brunei (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:22:29.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Sabah (kwren) occupied Brunei with 1 troop.",
+    "timestamp": "2016-07-27T22:22:34.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Sabah (kwren) attacked Sarawak (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:22:38.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Sabah (kwren) occupied Sarawak with 5 troops.",
+    "timestamp": "2016-07-27T22:22:39.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Sarawak (kwren) attacked Kuantan (johnsgill3) killing 2, losing 4.",
+    "timestamp": "2016-07-27T22:22:47.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-07-27T22:22:55.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-27T22:22:55.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Round 9 started.",
+    "timestamp": "2016-07-27T22:22:55.000Z",
+    "player": "unknown",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-27T22:24:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 6 troops for 19 territories.",
+    "timestamp": "2016-07-27T22:24:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for holding Maluku.",
+    "timestamp": "2016-07-27T22:24:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Papua.",
+    "timestamp": "2016-07-27T22:24:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Sulawesi.",
+    "timestamp": "2016-07-27T22:24:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Kalimantan.",
+    "timestamp": "2016-07-27T22:24:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Pontianak (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-07-27T22:24:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Banjarmasin (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-07-27T22:24:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Samarinda (ryanbmilbourne) was reinforced by ryanbmilbourne with 7 troops.",
+    "timestamp": "2016-07-27T22:24:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Samarinda (ryanbmilbourne) attacked Sabah (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:25:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Samarinda (ryanbmilbourne) occupied Sabah with 17 troops.",
+    "timestamp": "2016-07-27T22:25:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Sabah (ryanbmilbourne) attacked Brunei (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:25:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Sabah (ryanbmilbourne) occupied Brunei with 16 troops.",
+    "timestamp": "2016-07-27T22:25:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Brunei (ryanbmilbourne) attacked Sarawak (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-27T22:25:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Brunei (ryanbmilbourne) occupied Sarawak with 14 troops.",
+    "timestamp": "2016-07-27T22:25:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "Sabah (ryanbmilbourne) was fortified from Sarawak (ryanbmilbourne) with 4 troops.",
+    "timestamp": "2016-07-27T22:26:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-27T22:26:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-27T22:26:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-27T22:27:15.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 4 troops for 12 territories.",
+    "timestamp": "2016-07-27T22:27:15.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding N. Australia.",
+    "timestamp": "2016-07-27T22:27:15.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Java.",
+    "timestamp": "2016-07-27T22:27:15.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Pulau Sumba",
+    "timestamp": "2016-07-27T22:27:18.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Flores",
+    "timestamp": "2016-07-27T22:27:18.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Pulau Sumba, Flores, and Manokwari.",
+    "timestamp": "2016-07-27T22:27:18.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Banten (tanleach1001) was reinforced by tanleach1001 with 18 troops.",
+    "timestamp": "2016-07-27T22:27:25.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Timor (tanleach1001) attacked Timor-Leste (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:27:28.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Timor (tanleach1001) occupied Timor-Leste with 3 troops.",
+    "timestamp": "2016-07-27T22:27:30.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Timor-Leste (tanleach1001) attacked Kendari (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:27:33.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Timor-Leste (tanleach1001) occupied Kendari with 1 troop.",
+    "timestamp": "2016-07-27T22:27:40.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Banten (tanleach1001) attacked Lampung (johnsgill3) conquering it, killing 8, losing 10.",
+    "timestamp": "2016-07-27T22:28:00.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Banten (tanleach1001) occupied Lampung with 1 troop.",
+    "timestamp": "2016-07-27T22:29:45.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "Timor (tanleach1001) was fortified from Flores (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-27T22:30:46.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-27T22:30:46.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-27T22:30:46.000Z",
+    "player": "tanleach1001",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-27T22:30:57.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 11 territories.",
+    "timestamp": "2016-07-27T22:30:57.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Lahat (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-07-27T22:31:00.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Lahat (johnsgill3) attacked Lampung (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-27T22:31:03.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Lahat (johnsgill3) occupied Lampung with 3 troops.",
+    "timestamp": "2016-07-27T22:31:05.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-27T22:31:09.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-27T22:31:09.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-27T22:31:15.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-07-27T22:31:15.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 2 troops for holding Indochina.",
+    "timestamp": "2016-07-27T22:31:15.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren received 2 troops for holding Pilipinas.",
+    "timestamp": "2016-07-27T22:31:15.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Palawan (kwren) was reinforced by kwren with 7 troops.",
+    "timestamp": "2016-07-27T22:31:22.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-27T22:31:35.000Z",
+    "player": "kwren",
+    "round": 9
+  },
+  {
+    "message": "Round 10 started.",
+    "timestamp": "2016-07-27T22:31:35.000Z",
+    "player": "unknown",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-28T14:29:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 6 troops for 20 territories.",
+    "timestamp": "2016-07-28T14:29:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Kalimantan.",
+    "timestamp": "2016-07-28T14:29:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Papua.",
+    "timestamp": "2016-07-28T14:29:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Sula",
+    "timestamp": "2016-07-28T14:29:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Aceh, Surabaya, and Sula.",
+    "timestamp": "2016-07-28T14:29:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Sabah (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-07-28T14:29:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Buru (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-07-28T14:30:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Banjarmasin (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-07-28T14:30:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Pontianak (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-07-28T14:30:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Buru (ryanbmilbourne) attacked Timor-Leste (tanleach1001) conquering it, killing 2, losing 3.",
+    "timestamp": "2016-07-28T14:30:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Buru (ryanbmilbourne) occupied Timor-Leste with 3 troops.",
+    "timestamp": "2016-07-28T14:31:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Timor-Leste (ryanbmilbourne) attacked Kendari (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T14:31:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Timor-Leste (ryanbmilbourne) occupied Kendari with 1 troop.",
+    "timestamp": "2016-07-28T14:31:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Pontianak (ryanbmilbourne) attacked Lampung (johnsgill3) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-07-28T14:31:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "Pontianak (ryanbmilbourne) occupied Lampung with 1 troop.",
+    "timestamp": "2016-07-28T14:32:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "N. Maluku (ryanbmilbourne) was fortified from Sula (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-07-28T14:32:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-28T14:32:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-28T14:32:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-28T14:59:03.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 4 troops for 12 territories.",
+    "timestamp": "2016-07-28T14:59:03.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Java.",
+    "timestamp": "2016-07-28T14:59:03.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding N. Australia.",
+    "timestamp": "2016-07-28T14:59:03.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Bali (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-07-28T15:00:38.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Arnhem (tanleach1001) was reinforced by tanleach1001 with 2 troops.",
+    "timestamp": "2016-07-28T15:00:42.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Banten (tanleach1001) was reinforced by tanleach1001 with 5 troops.",
+    "timestamp": "2016-07-28T15:00:45.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Banten (tanleach1001) attacked Lampung (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T15:00:48.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Banten (tanleach1001) occupied Lampung with 8 troops.",
+    "timestamp": "2016-07-28T15:01:03.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Lampung (tanleach1001) attacked Bengkulu (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T15:01:10.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Lampung (tanleach1001) occupied Bengkulu with 7 troops.",
+    "timestamp": "2016-07-28T15:01:19.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Bengkulu (tanleach1001) attacked Lahat (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T15:01:27.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Bengkulu (tanleach1001) occupied Lahat with 1 troop.",
+    "timestamp": "2016-07-28T15:01:34.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Bengkulu (tanleach1001) attacked Jambi (johnsgill3) killing 0, losing 1.",
+    "timestamp": "2016-07-28T15:01:37.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "Lampung (tanleach1001) was fortified from Bengkulu (tanleach1001) with 4 troops.",
+    "timestamp": "2016-07-28T15:01:48.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-28T15:01:48.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-28T15:01:48.000Z",
+    "player": "tanleach1001",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-07-28T18:29:03.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 9 territories.",
+    "timestamp": "2016-07-28T18:29:03.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Jambi (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-07-28T18:29:17.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Jambi (johnsgill3) attacked Bengkulu (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T18:29:20.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Jambi (johnsgill3) occupied Bengkulu with 3 troops.",
+    "timestamp": "2016-07-28T18:29:22.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Bengkulu (johnsgill3) attacked Lahat (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-07-28T18:29:26.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-07-28T18:29:31.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-07-28T18:29:31.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-28T18:29:47.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-07-28T18:29:47.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 2 troops for holding Pilipinas.",
+    "timestamp": "2016-07-28T18:29:47.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 2 troops for holding Indochina.",
+    "timestamp": "2016-07-28T18:29:47.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Mindanao (kwren) was reinforced by kwren with 7 troops.",
+    "timestamp": "2016-07-28T18:30:08.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Mindanao (kwren) attacked N. Maluku (ryanbmilbourne) conquering it, killing 3, losing 5.",
+    "timestamp": "2016-07-28T18:30:15.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Mindanao (kwren) occupied N. Maluku with 2 troops.",
+    "timestamp": "2016-07-28T18:30:17.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "N. Maluku (kwren) attacked Sorong (ryanbmilbourne) killing 0, losing 1.",
+    "timestamp": "2016-07-28T18:30:21.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Palawan (kwren) attacked Sabah (ryanbmilbourne) conquering it, killing 8, losing 5.",
+    "timestamp": "2016-07-28T18:30:35.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Palawan (kwren) occupied Sabah with 2 troops.",
+    "timestamp": "2016-07-28T18:30:38.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Sabah (kwren) attacked Samarinda (ryanbmilbourne) killing 0, losing 1.",
+    "timestamp": "2016-07-28T18:30:42.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-07-28T18:30:54.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-28T18:30:54.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "Round 11 started.",
+    "timestamp": "2016-07-28T18:30:54.000Z",
+    "player": "unknown",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-28T19:03:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 6 troops for 20 territories.",
+    "timestamp": "2016-07-28T19:03:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Sulawesi.",
+    "timestamp": "2016-07-28T19:03:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Kalimantan.",
+    "timestamp": "2016-07-28T19:03:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Papua.",
+    "timestamp": "2016-07-28T19:03:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Sorong (ryanbmilbourne) was reinforced by ryanbmilbourne with 14 troops.",
+    "timestamp": "2016-07-28T19:04:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Sorong (ryanbmilbourne) attacked N. Maluku (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-28T19:04:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Sorong (ryanbmilbourne) occupied N. Maluku with 12 troops.",
+    "timestamp": "2016-07-28T19:04:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "N. Maluku (ryanbmilbourne) attacked Mindanao (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:04:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "N. Maluku (ryanbmilbourne) occupied Mindanao with 6 troops.",
+    "timestamp": "2016-07-28T19:04:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Mindanao (ryanbmilbourne) attacked Sabah (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:04:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "Mindanao (ryanbmilbourne) occupied Sabah with 5 troops.",
+    "timestamp": "2016-07-28T19:04:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-28T19:06:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-28T19:06:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-28T19:07:47.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 4 troops for 14 territories.",
+    "timestamp": "2016-07-28T19:07:47.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Java.",
+    "timestamp": "2016-07-28T19:07:47.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding N. Australia.",
+    "timestamp": "2016-07-28T19:07:47.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Kampuchea, Padang, and Riau.",
+    "timestamp": "2016-07-28T19:07:54.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Lampung (tanleach1001) was reinforced by tanleach1001 with 18 troops.",
+    "timestamp": "2016-07-28T19:08:07.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Lampung (tanleach1001) attacked Bengkulu (johnsgill3) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-07-28T19:08:11.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Lampung (tanleach1001) occupied Bengkulu with 22 troops.",
+    "timestamp": "2016-07-28T19:08:12.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Bengkulu (tanleach1001) attacked Jambi (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:08:16.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Bengkulu (tanleach1001) occupied Jambi with 21 troops.",
+    "timestamp": "2016-07-28T19:08:18.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Jambi (tanleach1001) attacked Riau (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:08:23.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Jambi (tanleach1001) occupied Riau with 20 troops.",
+    "timestamp": "2016-07-28T19:08:25.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Riau (tanleach1001) attacked Padang (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:08:28.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Riau (tanleach1001) occupied Padang with 1 troop.",
+    "timestamp": "2016-07-28T19:08:32.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Riau (tanleach1001) attacked Medan (johnsgill3) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-28T19:08:43.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Riau (tanleach1001) occupied Medan with 16 troops.",
+    "timestamp": "2016-07-28T19:08:44.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Medan (tanleach1001) attacked Aceh (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:08:47.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Medan (tanleach1001) occupied Aceh with 1 troop.",
+    "timestamp": "2016-07-28T19:08:51.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Medan (tanleach1001) attacked Penang (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:08:53.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Medan (tanleach1001) occupied Penang with 14 troops.",
+    "timestamp": "2016-07-28T19:08:54.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Penang (tanleach1001) attacked Kuala Lumpur (KL) (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:08:59.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Penang (tanleach1001) occupied Kuala Lumpur (KL) with 13 troops.",
+    "timestamp": "2016-07-28T19:09:00.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Kuala Lumpur (KL) (tanleach1001) attacked Singapore (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:09:03.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Kuala Lumpur (KL) (tanleach1001) occupied Singapore with 12 troops.",
+    "timestamp": "2016-07-28T19:09:04.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Singapore (tanleach1001) attacked Kuantan (johnsgill3) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-07-28T19:09:09.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "johnsgill3 was defeated by tanleach1001.",
+    "timestamp": "2016-07-28T19:09:09.000Z",
+    "player": "johnsgill3",
+    "round": 11
+  },
+  {
+    "message": "Singapore (tanleach1001) occupied Kuantan with 9 troops.",
+    "timestamp": "2016-07-28T19:09:11.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Kuantan (tanleach1001) attacked Sarawak (ryanbmilbourne) killing 4, losing 6.",
+    "timestamp": "2016-07-28T19:09:27.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "Bali (tanleach1001) was fortified from Pulau Sumba (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-28T19:09:38.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-28T19:09:38.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-28T19:09:38.000Z",
+    "player": "tanleach1001",
+    "round": 11
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-28T19:27:16.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 3 troops for 9 territories.",
+    "timestamp": "2016-07-28T19:27:17.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 2 troops for holding Indochina.",
+    "timestamp": "2016-07-28T19:27:17.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Lahat, Katherine, and Jayapura.",
+    "timestamp": "2016-07-28T19:27:30.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "W. Visayas (kwren) was reinforced by kwren with 13 troops.",
+    "timestamp": "2016-07-28T19:27:47.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "W. Visayas (kwren) attacked Mindanao (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:29:44.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "W. Visayas (kwren) occupied Mindanao with 13 troops.",
+    "timestamp": "2016-07-28T19:29:56.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Mindanao (kwren) attacked N. Maluku (ryanbmilbourne) conquering it, killing 6, losing 10.",
+    "timestamp": "2016-07-28T19:31:47.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Mindanao (kwren) occupied N. Maluku with 2 troops.",
+    "timestamp": "2016-07-28T19:31:54.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "N. Maluku (kwren) attacked Sorong (ryanbmilbourne) killing 0, losing 1.",
+    "timestamp": "2016-07-28T19:32:00.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-07-28T19:32:43.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-28T19:32:43.000Z",
+    "player": "kwren",
+    "round": 11
+  },
+  {
+    "message": "Round 12 started.",
+    "timestamp": "2016-07-28T19:32:43.000Z",
+    "player": "unknown",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-28T19:32:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 7 troops for 21 territories.",
+    "timestamp": "2016-07-28T19:32:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Sulawesi.",
+    "timestamp": "2016-07-28T19:32:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Kalimantan.",
+    "timestamp": "2016-07-28T19:32:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Papua.",
+    "timestamp": "2016-07-28T19:32:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Sabah (ryanbmilbourne) was reinforced by ryanbmilbourne with 15 troops.",
+    "timestamp": "2016-07-28T19:33:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Sabah (ryanbmilbourne) attacked Mindanao (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:33:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Sabah (ryanbmilbourne) occupied Mindanao with 19 troops.",
+    "timestamp": "2016-07-28T19:33:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Mindanao (ryanbmilbourne) attacked N. Maluku (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T19:33:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Mindanao (ryanbmilbourne) occupied N. Maluku with 1 troop.",
+    "timestamp": "2016-07-28T19:33:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Mindanao (ryanbmilbourne) attacked E. Visayas (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:33:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Mindanao (ryanbmilbourne) occupied E. Visayas with 16 troops.",
+    "timestamp": "2016-07-28T19:34:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "E. Visayas (ryanbmilbourne) attacked W. Visayas (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-28T19:34:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "E. Visayas (ryanbmilbourne) occupied W. Visayas with 13 troops.",
+    "timestamp": "2016-07-28T19:34:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "W. Visayas (ryanbmilbourne) attacked Luzon (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T19:34:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "W. Visayas (ryanbmilbourne) occupied Luzon with 11 troops.",
+    "timestamp": "2016-07-28T19:34:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Luzon (ryanbmilbourne) attacked Palawan (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:34:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Luzon (ryanbmilbourne) occupied Palawan with 10 troops.",
+    "timestamp": "2016-07-28T19:34:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Palawan (ryanbmilbourne) attacked Vietnam (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T19:35:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Palawan (ryanbmilbourne) occupied Vietnam with 1 troop.",
+    "timestamp": "2016-07-28T19:35:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Pontianak (ryanbmilbourne) attacked Lampung (tanleach1001) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-07-28T19:36:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Pontianak (ryanbmilbourne) occupied Lampung with 8 troops.",
+    "timestamp": "2016-07-28T19:36:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Sarawak (ryanbmilbourne) attacked Kuantan (tanleach1001) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-07-28T19:36:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Sarawak (ryanbmilbourne) occupied Kuantan with 5 troops.",
+    "timestamp": "2016-07-28T19:36:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Kuantan (ryanbmilbourne) attacked Penang (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:37:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Kuantan (ryanbmilbourne) occupied Penang with 4 troops.",
+    "timestamp": "2016-07-28T19:37:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "Samarinda (ryanbmilbourne) was fortified from Banjarmasin (ryanbmilbourne) with 10 troops.",
+    "timestamp": "2016-07-28T19:37:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-28T19:37:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-28T19:37:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-28T19:39:03.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 7 troops for 21 territories.",
+    "timestamp": "2016-07-28T19:39:03.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Java.",
+    "timestamp": "2016-07-28T19:39:03.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding N. Australia.",
+    "timestamp": "2016-07-28T19:39:03.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Singapore",
+    "timestamp": "2016-07-28T19:39:35.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Yogyakarta",
+    "timestamp": "2016-07-28T19:39:35.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 2 troops on Arnhem",
+    "timestamp": "2016-07-28T19:39:35.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Singapore, Yogyakarta, and Arnhem.",
+    "timestamp": "2016-07-28T19:39:35.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Singapore (tanleach1001) was reinforced by tanleach1001 with 21 troops.",
+    "timestamp": "2016-07-28T19:39:47.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Singapore (tanleach1001) attacked Kuantan (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:39:50.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Singapore (tanleach1001) occupied Kuantan with 23 troops.",
+    "timestamp": "2016-07-28T19:39:53.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Kuantan (tanleach1001) attacked Sarawak (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:39:56.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Kuantan (tanleach1001) occupied Sarawak with 22 troops.",
+    "timestamp": "2016-07-28T19:39:57.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Sarawak (tanleach1001) attacked Pontianak (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-28T19:40:16.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Sarawak (tanleach1001) occupied Pontianak with 1 troop.",
+    "timestamp": "2016-07-28T19:40:19.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Sarawak (tanleach1001) attacked Sabah (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:40:22.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Sarawak (tanleach1001) occupied Sabah with 18 troops.",
+    "timestamp": "2016-07-28T19:40:36.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Sabah (tanleach1001) attacked Mindanao (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:40:40.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Sabah (tanleach1001) occupied Mindanao with 17 troops.",
+    "timestamp": "2016-07-28T19:40:42.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Mindanao (tanleach1001) attacked N. Maluku (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:40:45.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Mindanao (tanleach1001) occupied N. Maluku with 16 troops.",
+    "timestamp": "2016-07-28T19:40:47.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "N. Maluku (tanleach1001) attacked Sorong (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:40:54.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "N. Maluku (tanleach1001) occupied Sorong with 1 troop.",
+    "timestamp": "2016-07-28T19:40:57.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "N. Maluku (tanleach1001) attacked Sula (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:40:59.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "N. Maluku (tanleach1001) occupied Sula with 14 troops.",
+    "timestamp": "2016-07-28T19:41:01.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Sula (tanleach1001) attacked Palu (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:41:04.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Sula (tanleach1001) occupied Palu with 13 troops.",
+    "timestamp": "2016-07-28T19:41:09.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Palu (tanleach1001) attacked Samarinda (ryanbmilbourne) killing 9, losing 11.",
+    "timestamp": "2016-07-28T19:41:33.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Palu (tanleach1001) attacked Manado (ryanbmilbourne) killing 0, losing 1.",
+    "timestamp": "2016-07-28T19:41:38.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Bali (tanleach1001) attacked Makassar (ryanbmilbourne) killing 6, losing 8.",
+    "timestamp": "2016-07-28T19:41:56.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Banten (tanleach1001) attacked Lampung (ryanbmilbourne) conquering it, killing 8, losing 4.",
+    "timestamp": "2016-07-28T19:42:35.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Banten (tanleach1001) occupied Lampung with 1 troop.",
+    "timestamp": "2016-07-28T19:43:06.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Bali (tanleach1001) attacked Banjarmasin (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:43:38.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Bali (tanleach1001) occupied Banjarmasin with 1 troop.",
+    "timestamp": "2016-07-28T19:43:46.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "Darwin (tanleach1001) was fortified from Arnhem (tanleach1001) with 4 troops.",
+    "timestamp": "2016-07-28T19:43:58.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-28T19:43:58.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-28T19:43:58.000Z",
+    "player": "tanleach1001",
+    "round": 12
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-07-28T19:44:13.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received 3 troops for 4 territories.",
+    "timestamp": "2016-07-28T19:44:13.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Kampuchea (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-07-28T19:44:33.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Kampuchea (kwren) attacked Vietnam (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T19:44:46.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Kampuchea (kwren) occupied Vietnam with 2 troops.",
+    "timestamp": "2016-07-28T19:44:50.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Vietnam (kwren) attacked Palawan (ryanbmilbourne) killing 1, losing 1.",
+    "timestamp": "2016-07-28T19:45:01.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-07-28T19:45:28.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-07-28T19:45:28.000Z",
+    "player": "kwren",
+    "round": 12
+  },
+  {
+    "message": "Round 13 started.",
+    "timestamp": "2016-07-28T19:45:28.000Z",
+    "player": "unknown",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-28T19:47:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne received 6 troops for 19 territories.",
+    "timestamp": "2016-07-28T19:47:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Timor-Leste",
+    "timestamp": "2016-07-28T19:47:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Tanimbar",
+    "timestamp": "2016-07-28T19:47:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Sabah, Timor-Leste, and Tanimbar.",
+    "timestamp": "2016-07-28T19:47:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Penang (ryanbmilbourne) was reinforced by ryanbmilbourne with 6 troops.",
+    "timestamp": "2016-07-28T19:47:33.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Palawan (ryanbmilbourne) was reinforced by ryanbmilbourne with 8 troops.",
+    "timestamp": "2016-07-28T19:47:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Penang (ryanbmilbourne) attacked Thailand (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:47:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Penang (ryanbmilbourne) occupied Thailand with 9 troops.",
+    "timestamp": "2016-07-28T19:47:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Thailand (ryanbmilbourne) attacked Myanmar (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:47:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Thailand (ryanbmilbourne) occupied Myanmar with 1 troop.",
+    "timestamp": "2016-07-28T19:47:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Thailand (ryanbmilbourne) attacked Kampuchea (kwren) killing 0, losing 2.",
+    "timestamp": "2016-07-28T19:48:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Thailand (ryanbmilbourne) attacked Laos (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T19:48:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Thailand (ryanbmilbourne) occupied Laos with 4 troops.",
+    "timestamp": "2016-07-28T19:48:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Laos (ryanbmilbourne) attacked Kampuchea (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:48:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Laos (ryanbmilbourne) occupied Kampuchea with 3 troops.",
+    "timestamp": "2016-07-28T19:48:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Kampuchea (ryanbmilbourne) attacked Vietnam (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:48:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "kwren was defeated by ryanbmilbourne.",
+    "timestamp": "2016-07-28T19:48:27.000Z",
+    "player": "kwren",
+    "round": 13
+  },
+  {
+    "message": "Kampuchea (ryanbmilbourne) occupied Vietnam with 2 troops.",
+    "timestamp": "2016-07-28T19:48:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Palawan (ryanbmilbourne) attacked Sabah (tanleach1001) killing 0, losing 2.",
+    "timestamp": "2016-07-28T19:48:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Vietnam (ryanbmilbourne) attacked Kuantan (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-07-28T19:49:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Palawan (ryanbmilbourne) attacked Sabah (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-28T19:49:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Palawan (ryanbmilbourne) occupied Sabah with 10 troops.",
+    "timestamp": "2016-07-28T19:49:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Sabah (ryanbmilbourne) attacked Mindanao (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:49:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Sabah (ryanbmilbourne) occupied Mindanao with 1 troop.",
+    "timestamp": "2016-07-28T19:49:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Samarinda (ryanbmilbourne) attacked Palu (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-07-28T19:49:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Makassar (ryanbmilbourne) attacked Palu (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:49:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Makassar (ryanbmilbourne) occupied Palu with 2 troops.",
+    "timestamp": "2016-07-28T19:49:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Sabah (ryanbmilbourne) attacked Sarawak (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T19:49:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Sabah (ryanbmilbourne) occupied Sarawak with 7 troops.",
+    "timestamp": "2016-07-28T19:49:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Sarawak (ryanbmilbourne) attacked Pontianak (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:49:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Sarawak (ryanbmilbourne) occupied Pontianak with 6 troops.",
+    "timestamp": "2016-07-28T19:49:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Pontianak (ryanbmilbourne) attacked Lampung (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:49:58.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Pontianak (ryanbmilbourne) occupied Lampung with 5 troops.",
+    "timestamp": "2016-07-28T19:50:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Lampung (ryanbmilbourne) attacked Banten (tanleach1001) killing 2, losing 4.",
+    "timestamp": "2016-07-28T19:50:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Palu (ryanbmilbourne) attacked Sula (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-07-28T19:50:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "Timor-Leste (ryanbmilbourne) was fortified from Tanimbar (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-07-28T19:50:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-28T19:50:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-28T19:50:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-28T19:51:08.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received 8 troops for 26 territories.",
+    "timestamp": "2016-07-28T19:51:08.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received 4 troops for holding Java.",
+    "timestamp": "2016-07-28T19:51:08.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received 2 troops for holding N. Australia.",
+    "timestamp": "2016-07-28T19:51:08.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Banten (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-07-28T19:51:43.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Timor (tanleach1001) was reinforced by tanleach1001 with 11 troops.",
+    "timestamp": "2016-07-28T19:51:45.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Banten (tanleach1001) attacked Lampung (ryanbmilbourne) killing 0, losing 3.",
+    "timestamp": "2016-07-28T19:51:55.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Timor (tanleach1001) attacked Timor-Leste (ryanbmilbourne) conquering it, killing 6, losing 8.",
+    "timestamp": "2016-07-28T19:52:25.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Timor (tanleach1001) occupied Timor-Leste with 5 troops.",
+    "timestamp": "2016-07-28T19:52:27.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Timor-Leste (tanleach1001) attacked Kendari (ryanbmilbourne) killing 0, losing 4.",
+    "timestamp": "2016-07-28T19:52:41.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Bali (tanleach1001) attacked Makassar (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:53:20.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Arnhem (tanleach1001) was fortified from Darwin (tanleach1001) with 4 troops.",
+    "timestamp": "2016-07-28T19:53:46.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-28T19:53:46.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-28T19:53:46.000Z",
+    "player": "tanleach1001",
+    "round": 13
+  },
+  {
+    "message": "Round 14 started.",
+    "timestamp": "2016-07-28T19:53:46.000Z",
+    "player": "unknown",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-28T19:53:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 9 troops for 28 territories.",
+    "timestamp": "2016-07-28T19:53:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Indochina.",
+    "timestamp": "2016-07-28T19:53:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Pilipinas.",
+    "timestamp": "2016-07-28T19:53:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Buru (ryanbmilbourne) was reinforced by ryanbmilbourne with 13 troops.",
+    "timestamp": "2016-07-28T19:54:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Buru (ryanbmilbourne) attacked Timor-Leste (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:54:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Buru (ryanbmilbourne) occupied Timor-Leste with 13 troops.",
+    "timestamp": "2016-07-28T19:54:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Timor-Leste (ryanbmilbourne) attacked Timor (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:54:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Timor-Leste (ryanbmilbourne) occupied Timor with 12 troops.",
+    "timestamp": "2016-07-28T19:54:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Timor (ryanbmilbourne) attacked Kimberley (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T19:54:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Timor (ryanbmilbourne) occupied Kimberley with 1 troop.",
+    "timestamp": "2016-07-28T19:54:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Timor (ryanbmilbourne) attacked Flores (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:55:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Timor (ryanbmilbourne) occupied Flores with 9 troops.",
+    "timestamp": "2016-07-28T19:55:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Flores (ryanbmilbourne) attacked Pulau Sumba (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T19:55:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Flores (ryanbmilbourne) occupied Pulau Sumba with 7 troops.",
+    "timestamp": "2016-07-28T19:55:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Pulau Sumba (ryanbmilbourne) attacked Bali (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T19:55:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Pulau Sumba (ryanbmilbourne) occupied Bali with 5 troops.",
+    "timestamp": "2016-07-28T19:55:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Bali (ryanbmilbourne) attacked Makassar (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:55:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Bali (ryanbmilbourne) occupied Makassar with 1 troop.",
+    "timestamp": "2016-07-28T19:55:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Bali (ryanbmilbourne) attacked Banjarmasin (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:55:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "Bali (ryanbmilbourne) occupied Banjarmasin with 1 troop.",
+    "timestamp": "2016-07-28T19:55:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-28T19:56:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-28T19:56:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-28T19:56:15.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received 6 troops for 20 territories.",
+    "timestamp": "2016-07-28T19:56:15.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Palu, Kimberley, and Myanmar.",
+    "timestamp": "2016-07-28T19:56:21.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Darwin (tanleach1001) was reinforced by tanleach1001 with 14 troops.",
+    "timestamp": "2016-07-28T19:56:56.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Arnhem (tanleach1001) attacked Merauke (ryanbmilbourne) killing 0, losing 4.",
+    "timestamp": "2016-07-28T19:57:09.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Darwin (tanleach1001) attacked Kimberley (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:57:16.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Darwin (tanleach1001) occupied Kimberley with 14 troops.",
+    "timestamp": "2016-07-28T19:57:18.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Kimberley (tanleach1001) attacked Timor (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:57:24.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Kimberley (tanleach1001) occupied Timor with 13 troops.",
+    "timestamp": "2016-07-28T19:57:32.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Timor (tanleach1001) attacked Timor-Leste (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-28T19:57:46.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Timor (tanleach1001) occupied Timor-Leste with 10 troops.",
+    "timestamp": "2016-07-28T19:57:48.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Timor-Leste (tanleach1001) attacked Kendari (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:57:51.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Timor-Leste (tanleach1001) occupied Kendari with 9 troops.",
+    "timestamp": "2016-07-28T19:57:53.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Kendari (tanleach1001) attacked Palu (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:57:56.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Kendari (tanleach1001) occupied Palu with 8 troops.",
+    "timestamp": "2016-07-28T19:57:59.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Palu (tanleach1001) attacked Samarinda (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:58:03.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Palu (tanleach1001) occupied Samarinda with 7 troops.",
+    "timestamp": "2016-07-28T19:58:06.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Samarinda (tanleach1001) attacked Sabah (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-28T19:58:23.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Samarinda (tanleach1001) occupied Sabah with 4 troops.",
+    "timestamp": "2016-07-28T19:58:25.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Sabah (tanleach1001) attacked Palawan (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:58:27.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Sabah (tanleach1001) occupied Palawan with 3 troops.",
+    "timestamp": "2016-07-28T19:58:29.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Palawan (tanleach1001) attacked Vietnam (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T19:58:34.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Surabaya (tanleach1001) was fortified from Yogyakarta (tanleach1001) with 2 troops.",
+    "timestamp": "2016-07-28T19:58:48.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-28T19:58:48.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-28T19:58:48.000Z",
+    "player": "tanleach1001",
+    "round": 14
+  },
+  {
+    "message": "Round 15 started.",
+    "timestamp": "2016-07-28T19:58:48.000Z",
+    "player": "unknown",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-28T19:59:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received 9 troops for 27 territories.",
+    "timestamp": "2016-07-28T19:59:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Ceram",
+    "timestamp": "2016-07-28T19:59:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Aru",
+    "timestamp": "2016-07-28T19:59:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Ceram, Aru, and Kendari.",
+    "timestamp": "2016-07-28T19:59:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Ceram (ryanbmilbourne) was reinforced by ryanbmilbourne with 17 troops.",
+    "timestamp": "2016-07-28T19:59:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Ceram (ryanbmilbourne) attacked Sorong (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T19:59:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Ceram (ryanbmilbourne) occupied Sorong with 19 troops.",
+    "timestamp": "2016-07-28T19:59:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Sorong (ryanbmilbourne) attacked N. Maluku (tanleach1001) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-07-28T20:00:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Sorong (ryanbmilbourne) occupied N. Maluku with 15 troops.",
+    "timestamp": "2016-07-28T20:00:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "N. Maluku (ryanbmilbourne) attacked Sula (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T20:00:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "N. Maluku (ryanbmilbourne) occupied Sula with 13 troops.",
+    "timestamp": "2016-07-28T20:00:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Sula (ryanbmilbourne) attacked Palu (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:00:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Sula (ryanbmilbourne) occupied Palu with 12 troops.",
+    "timestamp": "2016-07-28T20:00:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Palu (ryanbmilbourne) attacked Kendari (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:00:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Palu (ryanbmilbourne) occupied Kendari with 7 troops.",
+    "timestamp": "2016-07-28T20:00:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Kendari (ryanbmilbourne) attacked Timor-Leste (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-28T20:00:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Kendari (ryanbmilbourne) occupied Timor-Leste with 4 troops.",
+    "timestamp": "2016-07-28T20:00:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Timor-Leste (ryanbmilbourne) attacked Timor (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:01:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Timor-Leste (ryanbmilbourne) occupied Timor with 3 troops.",
+    "timestamp": "2016-07-28T20:01:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Timor (ryanbmilbourne) attacked Kimberley (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:01:18.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Timor (ryanbmilbourne) occupied Kimberley with 1 troop.",
+    "timestamp": "2016-07-28T20:01:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Palu (ryanbmilbourne) attacked Samarinda (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:01:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Palu (ryanbmilbourne) occupied Samarinda with 4 troops.",
+    "timestamp": "2016-07-28T20:01:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Samarinda (ryanbmilbourne) attacked Sabah (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:01:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Samarinda (ryanbmilbourne) occupied Sabah with 3 troops.",
+    "timestamp": "2016-07-28T20:01:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Sabah (ryanbmilbourne) attacked Palawan (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:01:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Sabah (ryanbmilbourne) occupied Palawan with 2 troops.",
+    "timestamp": "2016-07-28T20:01:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "Palawan (ryanbmilbourne) attacked Vietnam (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-07-28T20:01:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-28T20:02:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-28T20:02:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-28T20:02:43.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 received 6 troops for 18 territories.",
+    "timestamp": "2016-07-28T20:02:43.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Darwin (tanleach1001) was reinforced by tanleach1001 with 6 troops.",
+    "timestamp": "2016-07-28T20:03:08.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Darwin (tanleach1001) attacked Kimberley (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T20:03:32.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Darwin (tanleach1001) occupied Kimberley with 5 troops.",
+    "timestamp": "2016-07-28T20:04:23.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Kimberley (tanleach1001) attacked Timor (ryanbmilbourne) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-07-28T20:04:29.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Kimberley (tanleach1001) occupied Timor with 4 troops.",
+    "timestamp": "2016-07-28T20:04:34.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Timor (tanleach1001) attacked Timor-Leste (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:04:38.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Timor (tanleach1001) occupied Timor-Leste with 3 troops.",
+    "timestamp": "2016-07-28T20:04:40.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Timor-Leste (tanleach1001) attacked Kendari (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:04:43.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Timor-Leste (tanleach1001) occupied Kendari with 2 troops.",
+    "timestamp": "2016-07-28T20:04:52.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Surabaya (tanleach1001) attacked Bali (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-07-28T20:05:00.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-28T20:05:14.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-28T20:05:14.000Z",
+    "player": "tanleach1001",
+    "round": 15
+  },
+  {
+    "message": "Round 16 started.",
+    "timestamp": "2016-07-28T20:05:14.000Z",
+    "player": "unknown",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-28T20:05:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 11 troops for 34 territories.",
+    "timestamp": "2016-07-28T20:05:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Papua.",
+    "timestamp": "2016-07-28T20:05:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Kalimantan.",
+    "timestamp": "2016-07-28T20:05:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Pilipinas.",
+    "timestamp": "2016-07-28T20:05:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Merauke (ryanbmilbourne) was reinforced by ryanbmilbourne with 9 troops.",
+    "timestamp": "2016-07-28T20:06:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Penang (ryanbmilbourne) was reinforced by ryanbmilbourne with 9 troops.",
+    "timestamp": "2016-07-28T20:06:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Merauke (ryanbmilbourne) attacked Arnhem (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:06:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Merauke (ryanbmilbourne) occupied Arnhem with 9 troops.",
+    "timestamp": "2016-07-28T20:06:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Arnhem (ryanbmilbourne) attacked Katherine (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:06:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Arnhem (ryanbmilbourne) occupied Katherine with 8 troops.",
+    "timestamp": "2016-07-28T20:06:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Katherine (ryanbmilbourne) attacked Darwin (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:06:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Katherine (ryanbmilbourne) occupied Darwin with 7 troops.",
+    "timestamp": "2016-07-28T20:06:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Darwin (ryanbmilbourne) attacked Kimberley (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T20:07:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Darwin (ryanbmilbourne) occupied Kimberley with 5 troops.",
+    "timestamp": "2016-07-28T20:07:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Kimberley (ryanbmilbourne) attacked Timor (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:07:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Kimberley (ryanbmilbourne) occupied Timor with 4 troops.",
+    "timestamp": "2016-07-28T20:07:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Timor (ryanbmilbourne) attacked Timor-Leste (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:07:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Timor (ryanbmilbourne) occupied Timor-Leste with 3 troops.",
+    "timestamp": "2016-07-28T20:07:16.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Penang (ryanbmilbourne) attacked Kuantan (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:07:22.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Penang (ryanbmilbourne) occupied Kuantan with 9 troops.",
+    "timestamp": "2016-07-28T20:07:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Kuantan (ryanbmilbourne) attacked Vietnam (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:07:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Kuantan (ryanbmilbourne) occupied Vietnam with 1 troop.",
+    "timestamp": "2016-07-28T20:07:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Kuantan (ryanbmilbourne) attacked Kuala Lumpur (KL) (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T20:07:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Kuantan (ryanbmilbourne) occupied Kuala Lumpur (KL) with 6 troops.",
+    "timestamp": "2016-07-28T20:07:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Kuala Lumpur (KL) (ryanbmilbourne) attacked Singapore (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:07:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Kuala Lumpur (KL) (ryanbmilbourne) occupied Singapore with 5 troops.",
+    "timestamp": "2016-07-28T20:07:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Singapore (ryanbmilbourne) attacked Riau (tanleach1001) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-07-28T20:08:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Bali (ryanbmilbourne) attacked Surabaya (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:08:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Bali (ryanbmilbourne) occupied Surabaya with 2 troops.",
+    "timestamp": "2016-07-28T20:08:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Timor-Leste (ryanbmilbourne) attacked Kendari (tanleach1001) killing 1, losing 2.",
+    "timestamp": "2016-07-28T20:08:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "Tanimbar (ryanbmilbourne) was fortified from Aru (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-07-28T20:08:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-28T20:08:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-28T20:08:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-28T20:09:08.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 10 territories.",
+    "timestamp": "2016-07-28T20:09:09.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received 8 troops for turning in cards Sorong, Sarawak, and Kampuchea.",
+    "timestamp": "2016-07-28T20:09:25.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Kendari (tanleach1001) was reinforced by tanleach1001 with 11 troops.",
+    "timestamp": "2016-07-28T20:09:37.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Kendari (tanleach1001) attacked Timor-Leste (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:09:45.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Kendari (tanleach1001) occupied Timor-Leste with 1 troop.",
+    "timestamp": "2016-07-28T20:09:52.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Kendari (tanleach1001) attacked Palu (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:09:58.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Kendari (tanleach1001) occupied Palu with 10 troops.",
+    "timestamp": "2016-07-28T20:10:04.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Palu (tanleach1001) attacked Samarinda (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:10:17.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Palu (tanleach1001) occupied Samarinda with 9 troops.",
+    "timestamp": "2016-07-28T20:10:27.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Samarinda (tanleach1001) attacked Sabah (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:10:35.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Samarinda (tanleach1001) occupied Sabah with 8 troops.",
+    "timestamp": "2016-07-28T20:10:45.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Sabah (tanleach1001) attacked Palawan (ryanbmilbourne) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-28T20:10:56.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Sabah (tanleach1001) occupied Palawan with 5 troops.",
+    "timestamp": "2016-07-28T20:10:57.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Palawan (tanleach1001) attacked Vietnam (ryanbmilbourne) killing 0, losing 4.",
+    "timestamp": "2016-07-28T20:11:06.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-28T20:11:31.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-28T20:11:31.000Z",
+    "player": "tanleach1001",
+    "round": 16
+  },
+  {
+    "message": "Round 17 started.",
+    "timestamp": "2016-07-28T20:11:31.000Z",
+    "player": "unknown",
+    "round": 17
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-28T20:11:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "ryanbmilbourne received 13 troops for 41 territories.",
+    "timestamp": "2016-07-28T20:11:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Papua.",
+    "timestamp": "2016-07-28T20:11:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding N. Australia.",
+    "timestamp": "2016-07-28T20:11:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Indochina.",
+    "timestamp": "2016-07-28T20:11:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on N. Maluku",
+    "timestamp": "2016-07-28T20:11:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Fakfak",
+    "timestamp": "2016-07-28T20:11:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Vietnam",
+    "timestamp": "2016-07-28T20:11:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards N. Maluku, Fakfak, and Vietnam.",
+    "timestamp": "2016-07-28T20:11:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Vietnam (ryanbmilbourne) was reinforced by ryanbmilbourne with 12 troops.",
+    "timestamp": "2016-07-28T20:12:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Lampung (ryanbmilbourne) was reinforced by ryanbmilbourne with 16 troops.",
+    "timestamp": "2016-07-28T20:12:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Tanimbar (ryanbmilbourne) attacked Timor-Leste (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:12:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Tanimbar (ryanbmilbourne) occupied Timor-Leste with 2 troops.",
+    "timestamp": "2016-07-28T20:12:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Timor-Leste (ryanbmilbourne) attacked Kendari (tanleach1001) killing 0, losing 1.",
+    "timestamp": "2016-07-28T20:12:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Surabaya (ryanbmilbourne) attacked Yogyakarta (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:12:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Lampung (ryanbmilbourne) attacked Banten (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:12:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Lampung (ryanbmilbourne) occupied Banten with 6 troops.",
+    "timestamp": "2016-07-28T20:13:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Banten (ryanbmilbourne) attacked Jakarta (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T20:13:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Banten (ryanbmilbourne) occupied Jakarta with 1 troop.",
+    "timestamp": "2016-07-28T20:13:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Lampung (ryanbmilbourne) attacked Lahat (tanleach1001) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-07-28T20:13:28.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Lampung (ryanbmilbourne) occupied Lahat with 8 troops.",
+    "timestamp": "2016-07-28T20:13:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Lahat (ryanbmilbourne) attacked Bengkulu (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:13:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Lahat (ryanbmilbourne) occupied Bengkulu with 7 troops.",
+    "timestamp": "2016-07-28T20:13:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Bengkulu (ryanbmilbourne) attacked Jambi (tanleach1001) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-07-28T20:14:01.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Bengkulu (ryanbmilbourne) occupied Jambi with 3 troops.",
+    "timestamp": "2016-07-28T20:14:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Jambi (ryanbmilbourne) attacked Padang (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:14:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Jambi (ryanbmilbourne) occupied Padang with 2 troops.",
+    "timestamp": "2016-07-28T20:14:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Padang (ryanbmilbourne) attacked Medan (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:14:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Vietnam (ryanbmilbourne) attacked Palawan (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:14:31.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Vietnam (ryanbmilbourne) occupied Palawan with 14 troops.",
+    "timestamp": "2016-07-28T20:14:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Palawan (ryanbmilbourne) attacked Sabah (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T20:14:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Palawan (ryanbmilbourne) occupied Sabah with 12 troops.",
+    "timestamp": "2016-07-28T20:14:43.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Sabah (ryanbmilbourne) attacked Samarinda (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:14:48.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Sabah (ryanbmilbourne) occupied Samarinda with 11 troops.",
+    "timestamp": "2016-07-28T20:14:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Samarinda (ryanbmilbourne) attacked Palu (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:14:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Samarinda (ryanbmilbourne) occupied Palu with 10 troops.",
+    "timestamp": "2016-07-28T20:14:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Palu (ryanbmilbourne) attacked Kendari (tanleach1001) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T20:15:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Palu (ryanbmilbourne) occupied Kendari with 8 troops.",
+    "timestamp": "2016-07-28T20:15:07.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "Timor-Leste (ryanbmilbourne) was fortified from Kendari (ryanbmilbourne) with 7 troops.",
+    "timestamp": "2016-07-28T20:15:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-07-28T20:15:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-07-28T20:15:24.000Z",
+    "player": "ryanbmilbourne",
+    "round": 17
+  },
+  {
+    "message": "tanleach1001 started the turn.",
+    "timestamp": "2016-07-28T20:15:48.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "tanleach1001 received 3 troops for 1 territory.",
+    "timestamp": "2016-07-28T20:15:48.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Aceh (tanleach1001) was reinforced by tanleach1001 with 3 troops.",
+    "timestamp": "2016-07-28T20:15:53.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Aceh (tanleach1001) attacked Medan (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:15:57.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Aceh (tanleach1001) occupied Medan with 3 troops.",
+    "timestamp": "2016-07-28T20:15:58.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Medan (tanleach1001) attacked Penang (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-07-28T20:16:05.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "tanleach1001 received a card.",
+    "timestamp": "2016-07-28T20:16:15.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "tanleach1001 ended the turn.",
+    "timestamp": "2016-07-28T20:16:15.000Z",
+    "player": "tanleach1001",
+    "round": 17
+  },
+  {
+    "message": "Round 18 started.",
+    "timestamp": "2016-07-28T20:16:15.000Z",
+    "player": "unknown",
+    "round": 18
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-07-28T20:16:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "ryanbmilbourne received 17 troops for 53 territories.",
+    "timestamp": "2016-07-28T20:16:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Papua.",
+    "timestamp": "2016-07-28T20:16:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding N. Australia.",
+    "timestamp": "2016-07-28T20:16:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Indochina.",
+    "timestamp": "2016-07-28T20:16:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "ryanbmilbourne received 5 troops for holding Maluku.",
+    "timestamp": "2016-07-28T20:16:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Independent States.",
+    "timestamp": "2016-07-28T20:16:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "ryanbmilbourne received 4 troops for holding Java.",
+    "timestamp": "2016-07-28T20:16:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Pilipinas.",
+    "timestamp": "2016-07-28T20:16:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops for holding Kalimantan.",
+    "timestamp": "2016-07-28T20:16:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding Sulawesi.",
+    "timestamp": "2016-07-28T20:16:30.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "Kuantan (ryanbmilbourne) was reinforced by ryanbmilbourne with 42 troops.",
+    "timestamp": "2016-07-28T20:16:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "Kuantan (ryanbmilbourne) attacked Penang (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:16:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "Kuantan (ryanbmilbourne) occupied Penang with 42 troops.",
+    "timestamp": "2016-07-28T20:16:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "Penang (ryanbmilbourne) attacked Medan (tanleach1001) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-07-28T20:16:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "Penang (ryanbmilbourne) occupied Medan with 41 troops.",
+    "timestamp": "2016-07-28T20:16:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "Medan (ryanbmilbourne) attacked Aceh (tanleach1001) conquering it, killing 1, losing 3.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "tanleach1001 was defeated by ryanbmilbourne.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "tanleach1001",
+    "round": 18
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "unknown",
+    "round": 18
+  },
+  {
+    "message": "ryanbmilbourne won the game.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "ryanbmilbourne received 106 rating.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "ryanbmilbourne received 20 tokens.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 18
+  },
+  {
+    "message": "tanleach1001 lost 18 rating.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "tanleach1001",
+    "round": 18
+  },
+  {
+    "message": "tanleach1001 received 20 tokens.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "tanleach1001",
+    "round": 18
+  },
+  {
+    "message": "johnsgill3 lost 22 rating.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "johnsgill3",
+    "round": 18
+  },
+  {
+    "message": "johnsgill3 received 20 tokens.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "johnsgill3",
+    "round": 18
+  },
+  {
+    "message": "gcochard lost 18 rating.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "gcochard",
+    "round": 18
+  },
+  {
+    "message": "gcochard received 20 tokens.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "gcochard",
+    "round": 18
+  },
+  {
+    "message": "mmacfreier lost 24 rating.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "mmacfreier",
+    "round": 18
+  },
+  {
+    "message": "mmacfreier received 20 tokens.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "mmacfreier",
+    "round": 18
+  },
+  {
+    "message": "kwren lost 24 rating.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "kwren",
+    "round": 18
+  },
+  {
+    "message": "kwren received 20 tokens.",
+    "timestamp": "2016-07-28T20:16:57.000Z",
+    "player": "kwren",
+    "round": 18
+  }
+]
