@@ -1,0 +1,3434 @@
+[
+  {
+    "message": "Game created.",
+    "timestamp": "2016-11-17T20:37:13.000Z",
+    "player": "unknown",
+    "round": 0
+  },
+  {
+    "message": "kwren joined the game.",
+    "timestamp": "2016-11-17T20:37:13.000Z",
+    "player": "kwren",
+    "round": 0
+  },
+  {
+    "message": "ryanbmilbourne joined the game.",
+    "timestamp": "2016-11-17T20:39:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 0
+  },
+  {
+    "message": "jobratt joined the game.",
+    "timestamp": "2016-11-17T20:40:27.000Z",
+    "player": "jobratt",
+    "round": 0
+  },
+  {
+    "message": "johnsgill3 joined the game.",
+    "timestamp": "2016-11-17T21:57:13.000Z",
+    "player": "johnsgill3",
+    "round": 0
+  },
+  {
+    "message": "Game started.",
+    "timestamp": "2016-11-17T21:57:13.000Z",
+    "player": "unknown",
+    "round": 1
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-11-17T22:17:27.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt received 3 troops for 10 territories.",
+    "timestamp": "2016-11-17T22:17:27.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "North & South Dakota (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-11-17T22:17:40.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "North & South Dakota (jobratt) attacked Wyoming (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-11-17T22:17:47.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "Idaho (jobratt) was fortified from Nevada (jobratt) with 2 troops.",
+    "timestamp": "2016-11-17T22:17:51.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-11-17T22:17:51.000Z",
+    "player": "jobratt",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-11-17T22:32:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 10 territories.",
+    "timestamp": "2016-11-17T22:32:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Oregon (ryanbmilbourne) was reinforced by ryanbmilbourne with 1 troop.",
+    "timestamp": "2016-11-17T22:34:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Texas (ryanbmilbourne) was reinforced by ryanbmilbourne with 2 troops.",
+    "timestamp": "2016-11-17T22:34:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Oregon (ryanbmilbourne) attacked Nevada (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-17T22:34:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Oregon (ryanbmilbourne) occupied Nevada with 3 troops.",
+    "timestamp": "2016-11-17T22:34:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "Oklahoma (ryanbmilbourne) was fortified from Kansas (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-11-17T22:35:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-11-17T22:35:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-11-17T22:35:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-11-17T23:27:37.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 10 territories.",
+    "timestamp": "2016-11-17T23:27:37.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "North California (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-11-17T23:27:40.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "North California (johnsgill3) attacked Oregon (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-17T23:27:43.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "North California (johnsgill3) occupied Oregon with 2 troops.",
+    "timestamp": "2016-11-17T23:27:46.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "Utah (johnsgill3) was fortified from New Mexico (johnsgill3) with 2 troops.",
+    "timestamp": "2016-11-17T23:28:12.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-11-17T23:28:12.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-11-17T23:28:12.000Z",
+    "player": "johnsgill3",
+    "round": 1
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-11-17T23:45:12.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received 3 troops for 10 territories.",
+    "timestamp": "2016-11-17T23:45:12.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Pennsylvania (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-11-17T23:45:26.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Pennsylvania (kwren) attacked Ohio (ryanbmilbourne) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-11-17T23:45:31.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Pennsylvania (kwren) occupied Ohio with 4 troops.",
+    "timestamp": "2016-11-17T23:45:33.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Indiana (kwren) was fortified from Lower Michigan (kwren) with 2 troops.",
+    "timestamp": "2016-11-17T23:46:05.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-11-17T23:46:06.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-11-17T23:46:06.000Z",
+    "player": "kwren",
+    "round": 1
+  },
+  {
+    "message": "Round 2 started.",
+    "timestamp": "2016-11-17T23:46:06.000Z",
+    "player": "unknown",
+    "round": 2
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-11-17T23:50:25.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received 3 troops for 9 territories.",
+    "timestamp": "2016-11-17T23:50:25.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "West Virginia (W. Vir.) (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-11-17T23:50:37.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "West Virginia (W. Vir.) (jobratt) attacked Pennsylvania (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-17T23:50:40.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "West Virginia (W. Vir.) (jobratt) occupied Pennsylvania with 1 troop.",
+    "timestamp": "2016-11-17T23:50:59.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "Pennsylvania (jobratt) was fortified from Vermont & New Hampshire (jobratt) with 2 troops.",
+    "timestamp": "2016-11-17T23:51:28.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-11-17T23:51:29.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-11-17T23:51:29.000Z",
+    "player": "jobratt",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-11-18T00:22:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 9 territories.",
+    "timestamp": "2016-11-18T00:22:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Wyoming (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-11-18T00:22:45.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Wyoming (ryanbmilbourne) attacked Colorado (kwren) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-11-18T00:22:50.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Wyoming (ryanbmilbourne) occupied Colorado with 4 troops.",
+    "timestamp": "2016-11-18T00:22:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Texas (ryanbmilbourne) attacked New Mexico (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T00:23:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "Texas (ryanbmilbourne) occupied New Mexico with 2 troops.",
+    "timestamp": "2016-11-18T00:23:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "New Mexico (ryanbmilbourne) was fortified from Colorado (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-11-18T00:23:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-11-18T00:23:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-11-18T00:23:35.000Z",
+    "player": "ryanbmilbourne",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-11-18T00:31:12.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 10 territories.",
+    "timestamp": "2016-11-18T00:31:12.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "North California (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-11-18T00:31:16.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "North California (johnsgill3) attacked South California (kwren) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-11-18T00:31:21.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "North California (johnsgill3) occupied South California with 2 troops.",
+    "timestamp": "2016-11-18T00:31:35.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "Missouri (johnsgill3) was fortified from Arkansas (johnsgill3) with 2 troops.",
+    "timestamp": "2016-11-18T00:31:51.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-11-18T00:31:52.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-11-18T00:31:52.000Z",
+    "player": "johnsgill3",
+    "round": 2
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-11-18T16:56:13.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 3 troops for 8 territories.",
+    "timestamp": "2016-11-18T16:56:13.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received 1 troop for holding Great Lakes - East.",
+    "timestamp": "2016-11-18T16:56:13.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Wisconsin & Upper Michigan (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-11-18T16:56:31.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Wisconsin & Upper Michigan (kwren) attacked Illinois (johnsgill3) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-11-18T16:56:39.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Wisconsin & Upper Michigan (kwren) occupied Illinois with 3 troops.",
+    "timestamp": "2016-11-18T16:56:41.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Massachusetts & Connecticut & Rhode Island (kwren) attacked Maine (Neutral) killing 0, losing 2.",
+    "timestamp": "2016-11-18T16:56:47.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Illinois (kwren) was fortified from Kentucky (kwren) with 2 troops.",
+    "timestamp": "2016-11-18T16:56:54.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-11-18T16:56:54.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-11-18T16:56:54.000Z",
+    "player": "kwren",
+    "round": 2
+  },
+  {
+    "message": "Round 3 started.",
+    "timestamp": "2016-11-18T16:56:54.000Z",
+    "player": "unknown",
+    "round": 3
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-11-18T17:46:23.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received 3 troops for 10 territories.",
+    "timestamp": "2016-11-18T17:46:23.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "West Virginia (W. Vir.) (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-11-18T17:46:37.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "West Virginia (W. Vir.) (jobratt) attacked Maryland & Delaware (ryanbmilbourne) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-11-18T17:46:43.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "West Virginia (W. Vir.) (jobratt) occupied Maryland & Delaware with 1 troop.",
+    "timestamp": "2016-11-18T17:46:47.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Idaho (jobratt) attacked Wyoming (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T17:46:54.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Idaho (jobratt) occupied Wyoming with 4 troops.",
+    "timestamp": "2016-11-18T17:46:57.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "North & South Dakota (jobratt) attacked Montana (Neutral) killing 1, losing 1.",
+    "timestamp": "2016-11-18T17:47:03.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Wyoming (jobratt) attacked Montana (Neutral) killing 0, losing 3.",
+    "timestamp": "2016-11-18T17:47:08.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "North & South Dakota (jobratt) attacked Montana (Neutral) killing 0, losing 2.",
+    "timestamp": "2016-11-18T17:47:12.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "Maryland & Delaware (jobratt) was fortified from New York (jobratt) with 2 troops.",
+    "timestamp": "2016-11-18T17:47:21.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-11-18T17:47:21.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-11-18T17:47:21.000Z",
+    "player": "jobratt",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-11-18T17:56:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 9 territories.",
+    "timestamp": "2016-11-18T17:56:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Oklahoma (ryanbmilbourne) was reinforced by ryanbmilbourne with 1 troop.",
+    "timestamp": "2016-11-18T17:57:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Iowa (ryanbmilbourne) was reinforced by ryanbmilbourne with 2 troops.",
+    "timestamp": "2016-11-18T17:57:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Nevada (ryanbmilbourne) attacked Idaho (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T17:57:26.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Colorado (ryanbmilbourne) attacked Wyoming (jobratt) killing 0, losing 1.",
+    "timestamp": "2016-11-18T17:57:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Iowa (ryanbmilbourne) attacked North & South Dakota (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T17:58:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Iowa (ryanbmilbourne) occupied North & South Dakota with 3 troops.",
+    "timestamp": "2016-11-18T17:58:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "North & South Dakota (ryanbmilbourne) attacked Wyoming (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T17:58:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "North & South Dakota (ryanbmilbourne) occupied Wyoming with 2 troops.",
+    "timestamp": "2016-11-18T17:58:17.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Oklahoma (ryanbmilbourne) attacked Arkansas (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T17:58:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Oklahoma (ryanbmilbourne) occupied Arkansas with 1 troop.",
+    "timestamp": "2016-11-18T17:58:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "Arkansas (ryanbmilbourne) was fortified from Wyoming (ryanbmilbourne) with 1 troop.",
+    "timestamp": "2016-11-18T18:00:11.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-11-18T18:00:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-11-18T18:00:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-11-18T18:05:16.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 9 territories.",
+    "timestamp": "2016-11-18T18:05:16.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "North California (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-11-18T18:05:26.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "North California (johnsgill3) attacked Nevada (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T18:05:30.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "North California (johnsgill3) occupied Nevada with 6 troops.",
+    "timestamp": "2016-11-18T18:05:32.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Nevada (johnsgill3) attacked Idaho (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T18:05:34.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Nevada (johnsgill3) occupied Idaho with 5 troops.",
+    "timestamp": "2016-11-18T18:05:36.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Missouri (johnsgill3) attacked Iowa (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T18:05:40.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Missouri (johnsgill3) occupied Iowa with 4 troops.",
+    "timestamp": "2016-11-18T18:06:00.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Louisiana (johnsgill3) attacked Mississippi (jobratt) killing 0, losing 2.",
+    "timestamp": "2016-11-18T18:06:04.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "Oregon (johnsgill3) was fortified from South California (johnsgill3) with 1 troop.",
+    "timestamp": "2016-11-18T18:06:35.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-11-18T18:06:35.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-11-18T18:06:35.000Z",
+    "player": "johnsgill3",
+    "round": 3
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-11-18T18:06:51.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 3 troops for 9 territories.",
+    "timestamp": "2016-11-18T18:06:51.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received 1 troop for holding Great Lakes - East.",
+    "timestamp": "2016-11-18T18:06:51.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Illinois (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-11-18T18:06:54.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Illinois (kwren) attacked Iowa (johnsgill3) conquering it, killing 4, losing 2.",
+    "timestamp": "2016-11-18T18:06:57.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Illinois (kwren) occupied Iowa with 6 troops.",
+    "timestamp": "2016-11-18T18:07:00.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Iowa (kwren) attacked Minnesota (johnsgill3) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-11-18T18:07:06.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Iowa (kwren) occupied Minnesota with 2 troops.",
+    "timestamp": "2016-11-18T18:07:10.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Iowa (kwren) was fortified from Indiana (kwren) with 4 troops.",
+    "timestamp": "2016-11-18T18:07:16.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-11-18T18:07:16.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-11-18T18:07:16.000Z",
+    "player": "kwren",
+    "round": 3
+  },
+  {
+    "message": "Round 4 started.",
+    "timestamp": "2016-11-18T18:07:16.000Z",
+    "player": "unknown",
+    "round": 4
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-11-18T18:09:51.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received 3 troops for 9 territories.",
+    "timestamp": "2016-11-18T18:09:51.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Pennsylvania (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-11-18T18:10:07.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Pennsylvania (jobratt) attacked New Jersey (Neutral) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-11-18T18:10:16.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Pennsylvania (jobratt) occupied New Jersey with 4 troops.",
+    "timestamp": "2016-11-18T18:10:17.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Nebraska (jobratt) attacked North & South Dakota (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T18:10:28.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Nebraska (jobratt) occupied North & South Dakota with 1 troop.",
+    "timestamp": "2016-11-18T18:10:32.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "Vermont & New Hampshire (jobratt) was fortified from New Jersey (jobratt) with 3 troops.",
+    "timestamp": "2016-11-18T18:12:15.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-11-18T18:12:15.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-11-18T18:12:15.000Z",
+    "player": "jobratt",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-11-18T18:49:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 9 territories.",
+    "timestamp": "2016-11-18T18:49:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards Missouri, Kentucky, and West Virginia (W. Vir.).",
+    "timestamp": "2016-11-18T18:50:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Texas (ryanbmilbourne) was reinforced by ryanbmilbourne with 5 troops.",
+    "timestamp": "2016-11-18T18:50:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Virginia (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-11-18T18:51:37.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Colorado (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-11-18T18:51:40.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Kansas (ryanbmilbourne) attacked Nebraska (jobratt) killing 0, losing 1.",
+    "timestamp": "2016-11-18T18:51:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Colorado (ryanbmilbourne) attacked Nebraska (jobratt) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-11-18T18:51:49.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Colorado (ryanbmilbourne) occupied Nebraska with 4 troops.",
+    "timestamp": "2016-11-18T18:51:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Nebraska (ryanbmilbourne) attacked North & South Dakota (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T18:51:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Nebraska (ryanbmilbourne) occupied North & South Dakota with 1 troop.",
+    "timestamp": "2016-11-18T18:52:00.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Texas (ryanbmilbourne) attacked Louisiana (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T18:52:05.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Texas (ryanbmilbourne) occupied Louisiana with 7 troops.",
+    "timestamp": "2016-11-18T18:52:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Virginia (ryanbmilbourne) attacked Kentucky (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T18:52:13.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Virginia (ryanbmilbourne) occupied Kentucky with 5 troops.",
+    "timestamp": "2016-11-18T18:52:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "North & South Carolina (ryanbmilbourne) attacked Tennessee (jobratt) killing 0, losing 2.",
+    "timestamp": "2016-11-18T18:52:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Kentucky (ryanbmilbourne) attacked Ohio (kwren) conquering it, killing 4, losing 3.",
+    "timestamp": "2016-11-18T18:53:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Louisiana (ryanbmilbourne) attacked Mississippi (jobratt) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-11-18T18:54:09.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Louisiana (ryanbmilbourne) occupied Mississippi with 1 troop.",
+    "timestamp": "2016-11-18T18:54:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "Arkansas (ryanbmilbourne) was fortified from New Mexico (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-11-18T18:55:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-11-18T18:55:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-11-18T18:55:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-11-18T18:55:15.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 9 territories.",
+    "timestamp": "2016-11-18T18:55:15.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Oregon",
+    "timestamp": "2016-11-18T18:55:18.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Nevada",
+    "timestamp": "2016-11-18T18:55:18.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received 8 troops for turning in cards Oregon, Nevada, and Oklahoma.",
+    "timestamp": "2016-11-18T18:55:18.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Idaho (johnsgill3) was reinforced by johnsgill3 with 3 troops.",
+    "timestamp": "2016-11-18T18:56:50.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Utah (johnsgill3) was reinforced by johnsgill3 with 1 troop.",
+    "timestamp": "2016-11-18T18:57:35.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Missouri (johnsgill3) was reinforced by johnsgill3 with 2 troops.",
+    "timestamp": "2016-11-18T18:57:48.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Oregon (johnsgill3) was reinforced by johnsgill3 with 1 troop.",
+    "timestamp": "2016-11-18T18:57:56.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Idaho (johnsgill3) was reinforced by johnsgill3 with 4 troops.",
+    "timestamp": "2016-11-18T18:58:00.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Oregon (johnsgill3) attacked Washington (kwren) conquering it, killing 3, losing 0.",
+    "timestamp": "2016-11-18T18:58:05.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Oregon (johnsgill3) occupied Washington with 2 troops.",
+    "timestamp": "2016-11-18T18:58:09.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Idaho (johnsgill3) attacked Wyoming (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T18:58:12.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Idaho (johnsgill3) occupied Wyoming with 8 troops.",
+    "timestamp": "2016-11-18T18:58:36.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Wyoming (johnsgill3) attacked North & South Dakota (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T18:58:44.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "Wyoming (johnsgill3) occupied North & South Dakota with 1 troop.",
+    "timestamp": "2016-11-18T18:58:48.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-11-18T18:59:28.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-11-18T18:59:28.000Z",
+    "player": "johnsgill3",
+    "round": 4
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-11-18T19:10:06.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 3 troops for 8 territories.",
+    "timestamp": "2016-11-18T19:10:06.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 2 troops for holding Great Lakes - West.",
+    "timestamp": "2016-11-18T19:10:06.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received 8 troops for turning in cards Idaho, Virginia, and Vermont & New Hampshire.",
+    "timestamp": "2016-11-18T19:10:22.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Minnesota (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-11-18T19:10:32.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Iowa (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-11-18T19:10:41.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Indiana (kwren) was reinforced by kwren with 5 troops.",
+    "timestamp": "2016-11-18T19:10:43.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Georgia (kwren) attacked North & South Carolina (ryanbmilbourne) killing 0, losing 2.",
+    "timestamp": "2016-11-18T19:10:48.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Indiana (kwren) attacked Ohio (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T19:10:51.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Indiana (kwren) occupied Ohio with 5 troops.",
+    "timestamp": "2016-11-18T19:10:53.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Ohio (kwren) attacked Kentucky (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T19:10:56.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Ohio (kwren) occupied Kentucky with 1 troop.",
+    "timestamp": "2016-11-18T19:10:59.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Minnesota (kwren) attacked North & South Dakota (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T19:11:02.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Minnesota (kwren) occupied North & South Dakota with 1 troop.",
+    "timestamp": "2016-11-18T19:11:06.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Iowa (kwren) attacked Missouri (johnsgill3) conquering it, killing 3, losing 4.",
+    "timestamp": "2016-11-18T19:11:20.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Iowa (kwren) occupied Missouri with 1 troop.",
+    "timestamp": "2016-11-18T19:12:30.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-11-18T19:12:38.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-11-18T19:12:38.000Z",
+    "player": "kwren",
+    "round": 4
+  },
+  {
+    "message": "Round 5 started.",
+    "timestamp": "2016-11-18T19:12:38.000Z",
+    "player": "unknown",
+    "round": 5
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-11-18T19:29:56.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received 3 troops for 8 territories.",
+    "timestamp": "2016-11-18T19:29:56.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Vermont & New Hampshire (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-11-18T19:29:59.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Vermont & New Hampshire (jobratt) attacked Massachusetts & Connecticut & Rhode Island (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T19:30:03.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Vermont & New Hampshire (jobratt) occupied Massachusetts & Connecticut & Rhode Island with 1 troop.",
+    "timestamp": "2016-11-18T19:30:05.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "Vermont & New Hampshire (jobratt) attacked Maine (Neutral) conquering it, killing 3, losing 3.",
+    "timestamp": "2016-11-18T19:30:11.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-11-18T19:30:17.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-11-18T19:30:17.000Z",
+    "player": "jobratt",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-11-18T19:33:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 11 territories.",
+    "timestamp": "2016-11-18T19:33:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for holding South.",
+    "timestamp": "2016-11-18T19:33:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Louisiana (ryanbmilbourne) was reinforced by ryanbmilbourne with 2 troops.",
+    "timestamp": "2016-11-18T19:36:15.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Nebraska (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-11-18T19:36:32.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Nebraska (ryanbmilbourne) attacked Iowa (kwren) conquering it, killing 4, losing 3.",
+    "timestamp": "2016-11-18T19:36:36.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Nebraska (ryanbmilbourne) occupied Iowa with 3 troops.",
+    "timestamp": "2016-11-18T19:36:38.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Iowa (ryanbmilbourne) attacked Missouri (kwren) killing 0, losing 1.",
+    "timestamp": "2016-11-18T19:36:41.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Iowa (ryanbmilbourne) attacked Illinois (kwren) killing 0, losing 1.",
+    "timestamp": "2016-11-18T19:36:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Oklahoma (ryanbmilbourne) attacked Missouri (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T19:36:53.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Oklahoma (ryanbmilbourne) occupied Missouri with 1 troop.",
+    "timestamp": "2016-11-18T19:36:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "Oklahoma (ryanbmilbourne) was fortified from Louisiana (ryanbmilbourne) with 2 troops.",
+    "timestamp": "2016-11-18T19:37:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-11-18T19:37:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-11-18T19:37:19.000Z",
+    "player": "ryanbmilbourne",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-11-18T19:38:29.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 3 troops for 10 territories.",
+    "timestamp": "2016-11-18T19:38:29.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding West.",
+    "timestamp": "2016-11-18T19:38:29.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Wyoming (johnsgill3) was reinforced by johnsgill3 with 7 troops.",
+    "timestamp": "2016-11-18T19:38:32.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Wyoming (johnsgill3) attacked North & South Dakota (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T19:38:38.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Wyoming (johnsgill3) occupied North & South Dakota with 13 troops.",
+    "timestamp": "2016-11-18T19:38:44.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "North & South Dakota (johnsgill3) attacked Montana (Neutral) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-11-18T19:38:47.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "North & South Dakota (johnsgill3) occupied Montana with 2 troops.",
+    "timestamp": "2016-11-18T19:38:57.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "North & South Dakota (johnsgill3) attacked Minnesota (kwren) conquering it, killing 5, losing 0.",
+    "timestamp": "2016-11-18T19:39:14.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "North & South Dakota (johnsgill3) occupied Minnesota with 3 troops.",
+    "timestamp": "2016-11-18T19:39:29.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "Wyoming (johnsgill3) was fortified from Oregon (johnsgill3) with 3 troops.",
+    "timestamp": "2016-11-18T19:39:45.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-11-18T19:39:45.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-11-18T19:39:45.000Z",
+    "player": "johnsgill3",
+    "round": 5
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-11-18T19:40:32.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-11-18T19:40:32.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received 1 troop for holding Great Lakes - East.",
+    "timestamp": "2016-11-18T19:40:32.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Illinois (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-11-18T19:40:37.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Illinois (kwren) attacked Iowa (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T19:40:42.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Illinois (kwren) occupied Iowa with 4 troops.",
+    "timestamp": "2016-11-18T19:40:44.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Iowa (kwren) attacked Missouri (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T19:40:49.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Iowa (kwren) occupied Missouri with 2 troops.",
+    "timestamp": "2016-11-18T19:40:52.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-11-18T19:40:57.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-11-18T19:40:57.000Z",
+    "player": "kwren",
+    "round": 5
+  },
+  {
+    "message": "Round 6 started.",
+    "timestamp": "2016-11-18T19:40:57.000Z",
+    "player": "unknown",
+    "round": 6
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-11-18T19:43:55.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 3 troops for 10 territories.",
+    "timestamp": "2016-11-18T19:43:55.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 4 troops for holding Northeast .",
+    "timestamp": "2016-11-18T19:43:55.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 2 troops on Massachusetts & Connecticut & Rhode Island",
+    "timestamp": "2016-11-18T19:44:00.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards New Mexico, Massachusetts & Connecticut & Rhode Island, and Louisiana.",
+    "timestamp": "2016-11-18T19:44:00.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Pennsylvania (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-11-18T19:44:36.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Tennessee (jobratt) was reinforced by jobratt with 12 troops.",
+    "timestamp": "2016-11-18T19:44:39.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Tennessee (jobratt) attacked Mississippi (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T19:44:43.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Tennessee (jobratt) occupied Mississippi with 13 troops.",
+    "timestamp": "2016-11-18T19:44:45.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Mississippi (jobratt) attacked Louisiana (ryanbmilbourne) conquering it, killing 6, losing 4.",
+    "timestamp": "2016-11-18T19:44:52.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Mississippi (jobratt) occupied Louisiana with 8 troops.",
+    "timestamp": "2016-11-18T19:44:54.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Louisiana (jobratt) attacked Texas (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T19:44:57.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Louisiana (jobratt) occupied Texas with 7 troops.",
+    "timestamp": "2016-11-18T19:44:58.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Texas (jobratt) attacked New Mexico (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T19:45:01.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Texas (jobratt) occupied New Mexico with 6 troops.",
+    "timestamp": "2016-11-18T19:45:03.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "New Mexico (jobratt) attacked Colorado (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T19:45:12.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "New Mexico (jobratt) occupied Colorado with 1 troop.",
+    "timestamp": "2016-11-18T19:45:22.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "New Mexico (jobratt) attacked Arizona (johnsgill3) conquering it, killing 3, losing 1.",
+    "timestamp": "2016-11-18T19:45:27.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "New Mexico (jobratt) occupied Arizona with 2 troops.",
+    "timestamp": "2016-11-18T19:45:44.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "Maryland & Delaware (jobratt) was fortified from Massachusetts & Connecticut & Rhode Island (jobratt) with 2 troops.",
+    "timestamp": "2016-11-18T19:47:14.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-11-18T19:47:14.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-11-18T19:47:14.000Z",
+    "player": "jobratt",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-11-18T19:47:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 6 territories.",
+    "timestamp": "2016-11-18T19:47:20.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Virginia (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-11-18T19:47:46.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Virginia (ryanbmilbourne) attacked Kentucky (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T19:47:51.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Virginia (ryanbmilbourne) occupied Kentucky with 3 troops.",
+    "timestamp": "2016-11-18T19:47:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Kentucky (ryanbmilbourne) attacked Tennessee (jobratt) killing 0, losing 2.",
+    "timestamp": "2016-11-18T19:47:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Arkansas (ryanbmilbourne) attacked Louisiana (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T19:48:02.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Arkansas (ryanbmilbourne) occupied Louisiana with 2 troops.",
+    "timestamp": "2016-11-18T19:48:04.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Oklahoma (ryanbmilbourne) attacked Texas (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T19:48:08.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Oklahoma (ryanbmilbourne) occupied Texas with 2 troops.",
+    "timestamp": "2016-11-18T19:48:10.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Texas (ryanbmilbourne) attacked New Mexico (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T19:48:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "Louisiana (ryanbmilbourne) attacked Mississippi (jobratt) killing 0, losing 1.",
+    "timestamp": "2016-11-18T19:48:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-11-18T19:48:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-11-18T19:48:29.000Z",
+    "player": "ryanbmilbourne",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-11-18T19:49:05.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 12 territories.",
+    "timestamp": "2016-11-18T19:49:05.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received 1 troop for holding Wy-Mon-Dakota.",
+    "timestamp": "2016-11-18T19:49:05.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Utah (johnsgill3) was reinforced by johnsgill3 with 5 troops.",
+    "timestamp": "2016-11-18T19:49:11.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Utah (johnsgill3) attacked Arizona (jobratt) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-11-18T19:49:14.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Utah (johnsgill3) occupied Arizona with 3 troops.",
+    "timestamp": "2016-11-18T19:49:47.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Utah (johnsgill3) attacked Colorado (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T19:49:50.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Utah (johnsgill3) occupied Colorado with 2 troops.",
+    "timestamp": "2016-11-18T19:50:04.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "North & South Dakota (johnsgill3) attacked Iowa (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T19:50:09.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "North & South Dakota (johnsgill3) occupied Iowa with 1 troop.",
+    "timestamp": "2016-11-18T19:50:32.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Alabama (johnsgill3) attacked Mississippi (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T19:50:39.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Alabama (johnsgill3) occupied Mississippi with 2 troops.",
+    "timestamp": "2016-11-18T19:50:45.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "Iowa (johnsgill3) was fortified from Washington (johnsgill3) with 1 troop.",
+    "timestamp": "2016-11-18T19:51:20.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-11-18T19:51:20.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-11-18T19:51:20.000Z",
+    "player": "johnsgill3",
+    "round": 6
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-11-18T22:03:24.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 3 troops for 7 territories.",
+    "timestamp": "2016-11-18T22:03:24.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received 1 troop for holding Great Lakes - East.",
+    "timestamp": "2016-11-18T22:03:24.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Missouri (kwren) was reinforced by kwren with 4 troops.",
+    "timestamp": "2016-11-18T22:03:30.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Missouri (kwren) attacked Oklahoma (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:03:34.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Missouri (kwren) occupied Oklahoma with 4 troops.",
+    "timestamp": "2016-11-18T22:03:36.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Oklahoma (kwren) attacked New Mexico (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:03:39.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Oklahoma (kwren) occupied New Mexico with 2 troops.",
+    "timestamp": "2016-11-18T22:03:40.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "New Mexico (kwren) attacked Arizona (johnsgill3) killing 0, losing 1.",
+    "timestamp": "2016-11-18T22:03:43.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Ohio (kwren) attacked Kentucky (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:03:53.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Ohio (kwren) occupied Kentucky with 1 troop.",
+    "timestamp": "2016-11-18T22:03:56.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-11-18T22:04:03.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-11-18T22:04:03.000Z",
+    "player": "kwren",
+    "round": 6
+  },
+  {
+    "message": "Round 7 started.",
+    "timestamp": "2016-11-18T22:04:03.000Z",
+    "player": "unknown",
+    "round": 7
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-11-18T22:16:19.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 3 troops for 10 territories.",
+    "timestamp": "2016-11-18T22:16:19.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received 4 troops for holding Northeast .",
+    "timestamp": "2016-11-18T22:16:19.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "West Virginia (W. Vir.) (jobratt) was reinforced by jobratt with 1 troop.",
+    "timestamp": "2016-11-18T22:16:43.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Florida (jobratt) was reinforced by jobratt with 6 troops.",
+    "timestamp": "2016-11-18T22:16:45.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Maryland & Delaware (jobratt) attacked Virginia (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:16:48.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Maryland & Delaware (jobratt) occupied Virginia with 4 troops.",
+    "timestamp": "2016-11-18T22:16:49.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "West Virginia (W. Vir.) (jobratt) attacked Kentucky (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:17:00.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "West Virginia (W. Vir.) (jobratt) occupied Kentucky with 1 troop.",
+    "timestamp": "2016-11-18T22:17:01.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Virginia (jobratt) attacked North & South Carolina (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:17:05.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Virginia (jobratt) occupied North & South Carolina with 2 troops.",
+    "timestamp": "2016-11-18T22:17:06.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Florida (jobratt) attacked Georgia (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:17:10.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Florida (jobratt) occupied Georgia with 8 troops.",
+    "timestamp": "2016-11-18T22:17:12.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Georgia (jobratt) attacked Alabama (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:17:14.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Georgia (jobratt) occupied Alabama with 7 troops.",
+    "timestamp": "2016-11-18T22:17:15.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Alabama (jobratt) attacked Mississippi (johnsgill3) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-11-18T22:17:19.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "Alabama (jobratt) occupied Mississippi with 4 troops.",
+    "timestamp": "2016-11-18T22:17:21.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "West Virginia (W. Vir.) (jobratt) was fortified from North & South Carolina (jobratt) with 1 troop.",
+    "timestamp": "2016-11-18T22:17:33.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-11-18T22:17:33.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-11-18T22:17:33.000Z",
+    "player": "jobratt",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-11-18T22:17:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 5 territories.",
+    "timestamp": "2016-11-18T22:17:56.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 2 troops on Kansas",
+    "timestamp": "2016-11-18T22:17:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received 8 troops for turning in cards North & South Dakota, Kansas, and Lower Michigan.",
+    "timestamp": "2016-11-18T22:17:59.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Texas (ryanbmilbourne) was reinforced by ryanbmilbourne with 4 troops.",
+    "timestamp": "2016-11-18T22:18:21.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Louisiana (ryanbmilbourne) was reinforced by ryanbmilbourne with 7 troops.",
+    "timestamp": "2016-11-18T22:18:23.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Texas (ryanbmilbourne) attacked New Mexico (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:18:27.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Texas (ryanbmilbourne) occupied New Mexico with 1 troop.",
+    "timestamp": "2016-11-18T22:18:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Kansas (ryanbmilbourne) attacked Missouri (kwren) killing 0, losing 2.",
+    "timestamp": "2016-11-18T22:18:39.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Texas (ryanbmilbourne) attacked Oklahoma (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:18:42.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Texas (ryanbmilbourne) occupied Oklahoma with 3 troops.",
+    "timestamp": "2016-11-18T22:18:44.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Oklahoma (ryanbmilbourne) attacked Missouri (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:18:47.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "Louisiana (ryanbmilbourne) attacked Mississippi (jobratt) killing 1, losing 7.",
+    "timestamp": "2016-11-18T22:18:54.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-11-18T22:19:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-11-18T22:19:03.000Z",
+    "player": "ryanbmilbourne",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-11-18T22:20:02.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 4 troops for 14 territories.",
+    "timestamp": "2016-11-18T22:20:02.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding West.",
+    "timestamp": "2016-11-18T22:20:02.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received 1 troop for holding Wy-Mon-Dakota.",
+    "timestamp": "2016-11-18T22:20:02.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Minnesota (johnsgill3) was reinforced by johnsgill3 with 9 troops.",
+    "timestamp": "2016-11-18T22:20:05.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Minnesota (johnsgill3) attacked Wisconsin & Upper Michigan (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:20:09.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Minnesota (johnsgill3) occupied Wisconsin & Upper Michigan with 11 troops.",
+    "timestamp": "2016-11-18T22:20:11.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Wisconsin & Upper Michigan (johnsgill3) attacked Illinois (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-11-18T22:20:17.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Wisconsin & Upper Michigan (johnsgill3) occupied Illinois with 8 troops.",
+    "timestamp": "2016-11-18T22:20:19.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Illinois (johnsgill3) attacked Indiana (kwren) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-11-18T22:20:25.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Illinois (johnsgill3) occupied Indiana with 5 troops.",
+    "timestamp": "2016-11-18T22:20:27.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Indiana (johnsgill3) attacked Ohio (kwren) killing 0, losing 4.",
+    "timestamp": "2016-11-18T22:20:32.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "Illinois (johnsgill3) was fortified from North & South Dakota (johnsgill3) with 5 troops.",
+    "timestamp": "2016-11-18T22:21:03.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-11-18T22:21:03.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-11-18T22:21:03.000Z",
+    "player": "johnsgill3",
+    "round": 7
+  },
+  {
+    "message": "kwren started the turn.",
+    "timestamp": "2016-11-18T22:21:21.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received 3 troops for 2 territories.",
+    "timestamp": "2016-11-18T22:21:21.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Ohio (kwren) was reinforced by kwren with 3 troops.",
+    "timestamp": "2016-11-18T22:21:24.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Ohio (kwren) attacked Indiana (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:21:28.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Ohio (kwren) occupied Indiana with 3 troops.",
+    "timestamp": "2016-11-18T22:21:30.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Indiana (kwren) attacked Illinois (johnsgill3) killing 1, losing 2.",
+    "timestamp": "2016-11-18T22:21:33.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren received a card.",
+    "timestamp": "2016-11-18T22:22:43.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "kwren ended the turn.",
+    "timestamp": "2016-11-18T22:22:43.000Z",
+    "player": "kwren",
+    "round": 7
+  },
+  {
+    "message": "Round 8 started.",
+    "timestamp": "2016-11-18T22:22:43.000Z",
+    "player": "unknown",
+    "round": 8
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-11-18T22:23:47.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 5 troops for 16 territories.",
+    "timestamp": "2016-11-18T22:23:47.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 4 troops for holding Northeast .",
+    "timestamp": "2016-11-18T22:23:47.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 4 troops for holding Southeast.",
+    "timestamp": "2016-11-18T22:23:47.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 2 troops on Florida",
+    "timestamp": "2016-11-18T22:23:57.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 2 troops on New York",
+    "timestamp": "2016-11-18T22:23:57.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 2 troops on Mississippi",
+    "timestamp": "2016-11-18T22:23:57.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards Florida, New York, and Mississippi.",
+    "timestamp": "2016-11-18T22:23:57.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Mississippi (jobratt) was reinforced by jobratt with 7 troops.",
+    "timestamp": "2016-11-18T22:24:27.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "West Virginia (W. Vir.) (jobratt) was reinforced by jobratt with 14 troops.",
+    "timestamp": "2016-11-18T22:24:29.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "West Virginia (W. Vir.) (jobratt) attacked Ohio (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:24:31.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "West Virginia (W. Vir.) (jobratt) occupied Ohio with 16 troops.",
+    "timestamp": "2016-11-18T22:24:33.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Ohio (jobratt) attacked Lower Michigan (kwren) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:24:37.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Ohio (jobratt) occupied Lower Michigan with 14 troops.",
+    "timestamp": "2016-11-18T22:24:38.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Lower Michigan (jobratt) attacked Indiana (kwren) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:24:40.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "kwren was defeated by jobratt.",
+    "timestamp": "2016-11-18T22:24:40.000Z",
+    "player": "kwren",
+    "round": 8
+  },
+  {
+    "message": "Lower Michigan (jobratt) occupied Indiana with 13 troops.",
+    "timestamp": "2016-11-18T22:24:43.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 2 troops on Tennessee",
+    "timestamp": "2016-11-18T22:24:48.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 2 troops on North & South Carolina",
+    "timestamp": "2016-11-18T22:24:48.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received 8 troops for turning in cards Tennessee, South California, and North & South Carolina.",
+    "timestamp": "2016-11-18T22:24:48.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Mississippi (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-11-18T22:25:20.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Indiana (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-11-18T22:25:22.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Mississippi (jobratt) attacked Louisiana (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:25:28.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Mississippi (jobratt) occupied Louisiana with 15 troops.",
+    "timestamp": "2016-11-18T22:25:31.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Indiana (jobratt) attacked Illinois (johnsgill3) conquering it, killing 5, losing 14.",
+    "timestamp": "2016-11-18T22:25:46.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Indiana (jobratt) occupied Illinois with 2 troops.",
+    "timestamp": "2016-11-18T22:25:48.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Louisiana (jobratt) attacked Arkansas (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:26:26.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Louisiana (jobratt) occupied Arkansas with 1 troop.",
+    "timestamp": "2016-11-18T22:26:56.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Louisiana (jobratt) attacked Texas (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:27:01.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Louisiana (jobratt) occupied Texas with 5 troops.",
+    "timestamp": "2016-11-18T22:27:12.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Texas (jobratt) attacked Oklahoma (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:27:15.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Texas (jobratt) occupied Oklahoma with 1 troop.",
+    "timestamp": "2016-11-18T22:27:18.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Texas (jobratt) attacked New Mexico (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:27:20.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Texas (jobratt) occupied New Mexico with 2 troops.",
+    "timestamp": "2016-11-18T22:27:27.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "Indiana (jobratt) was fortified from Pennsylvania (jobratt) with 3 troops.",
+    "timestamp": "2016-11-18T22:27:43.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-11-18T22:27:43.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-11-18T22:27:43.000Z",
+    "player": "jobratt",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne started the turn.",
+    "timestamp": "2016-11-18T22:27:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received 3 troops for 3 territories.",
+    "timestamp": "2016-11-18T22:27:52.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Missouri (ryanbmilbourne) was reinforced by ryanbmilbourne with 3 troops.",
+    "timestamp": "2016-11-18T22:28:06.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Missouri (ryanbmilbourne) attacked Arkansas (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:28:12.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Missouri (ryanbmilbourne) occupied Arkansas with 2 troops.",
+    "timestamp": "2016-11-18T22:28:14.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Arkansas (ryanbmilbourne) attacked Texas (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:28:25.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne received a card.",
+    "timestamp": "2016-11-18T22:28:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne ended the turn.",
+    "timestamp": "2016-11-18T22:28:55.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-11-18T22:29:50.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 5 troops for 15 territories.",
+    "timestamp": "2016-11-18T22:29:50.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding West.",
+    "timestamp": "2016-11-18T22:29:50.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 1 troop for holding Wy-Mon-Dakota.",
+    "timestamp": "2016-11-18T22:29:50.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Washington",
+    "timestamp": "2016-11-18T22:29:57.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Montana",
+    "timestamp": "2016-11-18T22:29:57.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 2 troops on North California",
+    "timestamp": "2016-11-18T22:29:57.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received 8 troops for turning in cards Washington, Montana, and North California.",
+    "timestamp": "2016-11-18T22:29:57.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Wyoming (johnsgill3) was reinforced by johnsgill3 with 6 troops.",
+    "timestamp": "2016-11-18T22:31:20.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Iowa (johnsgill3) was reinforced by johnsgill3 with 12 troops.",
+    "timestamp": "2016-11-18T22:31:24.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Wyoming (johnsgill3) attacked Nebraska (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:31:28.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Wyoming (johnsgill3) occupied Nebraska with 8 troops.",
+    "timestamp": "2016-11-18T22:31:29.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Nebraska (johnsgill3) attacked Kansas (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:31:32.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Nebraska (johnsgill3) occupied Kansas with 7 troops.",
+    "timestamp": "2016-11-18T22:31:34.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Kansas (johnsgill3) attacked Oklahoma (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:31:39.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Kansas (johnsgill3) occupied Oklahoma with 6 troops.",
+    "timestamp": "2016-11-18T22:31:41.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Oklahoma (johnsgill3) attacked Texas (ryanbmilbourne) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:31:45.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Oklahoma (johnsgill3) occupied Texas with 1 troop.",
+    "timestamp": "2016-11-18T22:31:50.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Oklahoma (johnsgill3) attacked Arkansas (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:31:52.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Oklahoma (johnsgill3) occupied Arkansas with 3 troops.",
+    "timestamp": "2016-11-18T22:31:54.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Arkansas (johnsgill3) attacked Missouri (ryanbmilbourne) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:31:57.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "ryanbmilbourne was defeated by johnsgill3.",
+    "timestamp": "2016-11-18T22:31:57.000Z",
+    "player": "ryanbmilbourne",
+    "round": 8
+  },
+  {
+    "message": "Arkansas (johnsgill3) occupied Missouri with 2 troops.",
+    "timestamp": "2016-11-18T22:31:59.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Iowa (johnsgill3) attacked Illinois (jobratt) conquering it, killing 2, losing 0.",
+    "timestamp": "2016-11-18T22:32:12.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Iowa (johnsgill3) occupied Illinois with 13 troops.",
+    "timestamp": "2016-11-18T22:32:30.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Illinois (johnsgill3) attacked Indiana (jobratt) conquering it, killing 4, losing 2.",
+    "timestamp": "2016-11-18T22:32:42.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Illinois (johnsgill3) occupied Indiana with 10 troops.",
+    "timestamp": "2016-11-18T22:32:43.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Indiana (johnsgill3) attacked Ohio (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:32:46.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Indiana (johnsgill3) occupied Ohio with 9 troops.",
+    "timestamp": "2016-11-18T22:32:48.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Ohio (johnsgill3) attacked West Virginia (W. Vir.) (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:32:52.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Ohio (johnsgill3) occupied West Virginia (W. Vir.) with 1 troop.",
+    "timestamp": "2016-11-18T22:32:54.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Ohio (johnsgill3) attacked Kentucky (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:32:57.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Ohio (johnsgill3) occupied Kentucky with 1 troop.",
+    "timestamp": "2016-11-18T22:33:02.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Ohio (johnsgill3) attacked Lower Michigan (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:33:05.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Ohio (johnsgill3) occupied Lower Michigan with 1 troop.",
+    "timestamp": "2016-11-18T22:33:09.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Ohio (johnsgill3) attacked Pennsylvania (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:33:47.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Ohio (johnsgill3) occupied Pennsylvania with 4 troops.",
+    "timestamp": "2016-11-18T22:33:48.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Pennsylvania (johnsgill3) attacked New Jersey (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:33:52.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Pennsylvania (johnsgill3) occupied New Jersey with 1 troop.",
+    "timestamp": "2016-11-18T22:33:56.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Pennsylvania (johnsgill3) attacked Maryland & Delaware (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:33:59.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Pennsylvania (johnsgill3) occupied Maryland & Delaware with 2 troops.",
+    "timestamp": "2016-11-18T22:34:00.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Maryland & Delaware (johnsgill3) attacked Virginia (jobratt) killing 0, losing 1.",
+    "timestamp": "2016-11-18T22:34:03.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Arizona (johnsgill3) attacked New Mexico (jobratt) killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:34:11.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Ohio (johnsgill3) was fortified from Montana (johnsgill3) with 3 troops.",
+    "timestamp": "2016-11-18T22:34:35.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-11-18T22:34:35.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-11-18T22:34:35.000Z",
+    "player": "johnsgill3",
+    "round": 8
+  },
+  {
+    "message": "Round 9 started.",
+    "timestamp": "2016-11-18T22:34:35.000Z",
+    "player": "unknown",
+    "round": 9
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-11-18T22:34:38.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received 4 troops for 13 territories.",
+    "timestamp": "2016-11-18T22:34:38.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Louisiana (jobratt) was reinforced by jobratt with 4 troops.",
+    "timestamp": "2016-11-18T22:34:46.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Louisiana (jobratt) attacked Arkansas (johnsgill3) conquering it, killing 1, losing 2.",
+    "timestamp": "2016-11-18T22:34:50.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Louisiana (jobratt) occupied Arkansas with 9 troops.",
+    "timestamp": "2016-11-18T22:34:51.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Arkansas (jobratt) attacked Oklahoma (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:34:55.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Arkansas (jobratt) occupied Oklahoma with 7 troops.",
+    "timestamp": "2016-11-18T22:34:56.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Oklahoma (jobratt) attacked Texas (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:34:58.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Oklahoma (jobratt) occupied Texas with 1 troop.",
+    "timestamp": "2016-11-18T22:35:00.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Oklahoma (jobratt) attacked Kansas (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:35:02.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Oklahoma (jobratt) occupied Kansas with 5 troops.",
+    "timestamp": "2016-11-18T22:35:06.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Kansas (jobratt) attacked Colorado (johnsgill3) conquering it, killing 2, losing 1.",
+    "timestamp": "2016-11-18T22:35:12.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Kansas (jobratt) occupied Colorado with 3 troops.",
+    "timestamp": "2016-11-18T22:35:15.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Colorado (jobratt) attacked Wyoming (johnsgill3) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:35:18.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Tennessee (jobratt) attacked Kentucky (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:35:22.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Tennessee (jobratt) occupied Kentucky with 2 troops.",
+    "timestamp": "2016-11-18T22:35:24.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "New York (jobratt) attacked Pennsylvania (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:35:26.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "New York (jobratt) occupied Pennsylvania with 2 troops.",
+    "timestamp": "2016-11-18T22:35:28.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "Pennsylvania (jobratt) attacked West Virginia (W. Vir.) (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:35:29.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-11-18T22:35:32.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-11-18T22:35:32.000Z",
+    "player": "jobratt",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-11-18T22:35:39.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received 7 troops for 21 territories.",
+    "timestamp": "2016-11-18T22:35:39.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding West.",
+    "timestamp": "2016-11-18T22:35:39.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding Great Lakes - West.",
+    "timestamp": "2016-11-18T22:35:39.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received 1 troop for holding Great Lakes - East.",
+    "timestamp": "2016-11-18T22:35:39.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Utah (johnsgill3) was reinforced by johnsgill3 with 5 troops.",
+    "timestamp": "2016-11-18T22:36:04.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Ohio (johnsgill3) was reinforced by johnsgill3 with 9 troops.",
+    "timestamp": "2016-11-18T22:36:07.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Idaho (johnsgill3) attacked Wyoming (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:36:15.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Idaho (johnsgill3) occupied Wyoming with 2 troops.",
+    "timestamp": "2016-11-18T22:36:17.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Utah (johnsgill3) attacked Colorado (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:36:19.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Utah (johnsgill3) occupied Colorado with 10 troops.",
+    "timestamp": "2016-11-18T22:36:21.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Colorado (johnsgill3) attacked New Mexico (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:36:24.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Colorado (johnsgill3) occupied New Mexico with 9 troops.",
+    "timestamp": "2016-11-18T22:36:26.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "New Mexico (johnsgill3) attacked Texas (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:36:30.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "New Mexico (johnsgill3) occupied Texas with 8 troops.",
+    "timestamp": "2016-11-18T22:36:32.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Texas (johnsgill3) attacked Oklahoma (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:36:36.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Texas (johnsgill3) occupied Oklahoma with 6 troops.",
+    "timestamp": "2016-11-18T22:36:37.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Oklahoma (johnsgill3) attacked Kansas (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:36:41.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Oklahoma (johnsgill3) occupied Kansas with 1 troop.",
+    "timestamp": "2016-11-18T22:36:45.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Oklahoma (johnsgill3) attacked Arkansas (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:36:47.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Oklahoma (johnsgill3) occupied Arkansas with 3 troops.",
+    "timestamp": "2016-11-18T22:36:49.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Arkansas (johnsgill3) attacked Louisiana (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:36:52.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Arkansas (johnsgill3) occupied Louisiana with 2 troops.",
+    "timestamp": "2016-11-18T22:36:53.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Ohio (johnsgill3) attacked Kentucky (jobratt) conquering it, killing 2, losing 2.",
+    "timestamp": "2016-11-18T22:37:05.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Ohio (johnsgill3) occupied Kentucky with 10 troops.",
+    "timestamp": "2016-11-18T22:37:08.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Kentucky (johnsgill3) attacked Tennessee (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:37:12.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Kentucky (johnsgill3) occupied Tennessee with 8 troops.",
+    "timestamp": "2016-11-18T22:37:14.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Tennessee (johnsgill3) attacked Mississippi (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:37:19.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Tennessee (johnsgill3) occupied Mississippi with 6 troops.",
+    "timestamp": "2016-11-18T22:37:20.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Mississippi (johnsgill3) attacked Alabama (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:37:23.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Mississippi (johnsgill3) occupied Alabama with 5 troops.",
+    "timestamp": "2016-11-18T22:37:25.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Alabama (johnsgill3) attacked Georgia (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:37:29.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Alabama (johnsgill3) occupied Georgia with 4 troops.",
+    "timestamp": "2016-11-18T22:37:30.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Ohio (johnsgill3) was fortified from North California (johnsgill3) with 2 troops.",
+    "timestamp": "2016-11-18T22:37:44.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 received a card.",
+    "timestamp": "2016-11-18T22:37:44.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "johnsgill3 ended the turn.",
+    "timestamp": "2016-11-18T22:37:44.000Z",
+    "player": "johnsgill3",
+    "round": 9
+  },
+  {
+    "message": "Round 10 started.",
+    "timestamp": "2016-11-18T22:37:44.000Z",
+    "player": "unknown",
+    "round": 10
+  },
+  {
+    "message": "jobratt started the turn.",
+    "timestamp": "2016-11-18T22:37:57.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received 3 troops for 9 territories.",
+    "timestamp": "2016-11-18T22:37:57.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "North & South Carolina (jobratt) was reinforced by jobratt with 3 troops.",
+    "timestamp": "2016-11-18T22:38:00.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "North & South Carolina (jobratt) attacked Georgia (johnsgill3) conquering it, killing 4, losing 2.",
+    "timestamp": "2016-11-18T22:38:03.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "North & South Carolina (jobratt) occupied Georgia with 3 troops.",
+    "timestamp": "2016-11-18T22:38:05.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Georgia (jobratt) attacked Alabama (johnsgill3) killing 0, losing 2.",
+    "timestamp": "2016-11-18T22:38:08.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Florida (jobratt) attacked Alabama (johnsgill3) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:38:11.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Florida (jobratt) occupied Alabama with 2 troops.",
+    "timestamp": "2016-11-18T22:38:12.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Alabama (jobratt) attacked Tennessee (johnsgill3) killing 0, losing 1.",
+    "timestamp": "2016-11-18T22:38:14.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received a card.",
+    "timestamp": "2016-11-18T22:38:16.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt ended the turn.",
+    "timestamp": "2016-11-18T22:38:16.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 started the turn.",
+    "timestamp": "2016-11-18T22:38:20.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 10 troops for 32 territories.",
+    "timestamp": "2016-11-18T22:38:20.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 4 troops for holding West.",
+    "timestamp": "2016-11-18T22:38:20.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding Great Lakes - West.",
+    "timestamp": "2016-11-18T22:38:20.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 1 troop for holding Great Lakes - East.",
+    "timestamp": "2016-11-18T22:38:20.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 1 troop for holding Wy-Mon-Dakota.",
+    "timestamp": "2016-11-18T22:38:20.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 2 troops for holding Central.",
+    "timestamp": "2016-11-18T22:38:20.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 3 troops for holding South.",
+    "timestamp": "2016-11-18T22:38:20.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Indiana",
+    "timestamp": "2016-11-18T22:38:33.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 2 troops on Texas",
+    "timestamp": "2016-11-18T22:38:33.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 8 troops for turning in cards Georgia, Indiana, and Texas.",
+    "timestamp": "2016-11-18T22:38:33.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Mississippi (johnsgill3) was reinforced by johnsgill3 with 31 troops.",
+    "timestamp": "2016-11-18T22:38:47.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Mississippi (johnsgill3) attacked Alabama (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:38:50.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Mississippi (johnsgill3) occupied Alabama with 31 troops.",
+    "timestamp": "2016-11-18T22:38:51.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Alabama (johnsgill3) attacked Florida (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:38:53.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Alabama (johnsgill3) occupied Florida with 1 troop.",
+    "timestamp": "2016-11-18T22:38:57.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Alabama (johnsgill3) attacked Georgia (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:39:00.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Alabama (johnsgill3) occupied Georgia with 28 troops.",
+    "timestamp": "2016-11-18T22:39:02.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Georgia (johnsgill3) attacked North & South Carolina (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:39:04.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Georgia (johnsgill3) occupied North & South Carolina with 27 troops.",
+    "timestamp": "2016-11-18T22:39:06.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "North & South Carolina (johnsgill3) attacked Virginia (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:39:09.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "North & South Carolina (johnsgill3) occupied Virginia with 26 troops.",
+    "timestamp": "2016-11-18T22:39:10.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Virginia (johnsgill3) attacked West Virginia (W. Vir.) (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:39:13.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Virginia (johnsgill3) occupied West Virginia (W. Vir.) with 25 troops.",
+    "timestamp": "2016-11-18T22:39:14.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "West Virginia (W. Vir.) (johnsgill3) attacked Pennsylvania (jobratt) conquering it, killing 1, losing 1.",
+    "timestamp": "2016-11-18T22:39:17.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "West Virginia (W. Vir.) (johnsgill3) occupied Pennsylvania with 23 troops.",
+    "timestamp": "2016-11-18T22:39:19.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Pennsylvania (johnsgill3) attacked New York (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:39:22.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Pennsylvania (johnsgill3) occupied New York with 22 troops.",
+    "timestamp": "2016-11-18T22:39:23.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "New York (johnsgill3) attacked Vermont & New Hampshire (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:39:26.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "New York (johnsgill3) occupied Vermont & New Hampshire with 21 troops.",
+    "timestamp": "2016-11-18T22:39:27.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Vermont & New Hampshire (johnsgill3) attacked Massachusetts & Connecticut & Rhode Island (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:39:29.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Vermont & New Hampshire (johnsgill3) occupied Massachusetts & Connecticut & Rhode Island with 1 troop.",
+    "timestamp": "2016-11-18T22:39:32.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "Vermont & New Hampshire (johnsgill3) attacked Maine (jobratt) conquering it, killing 1, losing 0.",
+    "timestamp": "2016-11-18T22:39:34.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "jobratt was defeated by johnsgill3.",
+    "timestamp": "2016-11-18T22:39:34.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "Game finished.",
+    "timestamp": "2016-11-18T22:39:34.000Z",
+    "player": "unknown",
+    "round": 10
+  },
+  {
+    "message": "jobratt lost 29 rating.",
+    "timestamp": "2016-11-18T22:39:34.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "jobratt received 20 tokens.",
+    "timestamp": "2016-11-18T22:39:34.000Z",
+    "player": "jobratt",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne lost 11 rating.",
+    "timestamp": "2016-11-18T22:39:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "ryanbmilbourne received 20 tokens.",
+    "timestamp": "2016-11-18T22:39:34.000Z",
+    "player": "ryanbmilbourne",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 won the game.",
+    "timestamp": "2016-11-18T22:39:34.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 60 rating.",
+    "timestamp": "2016-11-18T22:39:34.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "johnsgill3 received 20 tokens.",
+    "timestamp": "2016-11-18T22:39:34.000Z",
+    "player": "johnsgill3",
+    "round": 10
+  },
+  {
+    "message": "kwren lost 20 rating.",
+    "timestamp": "2016-11-18T22:39:34.000Z",
+    "player": "kwren",
+    "round": 10
+  },
+  {
+    "message": "kwren received 20 tokens.",
+    "timestamp": "2016-11-18T22:39:34.000Z",
+    "player": "kwren",
+    "round": 10
+  }
+]
