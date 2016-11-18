@@ -86,7 +86,7 @@ request.get({
         process.exit(1)
     }
     var data = JSON.parse(body);
-    var gameIds = d3.keys(data).filter(function(d) { return d != "undefined"; }).sort();
+    var gameIds = [692173]; //d3.keys(data).filter(function(d) { return d != "undefined"; }).sort();
     num_gid = gameIds.length;
     gameIds.forEach(function (d) {
         request.get({
