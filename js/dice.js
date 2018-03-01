@@ -283,4 +283,4 @@ function vizDiceData(error, data) {
     updateOdds();
 }
 
-d3.json('https://hubot-gregcochard.rhcloud.com/hubot/dice', vizDiceData);
+d3.json('https://hubot.gregcochard.com/hubot/dice', vizDiceData);

@@ -445,7 +445,7 @@ function drawSummaryGraphs(gameId, gdata) {
 }
 
 getGD = true;
-d3.json('https://hubot-gregcochard.rhcloud.com/hubot/dice', function (d) {
+d3.json('data/gameIds.json', function (d) {
     setGameIds(d, 'Select Game', drawSummaryGraphs);
     getGameData(drawSummaryGraphs);
 });
