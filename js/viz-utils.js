@@ -59,14 +59,7 @@ function setGameIds(data, opt0, chg_cb) {
     d3.select('#game')
         .on('change', function () { getGameData(chg_cb); })
         .selectAll('option')
-        .data([opt0].concat(d3.keys(data).filter(function(d) {
-            if(getGD) {
-                return d != "undefined" && Number(d) >= 608220 &&
-                        Number(d) != 622574 && Number(d) != 622960 && Number(d) != 652375;
-            } else {
-                return d != "undefined" && Number(d) != 643112;
-            }
-        }).sort().reverse()))
+        .data([opt0].concat(data).sort().reverse())
         .enter().append('option')
         .attr('value', function(d) {
             return d

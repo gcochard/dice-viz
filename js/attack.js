@@ -239,7 +239,7 @@ function collectData(error, data, gid) {
             gameIds.splice(gameIds.indexOf(gid), 1);
             $('#game option[value="'+gid+'"]').remove();
         } else {
-            d3.json('https://hubot-gregcochard.rhcloud.com/hubot/d12log/'+gid, function (error, data) { collectData(error, data, gid); });
+            d3.json('https://hubot.gregcochard.com/hubot/d12log/'+gid, function (error, data) { collectData(error, data, gid); });
             allGameData[gid] = 1;
         }
     } else {
@@ -286,4 +286,4 @@ function getAllGameData(error, data) {
     gameIds.forEach(function (g) { d3.json('data/'+g+'.json', function (error, data) { collectData(error, data, g); }) });
 }
 
-d3.json('https://hubot-gregcochard.rhcloud.com/hubot/dice', getAllGameData);
+d3.json('data/gameIds.json', getAllGameData);

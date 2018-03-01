@@ -76,27 +76,16 @@ function getGameMap(gid, body, cb) {
     );
 }
 
-// Get the initial set of GameIds based on the Dice.
-// Call out to get all the maps
-request.get({
-    url: 'https://hubot-gregcochard.rhcloud.com/hubot/dice'
-}, function(err, res, body) {
-    if(err || res.statusCode !== 200){
-        console.dir(err || new Error('non-200 status code: '+res.statusCode))
-        process.exit(1)
-    }
-    var data = JSON.parse(body);
-    var gameIds = [692173]; //d3.keys(data).filter(function(d) { return d != "undefined"; }).sort();
-    num_gid = gameIds.length;
-    gameIds.forEach(function (d) {
-        request.get({
-            url: 'https://dominating12.com/game/'+d
-        }, function(err, res, body) {
-            if(err || res.statusCode !== 200){
-                console.dir(err || 'non-200 status code: '+res.statusCode+'GameId: '+d);
-                //process.exit(1)
-            }
-            getGameMap(d, body, writeToFile);
-        });
+var gameIds = [816247];
+num_gid = gameIds.length;
+gameIds.forEach(function (d) {
+    request.get({
+        url: 'https://dominating12.com/game/'+d
+    }, function(err, res, body) {
+        if(err || res.statusCode !== 200){
+            console.dir(err || 'non-200 status code: '+res.statusCode+'GameId: '+d);
+            //process.exit(1)
+        }
+        getGameMap(d, body, writeToFile);
     });
 });
